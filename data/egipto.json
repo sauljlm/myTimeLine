@@ -1,0 +1,104 @@
+[
+  {
+    "id": "egipto-arcaico",
+    "region": "egipto",
+    "tipo": "evento",
+    "titulo": "Arcaico",
+    "fecha_inicio": -3150,
+    "fecha_fin": -2700,
+    "descripcion_corta": "La antigua Egipto comenzo con la unificaciunificación de varias ciudades del Nilo El Rio Nilo fue la clave del exito de la civilización Egipcia, ya que ofrecia una gran ventaja frente a otras civilisaciones, cada año crecia hasta desbordarse. Los egipcios creaban canales con el rio alrededor de los cultivos y gracias a esto tenian exelentes cosechas con poco trabajo, y dedicar más tiempo y recursos en otras cosas como construir.\n\nMenes fue el primer faraón egipcio y tuvo las dinastias 1 y 2",
+    "imagenes": [
+      "/images/egipto/egipto_agricultura-a-base-da-economia-do-antigo-egito-2-1_node-64-42.png"
+    ]
+  },
+  {
+    "id": "egipto-imperio-antiguo",
+    "region": "egipto",
+    "tipo": "evento",
+    "titulo": "Antiguo",
+    "fecha_inicio": -2700,
+    "fecha_fin": -2050,
+    "descripcion_corta": "Comienza con la Dinastia 3, la capital se ubica en Menfis y emprendió grandes construcciones a lo largo del reino. Durante todo el periodo, las diferentes dinastías fueron expandiendo el reino e incorporando nuevos territorios a través de las conquistas y el comercio.  En este periodo Zoser construyo la primer piramide, que era de forma escalonada.\n\nEn la cuarta Dinastia los faraones Keops, Kefrén y Micerino construyeron las grandes pirámides de Guiza.\n\nApartir del 2250 AC comienza un periodo de decadencia donde hay hambruna y anarquia donde el poder de los faraones se vio muy reducido. Hasta que el faraón Mentuhotep II vuelve a unificar el alto y bajo Egipto en el 2050AC",
+    "imagenes": [
+      "/images/egipto/egipto_screenshot-2024-09-01-at-8-41-51-pm-1_node-64-46.png",
+      "/images/egipto/egipto_hjj-suaml-1256x620-1_node-64-48.png",
+      "/images/egipto/egipto_7-maravillas-gran-piramide-antes-38bcf343-1400x788-1_node-64-47.png"
+    ]
+  },
+  {
+    "id": "egipto-imperio-medio",
+    "region": "egipto",
+    "tipo": "evento",
+    "titulo": "Medio",
+    "fecha_inicio": -2050,
+    "fecha_fin": -1550,
+    "descripcion_corta": "Es un periodo de gran prosperidad economica y expanción exterior, la capital pasa a ubicarse en Tebas. Se crea un sistema para controlar el desborde del Nilo, Se potenciaron las relaciones comerciales, se impulso el culto al dios Amón. En el 1800AC los Hicsos de Canaan invadieron el norte de Egipto y se establecieron en el delta del Nilo, por esto el poder de Egipto se debilitó, pero los Hicsos no cambiaron tradiciones, más bien fueron adoptadas. Modernizaron a los Egipcios introducioendo al caballo, el carro de combate, el arco y la flecha, entre otros elementos de le cultura del bronce. Afinales de este periodo los dirigentes de Egipto organizaron una guerra de liberaciliberación contra los Hicsos y esto da origen al periodo del Nuevo Egipto.",
+    "imagenes": [
+      "/images/egipto/egipto_am-3fn4-1_node-64-51.png",
+      "/images/egipto/egipto_screenshot-2024-09-01-at-8-57-11-pm-1_node-64-52.png"
+    ]
+  },
+  {
+    "id": "egipto-imperio-nuevo",
+    "region": "egipto",
+    "tipo": "evento",
+    "titulo": "Nuevo",
+    "fecha_inicio": -1550,
+    "fecha_fin": -1060,
+    "descripcion_corta": "Los faraones Amenofis II y Ramsés II retomaron la expansión territorial y conquistaron territorios de Asia. Este periodo se caracterizocaracterizó por estar constantemente en guerra para expandir su imperio. Se constrconstruyeron los templos de karnak y luxor\n\nCon el reinado del faraón Amenofis IV la estabilidad del imperio estuvo amenazada, ya que instauro una serie de reformas (leyes) radicales que tuvieron un resultado caotico, el faraón cambió su nombre a Akenaton, inició una reforma religiosa a la deidad solar Aton, el faraón suprimio el culto a las demas deidades (dioses). Trasladó la capital a la nueva ciudad de Ajet-Atón, su esposa Nefertiti tambien influia. El hijo de Amenofis IV fue Tutankamón que reestablece el culto al dios Amón, Tutankamón tuvo un reinado muy corto ya que tenia muchas enfermedades y murio joven, su momificación fue descubierta en 1922, y este fue el allasgo arqueologico más famoso de todos los tiempos. y Es la unica tumba Egipcia intacta encontrada hasta la fecha.\n\nRamsés II tenía un afán por construir, tuvo una guerra contra los Hititas en la batalla de Kadesh (Actual Siria), finalmente aceptó un tratado de paz(el tratado de paz mas antiguo registrado).",
+    "imagenes": [
+      "/images/egipto/egipto_1636645314483-1_node-64-54.png",
+      "/images/egipto/egipto_1636644005923-1_node-64-55.png",
+      "/images/egipto/egipto_decoracion-del-muro-xxxx-de-camara-funeraria-de-la-tumba-de-tutankamon-en-el-valle-de-los-reyes-c925c4a7-1280x951-1_node-65-57.png",
+      "/images/egipto/egipto_f-elconfidencial-com-original-cbc-972-a09-cbc972a09600a10642f09b5212a51961-1_node-65-58.png",
+      "/images/egipto/egipto_expedici-n-de-tutankamon-egypt-tours-portal-1_node-65-59.png",
+      "/images/egipto/egipto_tutankamon-teorias-faraon-vida-hijos-momia-muerte-enfermedad-leyendas-egipto-home-1_node-65-60.png"
+    ]
+  },
+  {
+    "id": "egipto-periodo-de-decadencia-1060-ac",
+    "region": "egipto",
+    "tipo": "evento",
+    "titulo": "En el 1060 AC comienza un gran periodo de decadencia que duró",
+    "fecha_inicio": -1060,
+    "fecha_fin": -31,
+    "descripcion_corta": "En el 1060 AC comienza un gran periodo de decadencia que duró unos 700 años, Egipto nunca llegaria a recuperar su explendor pasado, a lo largo de este periodo Egipto sufrió el dominio de diferentes pueblos o civilisaciones extranjeras Libios, Palestinos, Nubios, Persas y Griegos, quienes adoptaron sus costumbres como propias.",
+    "imagenes": [
+      "/images/egipto/egipto_screenshot-2024-09-02-at-9-42-04-am-1_node-77-117.png"
+    ]
+  },
+  {
+    "id": "egipto-fin-batalla-de-actium",
+    "region": "egipto",
+    "tipo": "evento",
+    "titulo": "El final del antiguo Egipto se da cuando el emperador romano",
+    "fecha_inicio": -31,
+    "fecha_fin": null,
+    "descripcion_corta": "El final del antiguo Egipto se da cuando el emperador romano Octavio vence al emperador romano Marco Antonio, quien era amante y aliado de la ultima faraona Cleopatra, en la batalla de Actium",
+    "imagenes": [
+      "/images/egipto/egipto_e7d4261c8786c84648d7f9efdab1ca15-1_node-57-29.png"
+    ]
+  },
+  {
+    "id": "egipto-galeria-adicional",
+    "region": "egipto",
+    "tipo": "evento",
+    "titulo": "Antiguo Egipto — más imágenes",
+    "fecha_inicio": -500,
+    "fecha_fin": null,
+    "descripcion_corta": "",
+    "imagenes": [
+      "/images/egipto/egipto_shutterstock-1694205181-1_node-55-17.png",
+      "/images/egipto/egipto_papiro-egipcio-670x285-1_node-55-18.png",
+      "/images/egipto/egipto_la-organizacion-politica-y-social-del-antiguo-egipto-1_node-55-19.png",
+      "/images/egipto/egipto_fotografia-de-las-tres-grandes-piramides-en-la-llanura-de-giza-56999db0-230308100940-1280x831-1_node-55-20.png",
+      "/images/egipto/egipto_cultura-egipcia-o-antiguo-egipto-1_node-55-22.png",
+      "/images/egipto/egipto_civilizacion-egipcia-1-e1560446022111-1_node-55-23.png",
+      "/images/egipto/egipto_13679272913-ad32a81f49-h-1_node-55-24.png",
+      "/images/egipto/egipto_conocer-momias-xlsemanal-1_node-56-25.png",
+      "/images/egipto/egipto_gatos-egipto-1_node-55-21.png",
+      "/images/egipto/egipto_screenshot-2024-08-30-at-11-55-38-pm-1_node-56-26.png",
+      "/images/egipto/egipto_screenshot-2024-08-30-at-11-56-56-pm-1_node-56-27.png"
+    ]
+  }
+]

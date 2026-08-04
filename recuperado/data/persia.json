@@ -1,0 +1,22 @@
+{
+  "region": "persia",
+  "nombre_original": "Imperio persa",
+  "fecha_texto_original": "550 AC - 331 AC",
+  "node_id_figma": "77:114",
+  "posicion": { "x": 8551.0, "y": -1592.0, "width": 2360.0, "height": 688.0 },
+  "subperiodos": [],
+  "bloques": [
+    { "tipo": "barra_layout", "nombre_capa": "Rectangle 19", "color_hex": "#b2987e", "node_id_figma": "69:101", "posicion": { "x": 8551, "y": -1592, "width": 2360, "height": 41 } },
+    { "tipo": "texto", "contenido": "Imperio persa", "node_id_figma": "69:102", "posicion": { "x": 8567, "y": -1578, "width": 108, "height": 19 } },
+    { "tipo": "texto", "contenido": "550 AC", "node_id_figma": "69:103", "posicion": { "x": 8567, "y": -1538, "width": 59, "height": 19 } },
+    { "tipo": "texto", "contenido": "331 AC", "node_id_figma": "69:104", "posicion": { "x": 10832, "y": -1538, "width": 57, "height": 19 } },
+    { "tipo": "texto", "contenido": "Fue un imperio de Asia Central que existió entre 550 y 331 a. C. Los persas construyeron el imperio más grande y poderoso de la época, conquistaron a los diferentes reinos de la Mesopotamia asiática, el Levante, Siria, los pueblos de Anatolia y parte de las ciudades griegas. A través de campañas militares, comenzaron a conquistar los pueblos de la región y construir un imperio que dominó los territorios de Palestina, Siria, Mesopotamia, Egipto, Anatolia, Tracia, Macedonia, Armenia hacia el oeste y toda el Asia Central hasta el río Indo, hacia el este. Ciro fue el lider de los persas quien fue muy poderoso y conquisto muchos territorios, conquistaron Babilonia y muchos otros lugares.  Primera guerra medica 492-490 AC, Segunda guerra medica 480-478 AC. video 300 7k vs 200k (murieron 20k persas) La caida del imperio Persa comenzó cuando asumió el poder Artajerjes, hijo de Jerjes, y luego quien fue el último rey de Persia: Darío III. Para este momento, Grecia había sido unificada bajo el poder del macedonio Alejandro Magno, que se puso como objetivo la conquista del Imperio persa. Alejandro Magno invadió el Imperio persa y su conquista se desarrolló a lo largo de tres batallas principales: la batalla del Gránico (334 a. C.), la batalla de Issos (333 a. C.) y, por último, la batalla de Gaugamela (331 a. C.), en la que el Imperio persa fue derrotado y Alejandro fue erigido como el nuevo rey.", "node_id_figma": "69:106", "posicion": { "x": 8569, "y": -1519, "width": 1360, "height": 315 } },
+    { "tipo": "imagen", "archivo": "persia_screenshot-2024-09-01-at-11-08-57-pm-1_node-70-107.png", "node_id_figma": "70:107", "posicion": { "x": 8567, "y": -1159, "width": 404, "height": 247 } },
+    { "tipo": "imagen", "archivo": "persia_maxresdefault-1_node-70-108.png", "node_id_figma": "70:108", "posicion": { "x": 10048, "y": -1485, "width": 453, "height": 255 } },
+    { "tipo": "imagen", "archivo": "persia_jerjes-i-1_node-70-109.png", "node_id_figma": "70:109", "posicion": { "x": 10568, "y": -1477, "width": 198, "height": 247 } },
+    { "tipo": "imagen", "archivo": "persia_imperio-persa-2-e1579903767699-1_node-70-110.png", "node_id_figma": "70:110", "posicion": { "x": 9257, "y": -1159, "width": 490, "height": 255 } },
+    { "tipo": "imagen", "archivo": "persia_images-1-1_node-71-111.png", "node_id_figma": "71:111", "posicion": { "x": 10033, "y": -1204, "width": 331, "height": 152 } },
+    { "tipo": "imagen", "archivo": "persia_maxresdefault-1-1_node-71-112.png", "node_id_figma": "71:112", "posicion": { "x": 10417, "y": -1204, "width": 349, "height": 196 } },
+    { "tipo": "texto", "contenido": "Video de los persas", "node_id_figma": "72:113", "posicion": { "x": 10749, "y": -1580, "width": 131, "height": 17 }, "hyperlink": "https://www.youtube.com/watch?v=9B8ryYMKj9k" }
+  ]
+}

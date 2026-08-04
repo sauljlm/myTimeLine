@@ -1,0 +1,56 @@
+:root {
+  --color-fondo-canvas: #f4f3f0;
+  --color-spine: #b8a888;
+  --color-prehistoria: #d9d2c3;
+  --color-mesopotamia: #cbb994;
+  --color-egipto: #e0c68a;
+  --color-grecia: #a9c9d9;
+  --color-roma: #c0555a;
+  --color-persia: #b0a0c2;
+  --color-edad-media: #ce9642;
+  --color-china: #cfd6c8;
+  --color-costa-rica: #8caa7e;
+  --color-texto-principal: #2b2b2b;
+  --color-texto-secundario: #6b6b6b;
+  --color-borde-tabla: #d8d3c9;
+  --color-header-tabla: #ece6d8;
+
+  --fuente-sistema: -apple-system, "Segoe UI", Helvetica, Arial, sans-serif;
+}
+
+html,
+body {
+  height: 100%;
+  overscroll-behavior: none;
+}
+
+body {
+  color: var(--color-texto-principal);
+  background: var(--color-fondo-canvas);
+  font-family: var(--fuente-sistema);
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+html,
+body,
+p,
+h1,
+h2,
+h3,
+h4 {
+  margin: 0;
+  padding: 0;
+}
+
+a {
+  color: inherit;
+}
+
+button {
+  font-family: inherit;
+}

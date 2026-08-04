@@ -1,0 +1,42 @@
+{
+  "region": "china",
+  "nombre_original": "Asia Oriental / Era Imperial (dinastías chinas)",
+  "fecha_texto_original": "2070 AC - 220 DC",
+  "node_id_figma": null,
+  "nota_estructura": "Igual que Edad Media: bloques sueltos directamente sobre el canvas (Page 1), sin GROUP contenedor. Muy compacto — solo nombres de dinastía, fechas y barras de color, sin párrafos de texto ni imágenes. Geométricamente muy por encima (y=-5429) de todo el resto del contenido (Prehistoria, Edad antigua, Edad Media viven entre y=-1604 y y=5872) — coincide con lo que describía el prompt de diseño original: 'una fila superior aparte para las dinastías chinas... como un carril independiente arriba de todo'.",
+  "posicion_aproximada": { "x": 4164.0, "y": -5497.0, "width": 10904.0, "height": 115.0 },
+  "subperiodos": [
+    { "nombre": "Dinastía Xia", "fecha_texto_original": "2070 AC", "fecha_fin_texto_original": "1600 AC", "node_id_figma": "233:5" },
+    { "nombre": "Dinastía Shang", "fecha_texto_original": "1600 AC", "fecha_fin_texto_original": "1046 AC", "node_id_figma": "233:13" },
+    { "nombre": "Dinastía Zhou", "fecha_texto_original": "1046 AC", "fecha_fin_texto_original": "256 AC", "node_id_figma": "233:21" },
+    { "nombre": "Dinastía Qin", "fecha_texto_original": "221 AC", "fecha_fin_texto_original": "206 AC", "node_id_figma": "233:29" },
+    { "nombre": "Dinastía Han", "fecha_texto_original": "206 AC", "fecha_fin_texto_original": "220", "node_id_figma": "233:37" }
+  ],
+  "bloques": [
+    { "tipo": "texto", "contenido": "Asia Oriental", "node_id_figma": "233:17", "posicion": { "x": 4173, "y": -5497, "width": 202, "height": 39 } },
+
+    { "tipo": "barra_layout", "nombre_capa": "Rectangle 34", "color_hex": "#d9d9d9", "node_id_figma": "233:2", "posicion": { "x": 4164, "y": -5429, "width": 1156, "height": 47 } },
+    { "tipo": "texto", "contenido": "Dinastía Xia", "node_id_figma": "233:5", "posicion": { "x": 4173, "y": -5425, "width": 186, "height": 39 } },
+    { "tipo": "texto", "contenido": "2070 AC", "node_id_figma": "233:7", "posicion": { "x": 4178, "y": -5353, "width": 137, "height": 39 } },
+
+    { "tipo": "barra_layout", "nombre_capa": "Rectangle 35", "color_hex": "#d9d9d9", "node_id_figma": "233:11", "posicion": { "x": 5320, "y": -5429, "width": 1944, "height": 47 } },
+    { "tipo": "texto", "contenido": "Dinastía Shang", "node_id_figma": "233:13", "posicion": { "x": 5336, "y": -5425, "width": 236, "height": 39 } },
+    { "tipo": "texto", "contenido": "1600AC", "node_id_figma": "233:9", "posicion": { "x": 5256, "y": -5361, "width": 128, "height": 39 } },
+
+    { "tipo": "barra_layout", "nombre_capa": "Rectangle 36", "color_hex": "#d9d9d9", "node_id_figma": "233:19", "posicion": { "x": 7263, "y": -5429, "width": 3943, "height": 47 } },
+    { "tipo": "texto", "contenido": "Dinastía Zhou", "node_id_figma": "233:21", "posicion": { "x": 7291, "y": -5425, "width": 217, "height": 39 } },
+    { "tipo": "texto", "contenido": "1046AC", "node_id_figma": "233:15", "posicion": { "x": 7193, "y": -5355, "width": 128, "height": 39 } },
+    { "tipo": "texto", "contenido": "256AC", "node_id_figma": "233:23", "posicion": { "x": 11047, "y": -5379, "width": 109, "height": 39 } },
+
+    { "tipo": "texto", "contenido": "Era Imperial", "node_id_figma": "233:25", "posicion": { "x": 11219, "y": -5469, "width": 185, "height": 39 } },
+    { "tipo": "barra_layout", "nombre_capa": "Rectangle 37", "color_hex": "#d9d9d9", "node_id_figma": "233:27", "posicion": { "x": 11206, "y": -5430, "width": 1088, "height": 47 } },
+    { "tipo": "texto", "contenido": "Dinastía Qin", "node_id_figma": "233:29", "posicion": { "x": 11219, "y": -5426, "width": 223, "height": 39 } },
+    { "tipo": "texto", "contenido": "221AC", "node_id_figma": "233:31", "posicion": { "x": 11219, "y": -5379, "width": 103, "height": 39 } },
+    { "tipo": "texto", "contenido": "206AC", "node_id_figma": "233:33", "posicion": { "x": 12162, "y": -5371, "width": 111, "height": 39 } },
+
+    { "tipo": "barra_layout", "nombre_capa": "Rectangle 38", "color_hex": "#d9d9d9", "node_id_figma": "233:35", "posicion": { "x": 12294, "y": -5430, "width": 2822, "height": 47 } },
+    { "tipo": "texto", "contenido": "Dinastía Han", "node_id_figma": "233:37", "posicion": { "x": 12307, "y": -5426, "width": 223, "height": 39 } },
+    { "tipo": "texto", "contenido": "206AC", "node_id_figma": "233:38", "posicion": { "x": 12307, "y": -5371, "width": 111, "height": 39 } },
+    { "tipo": "texto", "contenido": "220", "node_id_figma": "233:39", "posicion": { "x": 15005, "y": -5362, "width": 63, "height": 39 } }
+  ]
+}

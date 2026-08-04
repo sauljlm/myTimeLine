@@ -1,0 +1,157 @@
+[
+  {
+    "id": "edadmedia-inicios",
+    "region": "edad-media",
+    "tipo": "evento",
+    "titulo": "Inicios de la Edad Media",
+    "fecha_inicio": 476,
+    "fecha_fin": null,
+    "descripcion_corta": "Los Barbaros invarieron el imperio romano oxidental, los barbaros eran provenientes del norte de Europa. Estos se fueron acentando y formando reinos. Fucionaron y adaptaron muchos rasgos de la epoca griega, y romana. como el derecho romano, costumbres y el cristianismo.",
+    "imagenes": []
+  },
+  {
+    "id": "edadmedia-reino-de-los-francos",
+    "region": "edad-media",
+    "tipo": "evento",
+    "titulo": "Reino de los Francos y la dinastía merovingia",
+    "fecha_inicio": 481,
+    "fecha_fin": null,
+    "descripcion_corta": "El Reino de los Francos en la época merovingia (siglo V al VIII) fue una de las civilizaciones más importantes de la Europa medieval temprana, ubicado principalmente en lo que hoy es Francia y parte de Alemania. La dinastía merovingia fue fundada por el legendario rey Clodoveo I (466-511), quien unificó las tribus francas y expandió su territorio significativamente. Clodoveo es conocido por convertirse al cristianismo en el 496, lo que le ayudó a ganar el apoyo de la Iglesia y de los pueblos galo-romanos.",
+    "imagenes": []
+  },
+  {
+    "id": "edadmedia-nacimiento-del-islam",
+    "region": "edad-media",
+    "tipo": "evento",
+    "titulo": "Nacimiento del Islam",
+    "fecha_inicio": 622,
+    "fecha_fin": null,
+    "descripcion_corta": "En el año 620 surge la figura de Maoma de donde sirge una religion monoteista, el Islam, cuando muere en el 632 la peninsula arabica ya era en su mayoria musulmana. El Islam se expandió hasta llegar incluso a España. Empiezan a controlar el tráfico marino hasta el punto de obligar el cierre de la Europa Oxidental durante varios siglos.",
+    "imagenes": [
+      "/images/edad-media/edadmedia_screenshot-2024-10-08-at-11-50-33-am-1_node-167-13.png"
+    ]
+  },
+  {
+    "id": "edadmedia-batalla-de-poitiers",
+    "region": "edad-media",
+    "tipo": "evento",
+    "titulo": "Batalla de Poitiers",
+    "fecha_inicio": 732,
+    "fecha_fin": null,
+    "descripcion_corta": "Carlos Martel estaba a la cabeza de un ejercito comienza el retroceso de las fuerzas musulmanas en Europa. El nieto de Carlos Martel, Carlomagno expandió los distintos reinos francos hasta transformarlos en un imprerio.",
+    "imagenes": [
+      "/images/edad-media/edadmedia_screenshot-2024-10-08-at-11-57-07-am-1_node-167-20.png"
+    ]
+  },
+  {
+    "id": "edadmedia-invasiones-vikingas",
+    "region": "edad-media",
+    "tipo": "evento",
+    "titulo": "Invasiones Viquingas",
+    "fecha_inicio": 793,
+    "fecha_fin": null,
+    "descripcion_corta": "Viquingos 793",
+    "imagenes": []
+  },
+  {
+    "id": "edadmedia-sacro-imperio-romano-germanico",
+    "region": "edad-media",
+    "tipo": "evento",
+    "titulo": "El Sacro Imperio Romano Germánico",
+    "fecha_inicio": 962,
+    "fecha_fin": null,
+    "descripcion_corta": "Carlomagno fue coronado como Imperator Augustus por el papa León III el dia de navidad el año 800. Al morir el imperio se acabaría dividiendo en 3 entre sus nietos. Alemania y Francia se disputan el norte de Italia. Gana Alemania quien obtiene el favor del papa y la corona imperial. El resultado es el sacro imperio romano germanico\n\nEl rey Alemán Otón I es coronado emperador. Tras la desintegración del imperio Carolingico y el fracaso del proyecto político de Carlo Magno, la debilidad de los reyes se hizo evidente. Los sucesores de los reyes se vieron obligados a ceder gran parte de su autoridad a los Condes y Marqueces para obtener su apoyo. Para asegurarse la lealtad de estos nobres, los monarcas les entregaron tierras, los Feudos\n\nFeudalismo, señores feudales",
+    "imagenes": [
+      "/images/edad-media/edadmedia_screenshot-2024-10-08-at-12-02-44-pm-1_node-167-23.png"
+    ]
+  },
+  {
+    "id": "edadmedia-castillos-fases-iniciales",
+    "region": "edad-media",
+    "tipo": "evento",
+    "titulo": "Castillos 800-900",
+    "fecha_inicio": 800,
+    "fecha_fin": 900,
+    "descripcion_corta": "Los castillos medievales comenzaron a construirse a partir del siglo IX, en Europa occidental, tras el colapso del Imperio Carolingio y la creciente amenaza de invasiones vikingas, húngaras y sarracenas. Este periodo marcó el inicio de la Edad Media, y con la inestabilidad política y la fragmentación del poder, surgió la necesidad de estructuras defensivas robustas. Fases iniciales: Castillos de madera",
+    "imagenes": [
+      "/images/edad-media/edadmedia_baja-edad-media-1-e1669820052308-1_node-180-28.png",
+      "/images/edad-media/edadmedia_torre-de-londres-castillo-londres-170117120517001-1600x800-1_node-181-37.png",
+      "/images/edad-media/edadmedia_foto1-4-1_node-181-38.png"
+    ]
+  },
+  {
+    "id": "edadmedia-fundacion-universidades",
+    "region": "edad-media",
+    "tipo": "evento",
+    "titulo": "Fundación de las primeras universidades",
+    "fecha_inicio": 1100,
+    "fecha_fin": null,
+    "descripcion_corta": "",
+    "imagenes": []
+  },
+  {
+    "id": "edadmedia-castillos-perfeccionados",
+    "region": "edad-media",
+    "tipo": "evento",
+    "titulo": "Castillos 1100-1200",
+    "fecha_inicio": 1100,
+    "fecha_fin": 1200,
+    "descripcion_corta": "A lo largo de la Edad Media, los castillos se fueron perfeccionando con avances como murallas más gruesas, torres de flanqueo, puentes levadizos y fosos. Para el siglo XII y XIII, los castillos ya eran complejas fortalezas defensivas, capaces de resistir asedios prolongados y ataques con armas de sitio como catapultas y torres de asedio.",
+    "imagenes": [
+      "/images/edad-media/edadmedia_screenshot-2024-10-09-at-10-14-42-am-1_node-181-36.png",
+      "/images/edad-media/edadmedia_download-1_node-181-39.png"
+    ]
+  },
+  {
+    "id": "edadmedia-peste-negra",
+    "region": "edad-media",
+    "tipo": "evento",
+    "titulo": "Peste negra",
+    "fecha_inicio": 1346,
+    "fecha_fin": 1351,
+    "descripcion_corta": "el dia que, la peste negra",
+    "imagenes": []
+  },
+  {
+    "id": "edadmedia-guerra-de-los-cien-anios",
+    "region": "edad-media",
+    "tipo": "evento",
+    "titulo": "La Guerra de los Cien Años",
+    "fecha_inicio": 1337,
+    "fecha_fin": 1453,
+    "descripcion_corta": "",
+    "imagenes": []
+  },
+  {
+    "id": "edadmedia-caida-de-constantinopla",
+    "region": "edad-media",
+    "tipo": "evento",
+    "titulo": "Caída de Constantinopla",
+    "fecha_inicio": 1453,
+    "fecha_fin": null,
+    "descripcion_corta": "",
+    "imagenes": []
+  },
+  {
+    "id": "edadmedia-imprenta-y-renacimiento",
+    "region": "edad-media",
+    "tipo": "evento",
+    "titulo": "Invenciónd de la Imprenta Gutemberg",
+    "fecha_inicio": 1440,
+    "fecha_fin": null,
+    "descripcion_corta": "Renacimiento",
+    "imagenes": [
+      "/images/edad-media/edadmedia_screen-shot-2024-09-27-at-20-15-34-1_node-146-56.png"
+    ]
+  },
+  {
+    "id": "edadmedia-colon-descubre-america",
+    "region": "edad-media",
+    "tipo": "evento",
+    "titulo": "Cristobal Colón descubre America",
+    "fecha_inicio": 1492,
+    "fecha_fin": null,
+    "descripcion_corta": "",
+    "imagenes": []
+  }
+]

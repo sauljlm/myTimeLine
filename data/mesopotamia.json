@@ -1,0 +1,103 @@
+[
+  {
+    "id": "edad-antigua-intro",
+    "region": "mesopotamia",
+    "tipo": "evento",
+    "titulo": "Edad Antigua",
+    "fecha_inicio": -3500,
+    "fecha_fin": null,
+    "descripcion_corta": "Durante la Edad Antigua surgieron las primeras grandes civilizaciones como el Antiguo Egipto, la Antigua Grecia y la Antigua Roma",
+    "imagenes": []
+  },
+  {
+    "id": "mesopotamia-civilizacion-sumeria",
+    "region": "mesopotamia",
+    "tipo": "evento",
+    "titulo": "Civilización sumeria",
+    "fecha_inicio": -3500,
+    "fecha_fin": null,
+    "descripcion_corta": "Los sumerios fueron una civilización antigua que habitó la Mesopotamia asiática entre el 3500 y 1750 a. C. A lo largo de su historia, los sumerios fundaron cientos de ciudades-Estado a orillas de los ríos Tigris y Éufrates, controladas por sacerdotes y líderes militares que buscaban imponer su dominio en la región. A través de unidades políticas centralizadas, organizaron la producción agrícola y el comercio, ordenaron la construcción de grandes obras, establecieron sistemas de leyes y formaron grandes ejércitos. Entre otros rasgos culturales, los sumerios son reconocidos por haber inventado uno de los primeros sistemas de escritura y haber compuesto el primer el Poema de Gilgamesh, la primera versión del mito del diluvio universal.  Los sumerios se establecieron en la Mesopotamia asiática, una región ubicada en las áreas no desérticas del actual Irak y la zona limítrofe del noroeste de Siria. Era un área fértil sobre los ríos Tigris y Éufrates, rodeada del Desierto de Arabia, los Montes Taurus, los Montes Zagros y el Golfo Pérsico.",
+    "imagenes": [
+      "/images/mesopotamia/mesopotamia_screenshot-2024-09-01-at-10-31-12-pm-1_node-68-68.png",
+      "/images/mesopotamia/mesopotamia_screenshot-2024-09-01-at-10-35-59-pm-1_node-68-70.png"
+    ]
+  },
+  {
+    "id": "mesopotamia-resumen",
+    "region": "mesopotamia",
+    "tipo": "evento",
+    "titulo": "Mesopotamia",
+    "fecha_inicio": -3500,
+    "fecha_fin": null,
+    "descripcion_corta": "Mesopotamia, situada entre los ríos Tigris y Éufrates, fue una de las primeras civilizaciones de la humanidad. Allí surgieron importantes ciudades como Sumer, Akkad, Babilonia y Asiria. Desarrollaron la escritura cuneiforme, la agricultura avanzada y los primeros códigos legales, como el de Hammurabi. Es conocida como la \"cuna de la civilización\" por sus grandes avances en cultura, ciencia y política. Fue fundada por los Sumerios",
+    "imagenes": []
+  },
+  {
+    "id": "mesopotamia-periodo-uruk",
+    "region": "mesopotamia",
+    "tipo": "evento",
+    "titulo": "Período de Uruk",
+    "fecha_inicio": -3500,
+    "fecha_fin": -2900,
+    "descripcion_corta": "Los sumerios se instalaron en la baja Mesopotamia y fundaron más de 30 ciudades. Entre ellas se destacaron Ur, Uruk, Lagash, Kish y Umma. Durante este periodo, las élites políticas de las ciudades-Estado estaban vinculadas a los sacerdotes, y los templos funcionaban como centros religiosos, políticos y administrativos. La ciudad de Uruk condensó la hegemonía política y cultural en la región.",
+    "imagenes": []
+  },
+  {
+    "id": "mesopotamia-periodo-dinastico-arcaico",
+    "region": "mesopotamia",
+    "tipo": "evento",
+    "titulo": "Período dinástico arcaico",
+    "fecha_inicio": -2900,
+    "fecha_fin": -2334,
+    "descripcion_corta": "El crecimiento demográfico y las disputas entre ciudades por los recursos (agua, tierras y materias primas) inclinaron la balanza de poder político a favor de líderes militares, que se convirtieron en reyes. El centro de poder de las ciudades pasa de los templos a los palacios reales. A pesar de las continuas guerras, la población siguió aumentando debido a las mejoras en la producción agrícola y se fundaron nuevas ciudades.",
+    "imagenes": [
+      "/images/mesopotamia/mesopotamia_f-elconfidencial-com-original-63f-5b8-b09-63f5b8b0913c9fb6658156b4b55a7919-1_node-69-97.png"
+    ]
+  },
+  {
+    "id": "mesopotamia-reino-de-akkad",
+    "region": "mesopotamia",
+    "tipo": "evento",
+    "titulo": "Reino de Akkad",
+    "fecha_inicio": -2334,
+    "fecha_fin": -2218,
+    "descripcion_corta": "Desde el 2400 a. C., el pueblo semita de los acadios se estableció gradualmente en la Mesopotamia central y fundó la ciudad de Mari. En 2334 a. C., bajo el mando de Sargón, los acadios se apoderaron de la ciudad de Kish y comenzaron una serie de campañas militares para dominar la región. Sargón se consagró como Rey de las Cuatro Zonas del Universo y estableció un reino con capital en Akkad, que obligó a los pueblos sometidos a pagar tributo.",
+    "imagenes": [
+      "/images/mesopotamia/mesopotamia_images-2_node-69-100.png"
+    ]
+  },
+  {
+    "id": "mesopotamia-periodo-guti",
+    "region": "mesopotamia",
+    "tipo": "evento",
+    "titulo": "Periodo Guti",
+    "fecha_inicio": -2218,
+    "fecha_fin": -2047,
+    "descripcion_corta": "Las ciudades sumerias comenzaron una serie de rebeliones que minaron el poder político de Akkad. A su vez, los guteos, un pueblo proveniente de la zona montañosa del actual Irán, invadieron las ciudades mesopotámicas y destruyeron la capital de Akkad. Los guteos tomaron las costumbres y la lengua de los acadios, se impusieron a las ciudades sumerias y comenzaron a cobrarles tributo.",
+    "imagenes": [
+      "/images/mesopotamia/mesopotamia_tumblr-mxub02shhv1ql5d2uo1-1280-1_node-69-98.png"
+    ]
+  },
+  {
+    "id": "mesopotamia-renacimiento-sumerio",
+    "region": "mesopotamia",
+    "tipo": "evento",
+    "titulo": "Renacimiento sumerio",
+    "fecha_inicio": -2047,
+    "fecha_fin": -1792,
+    "descripcion_corta": "Luego de una serie de rebeliones para liberarse del dominio guteo, las ciudades sumerias lograron expulsar a los guteos de Mesopotamia. La ciudad de Ur inició un proceso de unificación y alianza entre ciudades. Durante este periodo se destacaron las ciudades de Ur y Lagash, y son características las construcciones en forma de zigurats (pirámides con terrazas, templos y largas escalinatas). La independencia de las ciudades sumerias se mantuvo hasta la invasión de los amorreos a la Baja Mesopotamia, hacia el 2000 a. C., que arrasaron con las construcciones y se apoderaron de bienes y ciudades.",
+    "imagenes": []
+  },
+  {
+    "id": "mesopotamia-imperio-babilonico",
+    "region": "mesopotamia",
+    "tipo": "evento",
+    "titulo": "Imperio babilónico",
+    "fecha_inicio": -1792,
+    "fecha_fin": -1750,
+    "descripcion_corta": "Hammurabi, rey de la ciudad de Babilonia conquistó a los pueblos asirios y sometió a las ciudades sumerias. El imperio babilónico buscó centralizar el poder y unificar los territorios en su mando: creó un sistema de leyes comunes e impuso la cultura acadia en todas las ciudades. Con la muerte de Hammurabi, las rebeliones y las incursiones de pueblos vecinos desplomaron el imperio.",
+    "imagenes": [
+      "/images/mesopotamia/mesopotamia_sumerios-y-acadios-diferencias-2171-orig-1_node-69-99.png"
+    ]
+  }
+]

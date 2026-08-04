@@ -1,0 +1,96 @@
+{
+  "region": "edad-media",
+  "nombre_original": "Edad Media",
+  "fecha_texto_original": "476 - 1453 (con contenido suelto hasta 1492)",
+  "node_id_figma": null,
+  "nota_estructura": "A diferencia de Prehistoria/Edad antigua, este contenido NO está agrupado en un GROUP de Figma — son bloques sueltos directamente sobre el canvas (Page 1), identificados por posición X/Y cercana al resto del contenido de Edad Media (x aprox. 16600-25500). No tienen un node_id_figma de contenedor común.",
+  "posicion_aproximada": { "x": 16623.0, "y": -1604.0, "width": 8618.0, "height": 5872.0 },
+  "subperiodos": [
+    { "nombre": "Temprana Edad Media", "fecha_texto_original": "476", "fecha_fin_texto_original": "1000", "node_id_figma": "144:4" },
+    { "nombre": "Alta Edad Media", "fecha_texto_original": "1000", "fecha_fin_texto_original": "1453", "node_id_figma": "144:13" }
+  ],
+  "bloques": [
+    { "tipo": "texto", "contenido": "Edad Media", "node_id_figma": "141:21", "posicion": { "x": 16646, "y": -328, "width": 183, "height": 39 } },
+    { "tipo": "barra_layout", "nombre_capa": "Rectangle 27", "color_hex": "#ce9642", "node_id_figma": "141:20", "posicion": { "x": 16623, "y": -329, "width": 8618, "height": 40 } },
+
+    { "tipo": "barra_layout", "nombre_capa": "Rectangle 28", "color_hex": "#ce9642", "node_id_figma": "144:2", "posicion": { "x": 16646, "y": -265, "width": 4043, "height": 41 } },
+    { "tipo": "texto", "contenido": "Temprana Edad Media", "node_id_figma": "144:4", "posicion": { "x": 16674, "y": -263, "width": 347, "height": 39 } },
+    { "tipo": "texto", "contenido": "476", "node_id_figma": "144:8", "posicion": { "x": 16674, "y": -208, "width": 62, "height": 39 } },
+    { "tipo": "texto", "contenido": "1000", "node_id_figma": "144:10", "posicion": { "x": 20607, "y": -189, "width": 82, "height": 39 } },
+
+    { "tipo": "barra_layout", "nombre_capa": "Rectangle 29", "color_hex": "#ce9642", "node_id_figma": "144:12", "posicion": { "x": 20689, "y": -265, "width": 4552, "height": 41 } },
+    { "tipo": "texto", "contenido": "Alta Edad Media", "node_id_figma": "144:13", "posicion": { "x": 20717, "y": -263, "width": 254, "height": 39 } },
+    { "tipo": "texto", "contenido": "1300", "node_id_figma": "144:14", "posicion": { "x": 22580, "y": -208, "width": 81, "height": 39 } },
+    { "tipo": "texto", "contenido": "1453", "node_id_figma": "144:19", "posicion": { "x": 24560, "y": -208, "width": 80, "height": 39 } },
+    { "tipo": "texto", "contenido": "XII", "node_id_figma": "145:42", "posicion": { "x": 21195, "y": -159, "width": 41, "height": 39 } },
+    { "tipo": "texto", "contenido": "XIV - XV", "node_id_figma": "146:61", "posicion": { "x": 23618, "y": 1045, "width": 133, "height": 39 } },
+    { "tipo": "texto", "contenido": "1440", "node_id_figma": "167:7", "posicion": { "x": 24359, "y": 601, "width": 82, "height": 39 } },
+
+    { "tipo": "texto", "contenido": "Inicios de la edad media Los Barbaros invarieron el imperio romano oxidental, los barbaros eran provenientes del norte de Europa. Estos se fueron acentando y formando reinos. Fucionaron y adaptaron muchos rasgos de la epoca griega, y romana. como el derecho romano, costumbres y el cristianismo.", "node_id_figma": "167:10", "posicion": { "x": 16674, "y": -498, "width": 646, "height": 104 } },
+
+    { "tipo": "texto", "contenido": "Nacimiento del Islam", "node_id_figma": "145:30", "posicion": { "x": 18113, "y": -1565, "width": 325, "height": 39 } },
+    { "tipo": "texto", "contenido": "622", "node_id_figma": "145:32", "posicion": { "x": 18113, "y": -1604, "width": 62, "height": 39 } },
+    { "tipo": "texto", "contenido": "En el año 620 surge la figura de Maoma de donde sirge una religion monoteista, el Islam, cuando muere en el 632 la peninsula arabica ya era en su mayoria musulmana. El Islam se expandió hasta llegar incluso a España. Empiezan a controlar el tráfico marino hasta el punto de obligar el cierre de la Europa Oxidental durante varios siglos.", "node_id_figma": "167:11", "posicion": { "x": 17852, "y": -1496, "width": 646, "height": 113 } },
+    { "tipo": "imagen", "archivo": "edadmedia_screenshot-2024-10-08-at-11-50-33-am-1_node-167-13.png", "node_id_figma": "167:13", "posicion": { "x": 17999, "y": -1355, "width": 499, "height": 283 } },
+
+    { "tipo": "texto", "contenido": "Viquingos 793", "node_id_figma": "141:25", "posicion": { "x": 18818, "y": -1260, "width": 160, "height": 78 } },
+    { "tipo": "barra_layout", "nombre_capa": "Rectangle 32", "color_hex": "#d9d9d9", "node_id_figma": "145:34", "posicion": { "x": 18786, "y": -645, "width": 1393, "height": 42 } },
+    { "tipo": "texto", "contenido": "Invasiones Viquingas", "node_id_figma": "145:36", "posicion": { "x": 18818, "y": -645, "width": 335, "height": 39 } },
+    { "tipo": "texto", "contenido": "VIII", "node_id_figma": "145:37", "posicion": { "x": 18818, "y": -590, "width": 51, "height": 39 } },
+    { "tipo": "texto", "contenido": "X", "node_id_figma": "145:39", "posicion": { "x": 20129, "y": -590, "width": 23, "height": 39 } },
+
+    { "tipo": "barra_layout", "nombre_capa": "Rectangle 31", "color_hex": "#d9d9d9", "node_id_figma": "145:25", "posicion": { "x": 16829, "y": -159, "width": 2185, "height": 42 } },
+    { "tipo": "texto", "contenido": "Reino de los Francos y la dinastía merovingia", "node_id_figma": "145:24", "posicion": { "x": 16850, "y": -144, "width": 349, "height": 19 } },
+    { "tipo": "texto", "contenido": "481", "node_id_figma": "145:26", "posicion": { "x": 16850, "y": -185, "width": 30, "height": 19 } },
+    { "tipo": "texto", "contenido": "El Reino de los Francos en la época merovingia (siglo V al VIII) fue una de las civilizaciones más importantes de la Europa medieval temprana, ubicado principalmente en lo que hoy es Francia y parte de Alemania. La dinastía merovingia fue fundada por el legendario rey Clodoveo I (466-511), quien unificó las tribus francas y expandió su territorio significativamente. Clodoveo es conocido por convertirse al cristianismo en el 496, lo que le ayudó a ganar el apoyo de la Iglesia y de los pueblos galo-romanos.", "node_id_figma": "167:26", "posicion": { "x": 16850, "y": -71, "width": 646, "height": 354 } },
+
+    { "tipo": "texto", "contenido": "Batalla de Poitiers", "node_id_figma": "167:14", "posicion": { "x": 18646, "y": -59, "width": 141, "height": 19 } },
+    { "tipo": "texto", "contenido": "732", "node_id_figma": "167:16", "posicion": { "x": 18646, "y": -93, "width": 30, "height": 19 } },
+    { "tipo": "texto", "contenido": "751", "node_id_figma": "145:28", "posicion": { "x": 18967, "y": -189, "width": 28, "height": 19 } },
+    { "tipo": "texto", "contenido": "Carlos Martel estaba a la cabeza de un ejercito comienza el retroceso de las fuerzas musulmanas en Europa. El nieto de Carlos Martel, Carlomagno expandió los distintos reinos francos hasta transformarlos en un imprerio.", "node_id_figma": "167:18", "posicion": { "x": 18604, "y": -27, "width": 410, "height": 152 } },
+    { "tipo": "imagen", "archivo": "edadmedia_screenshot-2024-10-08-at-11-57-07-am-1_node-167-20.png", "node_id_figma": "167:20", "posicion": { "x": 18604, "y": 125, "width": 381, "height": 318 } },
+
+    { "tipo": "texto", "contenido": "El Sacro Imperio Romano Germánico", "node_id_figma": "145:21", "posicion": { "x": 19547, "y": -159, "width": 354, "height": 24 } },
+    { "tipo": "texto", "contenido": "962", "node_id_figma": "145:22", "posicion": { "x": 19547, "y": -196, "width": 40, "height": 24 } },
+    { "tipo": "texto", "contenido": "Carlomagno fue coronado como Imperator Augustus por el papa León III el dia de navidad el año 800. Al morir el imperio se acabaría dividiendo en 3 entre sus nietos. Alemania y Francia se disputan el norte de Italia. Gana Alemania quien obtiene el favor del papa y la corona imperial. El resultado es el sacro imperio romano germanico", "node_id_figma": "167:21", "posicion": { "x": 19155, "y": -27, "width": 412, "height": 218 } },
+    { "tipo": "imagen", "archivo": "edadmedia_screenshot-2024-10-08-at-12-02-44-pm-1_node-167-23.png", "node_id_figma": "167:23", "posicion": { "x": 19155, "y": 205, "width": 274, "height": 310 } },
+    { "tipo": "texto", "contenido": "El rey Alemán Otón I es coronado emperador. Tras la desintegración del imperio Carolingico y el fracaso del proyecto político de Carlo Magno, la debilidad de los reyes se hizo evidente. Los sucesores de los reyes se vieron obligados a ceder gran parte de su autoridad a los Condes y Marqueces para obtener su apoyo. Para asegurarse la lealtad de estos nobres, los monarcas les entregaron tierras, los Feudos", "node_id_figma": "167:24", "posicion": { "x": 19621, "y": -108, "width": 412, "height": 218 } },
+    { "tipo": "texto", "contenido": "Feudalismo, señores feudales", "node_id_figma": "167:9", "posicion": { "x": 19856, "y": 1478, "width": 291, "height": 24 } },
+
+    { "tipo": "imagen", "archivo": "edadmedia_baja-edad-media-1-e1669820052308-1_node-180-28.png", "node_id_figma": "180:28", "posicion": { "x": 16848, "y": 666, "width": 602, "height": 305 } },
+    { "tipo": "texto", "contenido": "Castillos 800-900", "node_id_figma": "180:29", "posicion": { "x": 19440, "y": 752, "width": 145, "height": 19 } },
+    { "tipo": "texto", "contenido": "Los castillos medievales comenzaron a construirse a partir del siglo IX, en Europa occidental, tras el colapso del Imperio Carolingio y la creciente amenaza de invasiones vikingas, húngaras y sarracenas. Este periodo marcó el inicio de la Edad Media, y con la inestabilidad política y la fragmentación del poder, surgió la necesidad de estructuras defensivas robustas. Fases iniciales: Castillos de madera", "node_id_figma": "180:30", "posicion": { "x": 19440, "y": 785, "width": 416, "height": 261 } },
+    { "tipo": "imagen", "archivo": "edadmedia_torre-de-londres-castillo-londres-170117120517001-1600x800-1_node-181-37.png", "node_id_figma": "181:37", "posicion": { "x": 19867, "y": 655, "width": 523, "height": 261 } },
+    { "tipo": "imagen", "archivo": "edadmedia_foto1-4-1_node-181-38.png", "node_id_figma": "181:38", "posicion": { "x": 19476, "y": 1042, "width": 351, "height": 234 } },
+
+    { "tipo": "texto", "contenido": "Fundación de las primeras universidades", "node_id_figma": "145:41", "posicion": { "x": 21195, "y": -120, "width": 400, "height": 24 } },
+
+    { "tipo": "texto", "contenido": "Castillos 1100-1200", "node_id_figma": "181:32", "posicion": { "x": 20575, "y": 747, "width": 158, "height": 19 } },
+    { "tipo": "texto", "contenido": "A lo largo de la Edad Media, los castillos se fueron perfeccionando con avances como murallas más gruesas, torres de flanqueo, puentes levadizos y fosos. Para el siglo XII y XIII, los castillos ya eran complejas fortalezas defensivas, capaces de resistir asedios prolongados y ataques con armas de sitio como catapultas y torres de asedio.", "node_id_figma": "181:34", "posicion": { "x": 20578, "y": 770, "width": 430, "height": 144 } },
+    { "tipo": "imagen", "archivo": "edadmedia_screenshot-2024-10-09-at-10-14-42-am-1_node-181-36.png", "node_id_figma": "181:36", "posicion": { "x": 19827, "y": 933, "width": 713, "height": 451 } },
+    { "tipo": "imagen", "archivo": "edadmedia_download-1_node-181-39.png", "node_id_figma": "181:39", "posicion": { "x": 20689, "y": 933, "width": 276, "height": 183 } },
+
+    { "tipo": "texto", "contenido": "Peste negra", "node_id_figma": "146:44", "posicion": { "x": 22803, "y": -132, "width": 117, "height": 24 } },
+    { "tipo": "texto", "contenido": "1346", "node_id_figma": "146:46", "posicion": { "x": 22803, "y": -156, "width": 50, "height": 24 } },
+    { "tipo": "texto", "contenido": "1351", "node_id_figma": "146:48", "posicion": { "x": 22895, "y": -156, "width": 46, "height": 24 } },
+    { "tipo": "texto", "contenido": "el dia que, la peste negra", "node_id_figma": "218:2", "posicion": { "x": 22803, "y": -103, "width": 242, "height": 24 } },
+    { "tipo": "barra_layout", "nombre_capa": "Rectangle 33", "color_hex": "#d9d9d9", "node_id_figma": "146:54", "posicion": { "x": 22776, "y": 528, "width": 1863, "height": 42 } },
+    { "tipo": "texto", "contenido": "1337", "node_id_figma": "146:52", "posicion": { "x": 22776, "y": 577, "width": 49, "height": 24 } },
+    { "tipo": "texto", "contenido": "La Guerra de los Cien Años", "node_id_figma": "146:51", "posicion": { "x": 22794, "y": 537, "width": 263, "height": 24 } },
+
+    { "tipo": "texto", "contenido": "Caída de Constantinopla", "node_id_figma": "146:50", "posicion": { "x": 24560, "y": -132, "width": 241, "height": 24 } },
+
+    { "tipo": "texto", "contenido": "Invenciónd de la Imprenta Gutemberg", "node_id_figma": "167:5", "posicion": { "x": 24359, "y": 651, "width": 252, "height": 48 } },
+    { "tipo": "barra_layout", "nombre_capa": "Rectangle 33", "color_hex": "#d9d9d9", "node_id_figma": "146:57", "posicion": { "x": 23612, "y": 988, "width": 1863, "height": 42 } },
+    { "tipo": "texto", "contenido": "Renacimiento", "node_id_figma": "146:59", "posicion": { "x": 23633, "y": 997, "width": 135, "height": 24 } },
+    { "tipo": "imagen", "archivo": "edadmedia_screen-shot-2024-09-27-at-20-15-34-1_node-146-56.png", "node_id_figma": "146:56", "posicion": { "x": 21160, "y": 1370, "width": 752, "height": 410 } },
+
+    { "tipo": "texto", "contenido": "1492", "node_id_figma": "167:2", "posicion": { "x": 25201, "y": -208, "width": 79, "height": 39 } },
+    { "tipo": "texto", "contenido": "Cristobal Colón descubre America", "node_id_figma": "167:3", "posicion": { "x": 25073, "y": -132, "width": 336, "height": 24 } },
+
+    { "tipo": "texto", "contenido": "Inca, Imperio Azteca, Mayas", "node_id_figma": "163:88", "posicion": { "x": 19346, "y": 4171, "width": 318, "height": 29 } }
+  ],
+  "bloques_no_ubicados": [
+    { "tipo": "imagen", "archivo": null, "node_id_figma": "151:87", "nombre_capa": "Screen Shot 2024-09-29 at 20.59.23 1", "posicion": { "x": -2166, "y": 52, "width": 268, "height": 185 }, "nota": "Geométricamente muy alejado (x=-2166) de todo el resto del contenido de Edad Media (x 16600-25500) y de cualquier otra región conocida. No se descargó ni se incluyó en el sitio — no hay forma de saber a qué tema pertenece sin verlo. Queda anotado acá para revisión manual." }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "region": "mesopotamia",
+  "nombre_original": "Civilización sumeria / Mesopotamia",
+  "fecha_texto_original": "3 500 AC - 1 750 AC",
+  "node_id_figma": "66:67",
+  "posicion": { "x": 2619.0, "y": -3087.0, "width": 2513.0, "height": 1506.0 },
+  "subperiodos": [
+    { "nombre": "Período de Uruk", "fecha_texto_original": "3 500 AC", "fecha_fin_texto_original": "2 900 AC", "node_id_figma": "68:84" },
+    { "nombre": "Período dinástico arcaico", "fecha_texto_original": "2 900 AC", "fecha_fin_texto_original": "2 334 AC", "node_id_figma": "68:85" },
+    { "nombre": "Reino de Akkad", "fecha_texto_original": "2 334 AC", "fecha_fin_texto_original": "2 218 AC", "node_id_figma": "68:86" },
+    { "nombre": "Periodo Guti", "fecha_texto_original": "2 218 AC", "fecha_fin_texto_original": "2 047 AC", "node_id_figma": "68:87" },
+    { "nombre": "Renacimiento sumerio", "fecha_texto_original": "2 047 AC", "fecha_fin_texto_original": "1 792 AC", "node_id_figma": "68:88" },
+    { "nombre": "Imperio babilónico", "fecha_texto_original": "1 792 AC", "fecha_fin_texto_original": "1 750 AC", "node_id_figma": "68:89" }
+  ],
+  "bloques": [
+    { "tipo": "barra_layout", "nombre_capa": "Rectangle 8", "color_hex": null, "node_id_figma": "45:114", "posicion": { "x": 2619, "y": -329, "width": 10320, "height": 40 }, "nota": "Encabezado GENERAL de todo el grupo 'Edad antigua' (node 51:2), no de Mesopotamia específicamente — la barra cubre desde el inicio de Mesopotamia (x=2619) hasta bien entrado Roma (x=12939), englobando las 5 civilizaciones. Se agregó acá (en vez de en su propia región) porque el texto asociado empieza justo en esta columna X. Encontrado en una auditoría posterior — no estaba en la extracción original." },
+    { "tipo": "texto", "contenido": "Edad Antigua", "node_id_figma": "45:115", "posicion": { "x": 2695, "y": -318, "width": 105, "height": 19 } },
+    { "tipo": "imagen", "archivo": null, "node_id_figma": "52:4", "posicion": { "x": 14625, "y": -718, "width": 486, "height": 281 }, "nota": "PENDIENTE DE DESCARGAR: el endpoint de exportación de imágenes de Figma quedó con rate-limit (~3.8 días) justo al intentar bajar esta. Node id y posición confirmados, falta el archivo." },
+    { "tipo": "texto", "contenido": "Durante la Edad Antigua surgieron las primeras grandes civilizaciones como el Antiguo Egipto, la Antigua Grecia y la Antigua Roma", "node_id_figma": "52:5", "posicion": { "x": 2695, "y": -378, "width": 495, "height": 47 } },
+
+    { "tipo": "barra_layout", "nombre_capa": "Rectangle 12", "color_hex": "#b2987e", "node_id_figma": "66:62", "posicion": { "x": 2619, "y": -2639, "width": 2366, "height": 41 } },
+    { "tipo": "texto", "contenido": "Civilización sumeria", "node_id_figma": "66:64", "posicion": { "x": 2648, "y": -2628, "width": 158, "height": 19 } },
+    { "tipo": "texto", "contenido": "3 500 AC", "node_id_figma": "66:65", "posicion": { "x": 2630, "y": -2575, "width": 74, "height": 19 } },
+    { "tipo": "texto", "contenido": "1 750 AC", "node_id_figma": "66:66", "posicion": { "x": 4926, "y": -2575, "width": 70, "height": 19 } },
+
+    { "tipo": "barra_layout", "nombre_capa": "Rectangle 13", "color_hex": "#b2987e", "node_id_figma": "68:71", "posicion": { "x": 2619, "y": -2522, "width": 410, "height": 41 } },
+    { "tipo": "barra_layout", "nombre_capa": "Rectangle 14", "color_hex": "#b2987e", "node_id_figma": "68:73", "posicion": { "x": 3029, "y": -2522, "width": 410, "height": 41 } },
+    { "tipo": "barra_layout", "nombre_capa": "Rectangle 15", "color_hex": "#b2987e", "node_id_figma": "68:74", "posicion": { "x": 3439, "y": -2522, "width": 410, "height": 41 } },
+    { "tipo": "barra_layout", "nombre_capa": "Rectangle 16", "color_hex": "#b2987e", "node_id_figma": "68:75", "posicion": { "x": 3849, "y": -2522, "width": 410, "height": 41 } },
+    { "tipo": "barra_layout", "nombre_capa": "Rectangle 17", "color_hex": "#b2987e", "node_id_figma": "68:76", "posicion": { "x": 4259, "y": -2522, "width": 410, "height": 41 } },
+    { "tipo": "barra_layout", "nombre_capa": "Rectangle 18", "color_hex": "#b2987e", "node_id_figma": "68:77", "posicion": { "x": 4653, "y": -2522, "width": 332, "height": 41 } },
+
+    { "tipo": "texto", "contenido": "3 500 AC", "node_id_figma": "68:83", "posicion": { "x": 2630, "y": -2470, "width": 74, "height": 19 } },
+    { "tipo": "texto", "contenido": "Período de Uruk", "node_id_figma": "68:84", "posicion": { "x": 2630, "y": -2511, "width": 126, "height": 19 } },
+    { "tipo": "texto", "contenido": "Período dinástico arcaico", "node_id_figma": "68:85", "posicion": { "x": 3035, "y": -2511, "width": 199, "height": 19 } },
+    { "tipo": "texto", "contenido": "Reino de Akkad", "node_id_figma": "68:86", "posicion": { "x": 3446, "y": -2511, "width": 122, "height": 19 } },
+    { "tipo": "texto", "contenido": "Periodo Guti", "node_id_figma": "68:87", "posicion": { "x": 3856, "y": -2511, "width": 97, "height": 19 } },
+    { "tipo": "texto", "contenido": "Renacimiento sumerio", "node_id_figma": "68:88", "posicion": { "x": 4266, "y": -2511, "width": 175, "height": 19 } },
+    { "tipo": "texto", "contenido": "Imperio babilónico", "node_id_figma": "68:89", "posicion": { "x": 4662, "y": -2511, "width": 145, "height": 19 } },
+
+    { "tipo": "texto", "contenido": "2 900 AC", "node_id_figma": "68:82", "posicion": { "x": 3035, "y": -2470, "width": 74, "height": 19 } },
+    { "tipo": "texto", "contenido": "2 334 AC", "node_id_figma": "68:81", "posicion": { "x": 3446, "y": -2470, "width": 73, "height": 19 } },
+    { "tipo": "texto", "contenido": "2 218 AC", "node_id_figma": "68:80", "posicion": { "x": 3854, "y": -2470, "width": 70, "height": 19 } },
+    { "tipo": "texto", "contenido": "2 047 AC", "node_id_figma": "68:79", "posicion": { "x": 4265, "y": -2470, "width": 73, "height": 19 } },
+    { "tipo": "texto", "contenido": "1 792 AC", "node_id_figma": "68:78", "posicion": { "x": 4662, "y": -2470, "width": 69, "height": 19 } },
+
+    { "tipo": "imagen", "archivo": "mesopotamia_screenshot-2024-09-01-at-10-31-12-pm-1_node-68-68.png", "node_id_figma": "68:68", "posicion": { "x": 3463, "y": -3087, "width": 746, "height": 414 } },
+    { "tipo": "imagen", "archivo": "mesopotamia_screenshot-2024-09-01-at-10-35-59-pm-1_node-68-70.png", "node_id_figma": "68:70", "posicion": { "x": 4238, "y": -3086, "width": 747, "height": 413 } },
+
+    { "tipo": "texto", "contenido": "Los sumerios fueron una civilización antigua que habitó la Mesopotamia asiática entre el 3500 y 1750 a. C. A lo largo de su historia, los sumerios fundaron cientos de ciudades-Estado a orillas de los ríos Tigris y Éufrates, controladas por sacerdotes y líderes militares que buscaban imponer su dominio en la región. A través de unidades políticas centralizadas, organizaron la producción agrícola y el comercio, ordenaron la construcción de grandes obras, establecieron sistemas de leyes y formaron grandes ejércitos. Entre otros rasgos culturales, los sumerios son reconocidos por haber inventado uno de los primeros sistemas de escritura y haber compuesto el primer el Poema de Gilgamesh, la primera versión del mito del diluvio universal.  Los sumerios se establecieron en la Mesopotamia asiática, una región ubicada en las áreas no desérticas del actual Irak y la zona limítrofe del noroeste de Siria. Era un área fértil sobre los ríos Tigris y Éufrates, rodeada del Desierto de Arabia, los Montes Taurus, los Montes Zagros y el Golfo Pérsico.", "node_id_figma": "68:69", "posicion": { "x": 2688, "y": -3066, "width": 633, "height": 342 } },
+
+    { "tipo": "texto", "contenido": "Los sumerios se instalaron en la baja Mesopotamia y fundaron más de 30 ciudades. Entre ellas se destacaron Ur, Uruk, Lagash, Kish y Umma. Durante este periodo, las élites políticas de las ciudades-Estado estaban vinculadas a los sacerdotes, y los templos funcionaban como centros religiosos, políticos y administrativos. La ciudad de Uruk condensó la hegemonía política y cultural en la región.", "node_id_figma": "68:90", "posicion": { "x": 2630, "y": -2417, "width": 359, "height": 171 } },
+    { "tipo": "texto", "contenido": "El crecimiento demográfico y las disputas entre ciudades por los recursos (agua, tierras y materias primas) inclinaron la balanza de poder político a favor de líderes militares, que se convirtieron en reyes. El centro de poder de las ciudades pasa de los templos a los palacios reales. A pesar de las continuas guerras, la población siguió aumentando debido a las mejoras en la producción agrícola y se fundaron nuevas ciudades.", "node_id_figma": "68:92", "posicion": { "x": 3035, "y": -2417, "width": 359, "height": 209 } },
+    { "tipo": "texto", "contenido": "Desde el 2400 a. C., el pueblo semita de los acadios se estableció gradualmente en la Mesopotamia central y fundó la ciudad de Mari. En 2334 a. C., bajo el mando de Sargón, los acadios se apoderaron de la ciudad de Kish y comenzaron una serie de campañas militares para dominar la región. Sargón se consagró como Rey de las Cuatro Zonas del Universo y estableció un reino con capital en Akkad, que obligó a los pueblos sometidos a pagar tributo.", "node_id_figma": "68:93", "posicion": { "x": 3446, "y": -2417, "width": 359, "height": 190 } },
+    { "tipo": "texto", "contenido": "Las ciudades sumerias comenzaron una serie de rebeliones que minaron el poder político de Akkad. A su vez, los guteos, un pueblo proveniente de la zona montañosa del actual Irán, invadieron las ciudades mesopotámicas y destruyeron la capital de Akkad. Los guteos tomaron las costumbres y la lengua de los acadios, se impusieron a las ciudades sumerias y comenzaron a cobrarles tributo.", "node_id_figma": "68:94", "posicion": { "x": 3856, "y": -2417, "width": 359, "height": 171 } },
+    { "tipo": "texto", "contenido": "Luego de una serie de rebeliones para liberarse del dominio guteo, las ciudades sumerias lograron expulsar a los guteos de Mesopotamia. La ciudad de Ur inició un proceso de unificación y alianza entre ciudades. Durante este periodo se destacaron las ciudades de Ur y Lagash, y son características las construcciones en forma de zigurats (pirámides con terrazas, templos y largas escalinatas). La independencia de las ciudades sumerias se mantuvo hasta la invasión de los amorreos a la Baja Mesopotamia, hacia el 2000 a. C., que arrasaron con las construcciones y se apoderaron de bienes y ciudades.", "node_id_figma": "68:95", "posicion": { "x": 4266, "y": -2417, "width": 359, "height": 285 } },
+    { "tipo": "texto", "contenido": "Hammurabi, rey de la ciudad de Babilonia conquistó a los pueblos asirios y sometió a las ciudades sumerias. El imperio babilónico buscó centralizar el poder y unificar los territorios en su mando: creó un sistema de leyes comunes e impuso la cultura acadia en todas las ciudades. Con la muerte de Hammurabi, las rebeliones y las incursiones de pueblos vecinos desplomaron el imperio.", "node_id_figma": "68:96", "posicion": { "x": 4667, "y": -2417, "width": 359, "height": 171 } },
+
+    { "tipo": "imagen", "archivo": "mesopotamia_f-elconfidencial-com-original-63f-5b8-b09-63f5b8b0913c9fb6658156b4b55a7919-1_node-69-97.png", "node_id_figma": "69:97", "posicion": { "x": 3172, "y": -2086, "width": 428, "height": 241 } },
+    { "tipo": "imagen", "archivo": "mesopotamia_images-2_node-69-100.png", "node_id_figma": "69:100", "posicion": { "x": 3748, "y": -2091, "width": 201, "height": 251 } },
+    { "tipo": "imagen", "archivo": "mesopotamia_tumblr-mxub02shhv1ql5d2uo1-1280-1_node-69-98.png", "node_id_figma": "69:98", "posicion": { "x": 4136, "y": -2098, "width": 481, "height": 264 } },
+    { "tipo": "imagen", "archivo": "mesopotamia_sumerios-y-acadios-diferencias-2171-orig-1_node-69-99.png", "node_id_figma": "69:99", "posicion": { "x": 4662, "y": -2200, "width": 470, "height": 469 } },
+
+    { "tipo": "texto", "contenido": "Mesopotamia", "node_id_figma": "141:18", "posicion": { "x": 2639, "y": -1743, "width": 214, "height": 39 } },
+    { "tipo": "texto", "contenido": "Mesopotamia, situada entre los ríos Tigris y Éufrates, fue una de las primeras civilizaciones de la humanidad. Allí surgieron importantes ciudades como Sumer, Akkad, Babilonia y Asiria. Desarrollaron la escritura cuneiforme, la agricultura avanzada y los primeros códigos legales, como el de Hammurabi. Es conocida como la \"cuna de la civilización\" por sus grandes avances en cultura, ciencia y política. Fue fundada por los Sumerios", "node_id_figma": "141:19", "posicion": { "x": 2642, "y": -1682, "width": 651, "height": 101 } }
+  ]
+}

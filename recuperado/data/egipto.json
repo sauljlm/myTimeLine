@@ -1,0 +1,73 @@
+{
+  "region": "egipto",
+  "nombre_original": "Antiguo Egipto",
+  "fecha_texto_original": "3150 AC - 31 AC",
+  "node_id_figma": "57:30",
+  "posicion": { "x": 2676.0, "y": -318.0, "width": 10268.0, "height": 2393.0 },
+  "subperiodos": [
+    { "nombre": "Arcaico", "fecha_texto_original": "3150 AC", "fecha_fin_texto_original": "2700 AC", "node_id_figma": "64:40" },
+    { "nombre": "Antiguo", "fecha_texto_original": "2700 AC", "fecha_fin_texto_original": "2050 AC", "node_id_figma": "64:33" },
+    { "nombre": "Medio", "fecha_texto_original": "2050 AC", "fecha_fin_texto_original": "1550 AC", "node_id_figma": "64:35" },
+    { "nombre": "Nuevo", "fecha_texto_original": "1550 AC", "fecha_fin_texto_original": "1060 AC", "node_id_figma": "64:38" }
+  ],
+  "bloques": [
+    { "tipo": "texto", "contenido": "Antiguo Egipto", "node_id_figma": "45:117", "posicion": { "x": 2826, "y": -318, "width": 117, "height": 19 } },
+    { "tipo": "texto", "contenido": "31 AC", "node_id_figma": "45:116", "posicion": { "x": 12842, "y": -274, "width": 92, "height": 39 } },
+
+    { "tipo": "barra_layout", "nombre_capa": "Rectangle 11", "color_hex": "#d9d9d9", "node_id_figma": "64:39", "posicion": { "x": 2676, "y": -223, "width": 535, "height": 47 } },
+    { "tipo": "texto", "contenido": "Arcaico", "node_id_figma": "64:40", "posicion": { "x": 2695, "y": -209, "width": 61, "height": 19 } },
+    { "tipo": "texto", "contenido": "3150 AC", "node_id_figma": "64:41", "posicion": { "x": 2695, "y": -168, "width": 67, "height": 19 } },
+
+    { "tipo": "barra_layout", "nombre_capa": "Rectangle 10", "color_hex": "#d9d9d9", "node_id_figma": "64:32", "posicion": { "x": 3211, "y": -223, "width": 9728, "height": 47 } },
+    { "tipo": "texto", "contenido": "Antiguo", "node_id_figma": "64:33", "posicion": { "x": 3221, "y": -209, "width": 63, "height": 19 } },
+    { "tipo": "texto", "contenido": "2700 AC", "node_id_figma": "64:34", "posicion": { "x": 3221, "y": -166, "width": 69, "height": 19 } },
+    { "tipo": "texto", "contenido": "Medio", "node_id_figma": "64:35", "posicion": { "x": 4266, "y": -209, "width": 49, "height": 19 } },
+    { "tipo": "texto", "contenido": "2050 AC", "node_id_figma": "64:36", "posicion": { "x": 4266, "y": -164, "width": 70, "height": 19 } },
+    { "tipo": "texto", "contenido": "Nuevo", "node_id_figma": "64:38", "posicion": { "x": 5269, "y": -209, "width": 50, "height": 19 } },
+    { "tipo": "texto", "contenido": "1550 AC", "node_id_figma": "64:37", "posicion": { "x": 5269, "y": -167, "width": 67, "height": 19 } },
+    { "tipo": "texto", "contenido": "1060 AC", "node_id_figma": "77:116", "posicion": { "x": 6658, "y": -163, "width": 68, "height": 19 } },
+
+    { "tipo": "texto", "contenido": "La antigua Egipto comenzo con la unificaciunificación de varias ciudades del Nilo El Rio Nilo fue la clave del exito de la civilización Egipcia, ya que ofrecia una gran ventaja frente a otras civilisaciones, cada año crecia hasta desbordarse. Los egipcios creaban canales con el rio alrededor de los cultivos y gracias a esto tenian exelentes cosechas con poco trabajo, y dedicar más tiempo y recursos en otras cosas como construir.", "node_id_figma": "57:31", "posicion": { "x": 2695, "y": -128, "width": 449, "height": 164 } },
+    { "tipo": "texto", "contenido": "Menes fue el primer faraón egipcio y tuvo las dinastias 1 y 2", "node_id_figma": "64:43", "posicion": { "x": 2695, "y": 250, "width": 395, "height": 17 } },
+    { "tipo": "imagen", "archivo": "egipto_agricultura-a-base-da-economia-do-antigo-egito-2-1_node-64-42.png", "node_id_figma": "64:42", "posicion": { "x": 2698, "y": 56, "width": 271, "height": 175 } },
+
+    { "tipo": "texto", "contenido": "En la cuarta Dinastia los faraones Keops, Kefrén y Micerino construyeron las grandes pirámides de Guiza.", "node_id_figma": "64:45", "posicion": { "x": 3221, "y": 86, "width": 899, "height": 17 } },
+    { "tipo": "texto", "contenido": "Comienza con la Dinastia 3, la capital se ubica en Menfis y emprendió grandes construcciones a lo largo del reino. Durante todo el periodo, las diferentes dinastías fueron expandiendo el reino e incorporando nuevos territorios a través de las conquistas y el comercio.  En este periodo Zoser construyo la primer piramide, que era de forma escalonada.", "node_id_figma": "64:44", "posicion": { "x": 3221, "y": -128, "width": 904, "height": 65 } },
+    { "tipo": "texto", "contenido": "Apartir del 2250 AC comienza un periodo de decadencia donde hay hambruna y anarquia donde el poder de los faraones se vio muy reducido. Hasta que el faraón Mentuhotep II vuelve a unificar el alto y bajo Egipto en el 2050AC", "node_id_figma": "64:49", "posicion": { "x": 3221, "y": 259, "width": 904, "height": 65 } },
+    { "tipo": "imagen", "archivo": "egipto_screenshot-2024-09-01-at-8-41-51-pm-1_node-64-46.png", "node_id_figma": "64:46", "posicion": { "x": 3221, "y": -63, "width": 355, "height": 119 } },
+    { "tipo": "imagen", "archivo": "egipto_hjj-suaml-1256x620-1_node-64-48.png", "node_id_figma": "64:48", "posicion": { "x": 3221, "y": 118, "width": 241, "height": 119 } },
+    { "tipo": "imagen", "archivo": "egipto_7-maravillas-gran-piramide-antes-38bcf343-1400x788-1_node-64-47.png", "node_id_figma": "64:47", "posicion": { "x": 3532, "y": 118, "width": 212, "height": 119 } },
+
+    { "tipo": "texto", "contenido": "Es un periodo de gran prosperidad economica y expanción exterior, la capital pasa a ubicarse en Tebas. Se crea un sistema para controlar el desborde del Nilo, Se potenciaron las relaciones comerciales, se impulso el culto al dios Amón. En el 1800AC los Hicsos de Canaan invadieron el norte de Egipto y se establecieron en el delta del Nilo, por esto el poder de Egipto se debilitó, pero los Hicsos no cambiaron tradiciones, más bien fueron adoptadas. Modernizaron a los Egipcios introducioendo al caballo, el carro de combate, el arco y la flecha, entre otros elementos de le cultura del bronce. Afinales de este periodo los dirigentes de Egipto organizaron una guerra de liberaciliberación contra los Hicsos y esto da origen al periodo del Nuevo Egipto.", "node_id_figma": "64:50", "posicion": { "x": 4266, "y": -133, "width": 904, "height": 65 } },
+    { "tipo": "imagen", "archivo": "egipto_am-3fn4-1_node-64-51.png", "node_id_figma": "64:51", "posicion": { "x": 4946, "y": 18, "width": 148, "height": 149 } },
+    { "tipo": "imagen", "archivo": "egipto_screenshot-2024-09-01-at-8-57-11-pm-1_node-64-52.png", "node_id_figma": "64:52", "posicion": { "x": 4266, "y": 18, "width": 592, "height": 263 } },
+
+    { "tipo": "texto", "contenido": "Los faraones Amenofis II y Ramsés II retomaron la expansión territorial y conquistaron territorios de Asia. Este periodo se caracterizocaracterizó por estar constantemente en guerra para expandir su imperio. Se constrconstruyeron los templos de karnak y luxor", "node_id_figma": "64:53", "posicion": { "x": 5269, "y": -134, "width": 1236, "height": 39 } },
+    { "tipo": "texto", "contenido": "Con el reinado del faraón Amenofis IV la estabilidad del imperio estuvo amenazada, ya que instauro una serie de reformas (leyes) radicales que tuvieron un resultado caotico, el faraón cambió su nombre a Akenaton, inició una reforma religiosa a la deidad solar Aton, el faraón suprimio el culto a las demas deidades (dioses). Trasladó la capital a la nueva ciudad de Ajet-Atón, su esposa Nefertiti tambien influia. El hijo de Amenofis IV fue Tutankamón que reestablece el culto al dios Amón, Tutankamón tuvo un reinado muy corto ya que tenia muchas enfermedades y murio joven, su momificación fue descubierta en 1922, y este fue el allasgo arqueologico más famoso de todos los tiempos. y Es la unica tumba Egipcia intacta encontrada hasta la fecha.", "node_id_figma": "64:56", "posicion": { "x": 5269, "y": 93, "width": 1243, "height": 102 } },
+    { "tipo": "texto", "contenido": "Ramsés II tenía un afán por construir, tuvo una guerra contra los Hititas en la batalla de Kadesh (Actual Siria), finalmente aceptó un tratado de paz(el tratado de paz mas antiguo registrado).", "node_id_figma": "65:61", "posicion": { "x": 5269, "y": 384, "width": 1236, "height": 43 } },
+    { "tipo": "imagen", "archivo": "egipto_1636645314483-1_node-64-54.png", "node_id_figma": "64:54", "posicion": { "x": 5269, "y": -95, "width": 316, "height": 178 } },
+    { "tipo": "imagen", "archivo": "egipto_1636644005923-1_node-64-55.png", "node_id_figma": "64:55", "posicion": { "x": 5783, "y": -96, "width": 320, "height": 180 } },
+    { "tipo": "imagen", "archivo": "egipto_decoracion-del-muro-xxxx-de-camara-funeraria-de-la-tumba-de-tutankamon-en-el-valle-de-los-reyes-c925c4a7-1280x951-1_node-65-57.png", "node_id_figma": "65:57", "posicion": { "x": 5269, "y": 200, "width": 258, "height": 164 } },
+    { "tipo": "imagen", "archivo": "egipto_f-elconfidencial-com-original-cbc-972-a09-cbc972a09600a10642f09b5212a51961-1_node-65-58.png", "node_id_figma": "65:58", "posicion": { "x": 5554, "y": 204, "width": 163, "height": 163 } },
+    { "tipo": "imagen", "archivo": "egipto_expedici-n-de-tutankamon-egypt-tours-portal-1_node-65-59.png", "node_id_figma": "65:59", "posicion": { "x": 5744, "y": 210, "width": 261, "height": 156 } },
+    { "tipo": "imagen", "archivo": "egipto_tutankamon-teorias-faraon-vida-hijos-momia-muerte-enfermedad-leyendas-egipto-home-1_node-65-60.png", "node_id_figma": "65:60", "posicion": { "x": 6015, "y": 204, "width": 212, "height": 165 } },
+
+    { "tipo": "texto", "contenido": "En el 1060 AC comienza un gran periodo de decadencia que duró unos 700 años, Egipto nunca llegaria a recuperar su explendor pasado, a lo largo de este periodo Egipto sufrió el dominio de diferentes pueblos o civilisaciones extranjeras Libios, Palestinos, Nubios, Persas y Griegos, quienes adoptaron sus costumbres como propias.", "node_id_figma": "77:115", "posicion": { "x": 6658, "y": -134, "width": 1024, "height": 51 } },
+    { "tipo": "imagen", "archivo": "egipto_screenshot-2024-09-02-at-9-42-04-am-1_node-77-117.png", "node_id_figma": "77:117", "posicion": { "x": 6658, "y": -49, "width": 751, "height": 430 } },
+
+    { "tipo": "texto", "contenido": "El final del antiguo Egipto se da cuando el emperador romano Octavio vence al emperador romano Marco Antonio, quien era amante y aliado de la ultima faraona Cleopatra, en la batalla de Actium", "node_id_figma": "57:28", "posicion": { "x": 12610, "y": -164, "width": 334, "height": 184 } },
+    { "tipo": "imagen", "archivo": "egipto_e7d4261c8786c84648d7f9efdab1ca15-1_node-57-29.png", "node_id_figma": "57:29", "posicion": { "x": 12610, "y": -73, "width": 258, "height": 331 } },
+
+    { "tipo": "imagen", "archivo": "egipto_shutterstock-1694205181-1_node-55-17.png", "node_id_figma": "55:17", "posicion": { "x": 2860, "y": 1521, "width": 929, "height": 464 } },
+    { "tipo": "imagen", "archivo": "egipto_papiro-egipcio-670x285-1_node-55-18.png", "node_id_figma": "55:18", "posicion": { "x": 2860, "y": 1192, "width": 712, "height": 303 } },
+    { "tipo": "imagen", "archivo": "egipto_la-organizacion-politica-y-social-del-antiguo-egipto-1_node-55-19.png", "node_id_figma": "55:19", "posicion": { "x": 3789, "y": 1351, "width": 1024, "height": 724 } },
+    { "tipo": "imagen", "archivo": "egipto_fotografia-de-las-tres-grandes-piramides-en-la-llanura-de-giza-56999db0-230308100940-1280x831-1_node-55-20.png", "node_id_figma": "55:20", "posicion": { "x": 3903, "y": 568, "width": 1181, "height": 767 } },
+    { "tipo": "imagen", "archivo": "egipto_cultura-egipcia-o-antiguo-egipto-1_node-55-22.png", "node_id_figma": "55:22", "posicion": { "x": 2860, "y": 628, "width": 799, "height": 534 } },
+    { "tipo": "imagen", "archivo": "egipto_civilizacion-egipcia-1-e1560446022111-1_node-55-23.png", "node_id_figma": "55:23", "posicion": { "x": 3659, "y": 762, "width": 800, "height": 400 } },
+    { "tipo": "imagen", "archivo": "egipto_13679272913-ad32a81f49-h-1_node-55-24.png", "node_id_figma": "55:24", "posicion": { "x": 4813, "y": 1344, "width": 1600, "height": 671 } },
+    { "tipo": "imagen", "archivo": "egipto_conocer-momias-xlsemanal-1_node-56-25.png", "node_id_figma": "56:25", "posicion": { "x": 5084, "y": 625, "width": 1200, "height": 719 } },
+    { "tipo": "imagen", "archivo": "egipto_gatos-egipto-1_node-55-21.png", "node_id_figma": "55:21", "posicion": { "x": 5084, "y": 752, "width": 342, "height": 593 } },
+    { "tipo": "imagen", "archivo": "egipto_screenshot-2024-08-30-at-11-55-38-pm-1_node-56-26.png", "node_id_figma": "56:26", "posicion": { "x": 5893, "y": 497, "width": 437, "height": 478 } },
+    { "tipo": "imagen", "archivo": "egipto_screenshot-2024-08-30-at-11-56-56-pm-1_node-56-27.png", "node_id_figma": "56:27", "posicion": { "x": 5893, "y": 975, "width": 558, "height": 370 } }
+  ]
+}

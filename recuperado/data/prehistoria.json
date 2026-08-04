@@ -1,0 +1,1331 @@
+{
+  "region": "prehistoria",
+  "nombre_original": "Prehistoria",
+  "fecha_texto_original": "6 000 000 AC - 3 300 AC (aprox., según primer y último texto de fecha visible)",
+  "node_id_figma": "45:113",
+  "posicion": {
+    "x": -5910.0,
+    "y": -4872.0,
+    "width": 10363.0,
+    "height": 6662.0
+  },
+  "grupos": [
+    {
+      "nombre": "Edad de priedra",
+      "node_id_figma": "3:13",
+      "posicion": {
+        "x": -4133.0,
+        "y": -1803.0,
+        "width": 5685.0,
+        "height": 3593.0
+      },
+      "subgrupos": [
+        {
+          "nombre": "Paleolitico",
+          "node_id_figma": "3:14",
+          "posicion": {
+            "x": -4133.0,
+            "y": -1328.0,
+            "width": 4108.0,
+            "height": 2085.0
+          },
+          "subgrupos": [
+            {
+              "nombre": "Edad de Hielo",
+              "node_id_figma": "14:66",
+              "posicion": {
+                "x": -1233.0,
+                "y": -1328.0,
+                "width": 1208.0,
+                "height": 901.0
+              },
+              "bloques": [
+                {
+                  "tipo": "barra_layout",
+                  "nombre_capa": "Rectangle 4",
+                  "color_hex": "#d9d9d9",
+                  "node_id_figma": "13:58",
+                  "posicion": {
+                    "x": -1093.0,
+                    "y": -462.0,
+                    "width": 1068.0,
+                    "height": 35.0
+                  }
+                },
+                {
+                  "tipo": "texto",
+                  "contenido": "Edad de Hielo",
+                  "node_id_figma": "13:59",
+                  "posicion": {
+                    "x": -1077.0,
+                    "y": -454.0,
+                    "width": 106.0,
+                    "height": 19.0
+                  }
+                },
+                {
+                  "tipo": "texto",
+                  "contenido": "Afecto a Europa y otras regiones del hemisferio norte.\nEste enfriamiento tuvo impactos en las sociedades antiguas, como la reducción de tierras agrícolas productivas y cambios en los patrones de asentamiento debido al avance de glaciares y cambios en la disponibilidad de recursos. En este contexto, las civilizaciones tuvieron que adaptarse a condiciones climáticas más adversas, lo que posiblemente influyó en la migración de pueblos y el desarrollo de nuevas estrategias agrícolas y de supervivencia.\nSin embargo, esta no fue una \"edad de hielo\" en el sentido de una glaciación masiva, sino un período de enfriamiento climático que afectó la vida y el entorno de las sociedades de la época.",
+                  "node_id_figma": "13:62",
+                  "posicion": {
+                    "x": -1077.0,
+                    "y": -662.0,
+                    "width": 643.0,
+                    "height": 180.0
+                  }
+                },
+                {
+                  "tipo": "imagen",
+                  "archivo": "prehistoria_era-de-hielo-1-e1589292585629-1_node-13-63.png",
+                  "node_id_figma": "13:63",
+                  "posicion": {
+                    "x": -907.0,
+                    "y": -919.0,
+                    "width": 359.0,
+                    "height": 180.0
+                  }
+                },
+                {
+                  "tipo": "imagen",
+                  "archivo": "prehistoria_era-de-hielo-mamut-lanudo-e1556665369793-1_node-13-64.png",
+                  "node_id_figma": "13:64",
+                  "posicion": {
+                    "x": -841.0,
+                    "y": -1186.0,
+                    "width": 359.0,
+                    "height": 180.0
+                  }
+                },
+                {
+                  "tipo": "imagen",
+                  "archivo": "prehistoria_e2243f9d18c341882a3611c3b3024c47-1_node-13-65.png",
+                  "node_id_figma": "13:65",
+                  "posicion": {
+                    "x": -548.0,
+                    "y": -1066.0,
+                    "width": 444.0,
+                    "height": 337.0
+                  }
+                },
+                {
+                  "tipo": "imagen",
+                  "archivo": "prehistoria_oxford-dodo-display-1_node-20-72.png",
+                  "node_id_figma": "20:72",
+                  "posicion": {
+                    "x": -1233.0,
+                    "y": -1178.0,
+                    "width": 392.0,
+                    "height": 259.0
+                  }
+                },
+                {
+                  "tipo": "imagen",
+                  "archivo": "prehistoria_pp-840x830-pad-1000x1000-f8f8f8-1_node-20-73.png",
+                  "node_id_figma": "20:73",
+                  "posicion": {
+                    "x": -1102.0,
+                    "y": -919.0,
+                    "width": 213.0,
+                    "height": 198.0
+                  }
+                },
+                {
+                  "tipo": "imagen",
+                  "archivo": "prehistoria_sid-el-perezoso-gigante-3726-2-600-1_node-20-74.png",
+                  "node_id_figma": "20:74",
+                  "posicion": {
+                    "x": -482.0,
+                    "y": -1328.0,
+                    "width": 346.0,
+                    "height": 262.0
+                  }
+                }
+              ]
+            }
+          ],
+          "bloques": [
+            {
+              "tipo": "barra_layout",
+              "nombre_capa": "Rectangle 1",
+              "color_hex": "#d9d9d9",
+              "node_id_figma": "1:2",
+              "posicion": {
+                "x": -4133.0,
+                "y": -329.0,
+                "width": 4108.0,
+                "height": 40.0
+              }
+            },
+            {
+              "tipo": "texto",
+              "contenido": "2 500 000 AC",
+              "node_id_figma": "1:4",
+              "posicion": {
+                "x": -4133.0,
+                "y": -274.0,
+                "width": 221.0,
+                "height": 39.0
+              }
+            },
+            {
+              "tipo": "texto",
+              "contenido": "127 000 AC",
+              "node_id_figma": "3:25",
+              "posicion": {
+                "x": -1115.0,
+                "y": -275.0,
+                "width": 86.0,
+                "height": 18.0
+              }
+            },
+            {
+              "tipo": "texto",
+              "contenido": "250 000 AC",
+              "node_id_figma": "150:63",
+              "posicion": {
+                "x": -1507.0,
+                "y": -275.0,
+                "width": 90.0,
+                "height": 18.0
+              }
+            },
+            {
+              "tipo": "texto",
+              "contenido": "110 000 AC",
+              "node_id_figma": "13:60",
+              "posicion": {
+                "x": -1077.0,
+                "y": -415.0,
+                "width": 85.0,
+                "height": 18.0
+              }
+            },
+            {
+              "tipo": "texto",
+              "contenido": "10 000 AC",
+              "node_id_figma": "13:61",
+              "posicion": {
+                "x": -110.0,
+                "y": -410.0,
+                "width": 78.0,
+                "height": 18.0
+              }
+            },
+            {
+              "tipo": "texto",
+              "contenido": "40 000 AC",
+              "node_id_figma": "3:26",
+              "posicion": {
+                "x": -407.0,
+                "y": -276.0,
+                "width": 81.0,
+                "height": 18.0
+              }
+            },
+            {
+              "tipo": "texto",
+              "contenido": "Paleolitico",
+              "node_id_figma": "1:5",
+              "posicion": {
+                "x": -4105.0,
+                "y": -318.0,
+                "width": 82.0,
+                "height": 19.0
+              }
+            },
+            {
+              "tipo": "texto",
+              "contenido": "Medio",
+              "node_id_figma": "3:22",
+              "posicion": {
+                "x": -1120.0,
+                "y": -318.0,
+                "width": 48.0,
+                "height": 19.0
+              }
+            },
+            {
+              "tipo": "texto",
+              "contenido": "Superior",
+              "node_id_figma": "3:24",
+              "posicion": {
+                "x": -407.0,
+                "y": -318.0,
+                "width": 65.0,
+                "height": 19.0
+              }
+            },
+            {
+              "tipo": "texto",
+              "contenido": "Inferior",
+              "node_id_figma": "3:23",
+              "posicion": {
+                "x": -3857.0,
+                "y": -318.0,
+                "width": 55.0,
+                "height": 19.0
+              }
+            },
+            {
+              "tipo": "imagen",
+              "archivo": "prehistoria_screenshot-2024-08-26-at-4-13-45-pm-1_node-6-30.png",
+              "node_id_figma": "6:30",
+              "posicion": {
+                "x": -4130.0,
+                "y": 181.0,
+                "width": 165.0,
+                "height": 194.0
+              }
+            },
+            {
+              "tipo": "imagen",
+              "archivo": "prehistoria_homo-habilis-skull-naturmuseum-senckenberg-dsc02097-1_node-6-31.png",
+              "node_id_figma": "6:31",
+              "posicion": {
+                "x": -3946.0,
+                "y": 5.0,
+                "width": 200.0,
+                "height": 150.0
+              }
+            },
+            {
+              "tipo": "imagen",
+              "archivo": "prehistoria_f9c17184176d88ff79e8aa87c0ed2d10-1_node-7-38.png",
+              "node_id_figma": "7:38",
+              "posicion": {
+                "x": -4133.0,
+                "y": -6.0,
+                "width": 187.0,
+                "height": 187.0
+              }
+            },
+            {
+              "tipo": "imagen",
+              "archivo": "prehistoria_paleolitico-inferior-1-1_node-8-39.png",
+              "node_id_figma": "8:39",
+              "posicion": {
+                "x": -3912.0,
+                "y": 172.0,
+                "width": 324.0,
+                "height": 160.0
+              }
+            },
+            {
+              "tipo": "imagen",
+              "archivo": "prehistoria_screenshot-2024-08-26-at-4-25-09-pm-1_node-8-40.png",
+              "node_id_figma": "8:40",
+              "posicion": {
+                "x": -3176.0,
+                "y": 54.0,
+                "width": 277.0,
+                "height": 288.0
+              }
+            },
+            {
+              "tipo": "imagen",
+              "archivo": "prehistoria_screenshot-2024-08-26-at-4-30-07-pm-1_node-8-41.png",
+              "node_id_figma": "8:41",
+              "posicion": {
+                "x": -3504.0,
+                "y": -6.0,
+                "width": 186.0,
+                "height": 171.0
+              }
+            },
+            {
+              "tipo": "texto",
+              "contenido": "Homo Neandertal: \nVivian en Europa y Asia, Tenian mayor fortaleza fisica, Desarrollo de agarre con el pulgar, Desarrollo de lenguaje articulado.",
+              "node_id_figma": "8:45",
+              "posicion": {
+                "x": -1118.0,
+                "y": 50.0,
+                "width": 193.0,
+                "height": 84.0
+              }
+            },
+            {
+              "tipo": "texto",
+              "contenido": "Homo Sapiens: \nDesarrollo de lenguaje complejo.\nPensamiento lógico y abstracto.\nCapacidad creativa.\nOrganización social compleja.\nSedesplazaron alrededor del mundo",
+              "node_id_figma": "8:51",
+              "posicion": {
+                "x": -407.0,
+                "y": 50.0,
+                "width": 251.0,
+                "height": 84.0
+              }
+            },
+            {
+              "tipo": "imagen",
+              "archivo": "prehistoria_homo-neanderthalensis-1_node-8-44.png",
+              "node_id_figma": "8:44",
+              "posicion": {
+                "x": -1120.0,
+                "y": -108.0,
+                "width": 153.0,
+                "height": 146.0
+              }
+            },
+            {
+              "tipo": "imagen",
+              "archivo": "prehistoria_dolfywaw0ae2cxa-1_node-8-46.png",
+              "node_id_figma": "8:46",
+              "posicion": {
+                "x": -925.0,
+                "y": -105.0,
+                "width": 239.0,
+                "height": 239.0
+              }
+            },
+            {
+              "tipo": "imagen",
+              "archivo": "prehistoria_arte-rupestre-2-e1587689753987-800x400-1_node-8-47.png",
+              "node_id_figma": "8:47",
+              "posicion": {
+                "x": -925.0,
+                "y": 165.0,
+                "width": 355.0,
+                "height": 177.0
+              }
+            },
+            {
+              "tipo": "imagen",
+              "archivo": "prehistoria_screenshot-2024-08-26-at-4-43-51-pm-1_node-8-48.png",
+              "node_id_figma": "8:48",
+              "posicion": {
+                "x": -2537.0,
+                "y": 50.0,
+                "width": 348.0,
+                "height": 190.0
+              }
+            },
+            {
+              "tipo": "imagen",
+              "archivo": "prehistoria_01-cave-art-neanderthals-1_node-8-49.png",
+              "node_id_figma": "8:49",
+              "posicion": {
+                "x": -1093.0,
+                "y": 352.0,
+                "width": 405.0,
+                "height": 405.0
+              }
+            },
+            {
+              "tipo": "imagen",
+              "archivo": "prehistoria_unnamed-1_node-8-50.png",
+              "node_id_figma": "8:50",
+              "posicion": {
+                "x": -407.0,
+                "y": -67.0,
+                "width": 230.0,
+                "height": 108.0
+              }
+            },
+            {
+              "tipo": "imagen",
+              "archivo": "prehistoria_figura-2-punzones-del-paleolitico-superior-y-del-epipaleolit_node-10-52.png",
+              "node_id_figma": "10:52",
+              "posicion": {
+                "x": -177.0,
+                "y": -67.0,
+                "width": 133.0,
+                "height": 179.0
+              }
+            },
+            {
+              "tipo": "imagen",
+              "archivo": "prehistoria_paleolitico-superior-1_node-10-53.png",
+              "node_id_figma": "10:53",
+              "posicion": {
+                "x": -407.0,
+                "y": 153.0,
+                "width": 287.0,
+                "height": 194.0
+              }
+            },
+            {
+              "tipo": "imagen",
+              "archivo": "prehistoria_image-1_node-10-57.png",
+              "node_id_figma": "10:57",
+              "posicion": {
+                "x": -407.0,
+                "y": 347.0,
+                "width": 263.0,
+                "height": 175.0
+              }
+            },
+            {
+              "tipo": "imagen",
+              "archivo": "prehistoria_bj-rn-christian-t-rrissen-wikimedia-1_node-10-56.png",
+              "node_id_figma": "10:56",
+              "posicion": {
+                "x": -207.0,
+                "y": 317.0,
+                "width": 174.0,
+                "height": 109.0
+              }
+            },
+            {
+              "tipo": "texto",
+              "contenido": "Los humanos eran nómadas y se refugiaban en cuevas para protegerse del frío y de los animales salvajes. El gran evento de este período fue el descubrimiento y control del fuego, además de la creacion de primeras herramientas o armas de piedras.",
+              "node_id_figma": "3:27",
+              "posicion": {
+                "x": -4130.0,
+                "y": -221.0,
+                "width": 271.0,
+                "height": 126.0
+              }
+            },
+            {
+              "tipo": "texto",
+              "contenido": "Aparición de los primeros homínidos: Surgimiento del género Homo, con especies como Homo habilis en África. Se asocian con las primeras herramientas líticas.\n\nIndustria lítica Olduvayense: Las primeras herramientas de piedra conocidas (choppers y lascas), utilizadas para cortar carne y procesar alimentos.",
+              "node_id_figma": "150:85",
+              "posicion": {
+                "x": -3834.0,
+                "y": -216.0,
+                "width": 293.0,
+                "height": 180.0
+              }
+            },
+            {
+              "tipo": "texto",
+              "contenido": "En este período se encuentra la mayor cantidad de evidencias del desarrollo artístico de la época, como las pinturas rupestres y pequeñas esculturas de arcilla o hueso. La evolución del humano alcanzó la fase de hombre de Cromañón, con una mayor capacidad para comunicarse.",
+              "node_id_figma": "3:29",
+              "posicion": {
+                "x": -407.0,
+                "y": -230.0,
+                "width": 271.0,
+                "height": 144.0
+              }
+            },
+            {
+              "tipo": "texto",
+              "contenido": "Los humanos, en continua evolución, alcanzaron la fase de hombre de Neandertal, que se caracterizó por su sofisticada inteligencia y por mejorar las armas que utilizaban para la caza, y realizar pinturas rupestres en las paredes.",
+              "node_id_figma": "3:28",
+              "posicion": {
+                "x": -1115.0,
+                "y": -226.0,
+                "width": 413.0,
+                "height": 90.0
+              }
+            },
+            {
+              "tipo": "texto",
+              "contenido": "Cazadores especializados: Homo heidelbergensis y neandertales se convierten en cazadores más eficientes, cazando animales grandes en grupos.",
+              "node_id_figma": "150:65",
+              "posicion": {
+                "x": -1506.0,
+                "y": -221.0,
+                "width": 343.0,
+                "height": 72.0
+              }
+            },
+            {
+              "tipo": "texto",
+              "contenido": "300 000 AC",
+              "node_id_figma": "150:67",
+              "posicion": {
+                "x": -1864.0,
+                "y": -275.0,
+                "width": 121.0,
+                "height": 18.0
+              }
+            },
+            {
+              "tipo": "texto",
+              "contenido": "Desarrollo del lenguaje: Aunque no hay evidencia directa, se cree que el lenguaje comienza a desarrollarse en esta época, al menos en una forma primitiva.",
+              "node_id_figma": "150:68",
+              "posicion": {
+                "x": -1863.0,
+                "y": -221.0,
+                "width": 343.0,
+                "height": 72.0
+              }
+            },
+            {
+              "tipo": "texto",
+              "contenido": "400 000 AC",
+              "node_id_figma": "150:70",
+              "posicion": {
+                "x": -2189.0,
+                "y": -275.0,
+                "width": 121.0,
+                "height": 18.0
+              }
+            },
+            {
+              "tipo": "texto",
+              "contenido": "Primeras lanzas de madera: Descubrimiento de lanzas de madera en Schöningen, Alemania, utilizadas para la caza de grandes animales.\n\nConstrucción de refugios: Se encuentran evidencias de estructuras rudimentarias que podrían haber sido utilizadas como refugios. La más antigua en Francia",
+              "node_id_figma": "150:71",
+              "posicion": {
+                "x": -2188.0,
+                "y": -221.0,
+                "width": 312.0,
+                "height": 162.0
+              }
+            },
+            {
+              "tipo": "texto",
+              "contenido": "800 000 AC",
+              "node_id_figma": "150:73",
+              "posicion": {
+                "x": -2514.0,
+                "y": -275.0,
+                "width": 121.0,
+                "height": 18.0
+              }
+            },
+            {
+              "tipo": "texto",
+              "contenido": "Primer uso habitual del fuego: Pruebas más frecuentes de fogatas controladas, especialmente en sitios en Israel, China y Europa.\nInnovaciones sociales: Se desarrollan campamentos de caza más complejos y las primeras formas de organización social.",
+              "node_id_figma": "150:74",
+              "posicion": {
+                "x": -2513.0,
+                "y": -221.0,
+                "width": 312.0,
+                "height": 126.0
+              }
+            },
+            {
+              "tipo": "texto",
+              "contenido": "1 200 000 AC",
+              "node_id_figma": "150:76",
+              "posicion": {
+                "x": -2840.0,
+                "y": -270.0,
+                "width": 121.0,
+                "height": 18.0
+              }
+            },
+            {
+              "tipo": "texto",
+              "contenido": "Expansión hacia Europa: Homo erectus y otros homínidos continúan su expansión por Eurasia, alcanzando sitios en lo que hoy es España, Francia e Italia.",
+              "node_id_figma": "150:77",
+              "posicion": {
+                "x": -2839.0,
+                "y": -216.0,
+                "width": 312.0,
+                "height": 72.0
+              }
+            },
+            {
+              "tipo": "texto",
+              "contenido": "1 500 000 AC",
+              "node_id_figma": "150:79",
+              "posicion": {
+                "x": -3177.0,
+                "y": -270.0,
+                "width": 121.0,
+                "height": 18.0
+              }
+            },
+            {
+              "tipo": "texto",
+              "contenido": "Dominio del fuego: Evidencias sugieren que Homo erectus y Homo ergaster empiezan a controlar el fuego, aunque no de forma generalizada. Esto permite cocinar alimentos, protección contra depredadores y mejor adaptación a diferentes climas.",
+              "node_id_figma": "150:80",
+              "posicion": {
+                "x": -3176.0,
+                "y": -216.0,
+                "width": 299.0,
+                "height": 126.0
+              }
+            },
+            {
+              "tipo": "texto",
+              "contenido": "1 900 000 AC",
+              "node_id_figma": "150:82",
+              "posicion": {
+                "x": -3504.0,
+                "y": -269.0,
+                "width": 121.0,
+                "height": 18.0
+              }
+            },
+            {
+              "tipo": "texto",
+              "contenido": "Migración fuera de África: Los primeros homínidos comienzan a salir de África, expandiéndose a Asia y Europa.\n\nAparición del Homo Erectus",
+              "node_id_figma": "150:83",
+              "posicion": {
+                "x": -3503.0,
+                "y": -215.0,
+                "width": 299.0,
+                "height": 90.0
+              }
+            }
+          ]
+        },
+        {
+          "nombre": "Mesolitico",
+          "node_id_figma": "3:15",
+          "posicion": {
+            "x": -142.0,
+            "y": -329.0,
+            "width": 931.0,
+            "height": 1140.0
+          },
+          "bloques": [
+            {
+              "tipo": "barra_layout",
+              "nombre_capa": "Rectangle 2",
+              "color_hex": "#d9d9d9",
+              "node_id_figma": "2:7",
+              "posicion": {
+                "x": -25.0,
+                "y": -329.0,
+                "width": 764.0,
+                "height": 40.0
+              }
+            },
+            {
+              "tipo": "texto",
+              "contenido": "10 000 AC",
+              "node_id_figma": "2:6",
+              "posicion": {
+                "x": -142.0,
+                "y": -267.0,
+                "width": 166.0,
+                "height": 39.0
+              }
+            },
+            {
+              "tipo": "texto",
+              "contenido": "Mesolitico",
+              "node_id_figma": "2:8",
+              "posicion": {
+                "x": -6.0,
+                "y": -318.0,
+                "width": 82.0,
+                "height": 19.0
+              }
+            },
+            {
+              "tipo": "texto",
+              "contenido": "8 000 AC",
+              "node_id_figma": "2:9",
+              "posicion": {
+                "x": 640.0,
+                "y": -267.0,
+                "width": 149.0,
+                "height": 39.0
+              }
+            },
+            {
+              "tipo": "texto",
+              "contenido": "Mejora en las técnicas del trabajo de la piedra, en forma pulida y astillada. Además, primeros vestigios de asentamientos poblacionales y de rituales funerarios en los que se pueden observar rasgos de diferenciación social. Temina la glaciacion wurm, por lo que la temperatura aumenta y se extinguen muchas especies como el dodo, el mamut y el dientes de sable.\nfiguras humanas, además de animales, pintadas en el interior de las cavernas. Las escenas muestran grupos de humanos practicando cacería o algún ritual.\nAgricultura incipie",
+              "node_id_figma": "19:67",
+              "posicion": {
+                "x": 38.0,
+                "y": -211.0,
+                "width": 321.0,
+                "height": 180.0
+              }
+            },
+            {
+              "tipo": "imagen",
+              "archivo": "prehistoria_mesolitico-1-e1715625141336-800x400-1_node-19-71.png",
+              "node_id_figma": "19:71",
+              "posicion": {
+                "x": 38.0,
+                "y": 69.0,
+                "width": 336.0,
+                "height": 168.0
+              }
+            },
+            {
+              "tipo": "imagen",
+              "archivo": "prehistoria_01-02-23-pinturas-1_node-19-69.png",
+              "node_id_figma": "19:69",
+              "posicion": {
+                "x": 331.0,
+                "y": 41.0,
+                "width": 330.0,
+                "height": 198.0
+              }
+            },
+            {
+              "tipo": "imagen",
+              "archivo": "prehistoria_descubre-el-fascinante-arte-mesolitico-una-mirada-al-pasado-_node-19-70.png",
+              "node_id_figma": "19:70",
+              "posicion": {
+                "x": 96.0,
+                "y": 238.0,
+                "width": 522.0,
+                "height": 348.0
+              }
+            },
+            {
+              "tipo": "imagen",
+              "archivo": "prehistoria_images-1_node-22-75.png",
+              "node_id_figma": "22:75",
+              "posicion": {
+                "x": 56.0,
+                "y": 586.0,
+                "width": 225.0,
+                "height": 225.0
+              }
+            }
+          ]
+        },
+        {
+          "nombre": "Neolitico",
+          "node_id_figma": "3:16",
+          "posicion": {
+            "x": 737.0,
+            "y": -1803.0,
+            "width": 815.0,
+            "height": 3593.0
+          },
+          "bloques": [
+            {
+              "tipo": "barra_layout",
+              "nombre_capa": "Rectangle 3",
+              "color_hex": "#d9d9d9",
+              "node_id_figma": "2:11",
+              "posicion": {
+                "x": 739.0,
+                "y": -329.0,
+                "width": 764.0,
+                "height": 40.0
+              }
+            },
+            {
+              "tipo": "texto",
+              "contenido": "6 500 AC",
+              "node_id_figma": "2:10",
+              "posicion": {
+                "x": 1404.0,
+                "y": -267.0,
+                "width": 148.0,
+                "height": 39.0
+              }
+            },
+            {
+              "tipo": "texto",
+              "contenido": "Neolitico",
+              "node_id_figma": "2:12",
+              "posicion": {
+                "x": 758.0,
+                "y": -318.0,
+                "width": 70.0,
+                "height": 19.0
+              }
+            },
+            {
+              "tipo": "texto",
+              "contenido": "La sociedad pasa de ser nomada a sedentaria, hay una gran evolucion en la agricultura, domesticación de animales, Crecimiento de la población, División y diferenciación del trabajo, jerarquización social. creación de vasijas de cerámica. Se paso de una economía de subsistencia a una economía productiva.",
+              "node_id_figma": "19:68",
+              "posicion": {
+                "x": 757.0,
+                "y": -215.0,
+                "width": 617.0,
+                "height": 60.0
+              }
+            },
+            {
+              "tipo": "imagen",
+              "archivo": "prehistoria_133-stonehenge1-26cc74ba-1280x720-1_node-23-79.png",
+              "node_id_figma": "23:79",
+              "posicion": {
+                "x": 759.0,
+                "y": -757.0,
+                "width": 557.0,
+                "height": 334.0
+              }
+            },
+            {
+              "tipo": "texto",
+              "contenido": "Durante el periodo Neolítico aparecieron los primeros monumentos megalíticos.",
+              "node_id_figma": "23:80",
+              "posicion": {
+                "x": 771.0,
+                "y": -407.0,
+                "width": 450.0,
+                "height": 15.0
+              }
+            },
+            {
+              "tipo": "texto",
+              "contenido": "En Göbekli Tepe, Turquía, se encontró el santuario más antiguo del mundo.",
+              "node_id_figma": "23:85",
+              "posicion": {
+                "x": 768.0,
+                "y": -808.0,
+                "width": 423.0,
+                "height": 15.0
+              }
+            },
+            {
+              "tipo": "imagen",
+              "archivo": "prehistoria_neolitico-3-e1669831277768-1_node-23-84.png",
+              "node_id_figma": "23:84",
+              "posicion": {
+                "x": 757.0,
+                "y": -1102.0,
+                "width": 562.0,
+                "height": 281.0
+              }
+            },
+            {
+              "tipo": "imagen",
+              "archivo": "prehistoria_screenshot-2024-08-27-at-11-36-42-am-1_node-23-86.png",
+              "node_id_figma": "23:86",
+              "posicion": {
+                "x": 757.0,
+                "y": -1469.0,
+                "width": 584.0,
+                "height": 340.0
+              }
+            },
+            {
+              "tipo": "imagen",
+              "archivo": "prehistoria_screenshot-2024-08-27-at-11-36-56-am-1_node-23-87.png",
+              "node_id_figma": "23:87",
+              "posicion": {
+                "x": 754.0,
+                "y": -1803.0,
+                "width": 590.0,
+                "height": 334.0
+              }
+            },
+            {
+              "tipo": "imagen",
+              "archivo": "prehistoria_screenshot-2024-08-27-at-11-07-26-am-1_node-22-76.png",
+              "node_id_figma": "22:76",
+              "posicion": {
+                "x": 758.0,
+                "y": 134.0,
+                "width": 250.0,
+                "height": 215.0
+              }
+            },
+            {
+              "tipo": "imagen",
+              "archivo": "prehistoria_2gsjgna1uruvuus7ndh9yqvwygplvszbflwwpayxykhadzkwf1xr1wcn5xrk_node-22-77.png",
+              "node_id_figma": "22:77",
+              "posicion": {
+                "x": 1008.0,
+                "y": 134.0,
+                "width": 347.0,
+                "height": 184.0
+              }
+            },
+            {
+              "tipo": "texto",
+              "contenido": "los grupos de humanos comenzaron a intervenir en los ciclos naturales de las plantas y animales para su mejor aprovechamiento.\nEl origen de la ganadería está vinculado con la caza controlada. En principio, los grupos de cazadores-recolectores preservaban a los animales que se encontraban en edad reproductiva, para asegurarse el alimento futuro. Luego comenzaron a capturar animales y encerrarlos en corrales, para tener alimento disponible en caso de escasez.\n\nLa agricultura surgió a partir de la recolección cuando algunos grupos humanos empezaron a observar el crecimiento de las plantas, seleccionaron semillas, las plantaron y esperaron su crecimiento. Inicialmente, se practicaba de manera itinerante en terrenos generados por la quema y tala de bosques, pero el bajo rendimiento llevó a buscar tierras más fértiles, lo que dio lugar a los primeros campos de cultivo permanentes.\nEn distintas regiones, se desarrollaron diferentes cultivos:\nCercano Oriente: Trigo, cebada, mijo, lino, habas, vid, y olivo.\nChina: Arroz, algodón, mijo, y soja.\nMesoamérica: Calabaza, chiles, maíz, palta, y frijoles.\nAndes Centrales: Papa, mandioca, ají, calabaza, frijoles, lentejas, y algodón.",
+              "node_id_figma": "23:81",
+              "posicion": {
+                "x": 758.0,
+                "y": -133.0,
+                "width": 597.0,
+                "height": 255.0
+              }
+            },
+            {
+              "tipo": "texto",
+              "contenido": "Desarrollaron sistemas para almacenar la comida y construyeron chozas de planta redonda, semienterradas, con techos de ramas, juncos y pajas.\n\nMás tarde, con el desarrollo de los cultivos y la creación de rebaños de animales, el carácter estacional de la agricultura y el cuidado de la ganadería, llevó al establecimiento de una vida sedentaria de forma permanente. Estos primeros poblados, llamados aldeas, se establecieron en lugares fértiles, con acceso al agua y a las pasturas.\n\nMás tarde, con el desarrollo de los cultivos y la creación de rebaños de animales, el carácter estacional de la agricultura y el cuidado de la ganadería, llevó al establecimiento de una vida sedentaria de forma permanente. Estos primeros poblados, llamados aldeas, se establecieron en lugares fértiles, con acceso al agua y a las pasturas.\n\nLas aldeas estaban integradas por varias familias tenían sus rebaños de animales y sus campos de cultivo. Las familias cooperaban para la realización de tareas agrícolas, la defensa del poblado, la búsqueda de materiales y la construcción de viviendas y fortificaciones.\n El desarrollo de nuevas actividades económicas llevaron a la diferenciación de tareas y a la división del trabajo en oficios especializados, como la fabricación de herramientas, cerámicas, tejidos, y metales. Con el aumento de la producción de alimentos y la posibilidad de almacenar excedentes, las aldeas crecieron en población, lo que dio lugar a las primeras ciudades.\n\nEl crecimiento urbano provocó la jerarquización de la sociedad, con diferencias sociales según las tareas desempeñadas. Los comerciantes y artesanos tenían un estatus superior al de los campesinos, que producían los alimentos. Además, surgieron grupos dedicados exclusivamente a tareas políticas y religiosas, como sacerdotes y funcionarios, que ocupaban la cima de la escala social, encargándose del culto, la construcción de templos, la organización política, y la administración de los bienes de la comunidad.",
+              "node_id_figma": "23:83",
+              "posicion": {
+                "x": 758.0,
+                "y": 385.0,
+                "width": 597.0,
+                "height": 420.0
+              }
+            },
+            {
+              "tipo": "imagen",
+              "archivo": "prehistoria_como-eran-las-aldeas-en-el-neolitico-1024x650-1_node-23-88.png",
+              "node_id_figma": "23:88",
+              "posicion": {
+                "x": 737.0,
+                "y": 829.0,
+                "width": 356.0,
+                "height": 226.0
+              }
+            },
+            {
+              "tipo": "imagen",
+              "archivo": "prehistoria_stonehenge-neolithic-houses-prehistoric-megalithic-260nw-726_node-23-89.png",
+              "node_id_figma": "23:89",
+              "posicion": {
+                "x": 1093.0,
+                "y": 829.0,
+                "width": 269.0,
+                "height": 193.0
+              }
+            },
+            {
+              "tipo": "texto",
+              "contenido": "Adoraban las fuerzas de la naturaleza, especialmente a aquellos elementos que afectaban el desarrollo de la agricultura y la ganadería. El sol y la lluvia comenzaron a tener un lugar central en los ritos y las ceremonias religiosas.\nAdemás, crearon esculturas antropomorfas (de apariencia humana) con las que representaban a sus antepasados o a diferentes fuerzas que adoraban, como la fertilidad.\nDurante este periodo, el enterramiento de los muertos se convirtió en distintivo social entre los rituales de las diferentes poblaciones. Según las diferentes creencias, se inhumaba el cuerpo de diferentes maneras; por ejemplo, en el suelo rodeado de objetos de la vida cotidiana, o dentro de cestos o urnas de cerámica.",
+              "node_id_figma": "24:90",
+              "posicion": {
+                "x": 758.0,
+                "y": 1107.0,
+                "width": 590.0,
+                "height": 148.0
+              }
+            },
+            {
+              "tipo": "imagen",
+              "archivo": "prehistoria_screenshot-2024-08-27-at-3-31-59-pm-1_node-32-109.png",
+              "node_id_figma": "32:109",
+              "posicion": {
+                "x": 777.0,
+                "y": 1279.0,
+                "width": 571.0,
+                "height": 511.0
+              }
+            }
+          ]
+        }
+      ],
+      "bloques": []
+    },
+    {
+      "nombre": "Edad de los metales",
+      "node_id_figma": "3:17",
+      "posicion": {
+        "x": 1503.0,
+        "y": -4872.0,
+        "width": 2950.0,
+        "height": 5851.0
+      },
+      "bloques": [
+        {
+          "tipo": "texto",
+          "contenido": "El trabajo de metales para la creación de utensilios, herramientas para arar la tierra, decoración y joyas como accesorios.\nLa agricultura, que se incrementó y mejoró con el uso de herramientas de piedra y de metal, además de técnicas innovadoras como los canales de riego.\nEl descubrimiento de la mezcla de metales a través de la fundición de dos o más elementos. Así surgió el bronce, tras la fundición de cobre con estaño.\nEl uso de diversos metales, como el oro, la plata, el estaño y el plomo.\nLa invención de la rueda que data de fines del Neolítico y comienzos de la Edad de los Metales. Se estima que fue creada por los sumerios, la civilización más antigua del Cercano Oriente.\nLas tribus sedentarias que aumentaron en cantidad y en densidad de habitantes, lo que dio origen a los primeros núcleos urbanos.\nLa construcción de viviendas y otros tipos de edificaciones, como templos, espacios de almacenamiento de bienes o salas de uso común para la actividad artesanal.\nLa aparición de megalitos, con fines rituales o religiosos, que consistían en enormes bloques de piedra, erigidos mediante algún sistema complejo de elevación.\nEl inicio de la metalurgia como oficio, que se expandió de manera gradual y lenta por todo el mundo.\nLas primeras embarcaciones de troncos y, luego, con una especie de vela para ser impulsadas por el viento, lo que permitía transportar elementos pesados.\nLos tejidos con hilos simples.",
+          "node_id_figma": "30:101",
+          "posicion": {
+            "x": 1519.0,
+            "y": -151.0,
+            "width": 597.0,
+            "height": 285.0
+          }
+        },
+        {
+          "tipo": "texto",
+          "contenido": "se dan los orígenes de la metalurgia del cobre, los principios de la vida urbana en el Próximo Oriente (protourbanismo) y el desarrollo de las primeras sociedades complejas (con jerarquización social).\n",
+          "node_id_figma": "29:100",
+          "posicion": {
+            "x": 1508.0,
+            "y": -483.0,
+            "width": 541.0,
+            "height": 60.0
+          }
+        },
+        {
+          "tipo": "texto",
+          "contenido": "Se caracterizó por el descubrimiento de la aleación como técnica para fundir diferentes metales. Con la aleación del cobre con estaño, se dio origen al bronce, un metal más resistente. Apareció la vida urbana en varias poblaciones europeas y surgieron sociedades de jefatura.",
+          "node_id_figma": "30:102",
+          "posicion": {
+            "x": 2676.0,
+            "y": -498.0,
+            "width": 508.0,
+            "height": 60.0
+          }
+        },
+        {
+          "tipo": "texto",
+          "contenido": "Durante esta etapa aparecieron los primeros Estados, se generalizó la utilización del hierro para la fabricación de armas y herramientas, y se dio la transición a la época histórica, con la aparición de la escritura. A medida que se incrementó la densidad de población en los diversos territorios, aumentaron los enfrentamientos bélicos, que le dieron al hierro un lugar preferencial en el desarrollo de las técnicas metalúrgicas.",
+          "node_id_figma": "30:103",
+          "posicion": {
+            "x": 4049.0,
+            "y": -498.0,
+            "width": 404.0,
+            "height": 143.0
+          }
+        },
+        {
+          "tipo": "barra_layout",
+          "nombre_capa": "Rectangle 3",
+          "color_hex": "#bdebff",
+          "node_id_figma": "3:18",
+          "posicion": {
+            "x": 1503.0,
+            "y": -329.0,
+            "width": 1116.0,
+            "height": 40.0
+          }
+        },
+        {
+          "tipo": "texto",
+          "contenido": "3 300 AC",
+          "node_id_figma": "3:19",
+          "posicion": {
+            "x": 2569.0,
+            "y": -275.0,
+            "width": 148.0,
+            "height": 39.0
+          }
+        },
+        {
+          "tipo": "texto",
+          "contenido": "Edad de los metales",
+          "node_id_figma": "3:20",
+          "posicion": {
+            "x": 1537.0,
+            "y": -318.0,
+            "width": 156.0,
+            "height": 19.0
+          }
+        },
+        {
+          "tipo": "texto",
+          "contenido": "6 000 AC",
+          "node_id_figma": "29:93",
+          "posicion": {
+            "x": 1503.0,
+            "y": -529.0,
+            "width": 164.0,
+            "height": 24.0
+          }
+        },
+        {
+          "tipo": "barra_layout",
+          "nombre_capa": "Rectangle 5",
+          "color_hex": "#d9d9d9",
+          "node_id_figma": "29:91",
+          "posicion": {
+            "x": 1503.0,
+            "y": -571.0,
+            "width": 1161.0,
+            "height": 31.0
+          }
+        },
+        {
+          "tipo": "texto",
+          "contenido": "Edad de cobre",
+          "node_id_figma": "29:92",
+          "posicion": {
+            "x": 1508.0,
+            "y": -565.0,
+            "width": 213.0,
+            "height": 19.0
+          }
+        },
+        {
+          "tipo": "texto",
+          "contenido": "3 000 AC",
+          "node_id_figma": "29:94",
+          "posicion": {
+            "x": 2677.0,
+            "y": -529.0,
+            "width": 142.0,
+            "height": 24.0
+          }
+        },
+        {
+          "tipo": "barra_layout",
+          "nombre_capa": "Rectangle 6",
+          "color_hex": "#d9d9d9",
+          "node_id_figma": "29:95",
+          "posicion": {
+            "x": 2664.0,
+            "y": -571.0,
+            "width": 1361.0,
+            "height": 31.0
+          }
+        },
+        {
+          "tipo": "texto",
+          "contenido": "Edad de bronce",
+          "node_id_figma": "29:96",
+          "posicion": {
+            "x": 2676.0,
+            "y": -565.0,
+            "width": 184.0,
+            "height": 19.0
+          }
+        },
+        {
+          "tipo": "texto",
+          "contenido": " 800 AC",
+          "node_id_figma": "29:97",
+          "posicion": {
+            "x": 4046.0,
+            "y": -529.0,
+            "width": 97.0,
+            "height": 24.0
+          }
+        },
+        {
+          "tipo": "barra_layout",
+          "nombre_capa": "Rectangle 7",
+          "color_hex": "#d9d9d9",
+          "node_id_figma": "29:98",
+          "posicion": {
+            "x": 4025.0,
+            "y": -571.0,
+            "width": 423.0,
+            "height": 31.0
+          }
+        },
+        {
+          "tipo": "texto",
+          "contenido": "Edad de Hierro",
+          "node_id_figma": "29:99",
+          "posicion": {
+            "x": 4046.0,
+            "y": -565.0,
+            "width": 125.0,
+            "height": 19.0
+          }
+        },
+        {
+          "tipo": "imagen",
+          "archivo": "prehistoria_br941-15-1_node-31-105.png",
+          "node_id_figma": "31:105",
+          "posicion": {
+            "x": 2171.0,
+            "y": -119.0,
+            "width": 340.0,
+            "height": 480.0
+          }
+        },
+        {
+          "tipo": "imagen",
+          "archivo": "prehistoria_screenshot-2024-08-27-at-3-02-45-pm-1_node-31-107.png",
+          "node_id_figma": "31:107",
+          "posicion": {
+            "x": 1971.0,
+            "y": 586.0,
+            "width": 539.0,
+            "height": 393.0
+          }
+        },
+        {
+          "tipo": "imagen",
+          "archivo": "prehistoria_screenshot-2024-08-27-at-3-30-14-pm-1_node-32-108.png",
+          "node_id_figma": "32:108",
+          "posicion": {
+            "x": 2084.0,
+            "y": 361.0,
+            "width": 426.0,
+            "height": 225.0
+          }
+        },
+        {
+          "tipo": "imagen",
+          "archivo": "prehistoria_edad-del-bronce-3-e1663872793952-1_node-31-106.png",
+          "node_id_figma": "31:106",
+          "posicion": {
+            "x": 1552.0,
+            "y": 464.0,
+            "width": 420.0,
+            "height": 210.0
+          }
+        },
+        {
+          "tipo": "imagen",
+          "archivo": "prehistoria_bronze-age-granger-1_node-31-104.png",
+          "node_id_figma": "31:104",
+          "posicion": {
+            "x": 1552.0,
+            "y": 197.0,
+            "width": 402.0,
+            "height": 267.0
+          }
+        },
+        {
+          "tipo": "imagen",
+          "archivo": "prehistoria_screenshot-2024-08-28-at-5-15-06-pm-1_node-41-110.png",
+          "node_id_figma": "41:110",
+          "posicion": {
+            "x": 2289.0,
+            "y": -4872.0,
+            "width": 576.0,
+            "height": 346.0
+          }
+        },
+        {
+          "tipo": "texto",
+          "contenido": "La escritura surgió alrededor del año 3000 a.C. en Mesopotamia y Egipto, con Mesopotamia posiblemente adelantándose un poco, dada la fecha de las tablillas de arcilla de Uruk (3300 a.C.). La inscripción más antigua de Egipto es la Paleta de Narmer, datada entre 3150 y 3050 a.C.\n\nEn China, la escritura aparece en los \"huesos oraculares\" de la civilización Shang (1200 a.C.), aunque signos más antiguos en cerámicas de la cultura Yangshao (5000-4000 a.C.) podrían ser precursores. \n\nEn Europa, la escritura lineal A de Creta data de 1750 a.C. y está relacionada con la escritura lineal B, usada en griego arcaico.\n\nEn América Central, la escritura olmeca, descubierta en los años 1990 y datada alrededor de 900 a.C., es la más antigua, antecediendo a la escritura jeroglífica maya.\n\nFechas clave para el origen de la escritura: Mesopotamia 3100 a.C., Egipto 3100-3000 a.C., Creta 1750 a.C., China 1200 a.C., América Central 900 a.C. Esto sugiere que la idea de la escritura se difundió gradualmente desde Mesopotamia a otras culturas.\n\nLeer más\n\nEl acontecimiento que marcó el fin de la prehistoria y el comienzo de la historia fue la creación del sistema de escritura, cuyos inicios se ubican en Mesopotamia y Egipto.",
+          "node_id_figma": "41:111",
+          "posicion": {
+            "x": 2289.0,
+            "y": -4511.0,
+            "width": 763.0,
+            "height": 411.0
+          }
+        },
+        {
+          "tipo": "imagen",
+          "archivo": "prehistoria_screenshot-2024-08-28-at-5-59-32-pm-1_node-45-112.png",
+          "node_id_figma": "45:112",
+          "posicion": {
+            "x": 2855.0,
+            "y": -4798.0,
+            "width": 454.0,
+            "height": 239.0
+          }
+        }
+      ]
+    }
+  ],
+  "bloques_sueltos": [
+    {
+      "tipo": "imagen",
+      "archivo": "prehistoria_f-elconfidencial-com-original-b47-94f-d41-b4794fd412b80c150a_node-7-32.png",
+      "node_id_figma": "7:32",
+      "posicion": {
+        "x": -4736.0,
+        "y": -201.0,
+        "width": 464.0,
+        "height": 261.0
+      }
+    },
+    {
+      "tipo": "texto",
+      "contenido": "Australopithecus afarensis - 3 600 000 AC",
+      "node_id_figma": "7:33",
+      "posicion": {
+        "x": -4735.0,
+        "y": -255.0,
+        "width": 338.0,
+        "height": 19.0
+      }
+    },
+    {
+      "tipo": "texto",
+      "contenido": "Ardipithecus - 4000 000 - 6000 000 AC",
+      "node_id_figma": "7:35",
+      "posicion": {
+        "x": -5902.0,
+        "y": -245.0,
+        "width": 320.0,
+        "height": 19.0
+      }
+    },
+    {
+      "tipo": "texto",
+      "contenido": "Australopithecusanamensis - 4 000 000  AC",
+      "node_id_figma": "7:37",
+      "posicion": {
+        "x": -5348.0,
+        "y": -255.0,
+        "width": 351.0,
+        "height": 19.0
+      }
+    },
+    {
+      "tipo": "imagen",
+      "archivo": "prehistoria_ardipithecus-ramidus-1_node-7-34.png",
+      "node_id_figma": "7:34",
+      "posicion": {
+        "x": -5910.0,
+        "y": -201.0,
+        "width": 315.0,
+        "height": 323.0
+      }
+    },
+    {
+      "tipo": "imagen",
+      "archivo": "prehistoria_australopithecus-image-matt-crow-nature-1120-1_node-7-36.png",
+      "node_id_figma": "7:36",
+      "posicion": {
+        "x": -5447.0,
+        "y": -201.0,
+        "width": 563.0,
+        "height": 322.0
+      }
+    }
+  ]
+}

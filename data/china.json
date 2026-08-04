@@ -1,0 +1,52 @@
+[
+  {
+    "id": "china-dinastia-xia",
+    "region": "china",
+    "tipo": "evento",
+    "titulo": "Dinastía Xia",
+    "fecha_inicio": -2070,
+    "fecha_fin": -1600,
+    "descripcion_corta": "Asia Oriental",
+    "imagenes": []
+  },
+  {
+    "id": "china-dinastia-shang",
+    "region": "china",
+    "tipo": "evento",
+    "titulo": "Dinastía Shang",
+    "fecha_inicio": -1600,
+    "fecha_fin": -1046,
+    "descripcion_corta": "",
+    "imagenes": []
+  },
+  {
+    "id": "china-dinastia-zhou",
+    "region": "china",
+    "tipo": "evento",
+    "titulo": "Dinastía Zhou",
+    "fecha_inicio": -1046,
+    "fecha_fin": -256,
+    "descripcion_corta": "",
+    "imagenes": []
+  },
+  {
+    "id": "china-dinastia-qin",
+    "region": "china",
+    "tipo": "evento",
+    "titulo": "Dinastía Qin",
+    "fecha_inicio": -221,
+    "fecha_fin": -206,
+    "descripcion_corta": "Era Imperial",
+    "imagenes": []
+  },
+  {
+    "id": "china-dinastia-han",
+    "region": "china",
+    "tipo": "evento",
+    "titulo": "Dinastía Han",
+    "fecha_inicio": -206,
+    "fecha_fin": 220,
+    "descripcion_corta": "",
+    "imagenes": []
+  }
+]

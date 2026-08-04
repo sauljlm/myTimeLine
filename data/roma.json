@@ -1,0 +1,145 @@
+[
+  {
+    "id": "roma-monarquia",
+    "region": "roma",
+    "tipo": "evento",
+    "titulo": "Monarquía",
+    "fecha_inicio": -753,
+    "fecha_fin": -509,
+    "descripcion_corta": "surgió como una comunidad pequeña cerca del paso comercial del río Tíber (en la actual Italia), y se convirtió en una gran ciudad que expandió su poder e influencia por Italia y gran parte del mundo entonces conocido. Roma llegó a ser una de las potencias imperiales más exitosas de la historia. Según la tradición romana se remonta a los hermanos genelos Romulo y Remo, los niños tomando leche de la loba Capitolina, más tarde Romulo mató a remo y fundaría la ciudad de Roma en el monte Palatino, convirtiendose en el primer rey. hubo siete reyes, los primeros cuatro de origen latino y sabino (de la zona del Lacio) y los últimos tres de origen etrusco (de la zona de la Toscana). En este periodo la forma política era la Monarquía hasta que fue expulsado el último rey (Tarquinio el soverbio). Se creó un senado permanente que decidió abolir la monarquía, convirtiendo a Roma e una república.",
+    "imagenes": [
+      "/images/roma/roma_800px-0-lupa-capitolina-2-1_node-107-3.png",
+      "/images/roma/roma_los-siete-reyes-de-roma-1_node-108-4.png",
+      "/images/roma/roma_rapto-de-las-sabinas-monarquia-de-roma-1_node-108-5.png",
+      "/images/roma/roma_screenshot-2024-09-10-at-3-39-30-pm-1_node-108-6.png"
+    ]
+  },
+  {
+    "id": "roma-republica",
+    "region": "roma",
+    "tipo": "evento",
+    "titulo": "Republica",
+    "fecha_inicio": -509,
+    "fecha_fin": -27,
+    "descripcion_corta": "Durante esta etapa la principal competidora fue la ciudad Punica de Cartago, las guerras Punicas llevaron a Roma a salir de sus fronteras naturales, y adquirir poco a poco nuevos territorios, como Cerdeña, Córcega, Hispania, Cercega, Lliria, Aparecieron las siglas SPQR “Senatus Populusque Romanus” “El senado y el pueblo romano”, se convirtieron en el simbolo de roma. Roma coninuó exandiendose, haciendose de la cuenta mediterrania, se extendio tanto que fueron dificilmente covernables con un cenado que dificilmente se movia de la capital en Roma, Italia. Ni de tomar desiciones Agiles. Fue entonces cuando aparecieron personajes ambiciosos como el general Julio Cesar, que no solo amplió los dominios de Roma, si no que también desafio la autoridad del senado Romano y revelo la importancia de poseer la autoridad sobre las tropas para obtener redito politico. Tras la guerra civil que lo enfrento a Pompello y al senado Julio Cesar se habia erigido en mandaratio absoluto en Roma, se había hecho nombrar “Dictator Perpetus”. Los miembros del senado no les agradó por lo que conspiraron contra el y lo acesinaron durante los itus de Marzo dentro del propio senado. Lo que suponía el respablecimiento de la Republica\n\nLa muerte de Julio Cesar supondria el restablecimiento de la republica, pero sin envargo seria en vano, ya que el hijo activo de Julio Cesar, Octavio se convertiría en el primer emperador Romano tras derrotar en batalla a los acesinos de Cesar y a su antiguo aliado (Marco Antonio). El poder de Octavio fue enorme. En el año 27 antes de cristo, se establecio una ficcion de normalidad politica en Roma, otorgando a Augusto por parte del senado el titulo de “Imperator Caesar Augustus” emperador significa vencedor en la batalla, era el comandante de todos los ejercitos, formalmente nunca aceptó el poder absoluto aunque si lo ejerció. Aseguró su poder manteniendo un equilibrio entre la aparencia republicana y la realidad de una monarquia dinastica.",
+    "imagenes": [
+      "/images/roma/roma_screenshot-2024-09-10-at-3-53-25-pm-1_node-109-8.png",
+      "/images/roma/roma_1024px-maccari-cicero-1_node-109-10.png",
+      "/images/roma/roma_senado-republica-romana-1_node-109-11.png",
+      "/images/roma/roma_spqr-1_node-109-12.png",
+      "/images/roma/roma_mapa-expansion-roma-republica-1_node-109-13.png",
+      "/images/roma/roma_141-galos-2-550x807-1_node-119-4.png",
+      "/images/roma/roma_783432294-235101413-1706x1280-1_node-122-15.png",
+      "/images/roma/roma_la-republica-romana-1_node-109-9.png"
+    ]
+  },
+  {
+    "id": "roma-dinastia-julio-claudia",
+    "region": "roma",
+    "tipo": "evento",
+    "titulo": "Dinastía Julio-Claudia",
+    "fecha_inicio": -27,
+    "fecha_fin": 68,
+    "descripcion_corta": "Entre el año 27 AC y el 68 DC existieron los emperadores Tiberio, Caligula, Claudio y Neron, quien se caracterizaba por la tirania y la extrabagancia, se le recuerda por ejecuciones sistematicas incluyendo la de su propia madre. Durante este periodo fue la Dinastía Julio-Claudia",
+    "imagenes": [
+      "/images/roma/roma_ca76146b-e3c8-423c-997e-91547bd9bd6e-1_node-121-5.png"
+    ]
+  },
+  {
+    "id": "roma-crucifixion-de-cristo",
+    "region": "roma",
+    "tipo": "evento",
+    "titulo": "Crucificcion de Cristo",
+    "fecha_inicio": 33,
+    "fecha_fin": null,
+    "descripcion_corta": "En el año 33DC se marca un antes y un después en la historia de la humanidad, en este año Jesús fue arrestado, juzgado y condenado a muerte bajo la autoridad del prefecto romano Poncio Pilato, a instancias de algunos líderes religiosos de Jerusalén y con el clamor de una parte del pueblo. Jesús fue crucificado tras ser acusado de blasfemia y por proclamarse el Mesías, el rey de los judíos. Este evento es central en la fe cristiana, ya que, según los creyentes, su muerte y posterior resurrección al tercer día significan la redención de los pecados de la humanidad. El impacto de este evento se extendió mucho más allá de su tiempo, dando origen al cristianismo, una religión que se expandiría por todo el Imperio Romano y más allá, influyendo profundamente en la historia, la cultura y la espiritualidad de la civilización occidental.",
+    "imagenes": [
+      "/images/roma/roma_manto-turin-1_node-124-18.png",
+      "/images/roma/roma_la-pasion-de-cristo-resurreccion-1_node-125-21.png",
+      "/images/roma/roma_pru2z5maxveaxcgvsirb22r76m-1_node-124-20.png",
+      "/images/roma/roma_cristo-1-1_node-124-19.png"
+    ]
+  },
+  {
+    "id": "roma-dinastia-flavia",
+    "region": "roma",
+    "tipo": "evento",
+    "titulo": "Dinastía Flavia",
+    "fecha_inicio": 69,
+    "fecha_fin": null,
+    "descripcion_corta": "Tras el año 68 a 69 donde existieron 4 emperadores se dió paso a la dinastía Flavia, esta epoca a lo lardo del siglo 2 fue la época dorada del imperio Romano, el iperio alcanza su máximo explendor, durante el imperio de Trajano Roma alcanzó su máxima expansión. El emperador cómodo, hijo de Marco Aulerio fue acesinado, y luego de eso el imperio se sumió en una época de confrontación civil. El emperador Septimio Severo asumio el cargo e inicio la Dinastia Severa, pero esta finalizó con el emperador Alejandro Severo",
+    "imagenes": [
+      "/images/roma/roma_screen-shot-2024-09-11-at-20-10-28-1_node-122-8.png",
+      "/images/roma/roma_screen-shot-2024-09-25-at-22-24-15-1_node-140-8.png"
+    ]
+  },
+  {
+    "id": "roma-crisis-del-siglo-3",
+    "region": "roma",
+    "tipo": "evento",
+    "titulo": "Crisis del siglo 3",
+    "fecha_inicio": 313,
+    "fecha_fin": null,
+    "descripcion_corta": "Fue un periodo de 50 años donde se producen fuertes presiones de los pueblos exteriores, y una fuerte crisis ecónomica, política, y social en el interior del Imperio. Tras una fase de Anarquia militar en donde la seguridad y la unidad del imperio peligraba, diferentes emperadores ligraron reunificar el imperio. La crisis se estabiliza con el ascenso del emperador Diocleciano que llevo a cabo un importante programa de reformas, comprendió que el imperio era demasiado grande para controlarlo, por lo que decidio trofearlo. Este periodo se conoce como la Tetrarquía o gobierno de 4 o sea que el imperio se dividia en 4 y cada uno gobernaba su parte. Se produjo la gran persecución de Dioclesiano, que fue la ultima y posiblemente la más sangrienta persecución de cristianos durante el imperio Romano. El sistema de la tetrarquía desenvoco en una lucha entre gobernantes en donde solo podia quedar un emperador, quien fue Constantino el grande quien legalizó la religión cristiana en el año 313. Convoco el primer concilio ecumenico universal en el año 325, donde se unifican los dogmas y se sientan las bases del credo oficial. La capital se pasa a Constantinopla.",
+    "imagenes": []
+  },
+  {
+    "id": "roma-cristianizacion",
+    "region": "roma",
+    "tipo": "evento",
+    "titulo": "Cristianización",
+    "fecha_inicio": 380,
+    "fecha_fin": null,
+    "descripcion_corta": "El emperador Teodosio el Grande tomó la decisión de convertir el cristianismo en la única religión oficial. Durante más de tres siglos, los cristianos fueron uno de los colectivos más perseguidos del Imperio Romano, ya que podían hacer peligrar pilares esenciales para la estabilidad del dominio romano, como el culto a los emperadores, un sistema político y económico que dependía de la guerra y una desigualdad clara entre clases, pueblos y sexos. Durante este periodo el imperio Romano inicia una epoca de declive. Tras la muerte del emperador Teodosio Roma se divide en dos (Oriente y Oxidente) y se reparte entre sus 2 hijos. Durante este periodo Roma era atacado por Varbaros. En el año 476 se produce la caida del imperio romano, pero el imperio de Oriente perduro por 1000 años más, se conoce como imperio Bizantino y cae en la caida de constantinopla 1453",
+    "imagenes": [
+      "/images/roma/roma_screen-shot-2024-09-25-at-22-08-43-1_node-138-7.png",
+      "/images/roma/roma_screen-shot-2024-09-25-at-23-00-50-1_node-141-12.png",
+      "/images/roma/roma_001-415-388-1_node-141-13.png",
+      "/images/roma/roma_saiba-tudo-sobre-a-comemoracao-do-aniversario-de-roma-na-italia-1080x675-1_node-141-14.png",
+      "/images/roma/roma_acueducto-segovia-98-1_node-141-15.png"
+    ]
+  },
+  {
+    "id": "roma-caida-del-imperio-romano",
+    "region": "roma",
+    "tipo": "evento",
+    "titulo": "Caída del imperio Romano",
+    "fecha_inicio": 476,
+    "fecha_fin": null,
+    "descripcion_corta": "La caída del Imperio Romano ocurrió en 476 d.C. cuando el último emperador de Occidente fue depuesto. Fue resultado de crisis internas como corrupción y problemas económicos, y de invasiones de tribus bárbaras. Este colapso marcó el fin de Roma Occidental y el inicio de la Edad Media en Europa.",
+    "imagenes": [
+      "/images/roma/roma_screen-shot-2024-09-25-at-22-56-53-1_node-141-11.png",
+      "/images/roma/roma_f-cole-thomas-the-course-of-empire-destruction-1836-apert-1_node-141-17.png"
+    ]
+  },
+  {
+    "id": "roma-barbaros-invasiones-barbaras",
+    "region": "roma",
+    "tipo": "evento",
+    "titulo": "Barbaros . invaciones Barbaras",
+    "fecha_inicio": 476,
+    "fecha_fin": null,
+    "descripcion_corta": "Los bárbaros eran grupos tribales que vivían fuera de las fronteras del Imperio Romano, y fueron llamados así por los romanos debido a sus lenguas y costumbres diferentes. Provenían de regiones como Germania, Escandinavia, y las estepas euroasiáticas. Entre ellos destacaban los godos, vándalos, hunos, sajones y francos. Estos pueblos protagonizaron varias invasiones durante la crisis del Imperio Romano, contribuyendo a su caída en el siglo V. A pesar de ser considerados incivilizados por los romanos, los bárbaros tenían sus propias estructuras sociales y culturales complejas.",
+    "imagenes": [
+      "/images/roma/roma_invasores-1_node-141-23.png"
+    ]
+  },
+  {
+    "id": "roma-imperio-galeria",
+    "region": "roma",
+    "tipo": "evento",
+    "titulo": "Imperio Romano — más imágenes",
+    "fecha_inicio": 150,
+    "fecha_fin": null,
+    "descripcion_corta": "",
+    "imagenes": [
+      "/images/roma/roma_imperio-romano-asesinato-de-julio-cesar-1_node-52-8.png",
+      "/images/roma/roma_screenshot-2024-08-30-at-11-29-09-pm-1_node-53-13.png",
+      "/images/roma/roma_2182-1_node-53-12.png",
+      "/images/roma/roma_panteon-de-roma-por-la-noche-1_node-53-10.png",
+      "/images/roma/roma_megaciudad-1200x640-1_node-53-11.png",
+      "/images/roma/roma_1366-2000-1_node-53-14.png",
+      "/images/roma/roma_coliseo-romano-en-3d-1_node-53-15.png"
+    ]
+  }
+]

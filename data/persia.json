@@ -1,0 +1,22 @@
+[
+  {
+    "id": "persia-imperio-persa",
+    "region": "persia",
+    "tipo": "evento",
+    "titulo": "Imperio persa",
+    "fecha_inicio": -550,
+    "fecha_fin": -331,
+    "descripcion_corta": "Fue un imperio de Asia Central que existió entre 550 y 331 a. C. Los persas construyeron el imperio más grande y poderoso de la época, conquistaron a los diferentes reinos de la Mesopotamia asiática, el Levante, Siria, los pueblos de Anatolia y parte de las ciudades griegas. A través de campañas militares, comenzaron a conquistar los pueblos de la región y construir un imperio que dominó los territorios de Palestina, Siria, Mesopotamia, Egipto, Anatolia, Tracia, Macedonia, Armenia hacia el oeste y toda el Asia Central hasta el río Indo, hacia el este. Ciro fue el lider de los persas quien fue muy poderoso y conquisto muchos territorios, conquistaron Babilonia y muchos otros lugares.  Primera guerra medica 492-490 AC, Segunda guerra medica 480-478 AC. video 300 7k vs 200k (murieron 20k persas) La caida del imperio Persa comenzó cuando asumió el poder Artajerjes, hijo de Jerjes, y luego quien fue el último rey de Persia: Darío III. Para este momento, Grecia había sido unificada bajo el poder del macedonio Alejandro Magno, que se puso como objetivo la conquista del Imperio persa. Alejandro Magno invadió el Imperio persa y su conquista se desarrolló a lo largo de tres batallas principales: la batalla del Gránico (334 a. C.), la batalla de Issos (333 a. C.) y, por último, la batalla de Gaugamela (331 a. C.), en la que el Imperio persa fue derrotado y Alejandro fue erigido como el nuevo rey.",
+    "imagenes": [
+      "/images/persia/persia_screenshot-2024-09-01-at-11-08-57-pm-1_node-70-107.png",
+      "/images/persia/persia_maxresdefault-1_node-70-108.png",
+      "/images/persia/persia_jerjes-i-1_node-70-109.png",
+      "/images/persia/persia_imperio-persa-2-e1579903767699-1_node-70-110.png",
+      "/images/persia/persia_images-1-1_node-71-111.png",
+      "/images/persia/persia_maxresdefault-1-1_node-71-112.png"
+    ],
+    "links": [
+      { "titulo": "Video de los persas", "url": "https://www.youtube.com/watch?v=9B8ryYMKj9k" }
+    ]
+  }
+]

@@ -1,0 +1,123 @@
+{
+  "regions": [
+    {
+      "id": "china",
+      "nombre": "Dinastías chinas",
+      "orden_vertical": -1,
+      "color": "var(--color-china)",
+      "fecha_inicio": -2070,
+      "fecha_fin": 220,
+      "subperiodos": [
+        { "nombre": "Dinastía Xia", "fecha_inicio": -2070, "fecha_fin": -1600 },
+        { "nombre": "Dinastía Shang", "fecha_inicio": -1600, "fecha_fin": -1046 },
+        { "nombre": "Dinastía Zhou", "fecha_inicio": -1046, "fecha_fin": -256 },
+        { "nombre": "Dinastía Qin", "fecha_inicio": -221, "fecha_fin": -206 },
+        { "nombre": "Dinastía Han", "fecha_inicio": -206, "fecha_fin": 220 }
+      ]
+    },
+    {
+      "id": "prehistoria",
+      "nombre": "Prehistoria",
+      "orden_vertical": 0,
+      "color": "var(--color-prehistoria)",
+      "fecha_inicio": -6000000,
+      "fecha_fin": -3300,
+      "subperiodos": [
+        { "nombre": "Primeros homínidos", "fecha_inicio": -6000000, "fecha_fin": -3600000 },
+        { "nombre": "Paleolítico", "fecha_inicio": -2500000, "fecha_fin": -10000 },
+        { "nombre": "Mesolítico", "fecha_inicio": -10000, "fecha_fin": -8000 },
+        { "nombre": "Neolítico", "fecha_inicio": -6500, "fecha_fin": -6000 },
+        { "nombre": "Edad de los metales", "fecha_inicio": -6000, "fecha_fin": -800 }
+      ]
+    },
+    {
+      "id": "mesopotamia",
+      "nombre": "Mesopotamia",
+      "orden_vertical": 1,
+      "color": "var(--color-mesopotamia)",
+      "fecha_inicio": -3500,
+      "fecha_fin": -1750,
+      "subperiodos": [
+        { "nombre": "Período de Uruk", "fecha_inicio": -3500, "fecha_fin": -2900 },
+        { "nombre": "Período dinástico arcaico", "fecha_inicio": -2900, "fecha_fin": -2334 },
+        { "nombre": "Reino de Akkad", "fecha_inicio": -2334, "fecha_fin": -2218 },
+        { "nombre": "Periodo Guti", "fecha_inicio": -2218, "fecha_fin": -2047 },
+        { "nombre": "Renacimiento sumerio", "fecha_inicio": -2047, "fecha_fin": -1792 },
+        { "nombre": "Imperio babilónico", "fecha_inicio": -1792, "fecha_fin": -1750 }
+      ]
+    },
+    {
+      "id": "egipto",
+      "nombre": "Antiguo Egipto",
+      "orden_vertical": 2,
+      "color": "var(--color-egipto)",
+      "fecha_inicio": -3150,
+      "fecha_fin": -31,
+      "subperiodos": [
+        { "nombre": "Arcaico", "fecha_inicio": -3150, "fecha_fin": -2700 },
+        { "nombre": "Antiguo", "fecha_inicio": -2700, "fecha_fin": -2050 },
+        { "nombre": "Medio", "fecha_inicio": -2050, "fecha_fin": -1550 },
+        { "nombre": "Nuevo", "fecha_inicio": -1550, "fecha_fin": -1060 }
+      ]
+    },
+    {
+      "id": "roma",
+      "nombre": "Antigua Roma",
+      "orden_vertical": 3,
+      "color": "var(--color-roma)",
+      "fecha_inicio": -753,
+      "fecha_fin": 476,
+      "subperiodos": [
+        { "nombre": "Monarquía", "fecha_inicio": -753, "fecha_fin": -509 },
+        { "nombre": "República", "fecha_inicio": -509, "fecha_fin": -27 },
+        { "nombre": "Imperio", "fecha_inicio": -27, "fecha_fin": 476 }
+      ]
+    },
+    {
+      "id": "persia",
+      "nombre": "Imperio persa",
+      "orden_vertical": 4,
+      "color": "var(--color-persia)",
+      "fecha_inicio": -550,
+      "fecha_fin": -331
+    },
+    {
+      "id": "grecia",
+      "nombre": "Antigua Grecia",
+      "orden_vertical": 5,
+      "color": "var(--color-grecia)",
+      "fecha_inicio": -1100,
+      "fecha_fin": -30,
+      "subperiodos": [
+        { "nombre": "Edad Oscura", "fecha_inicio": -1100, "fecha_fin": -776 },
+        { "nombre": "Epoca Arcaica", "fecha_inicio": -750, "fecha_fin": -499 },
+        { "nombre": "Periodo Clasico", "fecha_inicio": -499, "fecha_fin": -323 },
+        { "nombre": "Periodo Helenistico", "fecha_inicio": -323, "fecha_fin": -30 }
+      ]
+    },
+    {
+      "id": "edad-media",
+      "nombre": "Edad Media",
+      "orden_vertical": 6,
+      "color": "var(--color-edad-media)",
+      "fecha_inicio": 476,
+      "fecha_fin": 1492,
+      "subperiodos": [
+        { "nombre": "Temprana Edad Media", "fecha_inicio": 476, "fecha_fin": 1000 },
+        { "nombre": "Alta Edad Media", "fecha_inicio": 1000, "fecha_fin": 1453 }
+      ]
+    },
+    {
+      "id": "costa-rica",
+      "nombre": "Costa Rica",
+      "orden_vertical": 7,
+      "color": "var(--color-costa-rica)",
+      "fecha_inicio": -10000,
+      "fecha_fin": 500,
+      "subperiodos": [
+        { "nombre": "Primeros humanos en CR", "fecha_inicio": -10000, "fecha_fin": -7000 },
+        { "nombre": "Primeras sociedades casicales", "fecha_inicio": -300, "fecha_fin": 500 }
+      ]
+    }
+  ]
+}

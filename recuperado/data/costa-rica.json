@@ -1,0 +1,27 @@
+{
+  "region": "costa-rica",
+  "nombre_original": "Costa Rica",
+  "fecha_texto_original": "10 000 AC - 500 DC",
+  "node_id_figma": null,
+  "nota_estructura": "Igual que Edad Media y China: bloques sueltos sobre el canvas (Page 1), sin GROUP contenedor. La región más chica de toda la extracción — 2 sub-períodos, sin imágenes, con textos muy cortos (uno de ellos termina literalmente en '...' en el propio Figma).",
+  "posicion_aproximada": { "x": -25.0, "y": 8416.0, "width": 16736.0, "height": 529.0 },
+  "subperiodos": [
+    { "nombre": "Primeros humanos en CR", "fecha_texto_original": "10 000 AC", "fecha_fin_texto_original": "7000 AC", "node_id_figma": "278:6" },
+    { "nombre": "Primeras sociedades casicales", "fecha_texto_original": "300 AC", "fecha_fin_texto_original": "500 DC", "node_id_figma": "278:15" }
+  ],
+  "bloques": [
+    { "tipo": "texto", "contenido": "Costa Rica", "node_id_figma": "278:4", "posicion": { "x": -18, "y": 8416, "width": 286, "height": 39 } },
+
+    { "tipo": "barra_layout", "nombre_capa": "Rectangle 39", "color_hex": "#d9d9d9", "node_id_figma": "278:2", "posicion": { "x": -25, "y": 8470, "width": 10419, "height": 48 } },
+    { "tipo": "texto", "contenido": "Primeros humanos en CR", "node_id_figma": "278:6", "posicion": { "x": -18, "y": 8473, "width": 589, "height": 39 } },
+    { "tipo": "texto", "contenido": "10 000 AC", "node_id_figma": "278:8", "posicion": { "x": -18, "y": 8540, "width": 286, "height": 39 } },
+    { "tipo": "texto", "contenido": "7000 AC", "node_id_figma": "278:3", "posicion": { "x": 1229, "y": 8540, "width": 286, "height": 39 } },
+    { "tipo": "texto", "contenido": "Primeros humanos en CR entre el 10 000 y 7000 AC. Eran Nomadas, recolectores...", "node_id_figma": "278:12", "posicion": { "x": 0, "y": 8624, "width": 649, "height": 321 } },
+
+    { "tipo": "barra_layout", "nombre_capa": "Rectangle 40", "color_hex": "#d9d9d9", "node_id_figma": "278:10", "posicion": { "x": 10394, "y": 8470, "width": 6230, "height": 48 } },
+    { "tipo": "texto", "contenido": "Primeras sociedades casicales", "node_id_figma": "278:15", "posicion": { "x": 10416, "y": 8470, "width": 589, "height": 39 } },
+    { "tipo": "texto", "contenido": "300 AC", "node_id_figma": "278:14", "posicion": { "x": 10416, "y": 8537, "width": 286, "height": 39 } },
+    { "tipo": "texto", "contenido": "500 DC", "node_id_figma": "278:13", "posicion": { "x": 16481, "y": 8576, "width": 286, "height": 39 } },
+    { "tipo": "texto", "contenido": "Humanos dejan de ser nomadas, empiezan a crear primeras construcciones y a sembrar, empieza a aparecer las vacijas de cerámica", "node_id_figma": "278:16", "posicion": { "x": 10434, "y": 8621, "width": 649, "height": 38 } }
+  ]
+}

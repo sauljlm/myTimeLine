@@ -1,0 +1,261 @@
+[
+  {
+    "id": "prehistoria-primeros-hom-nidos-17",
+    "region": "prehistoria",
+    "tipo": "evento",
+    "titulo": "Ardipithecus - 4000 000 - 6000 000 AC",
+    "fecha_inicio": -6000000,
+    "fecha_fin": null,
+    "descripcion_corta": "Ardipithecus - 4000 000 - 6000 000 AC",
+    "imagenes": [
+      "/images/prehistoria/prehistoria_ardipithecus-ramidus-1_node-7-34.png"
+    ]
+  },
+  {
+    "id": "prehistoria-primeros-hom-nidos-18",
+    "region": "prehistoria",
+    "tipo": "evento",
+    "titulo": "Australopithecusanamensis - 4 000 000  AC",
+    "fecha_inicio": -4000000,
+    "fecha_fin": null,
+    "descripcion_corta": "Australopithecusanamensis - 4 000 000  AC",
+    "imagenes": [
+      "/images/prehistoria/prehistoria_australopithecus-image-matt-crow-nature-1120-1_node-7-36.png"
+    ]
+  },
+  {
+    "id": "prehistoria-primeros-hom-nidos-19",
+    "region": "prehistoria",
+    "tipo": "evento",
+    "titulo": "Australopithecus afarensis - 3 600 000 AC",
+    "fecha_inicio": -3600000,
+    "fecha_fin": null,
+    "descripcion_corta": "Australopithecus afarensis - 3 600 000 AC",
+    "imagenes": [
+      "/images/prehistoria/prehistoria_f-elconfidencial-com-original-b47-94f-d41-b4794fd412b80c150a_node-7-32.png"
+    ]
+  },
+  {
+    "id": "prehistoria-paleolitico-0",
+    "region": "prehistoria",
+    "tipo": "evento",
+    "titulo": "Los humanos eran nómadas y se refugiaban en cuevas para protegerse del",
+    "fecha_inicio": -2500000,
+    "fecha_fin": null,
+    "descripcion_corta": "Los humanos eran nómadas y se refugiaban en cuevas para protegerse del frío y de los animales salvajes. El gran evento de este período fue el descubrimiento y control del fuego, además de la creacion de primeras herramientas o armas de piedras.\n\nAparición de los primeros homínidos: Surgimiento del género Homo, con especies como Homo habilis en África. Se asocian con las primeras herramientas líticas.\n\nIndustria lítica Olduvayense: Las primeras herramientas de piedra conocidas (choppers y lascas), utilizadas para cortar carne y procesar alimentos.",
+    "imagenes": [
+      "/images/prehistoria/prehistoria_screenshot-2024-08-26-at-4-13-45-pm-1_node-6-30.png",
+      "/images/prehistoria/prehistoria_f9c17184176d88ff79e8aa87c0ed2d10-1_node-7-38.png",
+      "/images/prehistoria/prehistoria_homo-habilis-skull-naturmuseum-senckenberg-dsc02097-1_node-6-31.png",
+      "/images/prehistoria/prehistoria_paleolitico-inferior-1-1_node-8-39.png",
+      "/images/prehistoria/prehistoria_screenshot-2024-08-26-at-4-30-07-pm-1_node-8-41.png"
+    ]
+  },
+  {
+    "id": "prehistoria-paleolitico-1",
+    "region": "prehistoria",
+    "tipo": "evento",
+    "titulo": "Migración fuera de África",
+    "fecha_inicio": -1900000,
+    "fecha_fin": null,
+    "descripcion_corta": "Migración fuera de África: Los primeros homínidos comienzan a salir de África, expandiéndose a Asia y Europa.\n\nAparición del Homo Erectus",
+    "imagenes": [
+      "/images/prehistoria/prehistoria_screenshot-2024-08-26-at-4-25-09-pm-1_node-8-40.png"
+    ]
+  },
+  {
+    "id": "prehistoria-paleolitico-2",
+    "region": "prehistoria",
+    "tipo": "evento",
+    "titulo": "Dominio del fuego",
+    "fecha_inicio": -1500000,
+    "fecha_fin": null,
+    "descripcion_corta": "Dominio del fuego: Evidencias sugieren que Homo erectus y Homo ergaster empiezan a controlar el fuego, aunque no de forma generalizada. Esto permite cocinar alimentos, protección contra depredadores y mejor adaptación a diferentes climas.",
+    "imagenes": []
+  },
+  {
+    "id": "prehistoria-paleolitico-3",
+    "region": "prehistoria",
+    "tipo": "evento",
+    "titulo": "Expansión hacia Europa",
+    "fecha_inicio": -1200000,
+    "fecha_fin": null,
+    "descripcion_corta": "Expansión hacia Europa: Homo erectus y otros homínidos continúan su expansión por Eurasia, alcanzando sitios en lo que hoy es España, Francia e Italia.",
+    "imagenes": [
+      "/images/prehistoria/prehistoria_screenshot-2024-08-26-at-4-43-51-pm-1_node-8-48.png"
+    ]
+  },
+  {
+    "id": "prehistoria-paleolitico-4",
+    "region": "prehistoria",
+    "tipo": "evento",
+    "titulo": "Primer uso habitual del fuego",
+    "fecha_inicio": -800000,
+    "fecha_fin": null,
+    "descripcion_corta": "Primer uso habitual del fuego: Pruebas más frecuentes de fogatas controladas, especialmente en sitios en Israel, China y Europa.\nInnovaciones sociales: Se desarrollan campamentos de caza más complejos y las primeras formas de organización social.",
+    "imagenes": []
+  },
+  {
+    "id": "prehistoria-paleolitico-5",
+    "region": "prehistoria",
+    "tipo": "evento",
+    "titulo": "Primeras lanzas de madera",
+    "fecha_inicio": -400000,
+    "fecha_fin": null,
+    "descripcion_corta": "Primeras lanzas de madera: Descubrimiento de lanzas de madera en Schöningen, Alemania, utilizadas para la caza de grandes animales.\n\nConstrucción de refugios: Se encuentran evidencias de estructuras rudimentarias que podrían haber sido utilizadas como refugios. La más antigua en Francia",
+    "imagenes": []
+  },
+  {
+    "id": "prehistoria-paleolitico-6",
+    "region": "prehistoria",
+    "tipo": "evento",
+    "titulo": "Desarrollo del lenguaje",
+    "fecha_inicio": -300000,
+    "fecha_fin": null,
+    "descripcion_corta": "Desarrollo del lenguaje: Aunque no hay evidencia directa, se cree que el lenguaje comienza a desarrollarse en esta época, al menos en una forma primitiva.",
+    "imagenes": []
+  },
+  {
+    "id": "prehistoria-paleolitico-7",
+    "region": "prehistoria",
+    "tipo": "evento",
+    "titulo": "Cazadores especializados",
+    "fecha_inicio": -250000,
+    "fecha_fin": null,
+    "descripcion_corta": "Cazadores especializados: Homo heidelbergensis y neandertales se convierten en cazadores más eficientes, cazando animales grandes en grupos.",
+    "imagenes": []
+  },
+  {
+    "id": "prehistoria-paleolitico-8",
+    "region": "prehistoria",
+    "tipo": "evento",
+    "titulo": "Homo Neandertal",
+    "fecha_inicio": -127000,
+    "fecha_fin": null,
+    "descripcion_corta": "Homo Neandertal: \nVivian en Europa y Asia, Tenian mayor fortaleza fisica, Desarrollo de agarre con el pulgar, Desarrollo de lenguaje articulado.\n\nLos humanos, en continua evolución, alcanzaron la fase de hombre de Neandertal, que se caracterizó por su sofisticada inteligencia y por mejorar las armas que utilizaban para la caza, y realizar pinturas rupestres en las paredes.",
+    "imagenes": [
+      "/images/prehistoria/prehistoria_homo-neanderthalensis-1_node-8-44.png",
+      "/images/prehistoria/prehistoria_01-cave-art-neanderthals-1_node-8-49.png",
+      "/images/prehistoria/prehistoria_dolfywaw0ae2cxa-1_node-8-46.png",
+      "/images/prehistoria/prehistoria_arte-rupestre-2-e1587689753987-800x400-1_node-8-47.png"
+    ]
+  },
+  {
+    "id": "prehistoria-edad-de-hielo-10",
+    "region": "prehistoria",
+    "tipo": "evento",
+    "titulo": "Afecto a Europa y otras regiones del hemisferio norte",
+    "fecha_inicio": -127000,
+    "fecha_fin": null,
+    "descripcion_corta": "Afecto a Europa y otras regiones del hemisferio norte.\nEste enfriamiento tuvo impactos en las sociedades antiguas, como la reducción de tierras agrícolas productivas y cambios en los patrones de asentamiento debido al avance de glaciares y cambios en la disponibilidad de recursos. En este contexto, las civilizaciones tuvieron que adaptarse a condiciones climáticas más adversas, lo que posiblemente influyó en la migración de pueblos y el desarrollo de nuevas estrategias agrícolas y de supervivencia.\nSin embargo, esta no fue una \"edad de hielo\" en el sentido de una glaciación masiva, sino un período de enfriamiento climático que afectó la vida y el entorno de las sociedades de la época.",
+    "imagenes": [
+      "/images/prehistoria/prehistoria_pp-840x830-pad-1000x1000-f8f8f8-1_node-20-73.png",
+      "/images/prehistoria/prehistoria_oxford-dodo-display-1_node-20-72.png",
+      "/images/prehistoria/prehistoria_era-de-hielo-1-e1589292585629-1_node-13-63.png",
+      "/images/prehistoria/prehistoria_era-de-hielo-mamut-lanudo-e1556665369793-1_node-13-64.png",
+      "/images/prehistoria/prehistoria_e2243f9d18c341882a3611c3b3024c47-1_node-13-65.png",
+      "/images/prehistoria/prehistoria_sid-el-perezoso-gigante-3726-2-600-1_node-20-74.png"
+    ]
+  },
+  {
+    "id": "prehistoria-paleolitico-9",
+    "region": "prehistoria",
+    "tipo": "evento",
+    "titulo": "Homo Sapiens",
+    "fecha_inicio": -40000,
+    "fecha_fin": null,
+    "descripcion_corta": "Homo Sapiens: \nDesarrollo de lenguaje complejo.\nPensamiento lógico y abstracto.\nCapacidad creativa.\nOrganización social compleja.\nSedesplazaron alrededor del mundo\n\nEn este período se encuentra la mayor cantidad de evidencias del desarrollo artístico de la época, como las pinturas rupestres y pequeñas esculturas de arcilla o hueso. La evolución del humano alcanzó la fase de hombre de Cromañón, con una mayor capacidad para comunicarse.",
+    "imagenes": [
+      "/images/prehistoria/prehistoria_unnamed-1_node-8-50.png",
+      "/images/prehistoria/prehistoria_paleolitico-superior-1_node-10-53.png",
+      "/images/prehistoria/prehistoria_image-1_node-10-57.png",
+      "/images/prehistoria/prehistoria_bj-rn-christian-t-rrissen-wikimedia-1_node-10-56.png",
+      "/images/prehistoria/prehistoria_figura-2-punzones-del-paleolitico-superior-y-del-epipaleolit_node-10-52.png"
+    ]
+  },
+  {
+    "id": "prehistoria-mesolitico-11",
+    "region": "prehistoria",
+    "tipo": "evento",
+    "titulo": "Mejora en las técnicas del trabajo de la piedra, en forma pulida y ast",
+    "fecha_inicio": -10000,
+    "fecha_fin": null,
+    "descripcion_corta": "Mejora en las técnicas del trabajo de la piedra, en forma pulida y astillada. Además, primeros vestigios de asentamientos poblacionales y de rituales funerarios en los que se pueden observar rasgos de diferenciación social. Temina la glaciacion wurm, por lo que la temperatura aumenta y se extinguen muchas especies como el dodo, el mamut y el dientes de sable.\nfiguras humanas, además de animales, pintadas en el interior de las cavernas. Las escenas muestran grupos de humanos practicando cacería o algún ritual.\nAgricultura incipie",
+    "imagenes": [
+      "/images/prehistoria/prehistoria_mesolitico-1-e1715625141336-800x400-1_node-19-71.png",
+      "/images/prehistoria/prehistoria_images-1_node-22-75.png",
+      "/images/prehistoria/prehistoria_descubre-el-fascinante-arte-mesolitico-una-mirada-al-pasado-_node-19-70.png",
+      "/images/prehistoria/prehistoria_01-02-23-pinturas-1_node-19-69.png"
+    ]
+  },
+  {
+    "id": "prehistoria-neolitico-12",
+    "region": "prehistoria",
+    "tipo": "evento",
+    "titulo": "La sociedad pasa de ser nomada a sedentaria, hay una gran evolucion en",
+    "fecha_inicio": -6500,
+    "fecha_fin": null,
+    "descripcion_corta": "La sociedad pasa de ser nomada a sedentaria, hay una gran evolucion en la agricultura, domesticación de animales, Crecimiento de la población, División y diferenciación del trabajo, jerarquización social. creación de vasijas de cerámica. Se paso de una economía de subsistencia a una economía productiva.\n\nlos grupos de humanos comenzaron a intervenir en los ciclos naturales de las plantas y animales para su mejor aprovechamiento.\nEl origen de la ganadería está vinculado con la caza controlada. En principio, los grupos de cazadores-recolectores preservaban a los animales que se encontraban en edad reproductiva, para asegurarse el alimento futuro. Luego comenzaron a capturar animales y encerrarlos en corrales, para tener alimento disponible en caso de escasez.\n\nLa agricultura surgió a partir de la recolección cuando algunos grupos humanos empezaron a observar el crecimiento de las plantas, seleccionaron semillas, las plantaron y esperaron su crecimiento. Inicialmente, se practicaba de manera itinerante en terrenos generados por la quema y tala de bosques, pero el bajo rendimiento llevó a buscar tierras más fértiles, lo que dio lugar a los primeros campos de cultivo permanentes.\nEn distintas regiones, se desarrollaron diferentes cultivos:\nCercano Oriente: Trigo, cebada, mijo, lino, habas, vid, y olivo.\nChina: Arroz, algodón, mijo, y soja.\nMesoamérica: Calabaza, chiles, maíz, palta, y frijoles.\nAndes Centrales: Papa, mandioca, ají, calabaza, frijoles, lentejas, y algodón.\n\nDesarrollaron sistemas para almacenar la comida y construyeron chozas de planta redonda, semienterradas, con techos de ramas, juncos y pajas.\n\nMás tarde, con el desarrollo de los cultivos y la creación de rebaños de animales, el carácter estacional de la agricultura y el cuidado de la ganadería, llevó al establecimiento de una vida sedentaria de forma permanente. Estos primeros poblados, llamados aldeas, se establecieron en lugares fértiles, con acceso al agua y a las pasturas.\n\nMás tarde, con el desarrollo de los cultivos y la creación de rebaños de animales, el carácter estacional de la agricultura y el cuidado de la ganadería, llevó al establecimiento de una vida sedentaria de forma permanente. Estos primeros poblados, llamados aldeas, se establecieron en lugares fértiles, con acceso al agua y a las pasturas.\n\nLas aldeas estaban integradas por varias familias tenían sus rebaños de animales y sus campos de cultivo. Las familias cooperaban para la realización de tareas agrícolas, la defensa del poblado, la búsqueda de materiales y la construcción de viviendas y fortificaciones.\n El desarrollo de nuevas actividades económicas llevaron a la diferenciación de tareas y a la división del trabajo en oficios especializados, como la fabricación de herramientas, cerámicas, tejidos, y metales. Con el aumento de la producción de alimentos y la posibilidad de almacenar excedentes, las aldeas crecieron en población, lo que dio lugar a las primeras ciudades.\n\nEl crecimiento urbano provocó la jerarquización de la sociedad, con diferencias sociales según las tareas desempeñadas. Los comerciantes y artesanos tenían un estatus superior al de los campesinos, que producían los alimentos. Además, surgieron grupos dedicados exclusivamente a tareas políticas y religiosas, como sacerdotes y funcionarios, que ocupaban la cima de la escala social, encargándose del culto, la construcción de templos, la organización política, y la administración de los bienes de la comunidad.\n\nAdoraban las fuerzas de la naturaleza, especialmente a aquellos elementos que afectaban el desarrollo de la agricultura y la ganadería. El sol y la lluvia comenzaron a tener un lugar central en los ritos y las ceremonias religiosas.\nAdemás, crearon esculturas antropomorfas (de apariencia humana) con las que representaban a sus antepasados o a diferentes fuerzas que adoraban, como la fertilidad.\nDurante este periodo, el enterramiento de los muertos se convirtió en distintivo social entre los rituales de las diferentes poblaciones. Según las diferentes creencias, se inhumaba el cuerpo de diferentes maneras; por ejemplo, en el suelo rodeado de objetos de la vida cotidiana, o dentro de cestos o urnas de cerámica.\n\nEn Göbekli Tepe, Turquía, se encontró el santuario más antiguo del mundo.\n\nDurante el periodo Neolítico aparecieron los primeros monumentos megalíticos.",
+    "imagenes": [
+      "/images/prehistoria/prehistoria_neolitico-3-e1669831277768-1_node-23-84.png",
+      "/images/prehistoria/prehistoria_screenshot-2024-08-27-at-11-36-42-am-1_node-23-86.png",
+      "/images/prehistoria/prehistoria_screenshot-2024-08-27-at-11-07-26-am-1_node-22-76.png",
+      "/images/prehistoria/prehistoria_133-stonehenge1-26cc74ba-1280x720-1_node-23-79.png",
+      "/images/prehistoria/prehistoria_screenshot-2024-08-27-at-11-36-56-am-1_node-23-87.png",
+      "/images/prehistoria/prehistoria_screenshot-2024-08-27-at-3-31-59-pm-1_node-32-109.png",
+      "/images/prehistoria/prehistoria_como-eran-las-aldeas-en-el-neolitico-1024x650-1_node-23-88.png",
+      "/images/prehistoria/prehistoria_2gsjgna1uruvuus7ndh9yqvwygplvszbflwwpayxykhadzkwf1xr1wcn5xrk_node-22-77.png",
+      "/images/prehistoria/prehistoria_stonehenge-neolithic-houses-prehistoric-megalithic-260nw-726_node-23-89.png"
+    ]
+  },
+  {
+    "id": "prehistoria-edad-de-los-metales-13",
+    "region": "prehistoria",
+    "tipo": "evento",
+    "titulo": "se dan los orígenes de la metalurgia del cobre, los principios de la v",
+    "fecha_inicio": -6000,
+    "fecha_fin": null,
+    "descripcion_corta": "se dan los orígenes de la metalurgia del cobre, los principios de la vida urbana en el Próximo Oriente (protourbanismo) y el desarrollo de las primeras sociedades complejas (con jerarquización social).\n\n\nEdad de cobre\n\nEl trabajo de metales para la creación de utensilios, herramientas para arar la tierra, decoración y joyas como accesorios.\nLa agricultura, que se incrementó y mejoró con el uso de herramientas de piedra y de metal, además de técnicas innovadoras como los canales de riego.\nEl descubrimiento de la mezcla de metales a través de la fundición de dos o más elementos. Así surgió el bronce, tras la fundición de cobre con estaño.\nEl uso de diversos metales, como el oro, la plata, el estaño y el plomo.\nLa invención de la rueda que data de fines del Neolítico y comienzos de la Edad de los Metales. Se estima que fue creada por los sumerios, la civilización más antigua del Cercano Oriente.\nLas tribus sedentarias que aumentaron en cantidad y en densidad de habitantes, lo que dio origen a los primeros núcleos urbanos.\nLa construcción de viviendas y otros tipos de edificaciones, como templos, espacios de almacenamiento de bienes o salas de uso común para la actividad artesanal.\nLa aparición de megalitos, con fines rituales o religiosos, que consistían en enormes bloques de piedra, erigidos mediante algún sistema complejo de elevación.\nEl inicio de la metalurgia como oficio, que se expandió de manera gradual y lenta por todo el mundo.\nLas primeras embarcaciones de troncos y, luego, con una especie de vela para ser impulsadas por el viento, lo que permitía transportar elementos pesados.\nLos tejidos con hilos simples.",
+    "imagenes": [
+      "/images/prehistoria/prehistoria_edad-del-bronce-3-e1663872793952-1_node-31-106.png",
+      "/images/prehistoria/prehistoria_bronze-age-granger-1_node-31-104.png",
+      "/images/prehistoria/prehistoria_screenshot-2024-08-27-at-3-02-45-pm-1_node-31-107.png",
+      "/images/prehistoria/prehistoria_screenshot-2024-08-27-at-3-30-14-pm-1_node-32-108.png"
+    ]
+  },
+  {
+    "id": "prehistoria-edad-de-los-metales-14",
+    "region": "prehistoria",
+    "tipo": "evento",
+    "titulo": "Se caracterizó por el descubrimiento de la aleación como técnica para ",
+    "fecha_inicio": -3000,
+    "fecha_fin": null,
+    "descripcion_corta": "Se caracterizó por el descubrimiento de la aleación como técnica para fundir diferentes metales. Con la aleación del cobre con estaño, se dio origen al bronce, un metal más resistente. Apareció la vida urbana en varias poblaciones europeas y surgieron sociedades de jefatura.\n\nEdad de bronce",
+    "imagenes": [
+      "/images/prehistoria/prehistoria_br941-15-1_node-31-105.png"
+    ]
+  },
+  {
+    "id": "prehistoria-edad-de-los-metales-nota-aparte-16",
+    "region": "prehistoria",
+    "tipo": "evento",
+    "titulo": "La escritura surgió alrededor del año 3000 a",
+    "fecha_inicio": -3000,
+    "fecha_fin": null,
+    "descripcion_corta": "La escritura surgió alrededor del año 3000 a.C. en Mesopotamia y Egipto, con Mesopotamia posiblemente adelantándose un poco, dada la fecha de las tablillas de arcilla de Uruk (3300 a.C.). La inscripción más antigua de Egipto es la Paleta de Narmer, datada entre 3150 y 3050 a.C.\n\nEn China, la escritura aparece en los \"huesos oraculares\" de la civilización Shang (1200 a.C.), aunque signos más antiguos en cerámicas de la cultura Yangshao (5000-4000 a.C.) podrían ser precursores. \n\nEn Europa, la escritura lineal A de Creta data de 1750 a.C. y está relacionada con la escritura lineal B, usada en griego arcaico.\n\nEn América Central, la escritura olmeca, descubierta en los años 1990 y datada alrededor de 900 a.C., es la más antigua, antecediendo a la escritura jeroglífica maya.\n\nFechas clave para el origen de la escritura: Mesopotamia 3100 a.C., Egipto 3100-3000 a.C., Creta 1750 a.C., China 1200 a.C., América Central 900 a.C. Esto sugiere que la idea de la escritura se difundió gradualmente desde Mesopotamia a otras culturas.\n\nLeer más\n\nEl acontecimiento que marcó el fin de la prehistoria y el comienzo de la historia fue la creación del sistema de escritura, cuyos inicios se ubican en Mesopotamia y Egipto.",
+    "imagenes": [
+      "/images/prehistoria/prehistoria_screenshot-2024-08-28-at-5-15-06-pm-1_node-41-110.png",
+      "/images/prehistoria/prehistoria_screenshot-2024-08-28-at-5-59-32-pm-1_node-45-112.png"
+    ]
+  },
+  {
+    "id": "prehistoria-edad-de-los-metales-15",
+    "region": "prehistoria",
+    "tipo": "evento",
+    "titulo": "Edad de Hierro",
+    "fecha_inicio": -800,
+    "fecha_fin": null,
+    "descripcion_corta": "Edad de Hierro\n\nDurante esta etapa aparecieron los primeros Estados, se generalizó la utilización del hierro para la fabricación de armas y herramientas, y se dio la transición a la época histórica, con la aparición de la escritura. A medida que se incrementó la densidad de población en los diversos territorios, aumentaron los enfrentamientos bélicos, que le dieron al hierro un lugar preferencial en el desarrollo de las técnicas metalúrgicas.",
+    "imagenes": []
+  }
+]
