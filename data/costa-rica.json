@@ -18,5 +18,45 @@
     "fecha_fin": 500,
     "descripcion_corta": "Humanos dejan de ser nomadas, empiezan a crear primeras construcciones y a sembrar, empieza a aparecer las vacijas de cerámica",
     "imagenes": []
+  },
+  {
+    "id": "costarica-regiones-culturales",
+    "region": "costa-rica",
+    "tipo": "evento",
+    "titulo": "Regiones culturales precolombinas",
+    "fecha_inicio": 300,
+    "fecha_fin": null,
+    "descripcion_corta": "El territorio de la actual Costa Rica se divide arqueológicamente en tres grandes regiones culturales: la Gran Nicoya (noroeste), donde predominó la cultura chorotega, de origen mesoamericano, con una sociedad jerárquica con reyes y una fuerte clase sacerdotal; la Región Central y Caribe, conocida por sus metates trípode con panel colgante decorados con figuras mitológicas; y la región del Diquís (Gran Chiriquí, sur del país), famosa por sus esferas de piedra y una economía diversificada basada en el maíz, la yuca, el cacao, la pesca y la caza. Las tres regiones mantuvieron contacto e intercambio tanto con Mesoamérica como con Sudamérica.",
+    "imagenes": []
+  },
+  {
+    "id": "costarica-esferas-de-piedra",
+    "region": "costa-rica",
+    "tipo": "evento",
+    "titulo": "Esferas de piedra del Diquís",
+    "fecha_inicio": -300,
+    "fecha_fin": 300,
+    "descripcion_corta": "En el delta del río Diquís, en el sur de Costa Rica, las sociedades cacicales tallaron cientos de esferas de piedra casi perfectas, con diámetros de entre 10 centímetros y 2.57 metros, y un peso que puede superar las 16 toneladas. Se estima que fueron colocadas entre el 300 a. C. y el 300 d. C. como objetos ideológicos, políticos y ceremoniales, posiblemente vinculados a la jerarquía social o la organización del espacio de las aldeas. Son consideradas únicas en el mundo por su tamaño, cantidad y precisión geométrica, y la UNESCO las declaró Patrimonio Mundial de la Humanidad en 2014.",
+    "imagenes": []
+  },
+  {
+    "id": "costarica-vida-cotidiana",
+    "region": "costa-rica",
+    "tipo": "evento",
+    "titulo": "Cómo vivía la gente",
+    "fecha_inicio": 300,
+    "fecha_fin": null,
+    "descripcion_corta": "Las sociedades cacicales de Costa Rica se organizaban en cacicazgos: comunidades jerárquicas gobernadas por un cacique, con un consejo de ancianos y especialistas religiosos (chamanes). Vivían en aldeas de bohíos (viviendas circulares con techo de paja) agrupadas alrededor de la casa del cacique y áreas ceremoniales. Se dedicaban al cultivo de maíz, yuca, frijoles y tubérculos, complementado con caza, pesca y recolección. El jade, y más tarde el oro trabajado en la orfebrería, tenían un fuerte valor ceremonial y de estatus social: se usaban en collares y figuras que representaban animales considerados sagrados, como águilas, jaguares y cocodrilos.",
+    "imagenes": []
+  },
+  {
+    "id": "costarica-modelo-economico",
+    "region": "costa-rica",
+    "tipo": "evento",
+    "titulo": "Modelo económico",
+    "fecha_inicio": 300,
+    "fecha_fin": null,
+    "descripcion_corta": "La economía se basaba en la agricultura de subsistencia y el intercambio de bienes entre comunidades. Costa Rica funcionó como una zona de contacto cultural entre Mesoamérica y la región andina de Sudamérica, por lo que su territorio recibió influencias de ambas áreas. El jade (que no existe naturalmente en Costa Rica y llegaba por intercambio desde Guatemala) y, después, el oro trabajado localmente se usaban como bienes de prestigio que circulaban entre las élites de distintos cacicazgos, más que como una moneda de uso cotidiano. Las rutas de intercambio conectaban las tierras altas centrales con la costa Caribe y el Pacífico.",
+    "imagenes": []
   }
 ]

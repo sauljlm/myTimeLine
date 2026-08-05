@@ -18,5 +18,55 @@
     "links": [
       { "titulo": "Video de los persas", "url": "https://www.youtube.com/watch?v=9B8ryYMKj9k" }
     ]
+  },
+  {
+    "id": "persia-ciro-el-grande",
+    "region": "persia",
+    "tipo": "evento",
+    "titulo": "Ciro el Grande y el Cilindro de Ciro",
+    "fecha_inicio": -559,
+    "fecha_fin": -530,
+    "descripcion_corta": "Ciro II, conocido como \"el Grande\", fundó el Imperio Persa aqueménida y llegó a gobernar el imperio más extenso que había existido hasta entonces. Tras conquistar Babilonia en 539 a. C., liberó a los judíos allí cautivos y les permitió regresar a Jerusalén, respetando además las tradiciones religiosas y administrativas de los pueblos conquistados en lugar de imponerles las costumbres persas. El Cilindro de Ciro, un documento en cuneiforme descubierto en 1879, registra estos actos de clemencia y algunos historiadores lo consideran la primera declaración de derechos humanos de la historia.",
+    "imagenes": []
+  },
+  {
+    "id": "persia-persepolis",
+    "region": "persia",
+    "tipo": "evento",
+    "titulo": "Persépolis",
+    "fecha_inicio": -518,
+    "fecha_fin": null,
+    "descripcion_corta": "Darío I ordenó construir Persépolis a partir del 518 a. C. como capital ceremonial del imperio: una terraza monumental de 450 por 300 metros con palacios, el Salón de Audiencias (Apadana) sostenido por columnas de 25 metros de altura, y relieves esculpidos que muestran a delegaciones de todos los pueblos del imperio llevando tributos al rey. La ciudad fue saqueada e incendiada por Alejandro Magno en 330 a. C., pero sus ruinas se conservan hasta hoy y fueron declaradas Patrimonio de la Humanidad por la UNESCO en 1979.",
+    "imagenes": []
+  },
+  {
+    "id": "persia-zoroastrismo",
+    "region": "persia",
+    "tipo": "evento",
+    "titulo": "Zoroastrismo",
+    "fecha_inicio": -600,
+    "fecha_fin": null,
+    "descripcion_corta": "El zoroastrismo, fundado por el profeta Zoroastro (Zaratustra), fue la religión oficial de varias dinastías persas, incluyendo la de Ciro el Grande. Se basa en el culto a un único dios, Ahura Mazda, y en la idea de una lucha cósmica entre el bien y el mal en la que cada persona debe elegir libremente su bando. Algunos historiadores sostienen que conceptos como el cielo y el infierno, los ángeles y demonios, y el juicio final llegaron al judaísmo, al cristianismo y al islam a través del contacto con el zoroastrismo persa, especialmente durante el cautiverio judío en Babilonia.",
+    "imagenes": []
+  },
+  {
+    "id": "persia-vida-cotidiana",
+    "region": "persia",
+    "tipo": "evento",
+    "titulo": "Cómo vivía la gente",
+    "fecha_inicio": -520,
+    "fecha_fin": null,
+    "descripcion_corta": "El Imperio Persa fue notablemente tolerante con los pueblos conquistados: respetaba sus religiones, idiomas y costumbres locales a cambio de lealtad y tributo. La religión oficial era el zoroastrismo, centrado en el dios Ahura Mazda y la lucha entre el bien y el mal, aunque convivía con otras religiones del imperio, como el judaísmo (Ciro el Grande permitió el regreso de los judíos de su cautiverio en Babilonia y la reconstrucción del Templo de Jerusalén). La sociedad giraba en torno a la corte real, la nobleza guerrera y una amplia burocracia de escribas, con el arameo como lengua administrativa común entre pueblos que hablaban decenas de idiomas distintos.",
+    "imagenes": []
+  },
+  {
+    "id": "persia-modelo-economico",
+    "region": "persia",
+    "tipo": "evento",
+    "titulo": "Modelo económico",
+    "fecha_inicio": -520,
+    "fecha_fin": null,
+    "descripcion_corta": "El imperio se dividía en provincias llamadas satrapías, cada una gobernada por un sátrapa que recaudaba tributos fijos en oro, plata o productos locales para la corona. Darío I estandarizó el sistema fiscal y acuñó el dárico, una moneda de oro que facilitó el comercio a larga distancia. Una extensa red de caminos, entre ellos el Camino Real de más de 2400 km entre Susa y Sardes, conectaba el imperio y permitía un servicio de correo rápido (los mensajeros del sistema angarium, antecesor de las postas), además de facilitar el movimiento de tropas y mercancías entre Egipto, Mesopotamia, Anatolia y el valle del Indo.",
+    "imagenes": []
   }
 ]

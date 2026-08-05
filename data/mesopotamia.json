@@ -89,6 +89,66 @@
     "imagenes": []
   },
   {
+    "id": "mesopotamia-vida-cotidiana",
+    "region": "mesopotamia",
+    "tipo": "evento",
+    "titulo": "Cómo vivía la gente",
+    "fecha_inicio": -3200,
+    "fecha_fin": null,
+    "descripcion_corta": "La mayoría de la población eran campesinos que vivían en aldeas alrededor de las ciudades, cultivando cebada, trigo, dátiles y hortalizas gracias a los canales de riego del Tigris y el Éufrates. Las casas se construían con ladrillos de adobe secados al sol, con pocas ventanas para protegerse del calor. La sociedad estaba dividida en hombres libres, dependientes de los templos o el palacio, y esclavos (casi siempre prisioneros de guerra o deudores insolventes). Las familias eran patriarcales y el matrimonio se formalizaba con contratos escritos en tablillas de arcilla. La religión politeísta impregnaba la vida diaria: cada ciudad tenía un dios patrono propio, y el zigurat funcionaba a la vez como centro religioso, administrativo y económico.",
+    "imagenes": []
+  },
+  {
+    "id": "mesopotamia-modelo-economico",
+    "region": "mesopotamia",
+    "tipo": "evento",
+    "titulo": "Modelo económico",
+    "fecha_inicio": -3100,
+    "fecha_fin": null,
+    "descripcion_corta": "La economía se basaba en la agricultura de regadío y en el excedente de grano que esta producía. Templos y palacios administraban gran parte de la tierra y el ganado, y llevaban registros contables en tablillas cuneiformes: de hecho, la escritura cuneiforme nació hacia el 3200 a. C. como un sistema de contabilidad para anotar cosechas, impuestos y transacciones, no como literatura. El comercio a larga distancia (con Anatolia, el Golfo Pérsico y el valle del Indo) intercambiaba grano y textiles por metales, madera y piedras preciosas que Mesopotamia no producía localmente. No existía moneda acuñada: los pagos se hacían en cebada o en plata pesada por peso (el siclo). El Código de Hammurabi también fijaba precios, salarios y reglas para los contratos comerciales.",
+    "imagenes": []
+  },
+  {
+    "id": "mesopotamia-epopeya-de-gilgamesh",
+    "region": "mesopotamia",
+    "tipo": "evento",
+    "titulo": "Epopeya de Gilgamesh",
+    "fecha_inicio": -2100,
+    "fecha_fin": null,
+    "descripcion_corta": "Considerada la obra literaria más antigua conservada de la humanidad, la Epopeya de Gilgamesh narra las aventuras del rey de Uruk (que probablemente existió hacia el 2700 a. C.) y su amigo Enkidu, y la desesperada búsqueda de la inmortalidad de Gilgamesh tras la muerte de este. El poema incluye un relato de un diluvio universal muy similar al del arca de Noé, escrito siglos antes que la versión bíblica. Ofrece una ventana única a las creencias religiosas, la organización social y la visión del mundo de los mesopotámicos, contada en sus propias palabras, e influyó en obras posteriores como la Ilíada y la Odisea.",
+    "imagenes": []
+  },
+  {
+    "id": "mesopotamia-matematicas-y-astronomia",
+    "region": "mesopotamia",
+    "tipo": "evento",
+    "titulo": "Matemáticas y astronomía babilónicas",
+    "fecha_inicio": -1800,
+    "fecha_fin": null,
+    "descripcion_corta": "Los babilonios desarrollaron un sistema numérico posicional en base 60 (sexagesimal), del que todavía heredamos los 60 minutos de una hora y los 360 grados de un círculo. Con él resolvían ecuaciones cuadráticas, calculaban raíces cuadradas y manejaban tablas de multiplicar; la tablilla Plimpton 322 muestra que ya conocían ternas pitagóricas más de mil años antes de Pitágoras. En astronomía, registraron eclipses y movimientos planetarios durante generaciones, lo que les permitió predecir fenómenos celestes con notable precisión, un conocimiento que influiría directamente en astrónomos griegos posteriores como Hiparco y Ptolomeo.",
+    "imagenes": []
+  },
+  {
+    "id": "mesopotamia-codigo-de-hammurabi",
+    "region": "mesopotamia",
+    "tipo": "evento",
+    "titulo": "Código de Hammurabi",
+    "fecha_inicio": -1754,
+    "fecha_fin": null,
+    "descripcion_corta": "Tallado en una estela de piedra hacia 1754 a. C., el Código de Hammurabi es uno de los primeros conjuntos de leyes escritas de la historia: 282 artículos que regulaban desde el comercio y la propiedad hasta el matrimonio, el divorcio y los honorarios de médicos y arquitectos. Es célebre por el principio de la \"ley del talión\" (ojo por ojo, diente por diente), aunque en la práctica los castigos variaban según la clase social: dañar el ojo de un noble se pagaba con el propio ojo, pero dañar el de un plebeyo se pagaba con plata. Aun así, representó un intento pionero de codificar la justicia y limitar la venganza privada, sentando un precedente para los sistemas legales posteriores.",
+    "imagenes": []
+  },
+  {
+    "id": "mesopotamia-imperio-asirio",
+    "region": "mesopotamia",
+    "tipo": "evento",
+    "titulo": "Imperio Asirio",
+    "fecha_inicio": -911,
+    "fecha_fin": -612,
+    "descripcion_corta": "Los asirios, con capital en Nínive, construyeron uno de los imperios más temidos de Mesopotamia gracias a un ejército profesional y tácticas de guerra brutales, incluyendo deportaciones masivas de poblaciones conquistadas. Su último gran rey, Asurbanipal (668-627 a. C.), reunió en Nínive la primera gran biblioteca sistemáticamente organizada del mundo antiguo, con más de 20 000 tablillas cuneiformes sobre historia, ciencia, magia y literatura, entre ellas la copia más completa conocida de la Epopeya de Gilgamesh. El imperio cayó en el 612 a. C., cuando una coalición de babilonios, medos y persas destruyó Nínive e incendió la biblioteca.",
+    "imagenes": []
+  },
+  {
     "id": "mesopotamia-imperio-babilonico",
     "region": "mesopotamia",
     "tipo": "evento",

@@ -6,7 +6,7 @@
     "titulo": "Dinastía Xia",
     "fecha_inicio": -2070,
     "fecha_fin": -1600,
-    "descripcion_corta": "Asia Oriental",
+    "descripcion_corta": "Considerada la primera dinastía china según la tradición histórica, aunque su existencia solo se ha podido confirmar parcialmente con evidencia arqueológica (asociada a la cultura Erlitou). Se le atribuye el desarrollo de los primeros sistemas de irrigación y el uso temprano del bronce en China.",
     "imagenes": []
   },
   {
@@ -16,7 +16,7 @@
     "titulo": "Dinastía Shang",
     "fecha_inicio": -1600,
     "fecha_fin": -1046,
-    "descripcion_corta": "",
+    "descripcion_corta": "Primera dinastía china con evidencia escrita confirmada: los huesos oraculares, usados para adivinación, contienen la forma más antigua conocida de escritura china. Desarrollaron una metalurgia del bronce muy avanzada (vasijas rituales) y una sociedad centrada en el culto a los ancestros y la realeza.",
     "imagenes": []
   },
   {
@@ -26,7 +26,27 @@
     "titulo": "Dinastía Zhou",
     "fecha_inicio": -1046,
     "fecha_fin": -256,
-    "descripcion_corta": "",
+    "descripcion_corta": "La dinastía más larga de la historia china. Introdujo el concepto del \"Mandato del Cielo\" para legitimar el poder imperial, y fue la época de mayor florecimiento filosófico: durante el período de las Cien Escuelas de Pensamiento surgieron Confucio (confucianismo), Laozi (taoísmo) y Sun Tzu (autor de El arte de la guerra). Sus últimos siglos, el Período de los Reinos Combatientes, fueron de guerra casi constante entre estados rivales.",
+    "imagenes": []
+  },
+  {
+    "id": "china-vida-cotidiana",
+    "region": "china",
+    "tipo": "evento",
+    "titulo": "Cómo vivía la gente",
+    "fecha_inicio": -800,
+    "fecha_fin": null,
+    "descripcion_corta": "La sociedad china antigua estaba profundamente marcada por el confucianismo, que enfatizaba el respeto a los mayores, la piedad filial y una jerarquía social clara: el emperador, los funcionarios-eruditos, los campesinos, los artesanos y, en el nivel más bajo, los comerciantes (vistos con recelo pese a su riqueza, por considerárselos poco productivos). La mayoría de la población eran campesinos que cultivaban mijo y arroz en pequeñas parcelas familiares, viviendo en aldeas agrupadas por clanes. La familia extensa y el culto a los ancestros eran el centro de la vida espiritual y social, y el acceso a la educación —y por tanto a la burocracia estatal— se convirtió, sobre todo desde la dinastía Han, en la principal vía de ascenso social a través de exámenes imperiales.",
+    "imagenes": []
+  },
+  {
+    "id": "china-modelo-economico",
+    "region": "china",
+    "tipo": "evento",
+    "titulo": "Modelo económico",
+    "fecha_inicio": -800,
+    "fecha_fin": null,
+    "descripcion_corta": "La economía se basaba en la agricultura intensiva (mijo en el norte, arroz en el sur), controlada por un Estado que cobraba impuestos en grano, trabajo (corvea) o servicio militar, y que llegó a monopolizar la producción de sal y hierro para financiar el gobierno. Con la dinastía Han se abrió la Ruta de la Seda, una red de rutas comerciales terrestres que conectaba China con India, Persia y el Mediterráneo, exportando seda, porcelana y té a cambio de caballos, vidrio, especias y metales preciosos. La moneda circulaba como monedas de bronce con un agujero cuadrado en el centro, que podían ensartarse en cuerdas para contar grandes cantidades con facilidad.",
     "imagenes": []
   },
   {
@@ -36,7 +56,7 @@
     "titulo": "Dinastía Qin",
     "fecha_inicio": -221,
     "fecha_fin": -206,
-    "descripcion_corta": "Era Imperial",
+    "descripcion_corta": "Aunque duró apenas 15 años, Qin Shi Huang unificó por primera vez toda China bajo un solo imperio (Era Imperial), estandarizó la escritura, la moneda y las medidas, y comenzó la construcción de la Gran Muralla uniendo murallas previas de los reinos combatientes. Se hizo enterrar junto a un ejército de miles de guerreros de terracota. Gobernó bajo una filosofía legalista, basada en leyes estrictas y castigos severos.",
     "imagenes": []
   },
   {
@@ -46,7 +66,17 @@
     "titulo": "Dinastía Han",
     "fecha_inicio": -206,
     "fecha_fin": 220,
-    "descripcion_corta": "",
+    "descripcion_corta": "Considerada una de las edades doradas de la civilización china: se consolidó la burocracia imperial basada en exámenes de mérito confuciano, se inventó el papel, y se abrió la Ruta de la Seda, conectando China con Asia Central, Persia y el Mediterráneo. Es tan influyente que el grupo étnico mayoritario de China todavía se llama \"han\" en su honor.",
+    "imagenes": []
+  },
+  {
+    "id": "china-cuatro-grandes-invenciones",
+    "region": "china",
+    "tipo": "evento",
+    "titulo": "Las Cuatro Grandes Invenciones",
+    "fecha_inicio": 105,
+    "fecha_fin": null,
+    "descripcion_corta": "China es la cuna de cuatro inventos que cambiarían el mundo entero. La brújula (una cuchara imantada que señalaba el sur) ya se usaba en el período de los Reinos Combatientes (475-221 a. C.). El papel se inventó durante la dinastía Han: hacia el año 105, el funcionario Cai Lun perfeccionó su fabricación a partir de corteza de árbol, cáñamo y trapos viejos. Siglos más tarde, ya en las dinastías Tang y Song, se desarrolló la imprenta (primero con bloques de madera, luego con tipos móviles hacia 1040) y se empezó a usar la pólvora en la guerra (desde el año 919). Estos cuatro inventos llegarían a Europa siglos después, a través de la Ruta de la Seda y el mundo islámico, transformando para siempre la escritura, la guerra y la navegación en todo el planeta.",
     "imagenes": []
   }
 ]

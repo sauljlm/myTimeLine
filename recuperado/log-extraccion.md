@@ -3,6 +3,97 @@
 Archivo: `linea-de-tiempo` (file key `FRjJVn7qbxAXt8Ke2naGU6`)
 Método de acceso: Figma REST API (Personal Access Token)
 
+## Auditoría de completitud (posterior a las 9 regiones)
+
+Antes de agregar contenido nuevo, se verificó programáticamente que no
+faltara nada del archivo de Figma original:
+- Los 95 nodos sueltos de nivel superior (Edad Media, China, Costa Rica)
+  están cubiertos 1:1 contra el respaldo — 0 faltantes.
+- Los 118 nodos descendientes de Prehistoria y los 224 de "Edad antigua"
+  (excluyendo los 5 sub-grupos de civilización) están cubiertos — 0
+  faltantes, salvo 4 nodos (`45:114`, `45:115`, `52:4`, `52:5`) que eran
+  el encabezado GENERAL del grupo "Edad antigua" (barra + título + imagen
+  + párrafo introductorio que engloba a las 5 civilizaciones, no propio de
+  ninguna). Se agregaron como evento `edad-antigua-intro` dentro de
+  `data/mesopotamia.json` (la región cronológicamente más temprana de las
+  5), ya que el texto empieza justo en esa columna de fecha. La imagen
+  (`52:4`) quedó pendiente de descargar — el endpoint de exportación de
+  Figma volvió a quedar con rate-limit justo al intentarlo; el node id y
+  la posición ya están anotados en `recuperado/data/mesopotamia.json`
+  para bajarla después.
+- Cada imagen y cada texto largo (>40 caracteres) de cada respaldo se
+  verificó contra el JSON del sitio correspondiente — 0 imágenes y 0
+  textos perdidos en la síntesis, en las 9 regiones.
+
+## Contenido NUEVO agregado (no es extracción de Figma)
+
+A partir de acá se agregaron ~18 eventos que **no vienen de Figma** —
+son contenido histórico redactado directamente para completar temas que
+el archivo original no cubría: cómo vivía la gente (vida cotidiana) y
+modelo económico de cada civilización, más dos diagramas jerárquicos de
+estructura social (Egipto y Roma) usando el componente que ya existía en
+el sitio para ese propósito. Se agregaron a las 9 regiones:
+Prehistoria, Mesopotamia, Antiguo Egipto, Antigua Roma, Imperio Persa,
+Antigua Grecia, Edad Media, Dinastías chinas y Costa Rica.
+
+Estos eventos NO tienen `node_id_figma` ni aparecen en los respaldos de
+`recuperado/data/` — viven únicamente en `data/*.json`, para que quede
+claro que son contenido añadido, no una extracción fiel del diseño
+original.
+
+## Expansión de Edad Media (contenido nuevo, investigado)
+
+El usuario indicó que en Figma apenas había empezado esta sección, y
+pidió una investigación a fondo para completarla. Se investigaron (vía
+búsqueda web, con fuentes verificables) y se agregaron 11 eventos
+nuevos que no existían ni en Figma ni en la síntesis anterior:
+
+- Imperio Bizantino y Justiniano (527-565)
+- Reconquista española (711-1492)
+- Innovaciones agrícolas medievales (arado pesado, collera rígida,
+  rotación de tres campos — siglo XI)
+- Gran Cisma de Oriente (1054)
+- Las Cruzadas (1095-1291)
+- Liga Hanseática y repúblicas marítimas italianas
+- Magna Carta (1215)
+- Invasión mongola de Europa — batallas de Legnica y Mohi (1241)
+- Gran Hambruna (1315-1317)
+- Cisma de Occidente (1378-1417)
+- Juana de Arco (1429-1431)
+
+La región pasó de 16 a 27 eventos, y se mantuvo en solo 4 filas (sin
+necesidad de ampliar más la escala) gracias al tramo de densidad ya
+agregado antes para esta región.
+
+## Expansión de las 8 regiones restantes (contenido nuevo, investigado)
+
+Se repitió el mismo proceso (investigación vía búsqueda web + redacción)
+para el resto del sitio:
+
+- **Persia** (3→6 eventos): Ciro el Grande y el Cilindro de Ciro,
+  Persépolis, Zoroastrismo.
+- **Costa Rica** (4→6 eventos): Regiones culturales precolombinas
+  (Gran Nicoya/Chorotega, Central-Caribe, Diquís), Esferas de piedra
+  del Diquís (Patrimonio UNESCO).
+- **Antigua Grecia** (6→9 eventos): Guerra del Peloponeso, Teatro
+  griego, Alejandro Magno.
+- **China** (7→8 eventos): Las Cuatro Grandes Invenciones (brújula,
+  papel, imprenta, pólvora).
+- **Mesopotamia** (11→15 eventos): Epopeya de Gilgamesh, Matemáticas y
+  astronomía babilónicas (sistema sexagesimal), Código de Hammurabi
+  (evento dedicado), Imperio Asirio (biblioteca de Asurbanipal).
+- **Antiguo Egipto** (10→14 eventos): Mitología egipcia, Momificación y
+  creencias sobre el más allá, Piedra de Rosetta y desciframiento de
+  jeroglíficos, Cleopatra y la dinastía ptolemaica.
+- **Antigua Roma** (13→17 eventos): Ley de las Doce Tablas y derecho
+  romano, Julio César y las Guerras de las Galias, Ingeniería romana,
+  Las legiones romanas.
+- **Prehistoria** (22→23 eventos): Revolución cognitiva (ya tenía
+  cobertura muy extensa, se agregó solo lo que faltaba).
+
+**Total del sitio: de 92 a 125 eventos** (+33). Verificado: 0
+solapamientos en las 9 regiones tras la expansión.
+
 ## Región: Prehistoria (node `45:113`)
 
 **Estado: Completa.**

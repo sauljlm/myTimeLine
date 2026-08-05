@@ -34,6 +34,46 @@
     ]
   },
   {
+    "id": "roma-ley-de-las-doce-tablas",
+    "region": "roma",
+    "tipo": "evento",
+    "titulo": "Ley de las Doce Tablas y el derecho romano",
+    "fecha_inicio": -450,
+    "fecha_fin": null,
+    "descripcion_corta": "Hacia el 450 a. C., Roma promulgó la Ley de las Doce Tablas, el primer código legal escrito de la República, expuesto públicamente en el Foro para que todos los ciudadanos —no solo los patricios— pudieran conocer sus derechos y obligaciones. A partir de esta base, los romanos desarrollaron a lo largo de los siglos un sofisticado sistema de derecho civil, con conceptos como la presunción de inocencia, los contratos, la propiedad privada y el debido proceso, que el emperador bizantino Justiniano compilaría siglos después en el Corpus Juris Civilis. El derecho romano se convirtió en la base de los sistemas legales de gran parte de Europa continental y América Latina hasta hoy.",
+    "imagenes": []
+  },
+  {
+    "id": "roma-julio-cesar-y-las-galias",
+    "region": "roma",
+    "tipo": "evento",
+    "titulo": "Julio César y las Guerras de las Galias",
+    "fecha_inicio": -58,
+    "fecha_fin": -49,
+    "descripcion_corta": "Entre el 58 y el 51 a. C., Julio César conquistó la Galia (la actual Francia) en una larga serie de campañas militares que le dieron enorme prestigio, riqueza y el apoyo del pueblo romano, además de un ejército personal extremadamente leal. El 10 de enero del 49 a. C., desafiando la prohibición del senado de cruzar con sus tropas el río Rubicón (el límite entre su provincia y el territorio bajo jurisdicción directa de Roma), César avanzó hacia Italia con la Legión XIII, desatando una guerra civil que ganaría en el 45 a. C., convirtiéndose en dictador perpetuo de Roma. Su célebre frase \"alea iacta est\" (\"la suerte está echada\") se pronunció, según la tradición, en ese mismo cruce.",
+    "imagenes": []
+  },
+  {
+    "id": "roma-ingenieria-romana",
+    "region": "roma",
+    "tipo": "evento",
+    "titulo": "Ingeniería romana",
+    "fecha_inicio": -100,
+    "fecha_fin": null,
+    "descripcion_corta": "Los romanos fueron maestros de la ingeniería práctica: construyeron más de 400 000 km de calzadas que conectaban todo el imperio con Roma, pavimentadas con piedra volcánica y diseñadas para durar siglos (muchas siguen en uso). Sus acueductos transportaban agua a las ciudades usando solo la gravedad, a través de canales subterráneos y puentes monumentales, abasteciendo baños públicos, fuentes y viviendas privadas. La invención del hormigón romano —una mezcla que se fortalece con el tiempo, incluso bajo el agua— les permitió construir obras como el Coliseo (con capacidad para 50 000 espectadores) o el Panteón, cuya cúpula de hormigón sigue siendo la más grande del mundo sin refuerzos de acero.",
+    "imagenes": []
+  },
+  {
+    "id": "roma-las-legiones",
+    "region": "roma",
+    "tipo": "evento",
+    "titulo": "Las legiones romanas",
+    "fecha_inicio": -100,
+    "fecha_fin": null,
+    "descripcion_corta": "La legión, la unidad militar más grande e icónica del ejército romano, estaba compuesta por unos 5000 soldados de infantería (legionarios), organizados en cohortes de aproximadamente 480 hombres, que a su vez se dividían en centurias de 80. Esta estructura flexible permitía a las legiones combatir como un bloque compacto o dividirse en unidades más pequeñas según la situación del combate. Solo los ciudadanos romanos podían alistarse como legionarios, a cambio de paga, tierras al retirarse y la posibilidad de ascenso social; esta disciplina, organización jerárquica y logística superó a la de cualquier ejército de su época y sirvió de modelo para ejércitos posteriores hasta la actualidad.",
+    "imagenes": []
+  },
+  {
     "id": "roma-dinastia-julio-claudia",
     "region": "roma",
     "tipo": "evento",
@@ -123,6 +163,41 @@
     "imagenes": [
       "/images/roma/roma_invasores-1_node-141-23.png"
     ]
+  },
+  {
+    "id": "roma-estructura-social",
+    "region": "roma",
+    "tipo": "diagrama_jerarquico",
+    "titulo": "Estructura social",
+    "fecha_inicio": 100,
+    "niveles": [
+      "Emperador",
+      "Senadores y patricios",
+      "Caballeros (equites) y plebeyos ricos",
+      "Plebeyos libres",
+      "Libertos (esclavos liberados)",
+      "Esclavos"
+    ]
+  },
+  {
+    "id": "roma-vida-cotidiana",
+    "region": "roma",
+    "tipo": "evento",
+    "titulo": "Cómo vivía la gente",
+    "fecha_inicio": 100,
+    "fecha_fin": null,
+    "descripcion_corta": "La mayoría de los romanos, sobre todo en la capital, vivían en insulae: edificios de varios pisos apretados entre sí y con riesgo de incendio, muy distintos de las domus de las familias acomodadas. El Estado organizaba \"panem et circenses\" (pan y circo): distribución gratuita o subsidiada de grano y espectáculos públicos (gladiadores, carreras de carros) para mantener contenta a la plebe urbana. Las termas públicas eran el centro de la vida social diaria, abiertas a casi todas las clases sociales. La familia giraba en torno al pater familias, con autoridad legal casi absoluta sobre esposa, hijos y esclavos. La esclavitud era masiva y transversal a toda la economía: se calcula que hasta un tercio de la población de Italia era esclava en el apogeo del Imperio.",
+    "imagenes": []
+  },
+  {
+    "id": "roma-modelo-economico",
+    "region": "roma",
+    "tipo": "evento",
+    "titulo": "Modelo económico",
+    "fecha_inicio": 100,
+    "fecha_fin": null,
+    "descripcion_corta": "La economía dependía en gran medida de la agricultura trabajada con mano de obra esclava en grandes propiedades llamadas latifundios, que fueron desplazando poco a poco a los pequeños campesinos libres. El comercio se benefició enormemente de la \"Pax Romana\" y de una red de calzadas y rutas marítimas que conectaba todo el Mediterráneo, permitiendo intercambiar grano (Egipto y el norte de África eran el granero de Roma), aceite, vino, metales y esclavos. Roma acuñó una moneda estandarizada (el denario de plata, luego el sestercio) que circuló por todo el imperio, facilitando el comercio y el pago a los soldados. El Estado se financiaba con impuestos provinciales, botín de guerra y el arriendo de tierras públicas; el gasto militar y las obras públicas (acueductos, calzadas, coliseos) eran las mayores partidas del presupuesto.",
+    "imagenes": []
   },
   {
     "id": "roma-imperio-galeria",

@@ -63,6 +63,56 @@
     ]
   },
   {
+    "id": "grecia-guerra-del-peloponeso",
+    "region": "grecia",
+    "tipo": "evento",
+    "titulo": "Guerra del Peloponeso",
+    "fecha_inicio": -431,
+    "fecha_fin": -404,
+    "descripcion_corta": "El creciente poder naval y económico de Atenas, sostenido por los tributos de la Liga de Delos, generó una desconfianza cada vez mayor en Esparta, que temía el imperialismo ateniense. La guerra estalló en 431 a. C. bajo el liderazgo de Pericles en Atenas, y en 429 a. C. una plaga devastadora mató a buena parte de la población ateniense, incluido el propio Pericles. Tras una tregua temporal (la Paz de Nicias, 421 a. C.), el conflicto se reanudó hasta que Esparta, con ayuda financiera persa, destruyó la flota ateniense en la batalla de Egospótamos (405 a. C.), sellando al año siguiente la derrota total de Atenas y el fin de su hegemonía sobre Grecia.",
+    "imagenes": []
+  },
+  {
+    "id": "grecia-teatro-griego",
+    "region": "grecia",
+    "tipo": "evento",
+    "titulo": "Teatro griego",
+    "fecha_inicio": -500,
+    "fecha_fin": null,
+    "descripcion_corta": "El teatro griego nació como parte de festivales religiosos dedicados al dios Dioniso, como las Dionisias de Atenas. Los tres grandes trágicos —Esquilo, Sófocles y Eurípides— exploraron temas de destino, justicia divina y la condición humana en obras como la trilogía Orestíada o Edipo Rey, mientras que Aristófanes fue el gran maestro de la comedia, usando la sátira para criticar a políticos y costumbres de su época. De los cientos de obras escritas por estos autores, apenas 33 se conservan completas hasta hoy, pero su influencia moldeó todo el teatro occidental posterior.",
+    "imagenes": []
+  },
+  {
+    "id": "grecia-alejandro-magno",
+    "region": "grecia",
+    "tipo": "evento",
+    "titulo": "Alejandro Magno",
+    "fecha_inicio": -336,
+    "fecha_fin": -323,
+    "descripcion_corta": "Alejandro Magno se convirtió en rey de Macedonia en 336 a. C. tras el asesinato de su padre, Filipo II, y con apenas 20 años emprendió la conquista del Imperio Persa, además de Egipto y territorios hasta el actual Pakistán, creando uno de los imperios más extensos de la historia antigua. Murió en Babilonia en 323 a. C., a los 33 años, posiblemente de malaria, fiebre tifoidea o envenenamiento. Su imperio se dividió entre sus generales (los diádocos), pero su conquista difundió el idioma, el arte y la ciencia griegas por todo Oriente Próximo y Asia Central, dando origen al período Helenístico.",
+    "imagenes": []
+  },
+  {
+    "id": "grecia-vida-cotidiana",
+    "region": "grecia",
+    "tipo": "evento",
+    "titulo": "Cómo vivía la gente",
+    "fecha_inicio": -450,
+    "fecha_fin": null,
+    "descripcion_corta": "La educación (paideia) era central para los varones libres, sobre todo en Atenas: aprendían gramática, música, geometría y gimnasia desde niños, con la idea de formar ciudadanos completos, de cuerpo y mente. En Esparta, en cambio, la educación (agogé) era un entrenamiento militar durísimo desde los 7 años. Las mujeres, salvo en Esparta (donde también hacían ejercicio físico), tenían un rol doméstico y estaban excluidas de la vida política: no podían votar ni participar en la Asamblea. El symposio (banquete con vino, música y filosofía) era un pilar de la vida social masculina de la élite. El teatro tampoco era solo entretenimiento: las obras se representaban en festivales religiosos como las Dionisias, y asistir era casi una obligación cívica.",
+    "imagenes": []
+  },
+  {
+    "id": "grecia-modelo-economico",
+    "region": "grecia",
+    "tipo": "evento",
+    "titulo": "Modelo económico",
+    "fecha_inicio": -450,
+    "fecha_fin": null,
+    "descripcion_corta": "El comercio marítimo por el Mediterráneo y el mar Egeo era el motor económico griego: cada ciudad-estado (polis) acuñaba su propia moneda (la dracma ateniense, con la lechuza de Atenea, fue la más difundida) y fundaba colonias en Sicilia, el sur de Italia y las costas del mar Negro para asegurar rutas comerciales y tierras de cultivo. La esclavitud sostenía buena parte de la economía: se calcula que en la Atenas clásica los esclavos eran alrededor de un tercio de la población, y trabajaban en minas (como las de plata de Laurión, que financiaron la flota ateniense), talleres artesanales y el servicio doméstico. La agricultura (olivo, vid, cereales) se combinaba con la producción de cerámica y textiles pensada para la exportación.",
+    "imagenes": []
+  },
+  {
     "id": "grecia-periodo-helenistico",
     "region": "grecia",
     "tipo": "evento",

@@ -174,6 +174,16 @@
     ]
   },
   {
+    "id": "prehistoria-revolucion-cognitiva",
+    "region": "prehistoria",
+    "tipo": "evento",
+    "titulo": "Revolución cognitiva",
+    "fecha_inicio": -70000,
+    "fecha_fin": -30000,
+    "descripcion_corta": "Entre hace unos 70 000 y 30 000 años, algo cambió profundamente en la mente humana: aparecieron el pensamiento abstracto, el lenguaje complejo, el comportamiento simbólico y la capacidad de cooperar en grupos grandes de desconocidos gracias a mitos, espíritus y creencias compartidas —ficciones colectivas que ningún otro animal puede crear. La evidencia arqueológica (pigmentos de ocre rojo, cuentas de conchas perforadas, cáscaras de huevo de avestruz grabadas con diseños geométricos) muestra que este pensamiento simbólico ya existía en algunas poblaciones de África incluso 100 000 años antes, lo que sugiere que fue un proceso gradual más que un cambio repentino. Esta capacidad de imaginar y compartir historias es, para muchos historiadores, lo que permitió a nuestra especie organizarse, cooperar a gran escala y terminar dominando al resto de especies humanas y animales.",
+    "imagenes": []
+  },
+  {
     "id": "prehistoria-mesolitico-11",
     "region": "prehistoria",
     "tipo": "evento",
@@ -187,6 +197,26 @@
       "/images/prehistoria/prehistoria_descubre-el-fascinante-arte-mesolitico-una-mirada-al-pasado-_node-19-70.png",
       "/images/prehistoria/prehistoria_01-02-23-pinturas-1_node-19-69.png"
     ]
+  },
+  {
+    "id": "prehistoria-vida-cotidiana",
+    "region": "prehistoria",
+    "tipo": "evento",
+    "titulo": "Cómo vivía la gente",
+    "fecha_inicio": -50000,
+    "fecha_fin": null,
+    "descripcion_corta": "Durante la mayor parte de la Prehistoria, los humanos vivieron en pequeñas bandas nómadas de entre 20 y 50 personas, generalmente emparentadas entre sí, que se desplazaban según la disponibilidad de caza y recolección. La organización social era igualitaria: no existía una jerarquía formal ni acumulación de riqueza, y las decisiones solían tomarse por consenso o bajo el liderazgo informal de los miembros más experimentados. Había división del trabajo por sexo (los hombres solían dedicarse más a la caza mayor y las mujeres a la recolección y el cuidado de los niños, aunque con bastante variación entre grupos), pero no existía todavía la especialización de oficios que traería después la revolución agrícola. Con el Neolítico y la vida sedentaria, esta organización igualitaria dio paso a sociedades jerárquicas con jefes, sacerdotes y diferencias de estatus heredables.",
+    "imagenes": []
+  },
+  {
+    "id": "prehistoria-modelo-economico",
+    "region": "prehistoria",
+    "tipo": "evento",
+    "titulo": "Modelo económico",
+    "fecha_inicio": -10000,
+    "fecha_fin": null,
+    "descripcion_corta": "La economía paleolítica era de subsistencia inmediata: se cazaba, pescaba y recolectaba solo lo necesario para sobrevivir, sin acumular excedentes ni propiedad privada de la tierra; los bienes se compartían dentro del grupo por reciprocidad, más que por intercambio comercial. La revolución neolítica (a partir de aproximadamente el 10 000 a. C.) cambió esto radicalmente: la domesticación de plantas y animales permitió generar, por primera vez, excedentes de alimento almacenables, lo que hizo posible el crecimiento de la población y la aparición de especialistas que ya no cultivaban la tierra (artesanos, sacerdotes, gobernantes). Ese excedente dio origen a la propiedad privada, la diferenciación social y, finalmente, a los primeros sistemas de administración y contabilidad que llevarían a la invención de la escritura hacia el 3200 a. C.",
+    "imagenes": []
   },
   {
     "id": "prehistoria-neolitico-12",

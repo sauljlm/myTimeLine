@@ -56,6 +56,61 @@
     ]
   },
   {
+    "id": "egipto-estructura-social",
+    "region": "egipto",
+    "tipo": "diagrama_jerarquico",
+    "titulo": "Estructura social",
+    "fecha_inicio": -2600,
+    "niveles": [
+      "Faraón (poder absoluto, considerado un dios viviente)",
+      "Visir, alta nobleza y sumos sacerdotes",
+      "Escribas y funcionarios",
+      "Artesanos, comerciantes y soldados",
+      "Campesinos",
+      "Esclavos (minoría, sobre todo prisioneros de guerra)"
+    ]
+  },
+  {
+    "id": "egipto-vida-cotidiana",
+    "region": "egipto",
+    "tipo": "evento",
+    "titulo": "Cómo vivía la gente",
+    "fecha_inicio": -2600,
+    "fecha_fin": null,
+    "descripcion_corta": "La vida giraba en torno al ciclo anual del Nilo: la crecida (Ajet) fertilizaba los campos con limo, seguida por la siembra (Peret) y la cosecha (Shemu). La mayoría de la población eran campesinos que cultivaban trigo, cebada, lino y vid, y vivían en casas de adobe con techos de palma. La familia era el núcleo social, y las mujeres egipcias gozaban de más derechos legales que en la mayoría de civilizaciones antiguas: podían poseer propiedades, comerciar y divorciarse. La religión permeaba toda la vida cotidiana: se creía en una existencia después de la muerte, por lo que la momificación y los rituales funerarios eran importantes incluso para quienes no eran faraones.",
+    "imagenes": []
+  },
+  {
+    "id": "egipto-modelo-economico",
+    "region": "egipto",
+    "tipo": "evento",
+    "titulo": "Modelo económico",
+    "fecha_inicio": -2600,
+    "fecha_fin": null,
+    "descripcion_corta": "El Estado administraba directamente gran parte de la tierra y el grano, y cobraba tributos e impuestos en especie: no hubo moneda acuñada hasta épocas muy tardías, así que se pagaba con grano, ganado o bienes valorados en una unidad de cuenta llamada \"deben\". El trabajo en las grandes obras (pirámides, templos) no era realizado principalmente por esclavos, como se creyó popularmente, sino en buena parte por campesinos reclutados por turnos durante la crecida del Nilo, cuando no podían trabajar los campos, a cambio de alimento y alojamiento. Egipto comerciaba con Nubia (oro, marfil), el Líbano (madera de cedro) y la tierra de Punt (incienso, especias), y vigilaba de cerca estas rutas para asegurarse el acceso a materiales que no tenía disponibles localmente.",
+    "imagenes": []
+  },
+  {
+    "id": "egipto-mitologia",
+    "region": "egipto",
+    "tipo": "evento",
+    "titulo": "Mitología egipcia",
+    "fecha_inicio": -2600,
+    "fecha_fin": null,
+    "descripcion_corta": "Los antiguos egipcios veneraban a un extenso panteón de dioses, muchos con cuerpo humano y cabeza de animal. Ra, el dios del sol, estaba asociado con la vida y el orden cósmico. Osiris, dios de la muerte y la resurrección, gobernaba el más allá tras haber sido asesinado y desmembrado por su hermano Set, y luego resucitado por su esposa Isis, diosa de la magia y la maternidad. Su hijo Horus, representado como un halcón, era el dios de la realeza: cada faraón viviente era considerado su encarnación en la Tierra. Anubis, con cabeza de chacal, guiaba a los muertos y presidía la momificación y el pesaje del corazón en el juicio final.",
+    "imagenes": []
+  },
+  {
+    "id": "egipto-momificacion",
+    "region": "egipto",
+    "tipo": "evento",
+    "titulo": "Momificación y creencias sobre el más allá",
+    "fecha_inicio": -2600,
+    "fecha_fin": null,
+    "descripcion_corta": "Los egipcios creían que la muerte no era el final, sino una transición hacia otra vida eterna, en los Campos de Ialu. Para lograrlo, el cuerpo debía preservarse: el proceso de momificación, perfeccionado a lo largo de 70 días por sacerdotes especializados, consistía en retirar los órganos internos (conservados aparte en vasos canopos), secar el cuerpo con natrón, envolverlo en lino y sellarlo en sarcófagos decorados con hechizos protectores del Libro de los Muertos. Se creía que tras la muerte, el corazón del difunto era pesado en una balanza frente a la pluma de Maat, diosa de la verdad: si pesaba más que la pluma, cargado de pecados, era devorado por la diosa Ammit; si el balance era justo, el alma accedía al paraíso gobernado por Osiris.",
+    "imagenes": []
+  },
+  {
     "id": "egipto-periodo-de-decadencia-1060-ac",
     "region": "egipto",
     "tipo": "evento",
@@ -66,6 +121,26 @@
     "imagenes": [
       "/images/egipto/egipto_screenshot-2024-09-02-at-9-42-04-am-1_node-77-117.png"
     ]
+  },
+  {
+    "id": "egipto-piedra-de-rosetta",
+    "region": "egipto",
+    "tipo": "evento",
+    "titulo": "Piedra de Rosetta y el desciframiento de los jeroglíficos",
+    "fecha_inicio": -196,
+    "fecha_fin": null,
+    "descripcion_corta": "La Piedra de Rosetta, tallada en el 196 a. C., contiene un mismo decreto escrito en tres sistemas de escritura: jeroglíficos egipcios, escritura demótica y griego antiguo. Descubierta por soldados franceses en 1799 durante la campaña de Napoleón en Egipto, permaneció como un misterio hasta que en 1822 el lingüista francés Jean-François Champollion, comparando los tres textos y apoyándose en su conocimiento del copto, logró descifrar finalmente los jeroglíficos egipcios: un sistema de escritura que llevaba más de 1400 años sin poder leerse. Este hallazgo abrió la puerta al estudio moderno del Antiguo Egipto, la egiptología.",
+    "imagenes": []
+  },
+  {
+    "id": "egipto-cleopatra-y-los-tolomeos",
+    "region": "egipto",
+    "tipo": "evento",
+    "titulo": "Cleopatra y la dinastía ptolemaica",
+    "fecha_inicio": -305,
+    "fecha_fin": -30,
+    "descripcion_corta": "Tras la muerte de Alejandro Magno, su general Ptolomeo se proclamó faraón de Egipto en el 305 a. C., fundando la dinastía ptolemaica, de origen griego, que gobernaría Egipto durante casi 300 años. Cleopatra VII (69-30 a. C.), la última faraona de esta dinastía, es la más recordada por su inteligencia política, su dominio de varios idiomas —incluido el egipcio, algo inusual entre los Ptolomeos— y sus alianzas, primero con Julio César y luego con Marco Antonio, para intentar preservar la independencia de Egipto frente al creciente poder de Roma. Tras la derrota de Marco Antonio en la batalla de Actium, Cleopatra se suicidó, y Egipto se convirtió en una provincia romana, cerrando así unos 3000 años de civilización faraónica independiente.",
+    "imagenes": []
   },
   {
     "id": "egipto-fin-batalla-de-actium",

@@ -20,6 +20,16 @@
     "imagenes": []
   },
   {
+    "id": "edadmedia-imperio-bizantino",
+    "region": "edad-media",
+    "tipo": "evento",
+    "titulo": "Imperio Bizantino y Justiniano",
+    "fecha_inicio": 527,
+    "fecha_fin": 565,
+    "descripcion_corta": "Mientras Roma Occidental caía, el Imperio Romano de Oriente —conocido como Imperio Bizantino, con capital en Constantinopla— sobrevivió casi mil años más. Su emperador más importante, Justiniano I (527-565), intentó reconquistar los territorios perdidos en Occidente, mandó construir la basílica de Santa Sofía (Hagia Sophia) y ordenó compilar el Corpus Juris Civilis, una recopilación sistemática del derecho romano que se convertiría en la base de los sistemas legales de buena parte de Europa continental hasta la actualidad.",
+    "imagenes": []
+  },
+  {
     "id": "edadmedia-nacimiento-del-islam",
     "region": "edad-media",
     "tipo": "evento",
@@ -30,6 +40,16 @@
     "imagenes": [
       "/images/edad-media/edadmedia_screenshot-2024-10-08-at-11-50-33-am-1_node-167-13.png"
     ]
+  },
+  {
+    "id": "edadmedia-reconquista-espanola",
+    "region": "edad-media",
+    "tipo": "evento",
+    "titulo": "Reconquista española",
+    "fecha_inicio": 711,
+    "fecha_fin": 1492,
+    "descripcion_corta": "Tras la conquista musulmana de la península ibérica en 711, los reinos cristianos del norte iniciaron un proceso de casi 800 años para reconquistar el territorio, con hitos como la victoria cristiana de Covadonga (722), la toma de Toledo (1085) y la decisiva batalla de las Navas de Tolosa (1212), que quebró el poder almohade y dejó a los musulmanes sin capacidad de detener el avance cristiano. El proceso culminó el 2 de enero de 1492, cuando los Reyes Católicos (Isabel de Castilla y Fernando de Aragón) tomaron Granada, el último reino musulmán de la península, el mismo año en que financiarían el viaje de Cristóbal Colón.",
+    "imagenes": []
   },
   {
     "id": "edadmedia-batalla-de-poitiers",
@@ -54,18 +74,6 @@
     "imagenes": []
   },
   {
-    "id": "edadmedia-sacro-imperio-romano-germanico",
-    "region": "edad-media",
-    "tipo": "evento",
-    "titulo": "El Sacro Imperio Romano Germánico",
-    "fecha_inicio": 962,
-    "fecha_fin": null,
-    "descripcion_corta": "Carlomagno fue coronado como Imperator Augustus por el papa León III el dia de navidad el año 800. Al morir el imperio se acabaría dividiendo en 3 entre sus nietos. Alemania y Francia se disputan el norte de Italia. Gana Alemania quien obtiene el favor del papa y la corona imperial. El resultado es el sacro imperio romano germanico\n\nEl rey Alemán Otón I es coronado emperador. Tras la desintegración del imperio Carolingico y el fracaso del proyecto político de Carlo Magno, la debilidad de los reyes se hizo evidente. Los sucesores de los reyes se vieron obligados a ceder gran parte de su autoridad a los Condes y Marqueces para obtener su apoyo. Para asegurarse la lealtad de estos nobres, los monarcas les entregaron tierras, los Feudos\n\nFeudalismo, señores feudales",
-    "imagenes": [
-      "/images/edad-media/edadmedia_screenshot-2024-10-08-at-12-02-44-pm-1_node-167-23.png"
-    ]
-  },
-  {
     "id": "edadmedia-castillos-fases-iniciales",
     "region": "edad-media",
     "tipo": "evento",
@@ -78,6 +86,68 @@
       "/images/edad-media/edadmedia_torre-de-londres-castillo-londres-170117120517001-1600x800-1_node-181-37.png",
       "/images/edad-media/edadmedia_foto1-4-1_node-181-38.png"
     ]
+  },
+  {
+    "id": "edadmedia-vida-cotidiana",
+    "region": "edad-media",
+    "tipo": "evento",
+    "titulo": "Cómo vivía la gente",
+    "fecha_inicio": 850,
+    "fecha_fin": null,
+    "descripcion_corta": "La sociedad se organizaba en torno al feudalismo: un señor feudal cedía tierras (feudos) a sus vasallos a cambio de lealtad y servicio militar, mientras los siervos trabajaban la tierra sin poder abandonarla, entregando parte de su cosecha al señor a cambio de protección. La Iglesia católica era la institución más poderosa e influyente: marcaba el calendario, la educación (a través de los monasterios) y la vida espiritual de toda la sociedad, desde el campesino hasta el rey. La mayoría de la población vivía en aldeas rurales alrededor de un castillo o monasterio, en condiciones precarias, con una esperanza de vida corta y hambrunas recurrentes. Hacia el final del período, el crecimiento de las ciudades trajo consigo gremios de artesanos que regulaban oficios como la herrería, la carpintería o el tejido.",
+    "imagenes": []
+  },
+  {
+    "id": "edadmedia-modelo-economico",
+    "region": "edad-media",
+    "tipo": "evento",
+    "titulo": "Modelo económico",
+    "fecha_inicio": 850,
+    "fecha_fin": null,
+    "descripcion_corta": "La economía medieval temprana era mayormente agraria y de subsistencia, organizada en torno al feudo y al sistema señorial: la tierra pertenecía al señor, y los siervos la trabajaban a cambio de protección y una parte de la cosecha. Había poco comercio y casi no circulaba moneda fuera de las ciudades. A partir del siglo XI, el resurgimiento del comercio (sobre todo con el mundo islámico y Bizancio) y el crecimiento de las ciudades dieron lugar a una economía más monetaria: aparecieron las ferias comerciales, los primeros bancos italianos, y gremios de artesanos y comerciantes que regulaban precios, calidad y el acceso a los oficios. La peste negra (1346-1351), al matar entre un tercio y la mitad de la población europea, provocó escasez de mano de obra y aceleró el fin del sistema feudal, ya que los siervos sobrevivientes pudieron empezar a exigir salarios y mejores condiciones.",
+    "imagenes": []
+  },
+  {
+    "id": "edadmedia-sacro-imperio-romano-germanico",
+    "region": "edad-media",
+    "tipo": "evento",
+    "titulo": "El Sacro Imperio Romano Germánico",
+    "fecha_inicio": 962,
+    "fecha_fin": null,
+    "descripcion_corta": "Carlomagno fue coronado como Imperator Augustus por el papa León III el dia de navidad el año 800. Al morir el imperio se acabaría dividiendo en 3 entre sus nietos. Alemania y Francia se disputan el norte de Italia. Gana Alemania quien obtiene el favor del papa y la corona imperial. El resultado es el sacro imperio romano germanico\n\nEl rey Alemán Otón I es coronado emperador. Tras la desintegración del imperio Carolingico y el fracaso del proyecto político de Carlo Magno, la debilidad de los reyes se hizo evidente. Los sucesores de los reyes se vieron obligados a ceder gran parte de su autoridad a los Condes y Marqueces para obtener su apoyo. Para asegurarse la lealtad de estos nobres, los monarcas les entregaron tierras, los Feudos\n\nFeudalismo, señores feudales",
+    "imagenes": [
+      "/images/edad-media/edadmedia_screenshot-2024-10-08-at-12-02-44-pm-1_node-167-23.png"
+    ]
+  },
+  {
+    "id": "edadmedia-innovaciones-agricolas",
+    "region": "edad-media",
+    "tipo": "evento",
+    "titulo": "Innovaciones agrícolas medievales",
+    "fecha_inicio": 1000,
+    "fecha_fin": null,
+    "descripcion_corta": "A partir del siglo XI, una serie de innovaciones tecnológicas transformó la agricultura europea: el arado pesado (con ruedas y vertedera) permitió trabajar los suelos densos y húmedos del norte de Europa; la collera rígida para caballos (en vez de la correa que ahorcaba al animal si tiraba fuerte) multiplicó su capacidad de tiro; y el sistema de rotación de tres campos (dos cultivados, uno en descanso cada año) aumentó la superficie cultivada y mejoró el rendimiento de la tierra. Junto con la expansión de los molinos de agua y de viento para moler grano, estos avances impulsaron un notable crecimiento de la población y de las ciudades hacia el siglo XII.",
+    "imagenes": []
+  },
+  {
+    "id": "edadmedia-gran-cisma-de-oriente",
+    "region": "edad-media",
+    "tipo": "evento",
+    "titulo": "Gran Cisma de Oriente",
+    "fecha_inicio": 1054,
+    "fecha_fin": null,
+    "descripcion_corta": "Las diferencias teológicas (sobre todo la cláusula \"filioque\" del Credo niceno, sobre si el Espíritu Santo procede solo del Padre o también del Hijo), litúrgicas y políticas entre Roma y Constantinopla desembocaron en 1054 en la excomunión mutua entre el papa León IX y el patriarca Miguel Cerulario. Este Gran Cisma dividió al cristianismo en dos ramas que persisten hasta hoy: la Iglesia católica romana en Occidente y la Iglesia ortodoxa en Oriente. Las excomuniones mutuas no se levantarían formalmente hasta 1965.",
+    "imagenes": []
+  },
+  {
+    "id": "edadmedia-cruzadas",
+    "region": "edad-media",
+    "tipo": "evento",
+    "titulo": "Las Cruzadas",
+    "fecha_inicio": 1095,
+    "fecha_fin": 1291,
+    "descripcion_corta": "En 1095, el papa Urbano II convocó la Primera Cruzada en el Concilio de Clermont, pidiendo a los caballeros cristianos de Europa que ayudaran al Imperio Bizantino contra los turcos selyúcidas y recuperaran Jerusalén para la cristiandad. Tras capturar Nicea (1097) y una larga marcha, los cruzados tomaron Jerusalén en 1099, fundando varios reinos cruzados en Oriente Medio, entre ellos el Reino de Jerusalén. Siguieron ocho cruzadas más a lo largo de casi 200 años, con resultados desiguales, hasta que en 1291 cayó Acre, la última fortaleza cruzada, poniendo fin a la presencia cristiana occidental en Tierra Santa.",
+    "imagenes": []
   },
   {
     "id": "edadmedia-fundacion-universidades",
@@ -103,13 +173,43 @@
     ]
   },
   {
-    "id": "edadmedia-peste-negra",
+    "id": "edadmedia-liga-hanseatica",
     "region": "edad-media",
     "tipo": "evento",
-    "titulo": "Peste negra",
-    "fecha_inicio": 1346,
-    "fecha_fin": 1351,
-    "descripcion_corta": "el dia que, la peste negra",
+    "titulo": "Liga Hanseática y repúblicas marítimas italianas",
+    "fecha_inicio": 1150,
+    "fecha_fin": null,
+    "descripcion_corta": "Mientras que en el norte de Europa las ciudades comerciales alemanas se asociaron en la Liga Hanseática (con centros clave en Lübeck, Brujas, Londres, Bergen y Nóvgorod) para proteger sus rutas comerciales de pieles, madera, grano y metales del Báltico y el mar del Norte, en el Mediterráneo las repúblicas marítimas italianas —sobre todo Venecia y Génova— dominaban el comercio con Bizancio, Egipto y Oriente Próximo, trayendo especias, seda y otros productos de lujo a cambio de bienes europeos. Este comercio a gran escala impulsó la aparición de los primeros bancos y casas comerciales, sentando las bases del capitalismo mercantil que florecería en el Renacimiento.",
+    "imagenes": []
+  },
+  {
+    "id": "edadmedia-magna-carta",
+    "region": "edad-media",
+    "tipo": "evento",
+    "titulo": "Magna Carta",
+    "fecha_inicio": 1215,
+    "fecha_fin": null,
+    "descripcion_corta": "Presionado por los barones ingleses rebeldes, el rey Juan de Inglaterra (Juan Sin Tierra) selló la Magna Carta el 15 de junio de 1215. El documento limitaba por primera vez el poder del rey, estableciendo que ni siquiera el monarca estaba por encima de la ley: garantizaba el derecho a un juicio justo ante un jurado de pares antes de ser encarcelado, protegía ciertos derechos de la Iglesia, los comerciantes y los propietarios, y creó un consejo de 25 barones para vigilar su cumplimiento. Aunque en su momento fue un acuerdo pensado sobre todo para proteger los privilegios de la nobleza, con el tiempo se convirtió en la base histórica de los derechos individuales y el Estado de derecho en el mundo anglosajón.",
+    "imagenes": []
+  },
+  {
+    "id": "edadmedia-invasion-mongola",
+    "region": "edad-media",
+    "tipo": "evento",
+    "titulo": "Invasión mongola de Europa",
+    "fecha_inicio": 1241,
+    "fecha_fin": null,
+    "descripcion_corta": "Bajo el mando de Batu Kan y el general Subotai, nietos de Gengis Kan, los ejércitos mongoles invadieron Europa oriental. El 9 de abril de 1241 derrotaron a un ejército de caballeros polacos y alemanes en la batalla de Legnica, y dos días después aplastaron al ejército húngaro en la batalla de Mohi. Europa central quedó prácticamente indefensa ante un ejército mucho más numeroso, pero la muerte del gran kan Ogodei ese mismo diciembre obligó a los mongoles a retirarse hacia Asia para disputar la sucesión, salvando —más por esa casualidad que por una victoria militar europea— al resto de Europa occidental de una posible invasión.",
+    "imagenes": []
+  },
+  {
+    "id": "edadmedia-gran-hambruna",
+    "region": "edad-media",
+    "tipo": "evento",
+    "titulo": "Gran Hambruna",
+    "fecha_inicio": 1315,
+    "fecha_fin": 1317,
+    "descripcion_corta": "Un cambio climático abrupto —lluvias torrenciales y veranos fríos que marcaron el fin del \"óptimo climático medieval\"— arruinó las cosechas de gran parte de Europa entre 1315 y 1317, provocando una hambruna masiva que mató a un porcentaje significativo de la población y diezmó al ganado. La crisis, sumada a la desconfianza hacia gobiernos incapaces de responder, dejó a Europa debilitada justo antes de la Peste Negra, que llegaría tres décadas después y encontraría una población ya empobrecida y malnutrida.",
     "imagenes": []
   },
   {
@@ -120,6 +220,36 @@
     "fecha_inicio": 1337,
     "fecha_fin": 1453,
     "descripcion_corta": "",
+    "imagenes": []
+  },
+  {
+    "id": "edadmedia-peste-negra",
+    "region": "edad-media",
+    "tipo": "evento",
+    "titulo": "Peste negra",
+    "fecha_inicio": 1346,
+    "fecha_fin": 1351,
+    "descripcion_corta": "el dia que, la peste negra",
+    "imagenes": []
+  },
+  {
+    "id": "edadmedia-cisma-de-occidente",
+    "region": "edad-media",
+    "tipo": "evento",
+    "titulo": "Cisma de Occidente",
+    "fecha_inicio": 1378,
+    "fecha_fin": 1417,
+    "descripcion_corta": "Después de casi 70 años en que el papado residió en Avignon (Francia) en vez de Roma, el papa Gregorio XI regresó a Roma en 1377, pero murió al año siguiente. La elección de su sucesor, Urbano VI, fue rechazada por un grupo de cardenales franceses, que eligieron a un papa rival, Clemente VII, instalado de nuevo en Avignon. Durante casi 40 años hubo dos —y llegó a haber hasta tres— papas simultáneos, cada uno respaldado por distintos reinos europeos, lo que debilitó gravemente la autoridad moral de la Iglesia. El cisma se resolvió recién en 1417 con la elección de un papa único, Martín V.",
+    "imagenes": []
+  },
+  {
+    "id": "edadmedia-juana-de-arco",
+    "region": "edad-media",
+    "tipo": "evento",
+    "titulo": "Juana de Arco",
+    "fecha_inicio": 1429,
+    "fecha_fin": 1431,
+    "descripcion_corta": "En plena Guerra de los Cien Años, con Francia al borde de la derrota, una campesina de 17 años llamada Juana de Arco, que aseguraba escuchar voces de santos, convenció al futuro rey Carlos VII de dejarla liderar un ejército para liberar la ciudad sitiada de Orleans en 1429. Su victoria fue el punto de inflexión de la guerra e impulsó la coronación de Carlos VII poco después. Capturada por los borgoñones en 1430 y vendida a los ingleses, fue juzgada por herejía y quemada en la hoguera en Rouen el 30 de mayo de 1431, con apenas 19 años. Fue canonizada como santa siglos más tarde, en 1920.",
     "imagenes": []
   },
   {
