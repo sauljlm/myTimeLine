@@ -49,24 +49,156 @@ const REFERENCIA_ANIO = 2000;
 // ~135 000px).
 const TRAMOS_LINEALES: { edadHasta: number; pxPorAnio: number }[] = [
   // 0–1524 años de antigüedad (año 476 DC – 2000): toda la Edad Media
-  // vive acá (476–1492), con 14 eventos reales en apenas 1016 años —
-  // necesitaba más que los 2px/año "normales" (eran 4 filas de tarjetas
-  // apiladas en vez de quedar cerca de su línea de tiempo).
-  { edadHasta: 1524, pxPorAnio: 4 },
-  // 1524–2027 (-27 AC – 476 DC): Imperio Romano. 8 eventos reales
-  // (Julio-Claudia, Crucifixión, Flavia, Crisis del s. III,
-  // Cristianización, Caída, Bárbaros + galería) en 503 años — la franja
-  // más densa de todas, con la densidad más alta.
+  // vive acá (476–1492). Subir la densidad pareja para TODA la franja
+  // ampliaba de más los huecos anchos que ya cabían bien con la densidad
+  // base, solo para poder separar un puñado de eventos muy cercanos en
+  // el tiempo. En vez de eso, esta franja se subdividió en muchos tramos
+  // angostos: casi todos a la densidad base (4px/año, igual que el resto
+  // de "historia normal"), y solo los tramos que caen justo entre dos
+  // eventos con pocos años de diferencia suben la densidad lo necesario
+  // para que quepan en la misma fila (240px de ancho de tarjeta + 24px
+  // de `GAP_HORIZONTAL_MIN` en `layout.ts` = 264px mínimos entre el
+  // inicio de dos tarjetas consecutivas). Recalculado tras investigar y
+  // agregar 9 eventos nuevos de guerras/revoluciones/inventos (batalla
+  // de Hastings, Conflicto de las Investiduras, reloj mecánico, gafas,
+  // Jacquerie, pólvora y cañones, revuelta campesina inglesa, guerras
+  // husitas, Guerra de las Dos Rosas). El único par que sigue en fila
+  // aparte es "Fundación de universidades" y "Perfeccionamiento de
+  // castillos", que comparten el mismo año exacto (1100) — ningún valor
+  // de densidad puede separar dos eventos con la misma fecha, así que no
+  // se tocó (no vale la pena fudgear una fecha histórica real solo por
+  // estética de layout).
+  { edadHasta: 508, pxPorAnio: 4 },
+  { edadHasta: 545, pxPorAnio: 8 },
+  { edadHasta: 547, pxPorAnio: 135 },
+  { edadHasta: 560, pxPorAnio: 21 },
+  { edadHasta: 571, pxPorAnio: 25 },
+  { edadHasta: 581, pxPorAnio: 27 },
+  { edadHasta: 619, pxPorAnio: 8 },
+  { edadHasta: 622, pxPorAnio: 90 },
+  { edadHasta: 642, pxPorAnio: 14 },
+  { edadHasta: 654, pxPorAnio: 23 },
+  { edadHasta: 663, pxPorAnio: 30 },
+  { edadHasta: 670, pxPorAnio: 39 },
+  { edadHasta: 685, pxPorAnio: 18 },
+  { edadHasta: 714, pxPorAnio: 10 },
+  { edadHasta: 720, pxPorAnio: 45 },
+  { edadHasta: 759, pxPorAnio: 7 },
+  { edadHasta: 785, pxPorAnio: 11 },
+  { edadHasta: 850, pxPorAnio: 5 },
+  { edadHasta: 900, pxPorAnio: 6 },
+  { edadHasta: 905, pxPorAnio: 54 },
+  { edadHasta: 924, pxPorAnio: 15 },
+  { edadHasta: 934, pxPorAnio: 27 },
+  { edadHasta: 946, pxPorAnio: 23 },
+  { edadHasta: 1000, pxPorAnio: 5 },
+  { edadHasta: 1038, pxPorAnio: 8 },
+  { edadHasta: 1140, pxPorAnio: 4 },
+  { edadHasta: 1160, pxPorAnio: 14 },
+  { edadHasta: 1200, pxPorAnio: 7 },
+  { edadHasta: 1207, pxPorAnio: 39 },
+  { edadHasta: 1268, pxPorAnio: 5 },
+  { edadHasta: 1289, pxPorAnio: 13 },
+  { edadHasta: 1378, pxPorAnio: 4 },
+  { edadHasta: 1473, pxPorAnio: 4 },
+  { edadHasta: 1519, pxPorAnio: 6 },
+  { edadHasta: 1524, pxPorAnio: 54 },
+  // 1524–2027 (-27 AC – 476 DC): Imperio Romano. Mismo criterio que Edad
+  // Media/Grecia: tramos angostos, la mayoría a la densidad base
+  // (5px/año), y solo los que caen entre eventos muy cercanos en el
+  // tiempo (ej. "Ingeniería romana"/"Las legiones", separados apenas 10
+  // años entre sí tras moverlos a -105/-95 para no compartir fecha
+  // exacta) suben lo necesario para que quepan en la misma fila.
+  { edadHasta: 1620, pxPorAnio: 5 },
+  { edadHasta: 1687, pxPorAnio: 5 },
+  { edadHasta: 1850, pxPorAnio: 5 },
+  { edadHasta: 1900, pxPorAnio: 6 },
+  { edadHasta: 1931, pxPorAnio: 9 },
+  { edadHasta: 1967, pxPorAnio: 8 },
   { edadHasta: 2027, pxPorAnio: 5 },
-  // 2027–3100 (-1100 AC – -27 AC): Antigua Grecia (4 eventos, uno de
-  // ellos con 18 imágenes) más República y Monarquía de Roma, que caen
-  // en el mismo rango de años — más densidad que el resto de historia
-  // "normal", aunque menos que Roma Imperial o Edad Media.
-  { edadHasta: 3100, pxPorAnio: 3 },
+  // 2027–3100 (-1100 AC – -27 AC): Antigua Grecia, Esparta (línea propia
+  // desde que se separó de Grecia), República y Monarquía de Roma,
+  // Imperio Persa, y los eventos tardíos de Egipto (dinastía kushita,
+  // conquista persa) — este tramo es compartido por las 5 regiones, así
+  // que los límites de abajo combinan las fechas de todas. Igual
+  // criterio que arriba: la mayoría a la densidad base (3px/año), y solo
+  // los tramos entre eventos muy cercanos en el tiempo suben lo
+  // necesario para que quepan en la misma fila (240px de tarjeta + 24px
+  // de `GAP_HORIZONTAL_MIN` = 264px mínimos).
+  { edadHasta: 2031, pxPorAnio: 68 },
+  { edadHasta: 2058, pxPorAnio: 10 },
+  { edadHasta: 2095, pxPorAnio: 8 },
+  { edadHasta: 2105, pxPorAnio: 27 },
+  { edadHasta: 2196, pxPorAnio: 3 },
+  { edadHasta: 2200, pxPorAnio: 68 },
+  { edadHasta: 2305, pxPorAnio: 3 },
+  { edadHasta: 2323, pxPorAnio: 15 },
+  { edadHasta: 2336, pxPorAnio: 21 },
+  { edadHasta: 2371, pxPorAnio: 8 },
+  { edadHasta: 2404, pxPorAnio: 9 },
+  { edadHasta: 2431, pxPorAnio: 10 },
+  { edadHasta: 2450, pxPorAnio: 15 },
+  { edadHasta: 2470, pxPorAnio: 14 },
+  { edadHasta: 2480, pxPorAnio: 27 },
+  { edadHasta: 2499, pxPorAnio: 15 },
+  { edadHasta: 2500, pxPorAnio: 270 },
+  { edadHasta: 2509, pxPorAnio: 30 },
+  { edadHasta: 2518, pxPorAnio: 30 },
+  { edadHasta: 2520, pxPorAnio: 135 },
+  { edadHasta: 2525, pxPorAnio: 54 },
+  { edadHasta: 2550, pxPorAnio: 11 },
+  { edadHasta: 2559, pxPorAnio: 30 },
+  { edadHasta: 2600, pxPorAnio: 7 },
+  { edadHasta: 2630, pxPorAnio: 9 },
+  { edadHasta: 2650, pxPorAnio: 14 },
+  { edadHasta: 2680, pxPorAnio: 9 },
+  { edadHasta: 2685, pxPorAnio: 54 },
+  { edadHasta: 2690, pxPorAnio: 54 },
+  { edadHasta: 2700, pxPorAnio: 27 },
+  { edadHasta: 2743, pxPorAnio: 7 },
+  { edadHasta: 2744, pxPorAnio: 270 },
+  { edadHasta: 2750, pxPorAnio: 45 },
+  { edadHasta: 2753, pxPorAnio: 90 },
+  { edadHasta: 2900, pxPorAnio: 3 },
+  { edadHasta: 3000, pxPorAnio: 3 },
+  { edadHasta: 3060, pxPorAnio: 5 },
+  { edadHasta: 3100, pxPorAnio: 7 },
   // 3100–6000 (-4000 AC – -1100 AC): resto de la historia registrada
-  // "normal" (Mesopotamia, Antiguo Egipto, Imperio Persa) — densidad base,
-  // sin cambios respecto a como estaba antes de agregar los tramos de
-  // arriba.
+  // "normal", compartido por Mesopotamia, Antiguo Egipto e Imperio
+  // Persa. Igual criterio que en los tramos de arriba: la mayoría a la
+  // densidad base (2px/año), y solo los tramos entre eventos muy
+  // cercanos en el tiempo (de cualquiera de las 3 regiones) suben lo
+  // necesario para que quepan en la misma fila. Se disparó sobre todo al
+  // investigar y agregar contenido nuevo de Egipto (jeroglíficos,
+  // calendario, pirámides de Guiza, Hatshepsut, Akenatón, Tutankamón,
+  // batalla de Qadesh, Pueblos del Mar, huelga de Deir el-Medina), que
+  // dejó varios eventos a pocas décadas de diferencia dentro del
+  // Imperio Nuevo.
+  { edadHasta: 3157, pxPorAnio: 5 },
+  { edadHasta: 3177, pxPorAnio: 14 },
+  { edadHasta: 3274, pxPorAnio: 3 },
+  { edadHasta: 3332, pxPorAnio: 5 },
+  { edadHasta: 3353, pxPorAnio: 13 },
+  { edadHasta: 3479, pxPorAnio: 3 },
+  { edadHasta: 3550, pxPorAnio: 4 },
+  { edadHasta: 3754, pxPorAnio: 2 },
+  { edadHasta: 3792, pxPorAnio: 8 },
+  { edadHasta: 3800, pxPorAnio: 34 },
+  { edadHasta: 4047, pxPorAnio: 2 },
+  { edadHasta: 4050, pxPorAnio: 90 },
+  { edadHasta: 4100, pxPorAnio: 6 },
+  { edadHasta: 4218, pxPorAnio: 3 },
+  { edadHasta: 4334, pxPorAnio: 3 },
+  { edadHasta: 4560, pxPorAnio: 2 },
+  { edadHasta: 4580, pxPorAnio: 14 },
+  { edadHasta: 4600, pxPorAnio: 14 },
+  { edadHasta: 4620, pxPorAnio: 14 },
+  { edadHasta: 4700, pxPorAnio: 4 },
+  { edadHasta: 4900, pxPorAnio: 2 },
+  { edadHasta: 5100, pxPorAnio: 2 },
+  { edadHasta: 5150, pxPorAnio: 6 },
+  { edadHasta: 5200, pxPorAnio: 6 },
+  { edadHasta: 5500, pxPorAnio: 2 },
   { edadHasta: 6000, pxPorAnio: 2 },
 ];
 

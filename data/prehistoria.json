@@ -141,23 +141,6 @@
     ]
   },
   {
-    "id": "prehistoria-edad-de-hielo-10",
-    "region": "prehistoria",
-    "tipo": "evento",
-    "titulo": "Afecto a Europa y otras regiones del hemisferio norte",
-    "fecha_inicio": -127000,
-    "fecha_fin": null,
-    "descripcion_corta": "Afecto a Europa y otras regiones del hemisferio norte.\nEste enfriamiento tuvo impactos en las sociedades antiguas, como la reducción de tierras agrícolas productivas y cambios en los patrones de asentamiento debido al avance de glaciares y cambios en la disponibilidad de recursos. En este contexto, las civilizaciones tuvieron que adaptarse a condiciones climáticas más adversas, lo que posiblemente influyó en la migración de pueblos y el desarrollo de nuevas estrategias agrícolas y de supervivencia.\nSin embargo, esta no fue una \"edad de hielo\" en el sentido de una glaciación masiva, sino un período de enfriamiento climático que afectó la vida y el entorno de las sociedades de la época.",
-    "imagenes": [
-      "/images/prehistoria/prehistoria_pp-840x830-pad-1000x1000-f8f8f8-1_node-20-73.png",
-      "/images/prehistoria/prehistoria_oxford-dodo-display-1_node-20-72.png",
-      "/images/prehistoria/prehistoria_era-de-hielo-1-e1589292585629-1_node-13-63.png",
-      "/images/prehistoria/prehistoria_era-de-hielo-mamut-lanudo-e1556665369793-1_node-13-64.png",
-      "/images/prehistoria/prehistoria_e2243f9d18c341882a3611c3b3024c47-1_node-13-65.png",
-      "/images/prehistoria/prehistoria_sid-el-perezoso-gigante-3726-2-600-1_node-20-74.png"
-    ]
-  },
-  {
     "id": "prehistoria-paleolitico-9",
     "region": "prehistoria",
     "tipo": "evento",

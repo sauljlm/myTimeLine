@@ -7,7 +7,9 @@
     "fecha_inicio": 476,
     "fecha_fin": null,
     "descripcion_corta": "Los Barbaros invarieron el imperio romano oxidental, los barbaros eran provenientes del norte de Europa. Estos se fueron acentando y formando reinos. Fucionaron y adaptaron muchos rasgos de la epoca griega, y romana. como el derecho romano, costumbres y el cristianismo.",
-    "imagenes": []
+    "imagenes": [
+      "/images/edad-media/edadmedia_europe-at-the-fall-of-the-western-roman-empire-in-476_wikimedia.jpg"
+    ]
   },
   {
     "id": "edadmedia-reino-de-los-francos",
@@ -17,7 +19,9 @@
     "fecha_inicio": 481,
     "fecha_fin": null,
     "descripcion_corta": "El Reino de los Francos en la época merovingia (siglo V al VIII) fue una de las civilizaciones más importantes de la Europa medieval temprana, ubicado principalmente en lo que hoy es Francia y parte de Alemania. La dinastía merovingia fue fundada por el legendario rey Clodoveo I (466-511), quien unificó las tribus francas y expandió su territorio significativamente. Clodoveo es conocido por convertirse al cristianismo en el 496, lo que le ayudó a ganar el apoyo de la Iglesia y de los pueblos galo-romanos.",
-    "imagenes": []
+    "imagenes": [
+      "/images/edad-media/edadmedia_alaux-the-baptism-of-clovis_wikimedia.jpg"
+    ]
   },
   {
     "id": "edadmedia-imperio-bizantino",
@@ -27,7 +31,9 @@
     "fecha_inicio": 527,
     "fecha_fin": 565,
     "descripcion_corta": "Mientras Roma Occidental caía, el Imperio Romano de Oriente —conocido como Imperio Bizantino, con capital en Constantinopla— sobrevivió casi mil años más. Su emperador más importante, Justiniano I (527-565), intentó reconquistar los territorios perdidos en Occidente, mandó construir la basílica de Santa Sofía (Hagia Sophia) y ordenó compilar el Corpus Juris Civilis, una recopilación sistemática del derecho romano que se convertiría en la base de los sistemas legales de buena parte de Europa continental hasta la actualidad.",
-    "imagenes": []
+    "imagenes": [
+      "/images/edad-media/edadmedia_hagia-sophia-interior-panorama_wikimedia.jpg"
+    ]
   },
   {
     "id": "edadmedia-nacimiento-del-islam",
@@ -49,7 +55,9 @@
     "fecha_inicio": 711,
     "fecha_fin": 1492,
     "descripcion_corta": "Tras la conquista musulmana de la península ibérica en 711, los reinos cristianos del norte iniciaron un proceso de casi 800 años para reconquistar el territorio, con hitos como la victoria cristiana de Covadonga (722), la toma de Toledo (1085) y la decisiva batalla de las Navas de Tolosa (1212), que quebró el poder almohade y dejó a los musulmanes sin capacidad de detener el avance cristiano. El proceso culminó el 2 de enero de 1492, cuando los Reyes Católicos (Isabel de Castilla y Fernando de Aragón) tomaron Granada, el último reino musulmán de la península, el mismo año en que financiarían el viaje de Cristóbal Colón.",
-    "imagenes": []
+    "imagenes": [
+      "/images/edad-media/edadmedia_cantigas-battle_wikimedia.jpg"
+    ]
   },
   {
     "id": "edadmedia-batalla-de-poitiers",
@@ -71,7 +79,9 @@
     "fecha_inicio": 793,
     "fecha_fin": null,
     "descripcion_corta": "Viquingos 793",
-    "imagenes": []
+    "imagenes": [
+      "/images/edad-media/edadmedia_osebergskipet-2016_wikimedia.jpg"
+    ]
   },
   {
     "id": "edadmedia-castillos-fases-iniciales",
@@ -92,20 +102,24 @@
     "region": "edad-media",
     "tipo": "evento",
     "titulo": "Cómo vivía la gente",
-    "fecha_inicio": 850,
+    "fecha_inicio": 840,
     "fecha_fin": null,
     "descripcion_corta": "La sociedad se organizaba en torno al feudalismo: un señor feudal cedía tierras (feudos) a sus vasallos a cambio de lealtad y servicio militar, mientras los siervos trabajaban la tierra sin poder abandonarla, entregando parte de su cosecha al señor a cambio de protección. La Iglesia católica era la institución más poderosa e influyente: marcaba el calendario, la educación (a través de los monasterios) y la vida espiritual de toda la sociedad, desde el campesino hasta el rey. La mayoría de la población vivía en aldeas rurales alrededor de un castillo o monasterio, en condiciones precarias, con una esperanza de vida corta y hambrunas recurrentes. Hacia el final del período, el crecimiento de las ciudades trajo consigo gremios de artesanos que regulaban oficios como la herrería, la carpintería o el tejido.",
-    "imagenes": []
+    "imagenes": [
+      "/images/edad-media/edadmedia_reeve-and-serfs_wikimedia.jpg"
+    ]
   },
   {
     "id": "edadmedia-modelo-economico",
     "region": "edad-media",
     "tipo": "evento",
     "titulo": "Modelo económico",
-    "fecha_inicio": 850,
+    "fecha_inicio": 860,
     "fecha_fin": null,
     "descripcion_corta": "La economía medieval temprana era mayormente agraria y de subsistencia, organizada en torno al feudo y al sistema señorial: la tierra pertenecía al señor, y los siervos la trabajaban a cambio de protección y una parte de la cosecha. Había poco comercio y casi no circulaba moneda fuera de las ciudades. A partir del siglo XI, el resurgimiento del comercio (sobre todo con el mundo islámico y Bizancio) y el crecimiento de las ciudades dieron lugar a una economía más monetaria: aparecieron las ferias comerciales, los primeros bancos italianos, y gremios de artesanos y comerciantes que regulaban precios, calidad y el acceso a los oficios. La peste negra (1346-1351), al matar entre un tercio y la mitad de la población europea, provocó escasez de mano de obra y aceleró el fin del sistema feudal, ya que los siervos sobrevivientes pudieron empezar a exigir salarios y mejores condiciones.",
-    "imagenes": []
+    "imagenes": [
+      "/images/edad-media/edadmedia_les-tr-s-riches-heures-du-duc-de-berry-mars_wikimedia.jpg"
+    ]
   },
   {
     "id": "edadmedia-sacro-imperio-romano-germanico",
@@ -127,7 +141,9 @@
     "fecha_inicio": 1000,
     "fecha_fin": null,
     "descripcion_corta": "A partir del siglo XI, una serie de innovaciones tecnológicas transformó la agricultura europea: el arado pesado (con ruedas y vertedera) permitió trabajar los suelos densos y húmedos del norte de Europa; la collera rígida para caballos (en vez de la correa que ahorcaba al animal si tiraba fuerte) multiplicó su capacidad de tiro; y el sistema de rotación de tres campos (dos cultivados, uno en descanso cada año) aumentó la superficie cultivada y mejoró el rendimiento de la tierra. Junto con la expansión de los molinos de agua y de viento para moler grano, estos avances impulsaron un notable crecimiento de la población y de las ciudades hacia el siglo XII.",
-    "imagenes": []
+    "imagenes": [
+      "/images/edad-media/edadmedia_three-field-system_wikimedia.svg"
+    ]
   },
   {
     "id": "edadmedia-gran-cisma-de-oriente",
@@ -137,7 +153,33 @@
     "fecha_inicio": 1054,
     "fecha_fin": null,
     "descripcion_corta": "Las diferencias teológicas (sobre todo la cláusula \"filioque\" del Credo niceno, sobre si el Espíritu Santo procede solo del Padre o también del Hijo), litúrgicas y políticas entre Roma y Constantinopla desembocaron en 1054 en la excomunión mutua entre el papa León IX y el patriarca Miguel Cerulario. Este Gran Cisma dividió al cristianismo en dos ramas que persisten hasta hoy: la Iglesia católica romana en Occidente y la Iglesia ortodoxa en Oriente. Las excomuniones mutuas no se levantarían formalmente hasta 1965.",
-    "imagenes": []
+    "imagenes": [
+      "/images/edad-media/edadmedia_great-schism-with-former-borders-1054_wikimedia.jpg"
+    ]
+  },
+  {
+    "id": "edadmedia-batalla-de-hastings",
+    "region": "edad-media",
+    "tipo": "evento",
+    "titulo": "Batalla de Hastings y la conquista normanda",
+    "fecha_inicio": 1066,
+    "fecha_fin": null,
+    "descripcion_corta": "El 14 de octubre de 1066, Guillermo, duque de Normandía, derrotó y mató al rey anglosajón Harold Godwinson en la batalla de Hastings, en el sur de Inglaterra, tras cruzar el canal de la Mancha con una flota de invasión. Guillermo fue coronado \"el Conquistador\" el día de Navidad de ese mismo año en la Abadía de Westminster, dando inicio a la dinastía normanda y transformando radicalmente Inglaterra: reemplazó a casi toda la aristocracia anglosajona por nobles normandos, introdujo el francés como lengua de la corte y la administración (que se mezclaría con el inglés antiguo dando origen al inglés medio), impuso un sistema feudal centralizado y ordenó el célebre \"Libro del Día del Juicio\" (Domesday Book, 1086), un exhaustivo censo de tierras y propiedades de todo el reino usado para fines fiscales.",
+    "imagenes": [
+      "/images/edad-media/edadmedia_bayeux-tapestry-scene57-harold-death_wikimedia.jpg"
+    ]
+  },
+  {
+    "id": "edadmedia-conflicto-de-las-investiduras",
+    "region": "edad-media",
+    "tipo": "evento",
+    "titulo": "El Conflicto de las Investiduras",
+    "fecha_inicio": 1076,
+    "fecha_fin": 1122,
+    "descripcion_corta": "Entre 1076 y 1122, el papado y el Sacro Imperio Romano Germánico protagonizaron una larga disputa por quién tenía la autoridad para nombrar (\"investir\") a obispos y abades: el emperador, como ocurría tradicionalmente, o el Papa. El conflicto estalló cuando el papa Gregorio VII excomulgó al emperador Enrique IV en 1076, obligándolo a hacer una humillante penitencia pública descalzo en la nieve frente al castillo de Canossa en enero de 1077 para obtener el perdón papal. Más allá del episodio puntual, la disputa reflejaba una pregunta de fondo sobre la relación entre el poder espiritual y el poder político en la cristiandad medieval, y se resolvió finalmente con el Concordato de Worms en 1122, un compromiso que separó la investidura espiritual (reservada a la Iglesia) de la investidura de bienes temporales (reservada al emperador), sentando un precedente duradero sobre los límites del poder real frente a la Iglesia.",
+    "imagenes": [
+      "/images/edad-media/edadmedia_investiturewoodcut_wikimedia.jpg"
+    ]
   },
   {
     "id": "edadmedia-cruzadas",
@@ -147,7 +189,9 @@
     "fecha_inicio": 1095,
     "fecha_fin": 1291,
     "descripcion_corta": "En 1095, el papa Urbano II convocó la Primera Cruzada en el Concilio de Clermont, pidiendo a los caballeros cristianos de Europa que ayudaran al Imperio Bizantino contra los turcos selyúcidas y recuperaran Jerusalén para la cristiandad. Tras capturar Nicea (1097) y una larga marcha, los cruzados tomaron Jerusalén en 1099, fundando varios reinos cruzados en Oriente Medio, entre ellos el Reino de Jerusalén. Siguieron ocho cruzadas más a lo largo de casi 200 años, con resultados desiguales, hasta que en 1291 cayó Acre, la última fortaleza cruzada, poniendo fin a la presencia cristiana occidental en Tierra Santa.",
-    "imagenes": []
+    "imagenes": [
+      "/images/edad-media/edadmedia_the-siege-of-jerusalem-1099-part-of-the-first-crusade_wikimedia.jpg"
+    ]
   },
   {
     "id": "edadmedia-fundacion-universidades",
@@ -156,8 +200,10 @@
     "titulo": "Fundación de las primeras universidades",
     "fecha_inicio": 1100,
     "fecha_fin": null,
-    "descripcion_corta": "",
-    "imagenes": []
+    "descripcion_corta": "A partir del siglo XII surgieron en Europa las primeras universidades como instituciones organizadas, evolucionando de las antiguas escuelas catedralicias y monásticas. Bolonia (fundada hacia 1088, la más antigua en funcionamiento continuo) se especializó en derecho, mientras que París se convirtió en el gran centro de teología y filosofía, y Oxford surgió poco después en Inglaterra. Los estudiantes y profesores se organizaban en gremios (universitas) que negociaban privilegios y protección legal frente a las autoridades locales, sentando las bases del sistema universitario moderno. Las clases seguían el método escolástico: lectura de textos clásicos y de las Escrituras, seguida de debate formal (disputatio), y el plan de estudios giraba en torno al trivium (gramática, retórica, lógica) y el quadrivium (aritmética, geometría, música, astronomía).",
+    "imagenes": [
+      "/images/edad-media/edadmedia_laurentius-de-voltolina-001_wikimedia.jpg"
+    ]
   },
   {
     "id": "edadmedia-castillos-perfeccionados",
@@ -180,7 +226,9 @@
     "fecha_inicio": 1150,
     "fecha_fin": null,
     "descripcion_corta": "Mientras que en el norte de Europa las ciudades comerciales alemanas se asociaron en la Liga Hanseática (con centros clave en Lübeck, Brujas, Londres, Bergen y Nóvgorod) para proteger sus rutas comerciales de pieles, madera, grano y metales del Báltico y el mar del Norte, en el Mediterráneo las repúblicas marítimas italianas —sobre todo Venecia y Génova— dominaban el comercio con Bizancio, Egipto y Oriente Próximo, trayendo especias, seda y otros productos de lujo a cambio de bienes europeos. Este comercio a gran escala impulsó la aparición de los primeros bancos y casas comerciales, sentando las bases del capitalismo mercantil que florecería en el Renacimiento.",
-    "imagenes": []
+    "imagenes": [
+      "/images/edad-media/edadmedia_ausbreitung-der-hanse-um-das-jahr-1400-droysens-28_wikimedia.jpg"
+    ]
   },
   {
     "id": "edadmedia-magna-carta",
@@ -190,7 +238,9 @@
     "fecha_inicio": 1215,
     "fecha_fin": null,
     "descripcion_corta": "Presionado por los barones ingleses rebeldes, el rey Juan de Inglaterra (Juan Sin Tierra) selló la Magna Carta el 15 de junio de 1215. El documento limitaba por primera vez el poder del rey, estableciendo que ni siquiera el monarca estaba por encima de la ley: garantizaba el derecho a un juicio justo ante un jurado de pares antes de ser encarcelado, protegía ciertos derechos de la Iglesia, los comerciantes y los propietarios, y creó un consejo de 25 barones para vigilar su cumplimiento. Aunque en su momento fue un acuerdo pensado sobre todo para proteger los privilegios de la nobleza, con el tiempo se convirtió en la base histórica de los derechos individuales y el Estado de derecho en el mundo anglosajón.",
-    "imagenes": []
+    "imagenes": [
+      "/images/edad-media/edadmedia_magna-carta-british-library-cotton-ms-augustus-ii-106_wikimedia.jpg"
+    ]
   },
   {
     "id": "edadmedia-invasion-mongola",
@@ -200,7 +250,33 @@
     "fecha_inicio": 1241,
     "fecha_fin": null,
     "descripcion_corta": "Bajo el mando de Batu Kan y el general Subotai, nietos de Gengis Kan, los ejércitos mongoles invadieron Europa oriental. El 9 de abril de 1241 derrotaron a un ejército de caballeros polacos y alemanes en la batalla de Legnica, y dos días después aplastaron al ejército húngaro en la batalla de Mohi. Europa central quedó prácticamente indefensa ante un ejército mucho más numeroso, pero la muerte del gran kan Ogodei ese mismo diciembre obligó a los mongoles a retirarse hacia Asia para disputar la sucesión, salvando —más por esa casualidad que por una victoria militar europea— al resto de Europa occidental de una posible invasión.",
-    "imagenes": []
+    "imagenes": [
+      "/images/edad-media/edadmedia_1236-1242-mongol-invasions-of-europe_wikimedia.jpg"
+    ]
+  },
+  {
+    "id": "edadmedia-reloj-mecanico",
+    "region": "edad-media",
+    "tipo": "evento",
+    "titulo": "El reloj mecánico",
+    "fecha_inicio": 1280,
+    "fecha_fin": null,
+    "descripcion_corta": "Hacia finales del siglo XIII, en algún lugar del norte de Italia o el sur de Alemania, artesanos desconocidos desarrollaron los primeros relojes mecánicos, basados en un mecanismo de escape que regulaba el descenso de pesas colgantes para mover un juego de engranajes a un ritmo constante. A diferencia de los relojes de sol o de agua, funcionaban de noche, con mal tiempo y de forma mucho más precisa, y pronto se instalaron en las torres de catedrales, ayuntamientos y monasterios de las principales ciudades europeas, marcando las horas con campanadas para organizar la vida religiosa, laboral y comercial de la comunidad. Este invento transformó gradualmente la forma en que los europeos concebían el tiempo: de una experiencia ligada a los ciclos naturales (amanecer, atardecer, estaciones) a una medida abstracta, uniforme y dividida en horas iguales, un cambio cultural profundo que sentaría las bases del ritmo de vida industrial siglos después.",
+    "imagenes": [
+      "/images/edad-media/edadmedia_lascar-old-town-hall-staromestsk-radnice-and-astronomic_wikimedia.jpg"
+    ]
+  },
+  {
+    "id": "edadmedia-invencion-de-las-gafas",
+    "region": "edad-media",
+    "tipo": "evento",
+    "titulo": "La invención de las gafas",
+    "fecha_inicio": 1286,
+    "fecha_fin": null,
+    "descripcion_corta": "Hacia 1286, cerca de Pisa, un artesano italiano hasta hoy desconocido tuvo la idea de montar dos lentes de vidrio convexo en un armazón (probablemente de madera o hueso) unido por un remache, creando las primeras gafas de la historia. En 1306, un fraile dominico llamado Giordano da Pisa mencionó en un sermón en Florencia que \"el arte de fabricar gafas\" tenía menos de veinte años de haberse inventado, una de las primeras referencias documentadas al invento. Antes de las gafas, la presbicia y otros defectos de visión condenaban a artesanos, escribas y eruditos a la incapacidad de trabajar de cerca a partir de cierta edad; este invento extendió considerablemente la vida productiva de lectores, copistas y más tarde impresores, y se considera uno de los inventos medievales con mayor impacto silencioso y duradero en la vida cotidiana hasta el día de hoy.",
+    "imagenes": [
+      "/images/edad-media/edadmedia_tommaso-da-modena-ritratti-di-domenicani-ugo-di-provenz_wikimedia.jpg"
+    ]
   },
   {
     "id": "edadmedia-gran-hambruna",
@@ -210,7 +286,21 @@
     "fecha_inicio": 1315,
     "fecha_fin": 1317,
     "descripcion_corta": "Un cambio climático abrupto —lluvias torrenciales y veranos fríos que marcaron el fin del \"óptimo climático medieval\"— arruinó las cosechas de gran parte de Europa entre 1315 y 1317, provocando una hambruna masiva que mató a un porcentaje significativo de la población y diezmó al ganado. La crisis, sumada a la desconfianza hacia gobiernos incapaces de responder, dejó a Europa debilitada justo antes de la Peste Negra, que llegaría tres décadas después y encontraría una población ya empobrecida y malnutrida.",
-    "imagenes": []
+    "imagenes": [
+      "/images/edad-media/edadmedia_great-famine_wikimedia.jpg"
+    ]
+  },
+  {
+    "id": "edadmedia-polvora-y-canones",
+    "region": "edad-media",
+    "tipo": "evento",
+    "titulo": "La pólvora y los primeros cañones en Europa",
+    "fecha_inicio": 1330,
+    "fecha_fin": null,
+    "descripcion_corta": "La pólvora, inventada en China varios siglos antes, llegó a Europa hacia el siglo XIII a través de las rutas comerciales con el mundo islámico, y a partir de la década de 1330 los europeos comenzaron a fabricar sus propios cañones primitivos, toscos tubos de metal capaces de disparar proyectiles de piedra o hierro. Se documenta su uso en batalla ya en Crécy (1346), aunque su efecto en esa ocasión fue más psicológico (el ruido y el humo) que decisivo; hacia mediados de siglo, el propio poeta Petrarca escribía que los cañones en el campo de batalla ya eran \"tan comunes y familiares como cualquier otro tipo de arma\". Con el tiempo, la artillería con pólvora volvería obsoletas las murallas medievales tradicionales (como se demostraría de forma contundente en la caída de Constantinopla en 1453) y transformaría por completo tanto la guerra de asedio como el equilibrio de poder entre la nobleza feudal, cuyos castillos ya no ofrecían la protección inexpugnable de antes, y las monarquías centralizadas, que podían costear la nueva artillería pesada.",
+    "imagenes": [
+      "/images/edad-media/edadmedia_earlycannondenobilitatibussapientiietprudentiisregumman_wikimedia.jpg"
+    ]
   },
   {
     "id": "edadmedia-guerra-de-los-cien-anios",
@@ -219,8 +309,10 @@
     "titulo": "La Guerra de los Cien Años",
     "fecha_inicio": 1337,
     "fecha_fin": 1453,
-    "descripcion_corta": "",
-    "imagenes": []
+    "descripcion_corta": "Entre 1337 y 1453, Inglaterra y Francia libraron una serie de conflictos intermitentes por el trono francés y el control de extensos territorios franceses en manos inglesas, en lo que se conoce (con el nombre acuñado siglos después) como la Guerra de los Cien Años. A pesar de ser una fuerza mucho menor, los ejércitos ingleses lograron victorias aplastantes gracias al arco largo galés, como en Crécy (1346) y sobre todo en Agincourt (1415), donde el rey Enrique V derrotó a una fuerza francesa varias veces superior. El conflicto trajo consigo la aparición de Juana de Arco, que revitalizó la moral francesa en 1429, y terminó con la expulsión casi total de los ingleses del continente, dejando a Francia como un reino centralizado y fortaleciendo un temprano sentido de identidad nacional en ambos países.",
+    "imagenes": [
+      "/images/edad-media/edadmedia_schlacht-von-azincourt_wikimedia.jpg"
+    ]
   },
   {
     "id": "edadmedia-peste-negra",
@@ -230,7 +322,21 @@
     "fecha_inicio": 1346,
     "fecha_fin": 1351,
     "descripcion_corta": "el dia que, la peste negra",
-    "imagenes": []
+    "imagenes": [
+      "/images/edad-media/edadmedia_burying-plague-victims-of-tournai_wikimedia.jpg"
+    ]
+  },
+  {
+    "id": "edadmedia-jacquerie-1358",
+    "region": "edad-media",
+    "tipo": "evento",
+    "titulo": "La Jacquerie de 1358",
+    "fecha_inicio": 1358,
+    "fecha_fin": null,
+    "descripcion_corta": "En el verano de 1358, en plena Guerra de los Cien Años y apenas dos años después de que el rey de Francia fuera capturado en la batalla de Poitiers, miles de campesinos del norte de Francia se alzaron en la mayor revuelta popular que el reino había conocido hasta entonces, conocida como la Jacquerie (los nobles llamaban despectivamente \"Jacques Bonhomme\" a cualquier campesino). Furiosos por los impuestos de guerra, el hambre, el colapso del orden tras la derrota militar y los abusos de una nobleza que ya no lograba protegerlos, los campesinos atacaron castillos y manors, matando a algunos señores y a sus familias. La revuelta fue aplastada en pocas semanas por una alianza de nobles franceses y navarros con una brutalidad desproporcionada —se estima que murieron muchos más campesinos en la represión que nobles durante el alzamiento—, pero quedó como uno de los primeros grandes síntomas de la crisis social que sacudiría a la Europa de fines del siglo XIV, tras la Peste Negra y en medio de guerras prolongadas.",
+    "imagenes": [
+      "/images/edad-media/edadmedia_jacquerie-repression_wikimedia.jpg"
+    ]
   },
   {
     "id": "edadmedia-cisma-de-occidente",
@@ -240,7 +346,33 @@
     "fecha_inicio": 1378,
     "fecha_fin": 1417,
     "descripcion_corta": "Después de casi 70 años en que el papado residió en Avignon (Francia) en vez de Roma, el papa Gregorio XI regresó a Roma en 1377, pero murió al año siguiente. La elección de su sucesor, Urbano VI, fue rechazada por un grupo de cardenales franceses, que eligieron a un papa rival, Clemente VII, instalado de nuevo en Avignon. Durante casi 40 años hubo dos —y llegó a haber hasta tres— papas simultáneos, cada uno respaldado por distintos reinos europeos, lo que debilitó gravemente la autoridad moral de la Iglesia. El cisma se resolvió recién en 1417 con la elección de un papa único, Martín V.",
-    "imagenes": []
+    "imagenes": [
+      "/images/edad-media/edadmedia_grandes-chroniques-de-frances-de-charles-v-bnf-fr2813-f208-c_wikimedia.jpg"
+    ]
+  },
+  {
+    "id": "edadmedia-revuelta-de-los-campesinos-ingleses",
+    "region": "edad-media",
+    "tipo": "evento",
+    "titulo": "La Revuelta de los Campesinos ingleses de 1381",
+    "fecha_inicio": 1381,
+    "fecha_fin": null,
+    "descripcion_corta": "En el verano de 1381, decenas de miles de campesinos ingleses se levantaron contra la corona, en gran parte como respuesta a un nuevo impuesto de capitación (poll tax) que gravaba por igual a ricos y pobres para financiar la Guerra de los Cien Años, en un contexto ya tenso tras la escasez de mano de obra causada por la Peste Negra décadas antes. Liderados por Wat Tyler, los rebeldes marcharon sobre Londres, quemaron el palacio de John of Gaunt (tío del joven rey Ricardo II) y llegaron a ejecutar al arzobispo de Canterbury y al tesorero real. El rey, de solo 14 años, se reunió personalmente con los líderes rebeldes y prometió abolir la servidumbre, pero Wat Tyler fue asesinado durante ese mismo encuentro y las promesas se revocaron poco después, con una dura represión posterior. Aunque fracasó en sus objetivos inmediatos, la revuelta aceleró el declive gradual de la servidumbre feudal en Inglaterra en las décadas siguientes.",
+    "imagenes": [
+      "/images/edad-media/edadmedia_jean-froissart-chroniques-154v-12148-btv1b8438605hf336-_wikimedia.jpg"
+    ]
+  },
+  {
+    "id": "edadmedia-guerras-husitas",
+    "region": "edad-media",
+    "tipo": "evento",
+    "titulo": "Las Guerras Husitas",
+    "fecha_inicio": 1419,
+    "fecha_fin": 1434,
+    "descripcion_corta": "Tras la ejecución en la hoguera del reformador religioso bohemio Jan Hus en 1415 —condenado por herejía en el Concilio de Constanza por criticar la corrupción del clero y defender ideas que anticipaban la Reforma protestante un siglo más tarde—, sus seguidores (los husitas) se rebelaron contra el emperador Segismundo y la Iglesia católica, dando inicio a las Guerras Husitas (1419-1434) en el territorio de Bohemia (actual República Checa). Bajo el liderazgo militar del general tuerto Jan Žižka, los husitas desarrollaron tácticas innovadoras usando carros de guerra fortificados (Wagenburg) equipados con cañones ligeros y armas de fuego portátiles, derrotando repetidamente a varias cruzadas organizadas específicamente para aplastarlos. El conflicto terminó en un compromiso negociado (los Compactos de Praga, 1436) que permitió a los husitas moderados practicar su fe con ciertas concesiones, convirtiéndose en uno de los primeros movimientos religiosos disidentes en sobrevivir militarmente frente al poder combinado del papado y el imperio.",
+    "imagenes": [
+      "/images/edad-media/edadmedia_hussitenkriege_wikimedia.jpg"
+    ]
   },
   {
     "id": "edadmedia-juana-de-arco",
@@ -250,17 +382,9 @@
     "fecha_inicio": 1429,
     "fecha_fin": 1431,
     "descripcion_corta": "En plena Guerra de los Cien Años, con Francia al borde de la derrota, una campesina de 17 años llamada Juana de Arco, que aseguraba escuchar voces de santos, convenció al futuro rey Carlos VII de dejarla liderar un ejército para liberar la ciudad sitiada de Orleans en 1429. Su victoria fue el punto de inflexión de la guerra e impulsó la coronación de Carlos VII poco después. Capturada por los borgoñones en 1430 y vendida a los ingleses, fue juzgada por herejía y quemada en la hoguera en Rouen el 30 de mayo de 1431, con apenas 19 años. Fue canonizada como santa siglos más tarde, en 1920.",
-    "imagenes": []
-  },
-  {
-    "id": "edadmedia-caida-de-constantinopla",
-    "region": "edad-media",
-    "tipo": "evento",
-    "titulo": "Caída de Constantinopla",
-    "fecha_inicio": 1453,
-    "fecha_fin": null,
-    "descripcion_corta": "",
-    "imagenes": []
+    "imagenes": [
+      "/images/edad-media/edadmedia_joan-of-arc-miniature-graded_wikimedia.jpg"
+    ]
   },
   {
     "id": "edadmedia-imprenta-y-renacimiento",
@@ -275,13 +399,39 @@
     ]
   },
   {
+    "id": "edadmedia-caida-de-constantinopla",
+    "region": "edad-media",
+    "tipo": "evento",
+    "titulo": "Caída de Constantinopla",
+    "fecha_inicio": 1453,
+    "fecha_fin": null,
+    "descripcion_corta": "El 29 de mayo de 1453, tras un asedio de casi dos meses, las tropas otomanas del sultán Mehmed II tomaron Constantinopla, la capital milenaria del Imperio bizantino, poniendo fin a más de mil años de continuidad del Imperio romano de Oriente. Los otomanos emplearon enormes cañones de bronce fundidos especialmente para derribar las históricamente inexpugnables murallas terrestres de la ciudad, un símbolo temprano de cómo la pólvora estaba transformando la guerra de asedio medieval. La caída de Constantinopla cerró simbólicamente la Edad Media para muchos historiadores, obligó a numerosos eruditos bizantinos a huir hacia Italia con manuscritos clásicos griegos (impulsando el Renacimiento) y empujó a las potencias europeas a buscar rutas comerciales marítimas alternativas hacia Asia, allanando el camino a los viajes de exploración de finales del siglo XV.",
+    "imagenes": [
+      "/images/edad-media/edadmedia_benjamin-constant-the-entry-of-mahomet-ii-into-constantinopl_wikimedia.jpg"
+    ]
+  },
+  {
+    "id": "edadmedia-guerra-de-las-dos-rosas",
+    "region": "edad-media",
+    "tipo": "evento",
+    "titulo": "La Guerra de las Dos Rosas",
+    "fecha_inicio": 1455,
+    "fecha_fin": 1487,
+    "descripcion_corta": "Entre 1455 y 1487, Inglaterra se vio sacudida por una serie de guerras civiles dinásticas entre dos ramas rivales de la familia real Plantagenet que se disputaban el trono: la Casa de York (símbolo de la rosa blanca) y la Casa de Lancaster (rosa roja), de donde toma su nombre moderno el conflicto. La guerra vio una sucesión vertiginosa de reyes derrocados, restaurados y asesinados, y culminó en la batalla de Bosworth Field en 1485, donde Enrique Tudor derrotó y mató al rey yorkista Ricardo III, célebre por su fama de tirano cruel inmortalizada después por Shakespeare. Enrique, coronado como Enrique VII, se casó con Isabel de York para unir simbólicamente ambas casas (creando la icónica rosa Tudor, blanca y roja combinadas) y fundó la dinastía Tudor, que gobernaría Inglaterra durante los siguientes 118 años, incluyendo los reinados de Enrique VIII e Isabel I.",
+    "imagenes": [
+      "/images/edad-media/edadmedia_beheading-duke-somerset_wikimedia.jpg"
+    ]
+  },
+  {
     "id": "edadmedia-colon-descubre-america",
     "region": "edad-media",
     "tipo": "evento",
     "titulo": "Cristobal Colón descubre America",
     "fecha_inicio": 1492,
     "fecha_fin": null,
-    "descripcion_corta": "",
-    "imagenes": []
+    "descripcion_corta": "El 12 de octubre de 1492, tras más de dos meses de travesía financiada por los Reyes Católicos de España, el navegante genovés Cristóbal Colón llegó a una isla del Caribe (probablemente la actual Bahamas) creyendo haber alcanzado las Indias Orientales por una ruta occidental alternativa a la controlada por los otomanos tras la caída de Constantinopla. Aunque los vikingos ya habían llegado brevemente a América casi 500 años antes, el viaje de Colón inició el contacto sostenido entre Europa y el continente americano, desencadenando el llamado \"intercambio colombino\" de plantas, animales, enfermedades y personas entre ambos hemisferios, y el inicio de siglos de colonización europea. Este hito se usa convencionalmente para marcar el final de la Edad Media y el comienzo de la Edad Moderna.",
+    "imagenes": [
+      "/images/edad-media/edadmedia_john-vanderlyn-columbus-landing-at-guanahani-1492-wga24269_wikimedia.jpg"
+    ]
   }
 ]

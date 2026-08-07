@@ -6,10 +6,25 @@
     "titulo": "Edad Oscura",
     "fecha_inicio": -1100,
     "fecha_fin": -776,
-    "descripcion_corta": "La civilizacion Griega tiene su origen en la civilizacion Minoica Los Monoicos ya construian ciudades con escaleras, jardines, y la civilicivilización Micenica construyeron la famosa puerta de los leones. comerciaban con vino, aceite, lana, y esclavos. Estas civilicivilizaciónes se consideran los antepasados de los griegos Se le llama edad Oscura ya que se han encotrado muy pocos documentos, registros y evidencias de este periodo. Paso del bronce al hierro. Posiblemente la epoca de Troya\n\nLa civilización griega se destacó por su arte (escultura, arquitectura, cerámica, teatro, literatura) y por un importante legado filosófico, con pensadores como Sócrates, Platón y Aristóteles. Sus aportes ejercieron influencia sobre el Imperio romano y, posteriormente, sobre los artistas e intelectuales del Renacimiento. Habitualmente se la considera como la base de la cultura occidental, que entre otras cosas adoptó la democracia (sistema de gobierno creado en Atenas). Los griegos inventaron el teatro en la epoca Clasica, los Griegos también se les considera los precursores del pensamiento actual donde utilizaban razones y argumentos y valoraban la lógica y la razón como la más valiosa poseción donde se pueden destacar a Socrates, Platon y Aristoteles, además de matemáticos como Pitagoras. Las esculturas también fueron muy importantes durante este periodo así como la arquitectura, la cultura Griega tuvo un importante auge en periodos como el renacentista y el neoclasico",
+    "descripcion_corta": "La civilizacion Griega tiene su origen en la civilizacion Minoica Los Monoicos ya construian ciudades con escaleras, jardines, y la civilicivilización Micenica construyeron la famosa puerta de los leones. comerciaban con vino, aceite, lana, y esclavos. Estas civilicivilizaciónes se consideran los antepasados de los griegos Se le llama edad Oscura ya que se han encotrado muy pocos documentos, registros y evidencias de este periodo. Paso del bronce al hierro. Posiblemente la epoca de Troya\n\nCómo vivía la gente\n\nTras el colapso de los palacios micénicos, la escritura (Lineal B) desapareció por completo y la sociedad se reorganizó en pequeñas comunidades agropastoriles dispersas, lideradas por un basileús (jefe o caudillo local), muy lejos todavía de la polis clásica. La cultura era oral: los relatos que después se fijarían por escrito como la Ilíada y la Odisea se transmitían de generación en generación por rapsodas. La población y los asentamientos se redujeron drásticamente respecto a la época micénica, y la costumbre funeraria cambió hacia la cremación, visible en el registro arqueológico. No había arquitectura monumental ni comercio a larga distancia: la vida cotidiana giraba en torno a la aldea y la familia extensa.\n\nModelo económico\n\nLa economía era de subsistencia casi pura: cada familia u hogar cultivaba cebada y trigo, cuidaba olivos donde el clima lo permitía, y criaba cabras y ovejas para cubrir sus propias necesidades, sin apenas excedente para intercambiar. No existía moneda —la acuñación llegaría siglos después— y el poco intercambio que había era local, por trueque. A diferencia de la red comercial micénica que la precedió, prácticamente desapareció el comercio a larga distancia. En esta época ocurrió también la transición tecnológica del bronce al hierro, un metal más accesible porque no dependía de importar estaño, lo que abarató las herramientas y armas con el tiempo.",
+    "imagenes": [
+      "/images/grecia/grecia2_pottery-and-jewelry-protogeometric-period-mca-225390_wikimedia.jpg",
+      "/images/grecia/grecia2_olpe-post-geometric-period-600-bc-kerameikos-mus-225818_wikimedia.jpg",
+      "/images/grecia/grecia2_figurine-of-a-horse-carrying-four-amphoras-on-its-back-_wikimedia.jpg"
+    ]
+  },
+  {
+    "id": "grecia-legado-cultural",
+    "region": "grecia",
+    "tipo": "evento",
+    "titulo": "Legado cultural griego",
+    "fecha_inicio": -1000,
+    "fecha_fin": null,
+    "descripcion_corta": "La civilización griega se destacó por su arte (escultura, arquitectura, cerámica, teatro, literatura) y por un importante legado filosófico, con pensadores como Sócrates, Platón y Aristóteles. Sus aportes ejercieron influencia sobre el Imperio romano y, posteriormente, sobre los artistas e intelectuales del Renacimiento. Habitualmente se la considera como la base de la cultura occidental, que entre otras cosas adoptó la democracia (sistema de gobierno creado en Atenas). Los griegos inventaron el teatro en la epoca Clasica, los Griegos también se les considera los precursores del pensamiento actual donde utilizaban razones y argumentos y valoraban la lógica y la razón como la más valiosa poseción donde se pueden destacar a Socrates, Platon y Aristoteles, además de matemáticos como Pitagoras. Las esculturas también fueron muy importantes durante este periodo así como la arquitectura, la cultura Griega tuvo un importante auge en periodos como el renacentista y el neoclasico",
     "imagenes": [
       "/images/grecia/grecia_screenshot-2024-09-03-at-9-30-02-pm-1_node-89-133.png",
-      "/images/grecia/grecia_screenshot-2024-09-03-at-11-29-27-pm-1_node-91-186.png"
+      "/images/grecia/grecia_screenshot-2024-09-03-at-11-29-27-pm-1_node-91-186.png",
+      "/images/grecia/grecia_screenshot-2024-09-03-at-11-31-23-pm-1_node-91-187.png"
     ]
   },
   {
@@ -19,26 +34,32 @@
     "titulo": "Epoca Arcaica",
     "fecha_inicio": -750,
     "fecha_fin": -499,
-    "descripcion_corta": "Los griegos consiguieron expandir sus territorios, se establecieron en Grecia y coquistaron Asia menor y el sur de Italia, los griegos hablaban en diferentes variantes de la futura lengua Griega. Se formaron las primeras ciudades de Atenas, Tebas, Esparta, Corinto, y Argos, Ubicadas en lo que hoy es Grecia. El aumento de la poblacion, conflictos y otros factores los llevaron a buscar expandirse lo que supuso un despegue económico, un aspecto que favorecio la expanción fue la aparición del Hoplita soldado de infanteria griego, el uso del trirreme que era un navio de tres filas de remos, lo que hacia que fuera mucho más agil que los normales, y la aparicioaparición de las monedas. La cultura Griega se expandió, y aunque fueran estados independientes e incluso lucharan entre ellos, había un sentimiento de pertenencia, todos pertenecían a la cultura Griega, todos tenían la misma lengua, creencias y se reunían en las mismas celebraciones. Los Romanos los llamaban Griegos, pero ellos se hacían llamar Helenos Se creó el alfabeto Griego y Homero escribió la Odisea y la iliada\n\nLos modelos más conocidos y más importantes de la antigua Grecia fueron los de Esparta y Atenas.\n\nEsparta: Esparta era un pueblo guerrero con gran preparación militar, el surgimiento de una nueva estructura de combate, la falange, hizo del ejército espartano el más temido de Grecia, Soldados acorazados. Los guerreros espartanos iban pertrechados con un pesado equipo metalico: casco, escudo, espada, lanza y grebas (espinilleras). Durante mucho tiempo hubo una forma de gobierno llamada \"Diarquia\" en donde dos relles pertenecientes a las grandes familias espartanas regían sobre el pueblo\n\nAtenas: Atenas fue la ciudad más importante de la antigua Grecia era una ciudad que vivia de cara al comercio, el nombre de Atenas proviene de la diosa mitologica Atenea que significa hijos de Atenea, que segun la mitología griega Atenea era hija de Zeus, Atenea es la diosa de la sabiduria pero tambien es una diosa protectora y combatiente. En Atenas nació el sistema politico que hoy conocemos como democracia por Pericles. Las ciudades estaban dominadas por una Acropolis, donde se albergaba el tesoro de la ciudad y diversos templos para ritos religiosos y ofrendas, donde Atenea era la patrona y protectora. También existian santuarios donde el más importante estaba dedicado el dios Apolo ubicado en Delfos, Otro santuario muy famoso es el ubicado en Olimpia que estaba dedicado al dios Zeus donde cada 4 años se celebraban los juegos olímpicos que no solo servian para honrar a los dioses, si no para acercar a los pueblos celenicos, durante los juegos olimpicos se hacia una tregua, para permitir a los participantes viajar de forma segura. Solo los hombres libres que hablaban griego podían participar, se competía en carrera con carreta y caballo, lucha, lanzamiento de disco, jabalina, salto, y otras pruebas. Los ganadores recibian una corona de Olibo y el reconocimiento en su ciudad de origen, se convertían en celebridades y vivían el resto de sus vidas a costa del erario (gobierno) se cree que empezaron en el 776 AC",
+    "descripcion_corta": "Los griegos consiguieron expandir sus territorios, se establecieron en Grecia y coquistaron Asia menor y el sur de Italia, los griegos hablaban en diferentes variantes de la futura lengua Griega. Se formaron las primeras ciudades de Atenas, Tebas, Esparta, Corinto, y Argos, Ubicadas en lo que hoy es Grecia. El aumento de la poblacion, conflictos y otros factores los llevaron a buscar expandirse lo que supuso un despegue económico, un aspecto que favorecio la expanción fue la aparición del Hoplita soldado de infanteria griego, el uso del trirreme que era un navio de tres filas de remos, lo que hacia que fuera mucho más agil que los normales, y la aparicioaparición de las monedas. La cultura Griega se expandió, y aunque fueran estados independientes e incluso lucharan entre ellos, había un sentimiento de pertenencia, todos pertenecían a la cultura Griega, todos tenían la misma lengua, creencias y se reunían en las mismas celebraciones. Los Romanos los llamaban Griegos, pero ellos se hacían llamar Helenos Se creó el alfabeto Griego y Homero escribió la Odisea y la iliada\n\nCómo vivía la gente\n\nLa polis (ciudad-estado) se consolidó como la unidad central de la vida social, reemplazando a las aldeas dispersas de la Edad Oscura. Ser ciudadano se volvió una identidad definitoria: los hombres libres participaban en la vida cívica y militar, y el combate en falange de hoplitas exigía que cada soldado costeara su propio equipo, lo que ligaba los derechos políticos a la posición económica. La reintroducción de la escritura (el alfabeto griego, adaptado del fenicio) permitió publicar códigos de leyes por primera vez —como las severas leyes de Dracón en Atenas, hacia 621 a. C.—, un cambio frente a la justicia oral y arbitraria de los aristócratas. También surgieron instituciones panhelénicas que unían a los griegos por encima de sus rivalidades políticas, como los Juegos Olímpicos (tradicionalmente fechados en 776 a. C.) y el santuario compartido de Delfos.\n\nModelo económico\n\nLa economía griega se recuperó tras la Edad Oscura: el crecimiento demográfico, el excedente agrícola y el contacto renovado con Oriente Próximo (a través de comerciantes fenicios) reactivaron el comercio. Se introdujo la moneda acuñada, adoptada de Lidia (en Asia Menor) durante el siglo VII a. C., lo que hizo el intercambio mucho más eficiente que el trueque. La colonización cumplía también un fin económico: cada nueva colonia aseguraba tierras de cultivo, recursos y puestos comerciales, exportando aceite, vino y cerámica a cambio de grano y metales. La desigualdad económica se agudizó —una élite aristocrática terrateniente dominaba la política mientras crecía una clase de comerciantes y campesinos endeudados—, tensión que en Atenas llevó a las reformas de Solón (hacia 594 a. C.), que abolieron la esclavitud por deudas.",
     "imagenes": [
-      "/images/grecia/grecia_screenshot-2024-09-03-at-11-31-23-pm-1_node-91-187.png",
       "/images/grecia/grecia_screenshot-2024-09-03-at-10-12-04-pm-1_node-90-154.png",
       "/images/grecia/grecia_alfabeto-griego-1_node-90-156.png",
       "/images/grecia/grecia_alfabetogriego_node-90-155.png",
-      "/images/grecia/grecia_1651150823594-1651151104-asset-still-1_node-91-157.png",
       "/images/grecia/grecia_250px-odyssey-crop-1_node-91-158.png",
       "/images/grecia/grecia_trirreme-salamina-la-decisiva-victoria-de-las-ciudades-griegas-ante-el-imperio-persa-n-1_node-91-159.png",
+      "/images/grecia/grecia2_chigi-painter-cvpap-32-a-3-battle-of-phalanxes-chariots_wikimedia.jpg",
+      "/images/grecia/grecia2_electrum-trite-alyattes-lydia-620-563-bc_wikimedia.jpg"
+    ]
+  },
+  {
+    "id": "grecia-atenas",
+    "region": "grecia",
+    "tipo": "evento",
+    "titulo": "Atenas",
+    "fecha_inicio": -650,
+    "fecha_fin": null,
+    "descripcion_corta": "Atenas fue la ciudad más importante de la antigua Grecia era una ciudad que vivia de cara al comercio, el nombre de Atenas proviene de la diosa mitologica Atenea que significa hijos de Atenea, que segun la mitología griega Atenea era hija de Zeus, Atenea es la diosa de la sabiduria pero tambien es una diosa protectora y combatiente. En Atenas nació el sistema politico que hoy conocemos como democracia por Pericles. Las ciudades estaban dominadas por una Acropolis, donde se albergaba el tesoro de la ciudad y diversos templos para ritos religiosos y ofrendas, donde Atenea era la patrona y protectora. También existian santuarios donde el más importante estaba dedicado el dios Apolo ubicado en Delfos, Otro santuario muy famoso es el ubicado en Olimpia que estaba dedicado al dios Zeus donde cada 4 años se celebraban los juegos olímpicos que no solo servian para honrar a los dioses, si no para acercar a los pueblos celenicos, durante los juegos olimpicos se hacia una tregua, para permitir a los participantes viajar de forma segura. Solo los hombres libres que hablaban griego podían participar, se competía en carrera con carreta y caballo, lucha, lanzamiento de disco, jabalina, salto, y otras pruebas. Los ganadores recibian una corona de Olibo y el reconocimiento en su ciudad de origen, se convertían en celebridades y vivían el resto de sus vidas a costa del erario (gobierno) se cree que empezaron en el 776 AC",
+    "imagenes": [
       "/images/grecia/grecia_nama-ath-na-varvakeion-1_node-91-183.png",
-      "/images/grecia/grecia_laoco-n-and-his-sons-1_node-91-168.png",
-      "/images/grecia/grecia_la-grecia-antigua-y-la-herencia-premendeliana-1024x687-1_node-91-169.png",
-      "/images/grecia/grecia_images-3_node-91-170.png",
       "/images/grecia/grecia_esculturas-griegas-mujeres-1_node-91-171.png",
       "/images/grecia/grecia_atenas-partenon-antigua-grecia-1_node-91-172.png",
-      "/images/grecia/grecia_el-mito-de-esparta-1_node-91-192.png",
       "/images/grecia/grecia_img-15-greciaclasica-01-011-1_node-91-191.png",
       "/images/grecia/grecia_dibujo-acropolis-de-atenas-1_node-91-182.png",
-      "/images/grecia/grecia_antigua-ciudad-griega-vibrante-70-1-1_node-91-173.png",
-      "/images/grecia/grecia_matem-tica-griega-1_node-91-195.png"
+      "/images/grecia/grecia_antigua-ciudad-griega-vibrante-70-1-1_node-91-173.png"
     ]
   },
   {
@@ -48,16 +69,30 @@
     "titulo": "Periodo Clasico",
     "fecha_inicio": -499,
     "fecha_fin": -323,
-    "descripcion_corta": "En este periodo ocurrieron las guerras médicas, entre los pueblos Griegos y el temible imperio Persa. La primera gerra médica inició cuando las ciudades Jonias y Asia menor se revelaron contra el dominio Persa, muy pronto las demas ciudades formaron un ejercito para luchar contra el ejercito Persa que estaba bajo el mando del rey Darío primero, esta guerra la ganaron los griegos entre 492 y 490 AC. Luego en el 480 antes de cristo esta guerra se reanudó bajo el mando del rey Jerjes quien era hijo de Dario. El ejercito Griego con Esparta y Atenas a la cabeza lograron vencer nuevamente al imperio Persa, esta guerra existio la famosa batalla de las Termópilas, liderada por el rey Leonidas video 300 . Atenas inició una época de éxplendor bajo el gobierno de Pericles que cambio el mundo oxidental. Sin embargo Esparta pretendió liberarse del poder de Atenas, que antes eran pueblos aliados, iniciarion una larga guerra guerra llamada La guerra del Poloponeso que concluye con la derrota de los Atenienses y la nueva supremasia de Esparta. Aunque mas adelante Atenas tendría un nuevo renacimiento ante el debilitamiento de Esparta y su guerra contra Tebas. En esta época es dé se desarrolló la mayor parte de Arte, literatura y Filosofía\n\nTierra esferica: Tales de Mileto (de -625 a -547) fue el primero en plantearse realmente la cuestión de la forma de la Tierra y después de este fueron Pitágoras (de -580 a -495) y Platón (de -428 a -348) quienes le dan una forma esférica considerada más racional. Y finalmente Aristóteles (de -384 a -322) fue quien aportó algunas primeras pruebas observacionales de esto, a partir de la forma redondeada de la sombra de la Tierra en la Luna durante los eclipses. Un hecho que por aquel entonces no parece realmente conmocionar a su mundo. Se deberá esperar a Eratóstenes (de -276 a -194) que fue el primero capaz de medir la circunferencia de la Tierra. Este matemático y astrónomo había notado que al mediodía del día del solsticio de verano, no había sombra cerca de Asuán. Midiendo la sombra de un palo plantado en Alejandría al mismo tiempo y conociendo la distancia que separa las dos ciudades, dedujo la circunferencia de la Tierra con una precisión bastante asombrosa: 39.375 kilómetros contra unos 40.000 kilómetros de las estimaciones actuales, demostrando así que la Tierra es redonda",
+    "descripcion_corta": "En este periodo ocurrieron las guerras médicas, entre los pueblos Griegos y el temible imperio Persa. La primera gerra médica inició cuando las ciudades Jonias y Asia menor se revelaron contra el dominio Persa, muy pronto las demas ciudades formaron un ejercito para luchar contra el ejercito Persa que estaba bajo el mando del rey Darío primero, esta guerra la ganaron los griegos entre 492 y 490 AC. Luego en el 480 antes de cristo esta guerra se reanudó bajo el mando del rey Jerjes quien era hijo de Dario. El ejercito Griego con Esparta y Atenas a la cabeza lograron vencer nuevamente al imperio Persa, esta guerra existio la famosa batalla de las Termópilas, liderada por el rey Leonidas video 300 . Atenas inició una época de éxplendor bajo el gobierno de Pericles que cambio el mundo oxidental. Sin embargo Esparta pretendió liberarse del poder de Atenas, que antes eran pueblos aliados, iniciarion una larga guerra guerra llamada La guerra del Poloponeso que concluye con la derrota de los Atenienses y la nueva supremasia de Esparta. Aunque mas adelante Atenas tendría un nuevo renacimiento ante el debilitamiento de Esparta y su guerra contra Tebas. En esta época es dé se desarrolló la mayor parte de Arte, literatura y Filosofía\n\nCómo vivía la gente\n\nLa educación (paideia) era central para los varones libres, sobre todo en Atenas: aprendían gramática, música, geometría y gimnasia desde niños, con la idea de formar ciudadanos completos, de cuerpo y mente. En Esparta, en cambio, la educación (agogé) era un entrenamiento militar durísimo desde los 7 años. Las mujeres, salvo en Esparta (donde también hacían ejercicio físico), tenían un rol doméstico y estaban excluidas de la vida política: no podían votar ni participar en la Asamblea. El symposio (banquete con vino, música y filosofía) era un pilar de la vida social masculina de la élite. El teatro tampoco era solo entretenimiento: las obras se representaban en festivales religiosos como las Dionisias, y asistir era casi una obligación cívica.\n\nModelo económico\n\nEl comercio marítimo por el Mediterráneo y el mar Egeo era el motor económico griego: cada ciudad-estado (polis) acuñaba su propia moneda (la dracma ateniense, con la lechuza de Atenea, fue la más difundida) y fundaba colonias en Sicilia, el sur de Italia y las costas del mar Negro para asegurar rutas comerciales y tierras de cultivo. La esclavitud sostenía buena parte de la economía: se calcula que en la Atenas clásica los esclavos eran alrededor de un tercio de la población, y trabajaban en minas (como las de plata de Laurión, que financiaron la flota ateniense), talleres artesanales y el servicio doméstico. La agricultura (olivo, vid, cereales) se combinaba con la producción de cerámica y textiles pensada para la exportación.",
     "imagenes": [
       "/images/grecia/grecia_screenshot-2024-09-03-at-10-29-51-pm-1_node-91-161.png",
       "/images/grecia/grecia_grandes-batallas-de-la-historia-batalla-de-las-term-pilas-1_node-91-162.png",
       "/images/grecia/grecia_images-1-2_node-91-163.png",
+      "/images/grecia/grecia_akropol-1_node-91-174.png",
+      "/images/grecia/grecia2_red-figure-kylix-symposium-scene-boston-mfa-01-8018_wikimedia.jpg",
+      "/images/grecia/grecia2_greece-lavrion-mines-1903_wikimedia.jpg"
+    ]
+  },
+  {
+    "id": "grecia-tierra-esferica",
+    "region": "grecia",
+    "tipo": "evento",
+    "titulo": "Tierra esférica",
+    "fecha_inicio": -470,
+    "fecha_fin": null,
+    "descripcion_corta": "Tales de Mileto (de -625 a -547) fue el primero en plantearse realmente la cuestión de la forma de la Tierra y después de este fueron Pitágoras (de -580 a -495) y Platón (de -428 a -348) quienes le dan una forma esférica considerada más racional. Y finalmente Aristóteles (de -384 a -322) fue quien aportó algunas primeras pruebas observacionales de esto, a partir de la forma redondeada de la sombra de la Tierra en la Luna durante los eclipses. Un hecho que por aquel entonces no parece realmente conmocionar a su mundo. Se deberá esperar a Eratóstenes (de -276 a -194) que fue el primero capaz de medir la circunferencia de la Tierra. Este matemático y astrónomo había notado que al mediodía del día del solsticio de verano, no había sombra cerca de Asuán. Midiendo la sombra de un palo plantado en Alejandría al mismo tiempo y conociendo la distancia que separa las dos ciudades, dedujo la circunferencia de la Tierra con una precisión bastante asombrosa: 39.375 kilómetros contra unos 40.000 kilómetros de las estimaciones actuales, demostrando así que la Tierra es redonda",
+    "imagenes": [
+      "/images/grecia/grecia_matem-tica-griega-1_node-91-195.png",
       "/images/grecia/grecia_redondez-1-1_node-92-198.png",
       "/images/grecia/grecia_aristoteles-platon-socrates-1_node-91-194.png",
       "/images/grecia/grecia_2022090911375094084-1_node-91-175.png",
       "/images/grecia/grecia_images-2-1_node-91-190.png",
-      "/images/grecia/grecia_akropol-1_node-91-174.png",
       "/images/grecia/grecia_screenshot-2024-09-03-at-11-34-11-pm-1_node-91-188.png",
       "/images/grecia/grecia_screenshot-2024-09-03-at-11-32-57-pm-1_node-91-189.png"
     ]
@@ -70,7 +105,9 @@
     "fecha_inicio": -431,
     "fecha_fin": -404,
     "descripcion_corta": "El creciente poder naval y económico de Atenas, sostenido por los tributos de la Liga de Delos, generó una desconfianza cada vez mayor en Esparta, que temía el imperialismo ateniense. La guerra estalló en 431 a. C. bajo el liderazgo de Pericles en Atenas, y en 429 a. C. una plaga devastadora mató a buena parte de la población ateniense, incluido el propio Pericles. Tras una tregua temporal (la Paz de Nicias, 421 a. C.), el conflicto se reanudó hasta que Esparta, con ayuda financiera persa, destruyó la flota ateniense en la batalla de Egospótamos (405 a. C.), sellando al año siguiente la derrota total de Atenas y el fin de su hegemonía sobre Grecia.",
-    "imagenes": []
+    "imagenes": [
+      "/images/grecia/grecia2_pelop-war-en_wikimedia.jpg"
+    ]
   },
   {
     "id": "grecia-teatro-griego",
@@ -80,7 +117,9 @@
     "fecha_inicio": -500,
     "fecha_fin": null,
     "descripcion_corta": "El teatro griego nació como parte de festivales religiosos dedicados al dios Dioniso, como las Dionisias de Atenas. Los tres grandes trágicos —Esquilo, Sófocles y Eurípides— exploraron temas de destino, justicia divina y la condición humana en obras como la trilogía Orestíada o Edipo Rey, mientras que Aristófanes fue el gran maestro de la comedia, usando la sátira para criticar a políticos y costumbres de su época. De los cientos de obras escritas por estos autores, apenas 33 se conservan completas hasta hoy, pero su influencia moldeó todo el teatro occidental posterior.",
-    "imagenes": []
+    "imagenes": [
+      "/images/grecia/grecia2_greek-actor-walters-541067_wikimedia.jpg"
+    ]
   },
   {
     "id": "grecia-alejandro-magno",
@@ -90,27 +129,9 @@
     "fecha_inicio": -336,
     "fecha_fin": -323,
     "descripcion_corta": "Alejandro Magno se convirtió en rey de Macedonia en 336 a. C. tras el asesinato de su padre, Filipo II, y con apenas 20 años emprendió la conquista del Imperio Persa, además de Egipto y territorios hasta el actual Pakistán, creando uno de los imperios más extensos de la historia antigua. Murió en Babilonia en 323 a. C., a los 33 años, posiblemente de malaria, fiebre tifoidea o envenenamiento. Su imperio se dividió entre sus generales (los diádocos), pero su conquista difundió el idioma, el arte y la ciencia griegas por todo Oriente Próximo y Asia Central, dando origen al período Helenístico.",
-    "imagenes": []
-  },
-  {
-    "id": "grecia-vida-cotidiana",
-    "region": "grecia",
-    "tipo": "evento",
-    "titulo": "Cómo vivía la gente",
-    "fecha_inicio": -450,
-    "fecha_fin": null,
-    "descripcion_corta": "La educación (paideia) era central para los varones libres, sobre todo en Atenas: aprendían gramática, música, geometría y gimnasia desde niños, con la idea de formar ciudadanos completos, de cuerpo y mente. En Esparta, en cambio, la educación (agogé) era un entrenamiento militar durísimo desde los 7 años. Las mujeres, salvo en Esparta (donde también hacían ejercicio físico), tenían un rol doméstico y estaban excluidas de la vida política: no podían votar ni participar en la Asamblea. El symposio (banquete con vino, música y filosofía) era un pilar de la vida social masculina de la élite. El teatro tampoco era solo entretenimiento: las obras se representaban en festivales religiosos como las Dionisias, y asistir era casi una obligación cívica.",
-    "imagenes": []
-  },
-  {
-    "id": "grecia-modelo-economico",
-    "region": "grecia",
-    "tipo": "evento",
-    "titulo": "Modelo económico",
-    "fecha_inicio": -450,
-    "fecha_fin": null,
-    "descripcion_corta": "El comercio marítimo por el Mediterráneo y el mar Egeo era el motor económico griego: cada ciudad-estado (polis) acuñaba su propia moneda (la dracma ateniense, con la lechuza de Atenea, fue la más difundida) y fundaba colonias en Sicilia, el sur de Italia y las costas del mar Negro para asegurar rutas comerciales y tierras de cultivo. La esclavitud sostenía buena parte de la economía: se calcula que en la Atenas clásica los esclavos eran alrededor de un tercio de la población, y trabajaban en minas (como las de plata de Laurión, que financiaron la flota ateniense), talleres artesanales y el servicio doméstico. La agricultura (olivo, vid, cereales) se combinaba con la producción de cerámica y textiles pensada para la exportación.",
-    "imagenes": []
+    "imagenes": [
+      "/images/grecia/grecia2_alexander-mosaic-detail-of-alexander-the-great-3x4-crop_wikimedia.jpg"
+    ]
   },
   {
     "id": "grecia-periodo-helenistico",
@@ -119,7 +140,23 @@
     "titulo": "Periodo Helenistico",
     "fecha_inicio": -323,
     "fecha_fin": -30,
-    "descripcion_corta": "Este es el último periodo, Alejandro Magno eredó de su padre una grecia derrotada pero acabó sometiendo al imperio Persa, Sus conquistas crearon un basto imperio desde Egipto hasta la India ayudando a difundir la cultura griega por todo el mediterraneo y parte de la India.\n\nApartir del año 200 los Romanos se empiezan a apoderar de todas la zonas colonizadas por los Griegos, tomando alfin el ultimo de los reinos de los sucesores del imperio de Alejandro Magno, el reino de la dinastia de los tolomeos en Egipto, con Cleopatra como su ultima representante, luego de esto los romanos terminarían absorbiendo la herencia de la cultura Griega",
-    "imagenes": []
+    "descripcion_corta": "Este es el último periodo, Alejandro Magno eredó de su padre una grecia derrotada pero acabó sometiendo al imperio Persa, Sus conquistas crearon un basto imperio desde Egipto hasta la India ayudando a difundir la cultura griega por todo el mediterraneo y parte de la India.\n\nCómo vivía la gente\n\nTras las conquistas de Alejandro, la cultura griega se extendió por un mundo enorme y étnicamente mixto, desde Egipto hasta la India, y el griego común (koiné) se convirtió en la lengua franca de la administración, el comercio y la literatura en toda esa región. La vida cotidiana se volvió más cosmopolita: costumbres griegas y locales (egipcias, persas, del Cercano Oriente) se mezclaron cada vez más. Surgieron ciudades nuevas como Alejandría, centros de cultura griega lejos de la Grecia continental, con grandes bibliotecas y museos financiados por la realeza. El ideal clásico del ciudadano de una polis autogobernada perdió peso frente a la vida como súbdito de las grandes monarquías sucesoras de Alejandro; la participación cívica cedió terreno ante la vida cortesana y la administración real, y ganaron protagonismo escuelas filosóficas centradas en la ética personal, como el estoicismo, el epicureísmo y el cinismo.\n\nModelo económico\n\nLas conquistas de Alejandro abrieron enormes redes comerciales que conectaban el Mediterráneo con Persia, la India y más allá, y pusieron en circulación el inmenso tesoro real persa en oro y plata, expandiendo la economía monetaria. Las nuevas grandes ciudades helenísticas (Alejandría, Antioquía, Pérgamo) se convirtieron en importantes centros comerciales y administrativos. Los ejércitos dejaron de basarse en milicias ciudadanas de hoplitas para convertirse en grandes fuerzas profesionales y mercenarias sostenidas por las monarquías, financiadas con los impuestos de extensas tierras reales y el comercio. El mecenazgo real financiaba además infraestructura de prestigio, como el Faro de Alejandría o su Museion y Biblioteca, mientras los monarcas competían por notoriedad. La esclavitud siguió siendo generalizada y, si acaso, se expandió con la mayor escala de estas economías.",
+    "imagenes": [
+      "/images/grecia/grecia2_nike-of-samothrake-louvre-ma2369-n4_wikimedia.jpg",
+      "/images/grecia/grecia2_ancientlibraryalex_wikimedia.jpg",
+      "/images/grecia/grecia2_pharos-of-alexandria-reconstruction-2021_wikimedia.jpg"
+    ]
+  },
+  {
+    "id": "grecia-conquista-romana",
+    "region": "grecia",
+    "tipo": "evento",
+    "titulo": "Conquista romana de Grecia",
+    "fecha_inicio": -200,
+    "fecha_fin": -30,
+    "descripcion_corta": "Apartir del año 200 los Romanos se empiezan a apoderar de todas la zonas colonizadas por los Griegos, tomando alfin el ultimo de los reinos de los sucesores del imperio de Alejandro Magno, el reino de la dinastia de los tolomeos en Egipto, con Cleopatra como su ultima representante, luego de esto los romanos terminarían absorbiendo la herencia de la cultura Griega",
+    "imagenes": [
+      "/images/grecia/grecia2_bust-of-cleopatra-at-the-royal-ontario-museum_wikimedia.jpg"
+    ]
   }
 ]

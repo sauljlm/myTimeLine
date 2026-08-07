@@ -94,6 +94,592 @@ para el resto del sitio:
 **Total del sitio: de 92 a 125 eventos** (+33). Verificado: 0
 solapamientos en las 9 regiones tras la expansión.
 
+## Ajuste de densidad de Edad Media + imágenes nuevas
+
+El usuario pidió que la sección de Edad Media quedara "justo en la
+línea" (la mayoría de los eventos en la fila principal, no apiladas en
+filas extra) y que se agregaran imágenes donde no había ninguna.
+
+**Densidad — primer intento (descartado)**: se subió `pxPorAnio` del
+tramo 0–1524 años de antigüedad completo (el que cubre 476–2000 DC,
+donde vive toda la Edad Media) en `src/lib/timeScale.ts`, probando
+incrementalmente 9 → 18 → 30 → 45 px/año parejo para toda la franja. En
+45 quedaron 23 de los 27 eventos en la fila principal, pero el usuario
+pidió revertirlo: subir la densidad pareja para TODA la franja también
+ensanchaba de más los huecos que ya cabían bien con la densidad base
+(4px/año), solo para poder separar los pares de eventos realmente
+cercanos en el tiempo — igual que ya había pasado antes con el intento
+fallido de subir la densidad pareja para todo el Imperio Romano.
+
+**Densidad — enfoque final**: se revirtió `pxPorAnio` a 4 (el valor
+original, ya commiteado) y en su lugar se subdividió ese único tramo en
+26 tramos angostos, uno entre cada par de eventos consecutivos. La
+mayoría queda en 4px/año (densidad base, igual que "antes"); solo los
+tramos que caen justo entre dos eventos con pocos años de diferencia
+suben la densidad lo necesario para que ambos quepan en la misma fila
+(240px de ancho de tarjeta + 24px de `GAP_HORIZONTAL_MIN` en
+`layout.ts` = 264px mínimos entre el inicio de dos tarjetas
+consecutivas). Además, dos eventos sin fecha histórica real
+("Cómo vivía la gente" y "Modelo económico", ambos redactados por mí
+como contenido nuevo con fecha arbitraria 850) se separaron a 840 y 860
+— al no representar un evento puntual real no hay problema en mover la
+fecha unos años, a diferencia de fechas históricas documentadas.
+
+Resultado: **26 de los 27 eventos caben en la fila principal** (antes
+solo 23), con un ancho total del tramo de ~9400px en vez de los ~68 500
+que hubiera dado subir parejo a 45px/año. El único par que sigue en una
+fila aparte es "Fundación de universidades" y "Perfeccionamiento de
+castillos", que comparten el mismo año exacto (1100) — ningún valor de
+densidad puede separar dos eventos con la misma fecha, y al ser ambos
+hechos históricos reales no se les movió la fecha solo por estética de
+layout. 0 solapamientos verificado en las 9 regiones tras el cambio;
+vista "Reset" sigue ajustando todo el timeline (5%, sin tocar el zoom
+mínimo).
+
+**Imágenes nuevas**: se identificaron 21 eventos de Edad Media con
+`"imagenes": []` (11 de la investigación agregada en la sección
+anterior, más 10 que venían de Figma pero nunca tuvieron imagen
+asignada: inicios, reino de los francos, invasiones vikingas, guerra de
+los cien años, peste negra, caída de Constantinopla, colón descubre
+américa, y los 3 eventos "vida cotidiana"/"modelo económico" agregados
+antes). Para cada uno se buscó una imagen apropiada en Wikimedia
+Commons (usando la imagen principal del artículo correspondiente de
+Wikipedia en inglés cuando existía, o búsqueda directa en Commons),
+priorizando dominio público o CC BY-SA, descargada, redimensionada a un
+máximo de 1600px de ancho y recomprimida (algunas fuentes originales
+pesaban hasta 77MB). Las 21 imágenes están en
+`public/images/edad-media/` y `recuperado/images/original/` con el
+sufijo `_wikimedia` en el nombre (en vez de `_node-XX-YY`, para dejar
+claro que no vienen de Figma). Fuente y licencia de cada una:
+
+- `edadmedia-inicios`: "Europe at the fall of the Western Roman Empire
+  in 476" — CC BY-SA 3.0.
+- `edadmedia-reino-de-los-francos`: "The Baptism of Clovis" (Alaux) —
+  dominio público.
+- `edadmedia-imperio-bizantino`: "Hagia Sophia Interior Panorama" — CC
+  BY-SA 3.0.
+- `edadmedia-reconquista-espanola`: "Cantigas battle" — dominio
+  público.
+- `edadmedia-invasiones-vikingas`: "Osebergskipet 2016" (barco vikingo
+  de Oseberg) — CC BY-SA 4.0.
+- `edadmedia-vida-cotidiana`: "Reeve and Serfs" (Luttrell Psalter) —
+  dominio público.
+- `edadmedia-modelo-economico`: "Les Très Riches Heures du duc de Berry
+  — mars" — dominio público.
+- `edadmedia-innovaciones-agricolas`: "Three Field System" (diagrama
+  SVG) — CC BY-SA 4.0.
+- `edadmedia-gran-cisma-de-oriente`: "Great Schism with former borders
+  (1054)" — CC BY-SA 3.0.
+- `edadmedia-cruzadas`: "The Siege of Jerusalem (1099), Part of the
+  First Crusade" — dominio público.
+- `edadmedia-fundacion-universidades`: "Laurentius de Voltolina 001"
+  (clase medieval en Bolonia) — dominio público.
+- `edadmedia-liga-hanseatica`: "Ausbreitung der Hanse um das Jahr 1400"
+  (mapa) — CC BY-SA 3.0.
+- `edadmedia-magna-carta`: "Magna Carta (British Library Cotton MS
+  Augustus II.106)" — dominio público.
+- `edadmedia-invasion-mongola`: "1236-1242 Mongol invasions of Europe"
+  (mapa) — CC BY-SA 4.0.
+- `edadmedia-gran-hambruna`: "Great famine" — dominio público.
+- `edadmedia-guerra-de-los-cien-anios`: "Schlacht von Azincourt" —
+  dominio público.
+- `edadmedia-peste-negra`: "Burying Plague Victims of Tournai" (crónica
+  de Gilles Li Muisis, 1353) — dominio público.
+- `edadmedia-cisma-de-occidente`: "Grandes Chroniques de Frances de
+  Charles V" (clérigos disputando) — dominio público.
+- `edadmedia-juana-de-arco`: "Joan of Arc miniature graded" (dibujo de
+  Clément de Fauquembergue, 1429 — única imagen conocida hecha en vida
+  de Juana de Arco) — dominio público.
+- `edadmedia-caida-de-constantinopla`: "The Entry of Mahomet II into
+  Constantinople" (Benjamin-Constant, 1876) — dominio público.
+- `edadmedia-colon-descubre-america`: "Columbus Landing at Guanahani,
+  1492" (Vanderlyn) — dominio público.
+
+Al igual que el resto del contenido nuevo, estos eventos y sus imágenes
+no tienen `node_id_figma` — no son extracción de Figma.
+
+## Nueva región: Última Era de Hielo (contenido nuevo, investigado)
+
+El usuario notó que ya existía un único bloque sobre la glaciación
+(`prehistoria-edad-de-hielo-10`, extraído de Figma, fecha -127000)
+mezclado dentro de la fila de Prehistoria, y pidió que la Era de Hielo
+tuviera su propia línea/carril, ya que como evento cubre unos 100 000
+años por sí sola.
+
+**Reubicación**: se sacó `prehistoria-edad-de-hielo-10` de
+`data/prehistoria.json` (quedó en 22 eventos) y se movió, sin tocar su
+texto ni sus imágenes originales de Figma, a un archivo nuevo
+`data/era-de-hielo.json` (campo `region` actualizado de `prehistoria` a
+`era-de-hielo`). Ese texto ya traído de Figma es algo ambiguo — dice
+explícitamente que "no fue una edad de hielo... sino un período de
+enfriamiento climático", lo cual no encaja del todo con sus propias
+imágenes (mamut lanudo, perezoso gigante) ni con la fecha -127000 (que
+sí cae dentro del último período glacial real). Se dejó tal cual porque
+es contenido genuino de Figma, no se reescribió.
+
+**Nueva región**: se dio de alta `era-de-hielo` en `regions.json`
+(`orden_vertical: 0.5`, entre Prehistoria y Mesopotamia), con color
+nuevo `--color-era-de-hielo` en `globals.css`, y se importó en
+`page.tsx`. Se investigaron (vía búsqueda web, con fuentes verificables)
+y se agregaron 9 eventos nuevos que cubren el último período glacial
+completo (-115 000 a -11 600):
+
+- Inicio del último período glacial (Würm/Weichseliano, -115 000)
+- Megafauna del Pleistoceno (mamuts, tigres dientes de sable,
+  perezosos gigantes)
+- Cómo vivía la gente (adaptación al frío, refugios de huesos de
+  mamut de Mezhirich)
+- Arte rupestre: cueva Chauvet (-36 000)
+- Formación del puente de Beringia (-35 700, según estudio reciente
+  que revisó la fecha tradicional)
+- Último Máximo Glacial (-24 000, pico de -26 500 a -19 000)
+- Migración humana hacia América vía Beringia (-18 000)
+- Arte rupestre: cueva de Lascaux (-15 000)
+- Younger Dryas y fin del período glacial (-11 600, inicio del
+  Holoceno)
+
+**Imágenes**: los 9 eventos nuevos se ilustraron con imágenes de
+Wikimedia Commons (mismo criterio que en la expansión de Edad Media:
+dominio público o CC BY-SA/CC BY, imagen principal del artículo de
+Wikipedia en inglés cuando existía), descargadas a
+`public/images/era-de-hielo/` y `recuperado/images/original/` con el
+sufijo `_wikimedia`. El evento heredado de Figma conservó sus 6
+imágenes originales.
+
+Total del sitio: 10 regiones, 134 eventos. Verificado en el navegador:
+0 solapamientos en las 10 regiones, la nueva línea de Era de Hielo
+aparece correctamente entre Prehistoria y Mesopotamia, y la vista
+"Reset" sigue ajustando todo el timeline sin tocar el zoom mínimo (las
+fechas de esta región caen en la zona logarítmica profunda de
+`timeScale.ts`, la misma que ya usa el resto de Prehistoria antigua, así
+que no hizo falta ningún tramo lineal nuevo).
+
+## Corrección: bloques de Antigua Grecia que se habían fusionado
+
+El usuario revisó el sitio contra el Figma y notó que la región de
+Grecia se veía muy distinta al diseño original — varios bloques de
+texto independientes habían quedado fusionados en un solo párrafo
+gigante dentro de las 4 tarjetas de subperíodo, en vez de ser tarjetas
+propias. Al revisar `recuperado/data/grecia.json` (el respaldo fiel de
+la extracción original) contra `data/grecia.json`, se confirmó: de 62
+bloques originales de Figma, solo 4 tarjetas de evento habían quedado
+en el sitio — perdiendo la separación real entre "Esparta", "Atenas",
+"Tierra esférica" (Tales de Mileto y la forma de la Tierra), el
+"Legado cultural griego" y la "Conquista romana de Grecia", que en
+Figma eran bloques de texto propios (con su propio `node_id_figma`,
+en algunos casos con título explícito como "Esparta" o "Atenas") y no
+parte del párrafo de su subperíodo.
+
+**Corrección aplicada**: se reconstruyó `data/grecia.json` separando
+cada bloque de texto de Figma en su propia tarjeta, usando la posición
+X/Y real de cada bloque (columna = subperíodo, fila = orden dentro de
+esa columna) para decidir a qué tarjeta pertenece cada uno de los 30
+bloques de imagen — igual criterio que ya se documentó como ambiguo en
+la sección original de Mesopotamia (posición sola no siempre basta,
+así que se usó también el contenido de la imagen cuando el nombre de
+archivo lo dejaba claro, ej. la imagen "redondez-1" se asignó a "Tierra
+esférica" aunque su columna X cayera técnicamente del lado de "Periodo
+Clásico"). El texto de cada bloque se preservó tal cual estaba en
+Figma (typos incluidos, como en el resto del proyecto), salvo un caso:
+el nodo `91:166` (Conquista romana) contenía un fragmento duplicado
+pegado al inicio ("Este es el último periodo, Alejandro Magno eredó de
+su padre una grecia derrotada pero acabó sometiendo al..." repetido
+antes del texto real sobre los romanos) — un artefacto de copiado
+dentro del propio Figma, no un error de la extracción; se eliminó solo
+esa repetición literal.
+
+Tarjetas nuevas creadas (antes mezcladas dentro de las 4 originales):
+`grecia-legado-cultural`, `grecia-esparta`, `grecia-atenas`,
+`grecia-tierra-esferica`, `grecia-conquista-romana`. Los 30 bloques de
+imagen se redistribuyeron entre las 9 tarjetas de Figma (0 duplicados,
+0 perdidos, verificado programáticamente). La región pasó de 9 a 14
+eventos (5 nuevos, más los 5 ya agregados antes por investigación:
+Guerra del Peloponeso, Teatro griego, Alejandro Magno, Cómo vivía la
+gente, Modelo económico). 0 solapamientos verificado en el navegador
+tras el cambio.
+
+## Ampliación de espacio de Grecia (mismo criterio que Edad Media)
+
+Tras separar los bloques fusionados (ver sección anterior), Grecia pasó
+a tener 6 filas en vez de 1: con solo 3px/año (la densidad pareja de la
+franja -1100/-27 AC compartida con la República romana) las 14 tarjetas
+nuevas no cabían todas en la línea principal. El usuario pidió ampliar
+"lo necesario pero no de más", mismo criterio ya usado con Edad Media:
+nada de subir la densidad pareja para toda la franja (eso ensancharía
+también los huecos que ya cabían bien).
+
+Se subdividió el tramo 2027–3100 años de antigüedad (-27 AC a -1100 AC)
+de `timeScale.ts` en 14 tramos angostos: la mayoría se quedó en 3px/año
+(igual que antes), y solo los que caen entre dos eventos de Grecia muy
+cercanos en el tiempo subieron lo necesario para que quepan en la misma
+fila (240px de tarjeta + 24px de `GAP_HORIZONTAL_MIN` = 264px mínimos).
+El caso más extremo es "Teatro griego" (-500) y "Periodo Clásico"
+(-499), a solo 1 año de diferencia — ahí el tramo sube a 270px/año, pero
+como el tramo dura un solo año el costo real es de apenas 270px extra
+de ancho total, no una franja ancha cara. También se separaron por 8
+años las fechas de "Cómo vivía la gente" y "Modelo económico" (ambas
+estaban en -450, sin fecha histórica real, redactadas por mí — mismo
+caso ya resuelto en Edad Media).
+
+Resultado: **14 de 14 eventos caben en la fila principal** (antes
+ninguna fila tenía las 14). Ancho añadido a esa franja: ~1700px (de
+3219px a 4920px), nada comparado con lo que costaría subir parejo a
+270px/año en los 1073 años de la franja. 0 solapamientos verificado en
+las 10 regiones tras el cambio; vista "Reset" sigue ajustando todo el
+timeline sin tocar el zoom mínimo.
+
+## "Cómo vivía la gente" / "Modelo económico" por subperíodo + imágenes
+
+El usuario señaló que "Cómo vivía la gente" y "Modelo económico" no
+deberían ser una sola tarjeta genérica flotando en una fecha
+arbitraria, tratada como si fuera un acontecimiento puntual — deberían
+ir dentro de cada subperíodo, agregándose de nuevo solo si el
+contenido realmente cambia de un subperíodo al siguiente. También pidió
+agregar imágenes a los bloques que seguían sin ninguna.
+
+**Restructuración**: las 2 tarjetas genéricas de Grecia (dedicadas a
+todo el rango -1100/-30 de una vez) se reemplazaron por una pareja
+"Cómo vivía la gente" + "Modelo económico" en cada uno de los 4
+subperíodos (Edad Oscura, Época Arcaica, Periodo Clásico, Periodo
+Helenístico), con contenido investigado y realmente distinto en cada
+caso — no una copia con el título cambiado:
+- **Edad Oscura**: sociedad dispersa post-colapso micénico, sin
+  escritura, economía de subsistencia sin moneda.
+- **Época Arcaica**: nace la polis y la identidad cívica, se
+  reintroduce la escritura, primeras monedas (adoptadas de Lidia),
+  colonización con fines económicos, reformas de Solón.
+- **Periodo Clásico**: contenido que ya existía (paideia/agogé,
+  symposio, comercio marítimo, minas de Laurión, esclavitud) — se
+  mantuvo tal cual, solo se le agregó "(Periodo Clásico)" al título y
+  se renombró el id para que quede claro a qué subperíodo pertenece.
+- **Periodo Helenístico**: mundo cosmopolita tras Alejandro, koiné
+  como lengua franca, declive de la polis frente a las monarquías,
+  nuevas redes comerciales y ciudades como Alejandría.
+
+Título de cada tarjeta incluye el subperíodo entre paréntesis (ej.
+"Cómo vivía la gente (Época Arcaica)") para que quede claro en el
+sitio a qué momento corresponde, ya que ahora hay 4 versions de cada
+tema en la misma región.
+
+**Imágenes**: se identificaron 14 bloques de Grecia sin ninguna imagen
+(las 6 tarjetas nuevas de vida cotidiana/modelo económico, más 8 que ya
+existían sin imagen: Edad Oscura, Teatro griego, Guerra del
+Peloponeso, Alejandro Magno, Periodo Helenístico, Conquista romana, y
+las 2 tarjetas de Periodo Clásico ya existentes). Se buscó una imagen
+apropiada en Wikimedia Commons para cada una (mismo criterio que en
+Edad Media y Era de Hielo: dominio público o CC BY-SA/CC BY,
+descargadas a `public/images/grecia/` y `recuperado/images/original/`
+con sufijo `_wikimedia`, redimensionadas a máx. 1600px).
+
+**Reajuste de densidad**: al pasar de 14 a 20 eventos, la región volvió
+a tener varias filas (15/20 en la principal). Se recalculó el mismo
+esquema de tramos angostos de `timeScale.ts` para las nuevas fechas —
+mismo criterio de siempre, solo ampliar donde los nuevos eventos caen
+cerca de uno ya existente. Resultado: **20 de 20 eventos en la fila
+principal**, ancho de la franja 2027–3100 de 4920px a 6182px (+1262px).
+0 solapamientos verificado en las 10 regiones (138 eventos en total);
+"Reset" sigue ajustando todo el timeline al 5%.
+
+## Corrección: "vida cotidiana"/"modelo económico" no son eventos propios
+
+El usuario aclaró que el enfoque anterior seguía sin ser correcto:
+"Cómo vivía la gente" y "Modelo económico" no deberían ser tarjetas
+independientes con su propia fecha en la línea de tiempo (ni siquiera
+una por subperíodo) — son contenido descriptivo DEL período, así que
+deben vivir dentro de la tarjeta del período mismo, no al lado de ella
+como si fueran un acontecimiento puntual.
+
+**Fusión aplicada**: se tomó el texto de cada una de las 8 tarjetas
+"Cómo vivía la gente (X)" / "Modelo económico (X)" (con su propio
+título como encabezado, ej. "Cómo vivía la gente\n\n[texto]") y se
+concatenó al final de la `descripcion_corta` de la tarjeta del
+subperíodo correspondiente (`grecia-edad-oscura`, `grecia-epoca-
+arcaica`, `grecia-periodo-clasico`, `grecia-periodo-helenistico`). Las
+imágenes de cada una de las 8 tarjetas se movieron al arreglo
+`imagenes` de la tarjeta del período (mismo orden: imágenes propias del
+período primero, luego vida cotidiana, luego modelo económico). Las 8
+tarjetas standalone se eliminaron del archivo.
+
+Grecia pasó de 20 a 12 eventos (0 imágenes ni texto perdidos —
+verificado programáticamente, solo reubicados). Con menos eventos, se
+recalculó otra vez el esquema de tramos angostos de `timeScale.ts`: el
+ancho de la franja 2027–3100 bajó de 6182px a 4379px (los tramos que
+existían solo para separar las tarjetas ahora eliminadas ya no hacían
+falta). 0 solapamientos verificado en las 10 regiones (130 eventos en
+total); "Reset" sigue ajustando todo el timeline al 5%.
+
+## Mismo criterio aplicado a Antigua Roma
+
+El usuario pidió aplicar las mismas dos correcciones a Roma: (1) que
+"cómo vivía la gente"/"modelo económico" sean parte del período en vez
+de un hecho histórico aparte, y (2) agregar imágenes donde faltaban.
+
+Roma tiene 3 subperíodos (`regions.json`): Monarquía (-753/-509),
+República (-509/-27) e Imperio (-27/476). A diferencia de Grecia,
+Monarquía y República ya tenían su propia tarjeta-resumen del período
+(`roma-monarquia`, `roma-republica`, ambas de Figma) — Imperio no tenía
+una tarjeta equivalente, así que se usó `roma-imperio-galeria`
+("Imperio Romano — más imágenes"), que ya existía con `descripcion_corta`
+vacía y solo servía de repositorio de imágenes sueltas de Figma sin
+texto propio, el lugar más natural para representar el período.
+
+**Fusión**: el texto de las 2 tarjetas genéricas existentes
+(`roma-vida-cotidiana`, `roma-modelo-economico`, ambas fechadas en 100,
+con contenido ya específico del Imperio: insulae, pan y circo,
+latifundios, denario) se movió tal cual, con sus títulos como
+encabezado, a la `descripcion_corta` de `roma-imperio-galeria` — le dio
+a esa tarjeta un texto real por primera vez. Para Monarquía y República
+se redactó contenido nuevo y genuinamente distinto (no una copia con
+otro título): sociedad de clanes y ausencia de moneda en la Monarquía
+vs. Conflicto de los Órdenes y expansión territorial con esclavitud en
+la República. Las 2 tarjetas genéricas originales se eliminaron.
+
+**Imágenes**: se identificaron 11 bloques de Roma sin imagen: 5 tarjetas
+que ya existían sin ninguna (Ley de las Doce Tablas, Ingeniería romana,
+Las legiones, Julio César y las Galias, Crisis del siglo 3) más 6 para
+el contenido de vida cotidiana/modelo económico recién fusionado (2 por
+período). Se buscaron en Wikimedia Commons con el mismo criterio de
+siempre y se agregaron a `public/images/roma/` y
+`recuperado/images/original/` con sufijo `_wikimedia`. La imagen de la
+Ley de las Doce Tablas vino originalmente como SVG de 5.1MB (un grabado
+escaneado vectorizado con miles de paths, no un diagrama simple) — se
+rasterizó a JPEG (670KB) por consistencia y peso con el resto del sitio.
+
+Roma pasó de 17 a 15 eventos (17 − 2 genéricas eliminadas = 15; ningún
+texto ni imagen se perdió, solo se reubicaron). 0 solapamientos
+verificado en las 10 regiones (135 eventos en total). Roma quedó con 4
+filas en su carril, resultado de fechas aproximadas ya existentes como
+"Ingeniería romana" y "Las legiones" (ambas en -100, sin fecha puntual
+real).
+
+## Ampliación de espacio de Roma (mismo criterio, con una particularidad)
+
+El usuario pidió ampliar el espacio de Roma para que todo quepa en la
+fila principal, mismo criterio de siempre (solo ampliar donde haga
+falta). Primero se separaron "Ingeniería romana" y "Las legiones" a
+-105/-95 (ambas sin fecha histórica real, igual que los casos ya
+resueltos en Edad Media y Grecia) — el otro par que comparte fecha
+exacta, "Caída del imperio Romano" y "Bárbaros" (ambas en 476, la fecha
+tradicional de la caída de Roma), sí son hechos históricos reales y no
+se tocaron.
+
+**Particularidad**: el rango de fechas de Roma cruza DOS tramos de
+`timeScale.ts`, y uno de ellos (2027–3100 años de antigüedad, -1100 AC
+a -27 AC) ya estaba subdividido en tramos angostos hechos a medida para
+Antigua Grecia, porque la Monarquía y República de Roma caen en el
+mismo rango de años que toda Grecia. En vez de tratar ambas regiones
+por separado (lo que podría pisar los límites ya afinados de Grecia),
+se recalcularon los límites de ESE tramo combinando las fechas de las
+dos regiones a la vez, y también se subdividió el otro tramo (1524–2027,
+-27 AC a 476 DC, todo el Imperio) de la misma manera.
+
+Resultado: **14 de los 15 eventos de Roma caben en la fila principal**
+(antes ninguna fila tenía más de la mitad). El único que sigue aparte
+es "Bárbaros. Invasiones bárbaras", que comparte el año exacto 476 con
+"Caída del imperio Romano" — no se le movió la fecha por la misma razón
+de siempre. Ancho añadido: +282px en el tramo del Imperio (2515→2797px)
+y +1407px en el tramo compartido con Grecia (4379→5786px). 0
+solapamientos verificado en las 10 regiones tras el cambio; "Reset"
+sigue ajustando todo el timeline al 5%, sin tocar el zoom mínimo.
+
+## Investigación y expansión de Antiguo Egipto (contenido nuevo)
+
+El usuario notó que la línea de Egipto se veía muy vacía y pidió una
+investigación a fondo con imágenes, igual que se hizo antes con Edad
+Media y Era de Hielo.
+
+**Restructuración previa**: siguiendo el mismo criterio ya aplicado a
+Grecia y Roma, "Cómo vivía la gente" y "Modelo económico" (antes
+tarjetas genéricas sueltas fechadas en -2600) se fusionaron dentro de
+la tarjeta del primer período (`egipto-arcaico`), ya que a diferencia
+de Grecia la vida cotidiana egipcia se mantuvo notablemente estable a
+lo largo de los ~3000 años de la civilización faraónica (el propio
+criterio del usuario: "si en el segundo periodo no cambia no se agrega
+de nuevo") — no había justificación para crear una versión por
+período como en Grecia.
+
+**Contenido nuevo investigado** (vía búsqueda web, con fuentes
+verificables): se agregaron 7 eventos que no existían ni en Figma ni en
+la síntesis anterior, cubriendo temas mencionados solo de pasada o
+ausentes del todo:
+
+- La escritura jeroglífica (-3200): sistema de escritura, escribas,
+  formas cursivas hierática y demótica.
+- Las grandes pirámides de Guiza (-2560): Keops/Kefrén/Micerino, la
+  Gran Esfinge, desmentido del mito de los esclavos constructores.
+- Hatshepsut, la mujer faraón (-1479/-1458): una de las pocas mujeres
+  en gobernar Egipto con pleno poder, la expedición a Punt.
+- Akenatón y la revolución de Amarna (-1353/-1336): el monoteísmo del
+  culto a Atón, la nueva capital Ajetatón, el arte de Amarna.
+- Tutankamón y el hallazgo de 1922 (-1332/-1323): el ADN que reveló su
+  parentesco, el descubrimiento de Howard Carter, la "maldición".
+- Ramsés II y la batalla de Qadesh (-1274): la mayor batalla de carros
+  de la Antigüedad y el tratado de paz más antiguo conservado (-1258).
+- La invasión de los Pueblos del Mar (-1177): el colapso de la Edad
+  del Bronce y el principio del fin del Imperio Nuevo.
+
+Egipto pasó de 14 a 19 eventos.
+
+**Imágenes**: se identificaron 13 bloques sin imagen (11 que ya
+existían: mitología, momificación, piedra de Rosetta, Cleopatra, más
+los 7 eventos nuevos y las 2 imágenes para el contenido fusionado de
+Arcaico). Se buscaron en Wikimedia Commons con el mismo criterio de
+siempre (dominio público o CC, imagen principal del artículo de
+Wikipedia en inglés cuando existía) y se agregaron a
+`public/images/egipto/` y `recuperado/images/original/` con sufijo
+`_wikimedia`. Quedaron 0 bloques de tipo evento sin imagen en toda la
+región.
+
+**Ampliación de espacio**: al agregar contenido nuevo, Egipto pasó a
+tener varias filas. El tramo 3100–6000 años de antigüedad de
+`timeScale.ts` (-4000 AC a -1100 AC) es compartido por Mesopotamia,
+Egipto y Persia, así que se recalcularon sus límites combinando las
+fechas de las 3 regiones (mismo criterio que con el tramo compartido
+de Grecia/Roma). También se separaron por 20 años "Mitología egipcia" y
+"Momificación" (ambas en -2600 sin fecha histórica real, coincidiendo
+además con el diagrama de estructura social) — mismo caso ya resuelto
+varias veces antes.
+
+Resultado: **19 de los 19 eventos de Egipto caben en la fila
+principal**. Ancho añadido al tramo compartido: +3386px (5800px→9186px)
+sobre una franja de 2900 años, nada comparado con lo que costaría subir
+la densidad pareja para todo el tramo. Mesopotamia y Persia mantuvieron
+sus filas extra tal como estaban (no se tocaron sus fechas ni se les
+pidió arreglarlas esta vez). 0 solapamientos verificado en las 10
+regiones (141 eventos en total); "Reset" sigue ajustando todo el
+timeline al 5%.
+
+## Segunda pasada de investigación: 4 descubrimientos/eventos más de Egipto
+
+El usuario preguntó directamente si no faltaban más acontecimientos o
+descubrimientos de Egipto. Tras revisar (vía búsqueda web, con fuentes
+verificables) qué temas importantes seguían sin cobertura, se
+identificaron y agregaron 4 eventos más, genuinamente ausentes hasta
+ahora:
+
+- La dinastía kushita, los "faraones negros" (-744/-656): la dinastía
+  XXV, reyes nubios de Kush que conquistaron y gobernaron Egipto,
+  presentándose como restauradores de la tradición egipcia más antigua
+  y construyendo sus propias pirámides en Nubia.
+- La conquista persa de Egipto (-525): Cambises II derrota a Psamético
+  III en Pelusio, Egipto se convierte en satrapía persa.
+- El calendario egipcio (-2900): uno de los primeros calendarios
+  solares de la historia (365 días, 12 meses + 5 días adicionales),
+  antecesor lejano del calendario juliano y, por extensión, del
+  gregoriano.
+- La huelga de Deir el-Medina (-1157): el primer paro laboral
+  documentado de la historia, protagonizado por los artesanos que
+  excavaban las tumbas del Valle de los Reyes.
+
+Egipto pasó de 19 a 23 eventos. Se buscaron imágenes en Wikimedia
+Commons para los 4 (mismo criterio de siempre) — 0 bloques sin imagen
+en toda la región.
+
+**Ampliación de espacio (segunda ronda)**: las nuevas fechas de Egipto
+(-744 y -525) cayeron en el tramo 2027–3100 de `timeScale.ts`,
+compartido con Grecia, Roma **y Persia** (las fechas de Persia no se
+habían incluido en el cálculo anterior de ese tramo). Se recalculó ese
+tramo combinando las fechas de las 4 regiones a la vez, y también se
+recalculó el tramo 3100–6000 (Mesopotamia/Egipto/Persia) con las 2
+fechas de Egipto restantes (-2900 y -1157). Efecto secundario
+inesperado y positivo: al recalcular el tramo 2027–3100 incluyendo por
+primera vez las fechas de Persia, **Persia bajó de 6 filas a 2** sin
+que se le pidiera arreglar nada — simplemente se benefició de compartir
+el mismo tramo ya bien afinado.
+
+Resultado: **23 de los 23 eventos de Egipto en la fila principal**. 0
+solapamientos verificado en las 10 regiones (145 eventos en total);
+"Reset" sigue ajustando todo el timeline al 5%.
+
+## Nueva región: Esparta (separada de Antigua Grecia)
+
+El usuario pidió una línea temporal adicional dedicada a Esparta dentro
+de Grecia, cubriendo cómo vivían, sus costumbres, su ubicación y sus
+guerras — mismo patrón que la separación de Era de Hielo: promover un
+tema con suficiente profundidad propia a su propia región/carril en vez
+de una sola tarjeta dentro de otra región.
+
+**Reubicación**: se sacó la tarjeta `grecia-esparta` (extraída de
+Figma, con sus 5 imágenes originales) de `data/grecia.json` (quedó en
+11 eventos) y se movió, sin tocar su texto ni imágenes, a un archivo
+nuevo `data/esparta.json` (campo `region` actualizado). Región nueva
+dada de alta en `regions.json` (`orden_vertical: 5.5`, entre Antigua
+Grecia y Edad Media), con color propio `--color-esparta` en
+`globals.css`, y 3 subperíodos (Formación y Guerras Mesenias, Apogeo
+militar, Hegemonía y declive).
+
+**Contenido nuevo investigado** (vía búsqueda web, con fuentes
+verificables): se agregaron 12 eventos cubriendo los 4 temas pedidos:
+
+- *Ubicación*: Ubicación y fundación de Esparta (-900) — Laconia, valle
+  del Eurotas, sinecismo de aldeas dorias, la única polis griega sin
+  murallas.
+- *Guerras*: Primera Guerra Mesenia (-743/-724), Segunda Guerra Mesenia
+  (-685/-668), Termópilas y los 300 de Leónidas (-480), la hegemonía
+  espartana tras la Guerra del Peloponeso (-404/-371), Batalla de
+  Leuctra y fin del poderío espartano (-371/-369).
+- *Costumbres/cómo vivían*: Las reformas de Licurgo (-690), El sistema
+  político espartano (diarquía, gerousia, éforos) (-680), Espartiatas,
+  periecos e hilotas (-650), La agogé — la educación espartana (-630),
+  Las mujeres espartanas (-600).
+- *Contexto adicional*: La Liga del Peloponeso (-550).
+
+Esparta pasó de 1 tarjeta (dentro de Grecia) a 13 eventos en su propia
+región. Se buscaron imágenes en Wikimedia Commons para las 12 nuevas
+(mismo criterio de siempre) — 0 bloques sin imagen en toda la región.
+
+**Ampliación de espacio**: las fechas de Esparta (-900 a -369) caen en
+el mismo tramo 2027–3100 de `timeScale.ts` ya compartido por Grecia,
+Roma, Persia y los eventos tardíos de Egipto. Se recalculó ese tramo
+una vez más combinando las fechas de las 5 regiones a la vez. Resultado:
+**13 de los 13 eventos de Esparta en la fila principal**. 0
+solapamientos verificado en las 10 regiones (156 eventos en total);
+"Reset" sigue ajustando todo el timeline al 5%.
+
+## Tercera expansión de Edad Media: guerras, revoluciones e inventos
+
+El usuario pidió una investigación específica de guerras, revoluciones
+e inventos de la Edad Media, cada uno como una tarjeta nueva.
+
+**Hallazgo previo al agregar contenido**: al revisar el archivo se
+encontraron 4 tarjetas ya existentes con `descripcion_corta` vacía
+(solo tenían título e imagen, sin texto): "Fundación de las primeras
+universidades", "La Guerra de los Cien Años" (justo un tema de
+"guerras", relevante para este pedido), "Caída de Constantinopla" y
+"Cristobal Colón descubre America". Se redactó el texto faltante de
+las 4 antes de seguir, ya que dejarlas vacías mientras se investigaba
+más contenido de guerras hubiera sido una inconsistencia notoria.
+
+**Contenido nuevo investigado** (vía búsqueda web, con fuentes
+verificables): se agregaron 9 eventos nuevos, organizados en los 3
+temas pedidos:
+
+- *Guerras*: Batalla de Hastings y la conquista normanda (1066), la
+  Guerra de las Dos Rosas (1455-1487), las Guerras Husitas
+  (1419-1434).
+- *Revoluciones*: el Conflicto de las Investiduras entre el papado y
+  el Sacro Imperio (1076-1122), la Jacquerie francesa de 1358, la
+  Revuelta de los Campesinos ingleses de 1381 (Wat Tyler).
+- *Inventos*: el reloj mecánico (~1280), la invención de las gafas
+  (1286), la pólvora y los primeros cañones en Europa (~1330).
+
+Edad Media pasó de 27 a 36 eventos. Se buscaron imágenes en Wikimedia
+Commons para las 9 tarjetas nuevas (mismo criterio de siempre;
+`edadmedia-guerras-husitas` llegó como archivo `.tif` de ~90MB en
+origen, se rasterizó a JPEG igual que otros archivos pesados
+anteriores) — 0 bloques sin imagen en toda la región.
+
+**Ampliación de espacio**: al pasar de 27 a 36 eventos, Edad Media
+volvió a tener varias filas. Se recalculó el mismo esquema de tramos
+angostos de `timeScale.ts` usado en las rondas anteriores para esta
+región (ya no compartido con ninguna otra, es la única franja propia de
+0 a 1524 años de antigüedad). Resultado: **35 de los 36 eventos en la
+fila principal**. El único par que sigue en fila aparte sigue siendo
+"Fundación de universidades" y "Perfeccionamiento de castillos" (año
+1100 exacto) — mismo caso de siempre, no se le movió la fecha. 0
+solapamientos verificado en las 10 regiones (165 eventos en total);
+"Reset" sigue ajustando todo el timeline al 5%.
+
 ## Región: Prehistoria (node `45:113`)
 
 **Estado: Completa.**

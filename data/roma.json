@@ -6,12 +6,14 @@
     "titulo": "Monarquía",
     "fecha_inicio": -753,
     "fecha_fin": -509,
-    "descripcion_corta": "surgió como una comunidad pequeña cerca del paso comercial del río Tíber (en la actual Italia), y se convirtió en una gran ciudad que expandió su poder e influencia por Italia y gran parte del mundo entonces conocido. Roma llegó a ser una de las potencias imperiales más exitosas de la historia. Según la tradición romana se remonta a los hermanos genelos Romulo y Remo, los niños tomando leche de la loba Capitolina, más tarde Romulo mató a remo y fundaría la ciudad de Roma en el monte Palatino, convirtiendose en el primer rey. hubo siete reyes, los primeros cuatro de origen latino y sabino (de la zona del Lacio) y los últimos tres de origen etrusco (de la zona de la Toscana). En este periodo la forma política era la Monarquía hasta que fue expulsado el último rey (Tarquinio el soverbio). Se creó un senado permanente que decidió abolir la monarquía, convirtiendo a Roma e una república.",
+    "descripcion_corta": "surgió como una comunidad pequeña cerca del paso comercial del río Tíber (en la actual Italia), y se convirtió en una gran ciudad que expandió su poder e influencia por Italia y gran parte del mundo entonces conocido. Roma llegó a ser una de las potencias imperiales más exitosas de la historia. Según la tradición romana se remonta a los hermanos genelos Romulo y Remo, los niños tomando leche de la loba Capitolina, más tarde Romulo mató a remo y fundaría la ciudad de Roma en el monte Palatino, convirtiendose en el primer rey. hubo siete reyes, los primeros cuatro de origen latino y sabino (de la zona del Lacio) y los últimos tres de origen etrusco (de la zona de la Toscana). En este periodo la forma política era la Monarquía hasta que fue expulsado el último rey (Tarquinio el soverbio). Se creó un senado permanente que decidió abolir la monarquía, convirtiendo a Roma e una república.\n\nCómo vivía la gente\n\nRoma bajo los reyes era una comunidad agropastoril organizada en torno a gentes (clanes) y la autoridad del pater familias, que ejercía poder legal casi absoluto sobre su familia. La sociedad ya distinguía entre patricios (las familias fundadoras aristocráticas) y plebeyos (el resto de la población libre), una división que marcaría siglos de conflicto político posterior. La religión impregnaba la vida diaria: cada hogar veneraba a sus Lares y Penates (dioses protectores domésticos), y el propio rey ejercía también como sumo sacerdote (pontifex maximus). Roma creció rápidamente por la fusión con comunidades vecinas —sabinos, latinos, etruscos—, y pasó de ser una aldea sin murallas a una ciudad fortificada con foro, templos y obras de drenaje como la Cloaca Máxima.\n\nModelo económico\n\nLa economía era de subsistencia, basada en la agricultura y el pastoreo en las colinas junto al Tíber, aunque la posición de Roma en un vado del río y en la Vía Salaria (ruta de la sal) favoreció pronto el comercio con Etruria y Campania. La influencia etrusca trajo consigo urbanización, ingeniería (obras de drenaje) y prácticas comerciales más sofisticadas. Todavía no existía moneda acuñada: la riqueza se medía en cabezas de ganado (pecus, raíz de la palabra \"pecunia\", dinero) y los intercambios se hacían mayormente por trueque. La propiedad de la tierra pasó gradualmente de un régimen más comunal o de clan hacia la propiedad individual a medida que la ciudad creció.",
     "imagenes": [
       "/images/roma/roma_800px-0-lupa-capitolina-2-1_node-107-3.png",
       "/images/roma/roma_los-siete-reyes-de-roma-1_node-108-4.png",
       "/images/roma/roma_rapto-de-las-sabinas-monarquia-de-roma-1_node-108-5.png",
-      "/images/roma/roma_screenshot-2024-09-10-at-3-39-30-pm-1_node-108-6.png"
+      "/images/roma/roma_screenshot-2024-09-10-at-3-39-30-pm-1_node-108-6.png",
+      "/images/roma/roma2_lar-romano-de-bronce-m-a-n-inv-2943-01_wikimedia.jpg",
+      "/images/roma/roma2_tiber-embarkment-wall-around-an-outlet-of-the-cloaca-ma_wikimedia.jpg"
     ]
   },
   {
@@ -21,7 +23,7 @@
     "titulo": "Republica",
     "fecha_inicio": -509,
     "fecha_fin": -27,
-    "descripcion_corta": "Durante esta etapa la principal competidora fue la ciudad Punica de Cartago, las guerras Punicas llevaron a Roma a salir de sus fronteras naturales, y adquirir poco a poco nuevos territorios, como Cerdeña, Córcega, Hispania, Cercega, Lliria, Aparecieron las siglas SPQR “Senatus Populusque Romanus” “El senado y el pueblo romano”, se convirtieron en el simbolo de roma. Roma coninuó exandiendose, haciendose de la cuenta mediterrania, se extendio tanto que fueron dificilmente covernables con un cenado que dificilmente se movia de la capital en Roma, Italia. Ni de tomar desiciones Agiles. Fue entonces cuando aparecieron personajes ambiciosos como el general Julio Cesar, que no solo amplió los dominios de Roma, si no que también desafio la autoridad del senado Romano y revelo la importancia de poseer la autoridad sobre las tropas para obtener redito politico. Tras la guerra civil que lo enfrento a Pompello y al senado Julio Cesar se habia erigido en mandaratio absoluto en Roma, se había hecho nombrar “Dictator Perpetus”. Los miembros del senado no les agradó por lo que conspiraron contra el y lo acesinaron durante los itus de Marzo dentro del propio senado. Lo que suponía el respablecimiento de la Republica\n\nLa muerte de Julio Cesar supondria el restablecimiento de la republica, pero sin envargo seria en vano, ya que el hijo activo de Julio Cesar, Octavio se convertiría en el primer emperador Romano tras derrotar en batalla a los acesinos de Cesar y a su antiguo aliado (Marco Antonio). El poder de Octavio fue enorme. En el año 27 antes de cristo, se establecio una ficcion de normalidad politica en Roma, otorgando a Augusto por parte del senado el titulo de “Imperator Caesar Augustus” emperador significa vencedor en la batalla, era el comandante de todos los ejercitos, formalmente nunca aceptó el poder absoluto aunque si lo ejerció. Aseguró su poder manteniendo un equilibrio entre la aparencia republicana y la realidad de una monarquia dinastica.",
+    "descripcion_corta": "Durante esta etapa la principal competidora fue la ciudad Punica de Cartago, las guerras Punicas llevaron a Roma a salir de sus fronteras naturales, y adquirir poco a poco nuevos territorios, como Cerdeña, Córcega, Hispania, Cercega, Lliria, Aparecieron las siglas SPQR “Senatus Populusque Romanus” “El senado y el pueblo romano”, se convirtieron en el simbolo de roma. Roma coninuó exandiendose, haciendose de la cuenta mediterrania, se extendio tanto que fueron dificilmente covernables con un cenado que dificilmente se movia de la capital en Roma, Italia. Ni de tomar desiciones Agiles. Fue entonces cuando aparecieron personajes ambiciosos como el general Julio Cesar, que no solo amplió los dominios de Roma, si no que también desafio la autoridad del senado Romano y revelo la importancia de poseer la autoridad sobre las tropas para obtener redito politico. Tras la guerra civil que lo enfrento a Pompello y al senado Julio Cesar se habia erigido en mandaratio absoluto en Roma, se había hecho nombrar “Dictator Perpetus”. Los miembros del senado no les agradó por lo que conspiraron contra el y lo acesinaron durante los itus de Marzo dentro del propio senado. Lo que suponía el respablecimiento de la Republica\n\nLa muerte de Julio Cesar supondria el restablecimiento de la republica, pero sin envargo seria en vano, ya que el hijo activo de Julio Cesar, Octavio se convertiría en el primer emperador Romano tras derrotar en batalla a los acesinos de Cesar y a su antiguo aliado (Marco Antonio). El poder de Octavio fue enorme. En el año 27 antes de cristo, se establecio una ficcion de normalidad politica en Roma, otorgando a Augusto por parte del senado el titulo de “Imperator Caesar Augustus” emperador significa vencedor en la batalla, era el comandante de todos los ejercitos, formalmente nunca aceptó el poder absoluto aunque si lo ejerció. Aseguró su poder manteniendo un equilibrio entre la aparencia republicana y la realidad de una monarquia dinastica.\n\nCómo vivía la gente\n\nTras expulsar a los reyes, la vida cívica giró en torno a la ciudadanía y la participación en las asambleas, aunque el poder real seguía concentrado en una élite patricia y, más adelante, senatorial. El llamado Conflicto de los Órdenes (entre patricios y plebeyos) dio lugar a instituciones como los tribunos de la plebe y, finalmente, a la igualdad legal entre ambos grupos con la Lex Hortensia (287 a. C.). Ser ciudadano varón libre implicaba también servicio militar obligatorio: alcanzar cargos públicos (el cursus honorum) exigía años de servicio en las legiones. La esclavitud creció enormemente con cada conquista, y hacia el final de la República buena parte de la mano de obra agrícola en los grandes latifundios ya era esclava.\n\nModelo económico\n\nLa expansión territorial (las guerras Púnicas contra Cartago, la conquista del Mediterráneo) transformó la economía romana: el botín de guerra, los tributos provinciales y la mano de obra esclava masiva impulsaron el paso de la pequeña granja familiar a los latifundios trabajados por esclavos, desplazando a numerosos campesinos libres que emigraron a Roma engrosando la plebe urbana. La acuñación del denario (hacia 211 a. C.) estandarizó la moneda en todo el territorio en expansión. Los publicanos (empresas privadas de recaudación de impuestos) cobraban los tributos provinciales a cambio de una comisión, y Roma empezó a importar grano de Sicilia y, más tarde, de Egipto para alimentar a su creciente población, sentando las bases de la futura política de distribución de grano a los ciudadanos.",
     "imagenes": [
       "/images/roma/roma_screenshot-2024-09-10-at-3-53-25-pm-1_node-109-8.png",
       "/images/roma/roma_1024px-maccari-cicero-1_node-109-10.png",
@@ -30,7 +32,9 @@
       "/images/roma/roma_mapa-expansion-roma-republica-1_node-109-13.png",
       "/images/roma/roma_141-galos-2-550x807-1_node-119-4.png",
       "/images/roma/roma_783432294-235101413-1706x1280-1_node-122-15.png",
-      "/images/roma/roma_la-republica-romana-1_node-109-9.png"
+      "/images/roma/roma_la-republica-romana-1_node-109-9.png",
+      "/images/roma/roma2_togatus-barberini-2392_wikimedia.jpg",
+      "/images/roma/roma2_roman-coin-silver-denarius-findid-804163_wikimedia.jpg"
     ]
   },
   {
@@ -41,7 +45,9 @@
     "fecha_inicio": -450,
     "fecha_fin": null,
     "descripcion_corta": "Hacia el 450 a. C., Roma promulgó la Ley de las Doce Tablas, el primer código legal escrito de la República, expuesto públicamente en el Foro para que todos los ciudadanos —no solo los patricios— pudieran conocer sus derechos y obligaciones. A partir de esta base, los romanos desarrollaron a lo largo de los siglos un sofisticado sistema de derecho civil, con conceptos como la presunción de inocencia, los contratos, la propiedad privada y el debido proceso, que el emperador bizantino Justiniano compilaría siglos después en el Corpus Juris Civilis. El derecho romano se convirtió en la base de los sistemas legales de gran parte de Europa continental y América Latina hasta hoy.",
-    "imagenes": []
+    "imagenes": [
+      "/images/roma/roma2_twelve-tables-engraving_wikimedia.jpg"
+    ]
   },
   {
     "id": "roma-julio-cesar-y-las-galias",
@@ -51,27 +57,33 @@
     "fecha_inicio": -58,
     "fecha_fin": -49,
     "descripcion_corta": "Entre el 58 y el 51 a. C., Julio César conquistó la Galia (la actual Francia) en una larga serie de campañas militares que le dieron enorme prestigio, riqueza y el apoyo del pueblo romano, además de un ejército personal extremadamente leal. El 10 de enero del 49 a. C., desafiando la prohibición del senado de cruzar con sus tropas el río Rubicón (el límite entre su provincia y el territorio bajo jurisdicción directa de Roma), César avanzó hacia Italia con la Legión XIII, desatando una guerra civil que ganaría en el 45 a. C., convirtiéndose en dictador perpetuo de Roma. Su célebre frase \"alea iacta est\" (\"la suerte está echada\") se pronunció, según la tradición, en ese mismo cruce.",
-    "imagenes": []
+    "imagenes": [
+      "/images/roma/roma2_lionel-royer-vercingetorix-throwing-down-his-weapons-at_wikimedia.jpg"
+    ]
   },
   {
     "id": "roma-ingenieria-romana",
     "region": "roma",
     "tipo": "evento",
     "titulo": "Ingeniería romana",
-    "fecha_inicio": -100,
+    "fecha_inicio": -105,
     "fecha_fin": null,
     "descripcion_corta": "Los romanos fueron maestros de la ingeniería práctica: construyeron más de 400 000 km de calzadas que conectaban todo el imperio con Roma, pavimentadas con piedra volcánica y diseñadas para durar siglos (muchas siguen en uso). Sus acueductos transportaban agua a las ciudades usando solo la gravedad, a través de canales subterráneos y puentes monumentales, abasteciendo baños públicos, fuentes y viviendas privadas. La invención del hormigón romano —una mezcla que se fortalece con el tiempo, incluso bajo el agua— les permitió construir obras como el Coliseo (con capacidad para 50 000 espectadores) o el Panteón, cuya cúpula de hormigón sigue siendo la más grande del mundo sin refuerzos de acero.",
-    "imagenes": []
+    "imagenes": [
+      "/images/roma/roma2_pont-du-gard-bls_wikimedia.jpg"
+    ]
   },
   {
     "id": "roma-las-legiones",
     "region": "roma",
     "tipo": "evento",
     "titulo": "Las legiones romanas",
-    "fecha_inicio": -100,
+    "fecha_inicio": -95,
     "fecha_fin": null,
     "descripcion_corta": "La legión, la unidad militar más grande e icónica del ejército romano, estaba compuesta por unos 5000 soldados de infantería (legionarios), organizados en cohortes de aproximadamente 480 hombres, que a su vez se dividían en centurias de 80. Esta estructura flexible permitía a las legiones combatir como un bloque compacto o dividirse en unidades más pequeñas según la situación del combate. Solo los ciudadanos romanos podían alistarse como legionarios, a cambio de paga, tierras al retirarse y la posibilidad de ascenso social; esta disciplina, organización jerárquica y logística superó a la de cualquier ejército de su época y sirvió de modelo para ejércitos posteriores hasta la actualidad.",
-    "imagenes": []
+    "imagenes": [
+      "/images/roma/roma2_trajan-s-column-nmr-panel-057-a_wikimedia.jpg"
+    ]
   },
   {
     "id": "roma-dinastia-julio-claudia",
@@ -121,7 +133,9 @@
     "fecha_inicio": 313,
     "fecha_fin": null,
     "descripcion_corta": "Fue un periodo de 50 años donde se producen fuertes presiones de los pueblos exteriores, y una fuerte crisis ecónomica, política, y social en el interior del Imperio. Tras una fase de Anarquia militar en donde la seguridad y la unidad del imperio peligraba, diferentes emperadores ligraron reunificar el imperio. La crisis se estabiliza con el ascenso del emperador Diocleciano que llevo a cabo un importante programa de reformas, comprendió que el imperio era demasiado grande para controlarlo, por lo que decidio trofearlo. Este periodo se conoce como la Tetrarquía o gobierno de 4 o sea que el imperio se dividia en 4 y cada uno gobernaba su parte. Se produjo la gran persecución de Dioclesiano, que fue la ultima y posiblemente la más sangrienta persecución de cristianos durante el imperio Romano. El sistema de la tetrarquía desenvoco en una lucha entre gobernantes en donde solo podia quedar un emperador, quien fue Constantino el grande quien legalizó la religión cristiana en el año 313. Convoco el primer concilio ecumenico universal en el año 325, donde se unifican los dogmas y se sientan las bases del credo oficial. La capital se pasa a Constantinopla.",
-    "imagenes": []
+    "imagenes": [
+      "/images/roma/roma2_map-of-ancient-rome-271-ad_wikimedia.svg"
+    ]
   },
   {
     "id": "roma-cristianizacion",
@@ -180,34 +194,16 @@
     ]
   },
   {
-    "id": "roma-vida-cotidiana",
-    "region": "roma",
-    "tipo": "evento",
-    "titulo": "Cómo vivía la gente",
-    "fecha_inicio": 100,
-    "fecha_fin": null,
-    "descripcion_corta": "La mayoría de los romanos, sobre todo en la capital, vivían en insulae: edificios de varios pisos apretados entre sí y con riesgo de incendio, muy distintos de las domus de las familias acomodadas. El Estado organizaba \"panem et circenses\" (pan y circo): distribución gratuita o subsidiada de grano y espectáculos públicos (gladiadores, carreras de carros) para mantener contenta a la plebe urbana. Las termas públicas eran el centro de la vida social diaria, abiertas a casi todas las clases sociales. La familia giraba en torno al pater familias, con autoridad legal casi absoluta sobre esposa, hijos y esclavos. La esclavitud era masiva y transversal a toda la economía: se calcula que hasta un tercio de la población de Italia era esclava en el apogeo del Imperio.",
-    "imagenes": []
-  },
-  {
-    "id": "roma-modelo-economico",
-    "region": "roma",
-    "tipo": "evento",
-    "titulo": "Modelo económico",
-    "fecha_inicio": 100,
-    "fecha_fin": null,
-    "descripcion_corta": "La economía dependía en gran medida de la agricultura trabajada con mano de obra esclava en grandes propiedades llamadas latifundios, que fueron desplazando poco a poco a los pequeños campesinos libres. El comercio se benefició enormemente de la \"Pax Romana\" y de una red de calzadas y rutas marítimas que conectaba todo el Mediterráneo, permitiendo intercambiar grano (Egipto y el norte de África eran el granero de Roma), aceite, vino, metales y esclavos. Roma acuñó una moneda estandarizada (el denario de plata, luego el sestercio) que circuló por todo el imperio, facilitando el comercio y el pago a los soldados. El Estado se financiaba con impuestos provinciales, botín de guerra y el arriendo de tierras públicas; el gasto militar y las obras públicas (acueductos, calzadas, coliseos) eran las mayores partidas del presupuesto.",
-    "imagenes": []
-  },
-  {
     "id": "roma-imperio-galeria",
     "region": "roma",
     "tipo": "evento",
     "titulo": "Imperio Romano — más imágenes",
     "fecha_inicio": 150,
     "fecha_fin": null,
-    "descripcion_corta": "",
+    "descripcion_corta": "Cómo vivía la gente\n\nLa mayoría de los romanos, sobre todo en la capital, vivían en insulae: edificios de varios pisos apretados entre sí y con riesgo de incendio, muy distintos de las domus de las familias acomodadas. El Estado organizaba \"panem et circenses\" (pan y circo): distribución gratuita o subsidiada de grano y espectáculos públicos (gladiadores, carreras de carros) para mantener contenta a la plebe urbana. Las termas públicas eran el centro de la vida social diaria, abiertas a casi todas las clases sociales. La familia giraba en torno al pater familias, con autoridad legal casi absoluta sobre esposa, hijos y esclavos. La esclavitud era masiva y transversal a toda la economía: se calcula que hasta un tercio de la población de Italia era esclava en el apogeo del Imperio.\n\nModelo económico\n\nLa economía dependía en gran medida de la agricultura trabajada con mano de obra esclava en grandes propiedades llamadas latifundios, que fueron desplazando poco a poco a los pequeños campesinos libres. El comercio se benefició enormemente de la \"Pax Romana\" y de una red de calzadas y rutas marítimas que conectaba todo el Mediterráneo, permitiendo intercambiar grano (Egipto y el norte de África eran el granero de Roma), aceite, vino, metales y esclavos. Roma acuñó una moneda estandarizada (el denario de plata, luego el sestercio) que circuló por todo el imperio, facilitando el comercio y el pago a los soldados. El Estado se financiaba con impuestos provinciales, botín de guerra y el arriendo de tierras públicas; el gasto militar y las obras públicas (acueductos, calzadas, coliseos) eran las mayores partidas del presupuesto.",
     "imagenes": [
+      "/images/roma/roma2_insula-ara-coeli-rome-it62-2021-08-27-2_wikimedia.jpg",
+      "/images/roma/roma2_roads-in-the-roman-empire_wikimedia.jpg",
       "/images/roma/roma_imperio-romano-asesinato-de-julio-cesar-1_node-52-8.png",
       "/images/roma/roma_screenshot-2024-08-30-at-11-29-09-pm-1_node-53-13.png",
       "/images/roma/roma_2182-1_node-53-12.png",

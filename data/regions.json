@@ -8,11 +8,31 @@
       "fecha_inicio": -2070,
       "fecha_fin": 220,
       "subperiodos": [
-        { "nombre": "Dinastía Xia", "fecha_inicio": -2070, "fecha_fin": -1600 },
-        { "nombre": "Dinastía Shang", "fecha_inicio": -1600, "fecha_fin": -1046 },
-        { "nombre": "Dinastía Zhou", "fecha_inicio": -1046, "fecha_fin": -256 },
-        { "nombre": "Dinastía Qin", "fecha_inicio": -221, "fecha_fin": -206 },
-        { "nombre": "Dinastía Han", "fecha_inicio": -206, "fecha_fin": 220 }
+        {
+          "nombre": "Dinastía Xia",
+          "fecha_inicio": -2070,
+          "fecha_fin": -1600
+        },
+        {
+          "nombre": "Dinastía Shang",
+          "fecha_inicio": -1600,
+          "fecha_fin": -1046
+        },
+        {
+          "nombre": "Dinastía Zhou",
+          "fecha_inicio": -1046,
+          "fecha_fin": -256
+        },
+        {
+          "nombre": "Dinastía Qin",
+          "fecha_inicio": -221,
+          "fecha_fin": -206
+        },
+        {
+          "nombre": "Dinastía Han",
+          "fecha_inicio": -206,
+          "fecha_fin": 220
+        }
       ]
     },
     {
@@ -23,11 +43,31 @@
       "fecha_inicio": -6000000,
       "fecha_fin": -3300,
       "subperiodos": [
-        { "nombre": "Primeros homínidos", "fecha_inicio": -6000000, "fecha_fin": -3600000 },
-        { "nombre": "Paleolítico", "fecha_inicio": -2500000, "fecha_fin": -10000 },
-        { "nombre": "Mesolítico", "fecha_inicio": -10000, "fecha_fin": -8000 },
-        { "nombre": "Neolítico", "fecha_inicio": -6500, "fecha_fin": -6000 },
-        { "nombre": "Edad de los metales", "fecha_inicio": -6000, "fecha_fin": -800 }
+        {
+          "nombre": "Primeros homínidos",
+          "fecha_inicio": -6000000,
+          "fecha_fin": -3600000
+        },
+        {
+          "nombre": "Paleolítico",
+          "fecha_inicio": -2500000,
+          "fecha_fin": -10000
+        },
+        {
+          "nombre": "Mesolítico",
+          "fecha_inicio": -10000,
+          "fecha_fin": -8000
+        },
+        {
+          "nombre": "Neolítico",
+          "fecha_inicio": -6500,
+          "fecha_fin": -6000
+        },
+        {
+          "nombre": "Edad de los metales",
+          "fecha_inicio": -6000,
+          "fecha_fin": -800
+        }
       ]
     },
     {
@@ -38,12 +78,36 @@
       "fecha_inicio": -3500,
       "fecha_fin": -1750,
       "subperiodos": [
-        { "nombre": "Período de Uruk", "fecha_inicio": -3500, "fecha_fin": -2900 },
-        { "nombre": "Período dinástico arcaico", "fecha_inicio": -2900, "fecha_fin": -2334 },
-        { "nombre": "Reino de Akkad", "fecha_inicio": -2334, "fecha_fin": -2218 },
-        { "nombre": "Periodo Guti", "fecha_inicio": -2218, "fecha_fin": -2047 },
-        { "nombre": "Renacimiento sumerio", "fecha_inicio": -2047, "fecha_fin": -1792 },
-        { "nombre": "Imperio babilónico", "fecha_inicio": -1792, "fecha_fin": -1750 }
+        {
+          "nombre": "Período de Uruk",
+          "fecha_inicio": -3500,
+          "fecha_fin": -2900
+        },
+        {
+          "nombre": "Período dinástico arcaico",
+          "fecha_inicio": -2900,
+          "fecha_fin": -2334
+        },
+        {
+          "nombre": "Reino de Akkad",
+          "fecha_inicio": -2334,
+          "fecha_fin": -2218
+        },
+        {
+          "nombre": "Periodo Guti",
+          "fecha_inicio": -2218,
+          "fecha_fin": -2047
+        },
+        {
+          "nombre": "Renacimiento sumerio",
+          "fecha_inicio": -2047,
+          "fecha_fin": -1792
+        },
+        {
+          "nombre": "Imperio babilónico",
+          "fecha_inicio": -1792,
+          "fecha_fin": -1750
+        }
       ]
     },
     {
@@ -54,10 +118,26 @@
       "fecha_inicio": -3150,
       "fecha_fin": -31,
       "subperiodos": [
-        { "nombre": "Arcaico", "fecha_inicio": -3150, "fecha_fin": -2700 },
-        { "nombre": "Antiguo", "fecha_inicio": -2700, "fecha_fin": -2050 },
-        { "nombre": "Medio", "fecha_inicio": -2050, "fecha_fin": -1550 },
-        { "nombre": "Nuevo", "fecha_inicio": -1550, "fecha_fin": -1060 }
+        {
+          "nombre": "Arcaico",
+          "fecha_inicio": -3150,
+          "fecha_fin": -2700
+        },
+        {
+          "nombre": "Antiguo",
+          "fecha_inicio": -2700,
+          "fecha_fin": -2050
+        },
+        {
+          "nombre": "Medio",
+          "fecha_inicio": -2050,
+          "fecha_fin": -1550
+        },
+        {
+          "nombre": "Nuevo",
+          "fecha_inicio": -1550,
+          "fecha_fin": -1060
+        }
       ]
     },
     {
@@ -68,9 +148,21 @@
       "fecha_inicio": -753,
       "fecha_fin": 476,
       "subperiodos": [
-        { "nombre": "Monarquía", "fecha_inicio": -753, "fecha_fin": -509 },
-        { "nombre": "República", "fecha_inicio": -509, "fecha_fin": -27 },
-        { "nombre": "Imperio", "fecha_inicio": -27, "fecha_fin": 476 }
+        {
+          "nombre": "Monarquía",
+          "fecha_inicio": -753,
+          "fecha_fin": -509
+        },
+        {
+          "nombre": "República",
+          "fecha_inicio": -509,
+          "fecha_fin": -27
+        },
+        {
+          "nombre": "Imperio",
+          "fecha_inicio": -27,
+          "fecha_fin": 476
+        }
       ]
     },
     {
@@ -89,10 +181,26 @@
       "fecha_inicio": -1100,
       "fecha_fin": -30,
       "subperiodos": [
-        { "nombre": "Edad Oscura", "fecha_inicio": -1100, "fecha_fin": -776 },
-        { "nombre": "Epoca Arcaica", "fecha_inicio": -750, "fecha_fin": -499 },
-        { "nombre": "Periodo Clasico", "fecha_inicio": -499, "fecha_fin": -323 },
-        { "nombre": "Periodo Helenistico", "fecha_inicio": -323, "fecha_fin": -30 }
+        {
+          "nombre": "Edad Oscura",
+          "fecha_inicio": -1100,
+          "fecha_fin": -776
+        },
+        {
+          "nombre": "Epoca Arcaica",
+          "fecha_inicio": -750,
+          "fecha_fin": -499
+        },
+        {
+          "nombre": "Periodo Clasico",
+          "fecha_inicio": -499,
+          "fecha_fin": -323
+        },
+        {
+          "nombre": "Periodo Helenistico",
+          "fecha_inicio": -323,
+          "fecha_fin": -30
+        }
       ]
     },
     {
@@ -103,8 +211,16 @@
       "fecha_inicio": 476,
       "fecha_fin": 1492,
       "subperiodos": [
-        { "nombre": "Temprana Edad Media", "fecha_inicio": 476, "fecha_fin": 1000 },
-        { "nombre": "Alta Edad Media", "fecha_inicio": 1000, "fecha_fin": 1453 }
+        {
+          "nombre": "Temprana Edad Media",
+          "fecha_inicio": 476,
+          "fecha_fin": 1000
+        },
+        {
+          "nombre": "Alta Edad Media",
+          "fecha_inicio": 1000,
+          "fecha_fin": 1453
+        }
       ]
     },
     {
@@ -115,8 +231,66 @@
       "fecha_inicio": -10000,
       "fecha_fin": 500,
       "subperiodos": [
-        { "nombre": "Primeros humanos en CR", "fecha_inicio": -10000, "fecha_fin": -7000 },
-        { "nombre": "Primeras sociedades casicales", "fecha_inicio": -300, "fecha_fin": 500 }
+        {
+          "nombre": "Primeros humanos en CR",
+          "fecha_inicio": -10000,
+          "fecha_fin": -7000
+        },
+        {
+          "nombre": "Primeras sociedades casicales",
+          "fecha_inicio": -300,
+          "fecha_fin": 500
+        }
+      ]
+    },
+    {
+      "id": "era-de-hielo",
+      "nombre": "Última Era de Hielo",
+      "orden_vertical": 0.5,
+      "color": "var(--color-era-de-hielo)",
+      "fecha_inicio": -127000,
+      "fecha_fin": -11600,
+      "subperiodos": [
+        {
+          "nombre": "Inicio de la glaciación (Würm)",
+          "fecha_inicio": -115000,
+          "fecha_fin": -26500
+        },
+        {
+          "nombre": "Último Máximo Glacial",
+          "fecha_inicio": -26500,
+          "fecha_fin": -19000
+        },
+        {
+          "nombre": "Deglaciación y Younger Dryas",
+          "fecha_inicio": -19000,
+          "fecha_fin": -11600
+        }
+      ]
+    },
+    {
+      "id": "esparta",
+      "nombre": "Esparta",
+      "orden_vertical": 5.5,
+      "color": "var(--color-esparta)",
+      "fecha_inicio": -900,
+      "fecha_fin": -369,
+      "subperiodos": [
+        {
+          "nombre": "Formación y Guerras Mesenias",
+          "fecha_inicio": -900,
+          "fecha_fin": -668
+        },
+        {
+          "nombre": "Apogeo militar",
+          "fecha_inicio": -668,
+          "fecha_fin": -404
+        },
+        {
+          "nombre": "Hegemonía y declive",
+          "fecha_inicio": -404,
+          "fecha_fin": -369
+        }
       ]
     }
   ]

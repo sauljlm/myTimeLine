@@ -1,14 +1,40 @@
 [
   {
+    "id": "egipto-escritura-jeroglifica",
+    "region": "egipto",
+    "tipo": "evento",
+    "titulo": "La escritura jeroglífica",
+    "fecha_inicio": -3200,
+    "fecha_fin": null,
+    "descripcion_corta": "La escritura jeroglífica surgió en Egipto hacia el 3200 a. C., de forma independiente y casi contemporánea a la escritura cuneiforme mesopotámica, lo que la convierte en uno de los sistemas de escritura más antiguos del mundo. Combinaba signos fonéticos (que representaban sonidos) con ideogramas (que representaban conceptos completos), y podía escribirse en cualquier dirección —de izquierda a derecha, de derecha a izquierda o en columnas— dependiendo de hacia dónde miraran los animales y personas dibujados. Solo una minoría de la población, los escribas, sabía leer y escribir: formaban una casta privilegiada que administraba el Estado, y su formación podía durar más de una década. Junto a los jeroglíficos monumentales (tallados en piedra), se desarrollaron formas cursivas más rápidas de escribir sobre papiro: la escritura hierática y, mucho después, la demótica.",
+    "imagenes": [
+      "/images/egipto/egipto2_hieroglyphs-from-the-tomb-of-seti-i_wikimedia.jpg"
+    ]
+  },
+  {
     "id": "egipto-arcaico",
     "region": "egipto",
     "tipo": "evento",
     "titulo": "Arcaico",
     "fecha_inicio": -3150,
     "fecha_fin": -2700,
-    "descripcion_corta": "La antigua Egipto comenzo con la unificaciunificación de varias ciudades del Nilo El Rio Nilo fue la clave del exito de la civilización Egipcia, ya que ofrecia una gran ventaja frente a otras civilisaciones, cada año crecia hasta desbordarse. Los egipcios creaban canales con el rio alrededor de los cultivos y gracias a esto tenian exelentes cosechas con poco trabajo, y dedicar más tiempo y recursos en otras cosas como construir.\n\nMenes fue el primer faraón egipcio y tuvo las dinastias 1 y 2",
+    "descripcion_corta": "La antigua Egipto comenzo con la unificaciunificación de varias ciudades del Nilo El Rio Nilo fue la clave del exito de la civilización Egipcia, ya que ofrecia una gran ventaja frente a otras civilisaciones, cada año crecia hasta desbordarse. Los egipcios creaban canales con el rio alrededor de los cultivos y gracias a esto tenian exelentes cosechas con poco trabajo, y dedicar más tiempo y recursos en otras cosas como construir.\n\nMenes fue el primer faraón egipcio y tuvo las dinastias 1 y 2\n\nCómo vivía la gente\n\nLa vida giraba en torno al ciclo anual del Nilo: la crecida (Ajet) fertilizaba los campos con limo, seguida por la siembra (Peret) y la cosecha (Shemu). La mayoría de la población eran campesinos que cultivaban trigo, cebada, lino y vid, y vivían en casas de adobe con techos de palma. La familia era el núcleo social, y las mujeres egipcias gozaban de más derechos legales que en la mayoría de civilizaciones antiguas: podían poseer propiedades, comerciar y divorciarse. La religión permeaba toda la vida cotidiana: se creía en una existencia después de la muerte, por lo que la momificación y los rituales funerarios eran importantes incluso para quienes no eran faraones.\n\nModelo económico\n\nEl Estado administraba directamente gran parte de la tierra y el grano, y cobraba tributos e impuestos en especie: no hubo moneda acuñada hasta épocas muy tardías, así que se pagaba con grano, ganado o bienes valorados en una unidad de cuenta llamada \"deben\". El trabajo en las grandes obras (pirámides, templos) no era realizado principalmente por esclavos, como se creyó popularmente, sino en buena parte por campesinos reclutados por turnos durante la crecida del Nilo, cuando no podían trabajar los campos, a cambio de alimento y alojamiento. Egipto comerciaba con Nubia (oro, marfil), el Líbano (madera de cedro) y la tierra de Punt (incienso, especias), y vigilaba de cerca estas rutas para asegurarse el acceso a materiales que no tenía disponibles localmente.",
     "imagenes": [
-      "/images/egipto/egipto_agricultura-a-base-da-economia-do-antigo-egito-2-1_node-64-42.png"
+      "/images/egipto/egipto_agricultura-a-base-da-economia-do-antigo-egito-2-1_node-64-42.png",
+      "/images/egipto/egipto2_maler-der-grabkammer-des-sennudem-001_wikimedia.jpg",
+      "/images/egipto/egipto2_weight-equal-to-five-deben-met-dt259187_wikimedia.jpg"
+    ]
+  },
+  {
+    "id": "egipto-calendario-egipcio",
+    "region": "egipto",
+    "tipo": "evento",
+    "titulo": "El calendario egipcio",
+    "fecha_inicio": -2900,
+    "fecha_fin": null,
+    "descripcion_corta": "Los egipcios desarrollaron uno de los primeros calendarios solares de la historia, probablemente a inicios del tercer milenio a. C., cuando el antiguo calendario lunar basado en las crecidas del Nilo dejó de ser suficiente para las nuevas necesidades administrativas de un estado unificado. El calendario civil dividía el año en 365 días exactos: 12 meses de 30 días cada uno, agrupados en las tres estaciones del ciclo del Nilo (Ajet, Peret y Shemu), más 5 días adicionales al final del año dedicados al nacimiento de varios dioses. Al no incluir un día bisiesto, el calendario se desfasaba lentamente respecto al año solar real (que dura casi 365,25 días), completando un ciclo completo cada 1460 años. Este sistema influiría, siglos después, en el calendario juliano de Julio César y, a través de él, en el calendario gregoriano que usamos hoy.",
+    "imagenes": [
+      "/images/egipto/egipto3_kom-ombo-temple-calendar-2_wikimedia.jpg"
     ]
   },
   {
@@ -23,6 +49,57 @@
       "/images/egipto/egipto_screenshot-2024-09-01-at-8-41-51-pm-1_node-64-46.png",
       "/images/egipto/egipto_hjj-suaml-1256x620-1_node-64-48.png",
       "/images/egipto/egipto_7-maravillas-gran-piramide-antes-38bcf343-1400x788-1_node-64-47.png"
+    ]
+  },
+  {
+    "id": "egipto-mitologia",
+    "region": "egipto",
+    "tipo": "evento",
+    "titulo": "Mitología egipcia",
+    "fecha_inicio": -2620,
+    "fecha_fin": null,
+    "descripcion_corta": "Los antiguos egipcios veneraban a un extenso panteón de dioses, muchos con cuerpo humano y cabeza de animal. Ra, el dios del sol, estaba asociado con la vida y el orden cósmico. Osiris, dios de la muerte y la resurrección, gobernaba el más allá tras haber sido asesinado y desmembrado por su hermano Set, y luego resucitado por su esposa Isis, diosa de la magia y la maternidad. Su hijo Horus, representado como un halcón, era el dios de la realeza: cada faraón viviente era considerado su encarnación en la Tierra. Anubis, con cabeza de chacal, guiaba a los muertos y presidía la momificación y el pesaje del corazón en el juicio final.",
+    "imagenes": [
+      "/images/egipto/egipto2_la-tombe-de-horemheb-cropped_wikimedia.jpg"
+    ]
+  },
+  {
+    "id": "egipto-estructura-social",
+    "region": "egipto",
+    "tipo": "diagrama_jerarquico",
+    "titulo": "Estructura social",
+    "fecha_inicio": -2600,
+    "niveles": [
+      "Faraón (poder absoluto, considerado un dios viviente)",
+      "Visir, alta nobleza y sumos sacerdotes",
+      "Escribas y funcionarios",
+      "Artesanos, comerciantes y soldados",
+      "Campesinos",
+      "Esclavos (minoría, sobre todo prisioneros de guerra)"
+    ]
+  },
+  {
+    "id": "egipto-momificacion",
+    "region": "egipto",
+    "tipo": "evento",
+    "titulo": "Momificación y creencias sobre el más allá",
+    "fecha_inicio": -2580,
+    "fecha_fin": null,
+    "descripcion_corta": "Los egipcios creían que la muerte no era el final, sino una transición hacia otra vida eterna, en los Campos de Ialu. Para lograrlo, el cuerpo debía preservarse: el proceso de momificación, perfeccionado a lo largo de 70 días por sacerdotes especializados, consistía en retirar los órganos internos (conservados aparte en vasos canopos), secar el cuerpo con natrón, envolverlo en lino y sellarlo en sarcófagos decorados con hechizos protectores del Libro de los Muertos. Se creía que tras la muerte, el corazón del difunto era pesado en una balanza frente a la pluma de Maat, diosa de la verdad: si pesaba más que la pluma, cargado de pecados, era devorado por la diosa Ammit; si el balance era justo, el alma accedía al paraíso gobernado por Osiris.",
+    "imagenes": [
+      "/images/egipto/egipto2_ramses-i-mummy_wikimedia.jpg"
+    ]
+  },
+  {
+    "id": "egipto-piramides-de-guiza",
+    "region": "egipto",
+    "tipo": "evento",
+    "titulo": "Las grandes pirámides de Guiza",
+    "fecha_inicio": -2560,
+    "fecha_fin": null,
+    "descripcion_corta": "Las tres grandes pirámides de Guiza —la Gran Pirámide de Keops, la de Kefrén y la de Micerino— se construyeron durante la IV Dinastía, hacia el 2560 a. C. La Gran Pirámide, con 146 metros de altura original, fue la estructura más alta hecha por el ser humano durante casi 3800 años, hasta la construcción de la catedral de Lincoln en el siglo XIV. Contrario al mito de esclavos encadenados, las excavaciones de las llamadas \"ciudades de los constructores\" cerca de Guiza muestran que fue construida por miles de trabajadores egipcios organizados en cuadrillas, bien alimentados con pan y cerveza, que trabajaban por turnos —muchos de ellos campesinos reclutados durante la temporada de crecida del Nilo—. Junto a las pirámides se encuentra la Gran Esfinge, una figura de piedra caliza con cuerpo de león y cabeza humana (posiblemente con el rostro del faraón Kefrén), la escultura monolítica más grande y antigua conocida del mundo.",
+    "imagenes": [
+      "/images/egipto/egipto2_great-pyramid-of-giza-pyramid-of-khufu_wikimedia.jpg"
     ]
   },
   {
@@ -56,59 +133,76 @@
     ]
   },
   {
-    "id": "egipto-estructura-social",
+    "id": "egipto-hatshepsut",
     "region": "egipto",
-    "tipo": "diagrama_jerarquico",
-    "titulo": "Estructura social",
-    "fecha_inicio": -2600,
-    "niveles": [
-      "Faraón (poder absoluto, considerado un dios viviente)",
-      "Visir, alta nobleza y sumos sacerdotes",
-      "Escribas y funcionarios",
-      "Artesanos, comerciantes y soldados",
-      "Campesinos",
-      "Esclavos (minoría, sobre todo prisioneros de guerra)"
+    "tipo": "evento",
+    "titulo": "Hatshepsut, la mujer faraón",
+    "fecha_inicio": -1479,
+    "fecha_fin": -1458,
+    "descripcion_corta": "Hatshepsut gobernó Egipto entre 1479 y 1458 a. C. como regente de su hijastro Tutmosis III y, tras unos años, se hizo coronar faraona por derecho propio —una de las pocas mujeres en la historia egipcia en ostentar ese título con pleno poder—. Para legitimar su gobierno en una institución pensada para hombres, se hacía representar en estatuas y relieves con la barba postiza y los atributos tradicionales del faraón. Su reinado se caracterizó por la paz y la prosperidad económica más que por conquistas militares: organizó una célebre expedición comercial a la tierra de Punt (posiblemente en el Cuerno de África) que trajo oro, marfil, ébano y árboles de incienso, y construyó uno de los templos funerarios más admirados de Egipto, Deir el-Bahari. Tras su muerte, Tutmosis III mandó borrar buena parte de su nombre e imágenes de los monumentos oficiales, aunque los motivos exactos de esta damnatio memoriae siguen debatidos entre los egiptólogos.",
+    "imagenes": [
+      "/images/egipto/egipto2_seated-statue-of-hatshepsut-met-hatshepsut2012_wikimedia.jpg"
     ]
   },
   {
-    "id": "egipto-vida-cotidiana",
+    "id": "egipto-akenaton-reforma-religiosa",
     "region": "egipto",
     "tipo": "evento",
-    "titulo": "Cómo vivía la gente",
-    "fecha_inicio": -2600,
-    "fecha_fin": null,
-    "descripcion_corta": "La vida giraba en torno al ciclo anual del Nilo: la crecida (Ajet) fertilizaba los campos con limo, seguida por la siembra (Peret) y la cosecha (Shemu). La mayoría de la población eran campesinos que cultivaban trigo, cebada, lino y vid, y vivían en casas de adobe con techos de palma. La familia era el núcleo social, y las mujeres egipcias gozaban de más derechos legales que en la mayoría de civilizaciones antiguas: podían poseer propiedades, comerciar y divorciarse. La religión permeaba toda la vida cotidiana: se creía en una existencia después de la muerte, por lo que la momificación y los rituales funerarios eran importantes incluso para quienes no eran faraones.",
-    "imagenes": []
+    "titulo": "Akenatón y la revolución de Amarna",
+    "fecha_inicio": -1353,
+    "fecha_fin": -1336,
+    "descripcion_corta": "Amenofis IV llegó al trono en 1353 a. C. y, hacia el quinto año de su reinado, emprendió una de las revoluciones religiosas más radicales de la Antigüedad: declaró a Atón, el disco solar, como la única divinidad verdadera, suprimió el culto a los demás dioses (incluido el poderoso Amón de Tebas) y cambió su propio nombre a Akenatón (\"el que sirve a Atón\"). Trasladó la capital del imperio a una ciudad construida de cero en pleno desierto, Ajetatón (la actual Amarna), donde también floreció un estilo artístico nuevo, más naturalista y fluido, que rompía con las rígidas convenciones egipcias milenarias —representando al faraón y su familia, incluida su esposa Nefertiti, con gestos íntimos y cuerpos estilizados—. La reforma resultó profundamente impopular entre el clero y la administración tradicional, y no sobrevivió a su muerte: su hijo Tutankamón restauró el culto a Amón y trasladó la capital de vuelta a Tebas, y los faraones posteriores intentaron borrar la memoria de Akenatón de los registros oficiales, tratándolo como \"el hereje\".",
+    "imagenes": [
+      "/images/egipto/egipto2_gd-eg-caire-mus-e061_wikimedia.jpg"
+    ]
   },
   {
-    "id": "egipto-modelo-economico",
+    "id": "egipto-tutankamon",
     "region": "egipto",
     "tipo": "evento",
-    "titulo": "Modelo económico",
-    "fecha_inicio": -2600,
-    "fecha_fin": null,
-    "descripcion_corta": "El Estado administraba directamente gran parte de la tierra y el grano, y cobraba tributos e impuestos en especie: no hubo moneda acuñada hasta épocas muy tardías, así que se pagaba con grano, ganado o bienes valorados en una unidad de cuenta llamada \"deben\". El trabajo en las grandes obras (pirámides, templos) no era realizado principalmente por esclavos, como se creyó popularmente, sino en buena parte por campesinos reclutados por turnos durante la crecida del Nilo, cuando no podían trabajar los campos, a cambio de alimento y alojamiento. Egipto comerciaba con Nubia (oro, marfil), el Líbano (madera de cedro) y la tierra de Punt (incienso, especias), y vigilaba de cerca estas rutas para asegurarse el acceso a materiales que no tenía disponibles localmente.",
-    "imagenes": []
+    "titulo": "Tutankamón y el hallazgo de 1922",
+    "fecha_inicio": -1332,
+    "fecha_fin": -1323,
+    "descripcion_corta": "Tutankamón subió al trono siendo apenas un niño, hacia el 1332 a. C., y murió alrededor de los 19 años tras un reinado breve dedicado principalmente a revertir la reforma religiosa de su padre Akenatón. Estudios de ADN moderno revelaron que era hijo de una relación entre hermanos (Akenatón y una de sus propias hermanas), lo que probablemente contribuyó a los problemas de salud —pie zambo, paladar hendido, episodios de malaria— evidentes en su momia. Su fama mundial no se debe tanto a su reinado, relativamente intrascendente, sino a que su tumba en el Valle de los Reyes fue descubierta casi intacta en 1922 por el arqueólogo británico Howard Carter, financiado por Lord Carnarvon: fue la única tumba real egipcia hallada con la mayoría de su ajuar funerario —incluida su icónica máscara de oro macizo— sin haber sido saqueada en la Antigüedad. El hallazgo desató una fiebre mundial por el Antiguo Egipto y alimentó el mito popular de la \"maldición de la momia\" tras la muerte de varios miembros de la expedición en los años siguientes.",
+    "imagenes": [
+      "/images/egipto/egipto2_cairoegmuseumtaamaskmostlyphotographed_wikimedia.jpg"
+    ]
   },
   {
-    "id": "egipto-mitologia",
+    "id": "egipto-ramses-ii-batalla-de-qadesh",
     "region": "egipto",
     "tipo": "evento",
-    "titulo": "Mitología egipcia",
-    "fecha_inicio": -2600,
+    "titulo": "Ramsés II y la batalla de Qadesh",
+    "fecha_inicio": -1274,
     "fecha_fin": null,
-    "descripcion_corta": "Los antiguos egipcios veneraban a un extenso panteón de dioses, muchos con cuerpo humano y cabeza de animal. Ra, el dios del sol, estaba asociado con la vida y el orden cósmico. Osiris, dios de la muerte y la resurrección, gobernaba el más allá tras haber sido asesinado y desmembrado por su hermano Set, y luego resucitado por su esposa Isis, diosa de la magia y la maternidad. Su hijo Horus, representado como un halcón, era el dios de la realeza: cada faraón viviente era considerado su encarnación en la Tierra. Anubis, con cabeza de chacal, guiaba a los muertos y presidía la momificación y el pesaje del corazón en el juicio final.",
-    "imagenes": []
+    "descripcion_corta": "Ramsés II, uno de los faraones más longevos y prolíficos constructores de Egipto (reinó unos 66 años), se enfrentó al Imperio hitita en la batalla de Qadesh (actual Siria) en 1274 a. C., una de las mayores batallas de carros de combate de la Antigüedad. La batalla terminó en un empate militar —Ramsés estuvo a punto de ser rodeado antes de que llegaran refuerzos—, pero sus inscripciones en los templos egipcios la presentan como una gran victoria personal, un ejemplo temprano de propaganda real. Dieciséis años después, en 1258 a. C., Egipto y los hititas firmaron lo que se considera el tratado de paz más antiguo del que se conserva el texto completo, grabado en tablillas cuneiformes y en jeroglíficos; una copia ampliada figura hoy en la sede de las Naciones Unidas en Nueva York como símbolo de la diplomacia internacional. Ramsés II también dejó una huella monumental sin igual, incluyendo los templos de Abu Simbel, tallados directamente en la roca.",
+    "imagenes": [
+      "/images/egipto/egipto2_egypt-abou-simbel6_wikimedia.jpg"
+    ]
   },
   {
-    "id": "egipto-momificacion",
+    "id": "egipto-invasion-pueblos-del-mar",
     "region": "egipto",
     "tipo": "evento",
-    "titulo": "Momificación y creencias sobre el más allá",
-    "fecha_inicio": -2600,
+    "titulo": "La invasión de los Pueblos del Mar",
+    "fecha_inicio": -1177,
     "fecha_fin": null,
-    "descripcion_corta": "Los egipcios creían que la muerte no era el final, sino una transición hacia otra vida eterna, en los Campos de Ialu. Para lograrlo, el cuerpo debía preservarse: el proceso de momificación, perfeccionado a lo largo de 70 días por sacerdotes especializados, consistía en retirar los órganos internos (conservados aparte en vasos canopos), secar el cuerpo con natrón, envolverlo en lino y sellarlo en sarcófagos decorados con hechizos protectores del Libro de los Muertos. Se creía que tras la muerte, el corazón del difunto era pesado en una balanza frente a la pluma de Maat, diosa de la verdad: si pesaba más que la pluma, cargado de pecados, era devorado por la diosa Ammit; si el balance era justo, el alma accedía al paraíso gobernado por Osiris.",
-    "imagenes": []
+    "descripcion_corta": "Hacia 1177 a. C., durante el reinado de Ramsés III, Egipto repelió una invasión masiva de los llamados \"Pueblos del Mar\", una confederación de grupos guerreros de origen incierto (posiblemente del Egeo, Anatolia y el Mediterráneo oriental) que en pocas décadas había arrasado imperios enteros: los hititas, Ugarit y varias ciudades micénicas desaparecieron durante este período conocido como el colapso de la Edad del Bronce. Egipto sobrevivió gracias a una victoria naval y terrestre registrada en los relieves del templo de Medinet Habu, pero salió del conflicto gravemente debilitado económica y militarmente. Esta crisis marcó el principio del fin del Imperio Nuevo: en las décadas siguientes Egipto perdió el control de sus territorios en Asia, y hacia 1060 a. C. el país se fracturó políticamente, dando inicio al largo período de decadencia y dominio extranjero que llevaría, siglos después, a la conquista persa y luego griega.",
+    "imagenes": [
+      "/images/egipto/egipto2_medinet-habu-ramses-iii-tempel-nordostwand-abzeichnung-_wikimedia.jpg"
+    ]
+  },
+  {
+    "id": "egipto-huelga-deir-el-medina",
+    "region": "egipto",
+    "tipo": "evento",
+    "titulo": "La huelga de Deir el-Medina",
+    "fecha_inicio": -1157,
+    "fecha_fin": null,
+    "descripcion_corta": "Hacia el año 29 del reinado de Ramsés III (alrededor de 1157 a. C.), los artesanos y obreros especializados de Deir el-Medina —la aldea que albergaba a los trabajadores encargados de excavar y decorar las tumbas reales del Valle de los Reyes— dejaron sus herramientas y se sentaron frente a los templos funerarios en protesta, hartos de que la administración estatal se retrasara en entregarles sus raciones de grano, pescado y otros bienes con los que se les pagaba. Se considera el primer paro laboral documentado de la historia. Gracias a que estos trabajadores eran alfabetizados (a diferencia de la mayoría de la población egipcia) y dejaron un registro extenso en miles de ostraca (fragmentos de cerámica o piedra caliza usados como material de escritura barato), Deir el-Medina es también una de las fuentes más ricas que existen sobre la vida cotidiana, los salarios, los chismes y hasta el ausentismo laboral en el Antiguo Egipto.",
+    "imagenes": [
+      "/images/egipto/egipto3_deir-el-medina-2016-03-23c_wikimedia.jpg"
+    ]
   },
   {
     "id": "egipto-periodo-de-decadencia-1060-ac",
@@ -123,35 +217,27 @@
     ]
   },
   {
-    "id": "egipto-piedra-de-rosetta",
+    "id": "egipto-dinastia-kushita",
     "region": "egipto",
     "tipo": "evento",
-    "titulo": "Piedra de Rosetta y el desciframiento de los jeroglíficos",
-    "fecha_inicio": -196,
-    "fecha_fin": null,
-    "descripcion_corta": "La Piedra de Rosetta, tallada en el 196 a. C., contiene un mismo decreto escrito en tres sistemas de escritura: jeroglíficos egipcios, escritura demótica y griego antiguo. Descubierta por soldados franceses en 1799 durante la campaña de Napoleón en Egipto, permaneció como un misterio hasta que en 1822 el lingüista francés Jean-François Champollion, comparando los tres textos y apoyándose en su conocimiento del copto, logró descifrar finalmente los jeroglíficos egipcios: un sistema de escritura que llevaba más de 1400 años sin poder leerse. Este hallazgo abrió la puerta al estudio moderno del Antiguo Egipto, la egiptología.",
-    "imagenes": []
-  },
-  {
-    "id": "egipto-cleopatra-y-los-tolomeos",
-    "region": "egipto",
-    "tipo": "evento",
-    "titulo": "Cleopatra y la dinastía ptolemaica",
-    "fecha_inicio": -305,
-    "fecha_fin": -30,
-    "descripcion_corta": "Tras la muerte de Alejandro Magno, su general Ptolomeo se proclamó faraón de Egipto en el 305 a. C., fundando la dinastía ptolemaica, de origen griego, que gobernaría Egipto durante casi 300 años. Cleopatra VII (69-30 a. C.), la última faraona de esta dinastía, es la más recordada por su inteligencia política, su dominio de varios idiomas —incluido el egipcio, algo inusual entre los Ptolomeos— y sus alianzas, primero con Julio César y luego con Marco Antonio, para intentar preservar la independencia de Egipto frente al creciente poder de Roma. Tras la derrota de Marco Antonio en la batalla de Actium, Cleopatra se suicidó, y Egipto se convirtió en una provincia romana, cerrando así unos 3000 años de civilización faraónica independiente.",
-    "imagenes": []
-  },
-  {
-    "id": "egipto-fin-batalla-de-actium",
-    "region": "egipto",
-    "tipo": "evento",
-    "titulo": "El final del antiguo Egipto se da cuando el emperador romano",
-    "fecha_inicio": -31,
-    "fecha_fin": null,
-    "descripcion_corta": "El final del antiguo Egipto se da cuando el emperador romano Octavio vence al emperador romano Marco Antonio, quien era amante y aliado de la ultima faraona Cleopatra, en la batalla de Actium",
+    "titulo": "La dinastía kushita: los \"faraones negros\"",
+    "fecha_inicio": -744,
+    "fecha_fin": -656,
+    "descripcion_corta": "Entre el 744 y el 656 a. C., Egipto fue gobernado por la dinastía XXV, formada por reyes originarios del reino de Kush (en la actual Sudán), conocidos popularmente como los \"faraones negros\". El rey Piye inició la conquista en 727 a. C., capturando Menfis y unificando Egipto bajo control nubio tras un largo período de fragmentación política. Lejos de imponerse como conquistadores ajenos, los faraones kushitas se presentaron como restauradores de la tradición egipcia más antigua: revivieron el arte y la arquitectura del Imperio Antiguo, construyeron nuevas pirámides (más pequeñas y de ángulo más pronunciado que las de Guiza, siguiendo el estilo nubio) en su propia tierra natal, y patrocinaron templos a los dioses egipcios tradicionales. La dinastía terminó cuando el Imperio asirio invadió Egipto y expulsó a los reyes kushitas de vuelta a Nubia, aunque el reino de Kush sobreviviría independiente durante casi mil años más.",
     "imagenes": [
-      "/images/egipto/egipto_e7d4261c8786c84648d7f9efdab1ca15-1_node-57-29.png"
+      "/images/egipto/egipto3_pyramid-amanimalel-nuri-22_wikimedia.jpg"
+    ]
+  },
+  {
+    "id": "egipto-conquista-persa",
+    "region": "egipto",
+    "tipo": "evento",
+    "titulo": "La conquista persa de Egipto",
+    "fecha_inicio": -525,
+    "fecha_fin": null,
+    "descripcion_corta": "En mayo de 525 a. C., el rey persa Cambises II, hijo de Ciro el Grande, invadió Egipto y derrotó al faraón Psamético III en la batalla de Pelusio, cerca del delta del Nilo. Tras el asedio y la caída de Menfis, Egipto se convirtió en una satrapía (provincia) del Imperio persa aqueménida, poniendo fin a la última dinastía egipcia nativa independiente por más de un siglo. Los persas gobernaron Egipto de forma intermitente —hubo varias rebeliones y períodos breves de independencia— hasta que Alejandro Magno conquistó el país en 332 a. C. y fue recibido como libertador, dando inicio, tras su muerte, al período ptolemaico.",
+    "imagenes": [
+      "/images/egipto/egipto3_western-part-of-the-achaemenid-empire_wikimedia.jpg"
     ]
   },
   {
@@ -174,6 +260,42 @@
       "/images/egipto/egipto_gatos-egipto-1_node-55-21.png",
       "/images/egipto/egipto_screenshot-2024-08-30-at-11-55-38-pm-1_node-56-26.png",
       "/images/egipto/egipto_screenshot-2024-08-30-at-11-56-56-pm-1_node-56-27.png"
+    ]
+  },
+  {
+    "id": "egipto-cleopatra-y-los-tolomeos",
+    "region": "egipto",
+    "tipo": "evento",
+    "titulo": "Cleopatra y la dinastía ptolemaica",
+    "fecha_inicio": -305,
+    "fecha_fin": -30,
+    "descripcion_corta": "Tras la muerte de Alejandro Magno, su general Ptolomeo se proclamó faraón de Egipto en el 305 a. C., fundando la dinastía ptolemaica, de origen griego, que gobernaría Egipto durante casi 300 años. Cleopatra VII (69-30 a. C.), la última faraona de esta dinastía, es la más recordada por su inteligencia política, su dominio de varios idiomas —incluido el egipcio, algo inusual entre los Ptolomeos— y sus alianzas, primero con Julio César y luego con Marco Antonio, para intentar preservar la independencia de Egipto frente al creciente poder de Roma. Tras la derrota de Marco Antonio en la batalla de Actium, Cleopatra se suicidó, y Egipto se convirtió en una provincia romana, cerrando así unos 3000 años de civilización faraónica independiente.",
+    "imagenes": [
+      "/images/egipto/egipto2_posthumous-painted-portrait-of-cleopatra-vii-of-egypt-f_wikimedia.jpg"
+    ]
+  },
+  {
+    "id": "egipto-piedra-de-rosetta",
+    "region": "egipto",
+    "tipo": "evento",
+    "titulo": "Piedra de Rosetta y el desciframiento de los jeroglíficos",
+    "fecha_inicio": -196,
+    "fecha_fin": null,
+    "descripcion_corta": "La Piedra de Rosetta, tallada en el 196 a. C., contiene un mismo decreto escrito en tres sistemas de escritura: jeroglíficos egipcios, escritura demótica y griego antiguo. Descubierta por soldados franceses en 1799 durante la campaña de Napoleón en Egipto, permaneció como un misterio hasta que en 1822 el lingüista francés Jean-François Champollion, comparando los tres textos y apoyándose en su conocimiento del copto, logró descifrar finalmente los jeroglíficos egipcios: un sistema de escritura que llevaba más de 1400 años sin poder leerse. Este hallazgo abrió la puerta al estudio moderno del Antiguo Egipto, la egiptología.",
+    "imagenes": [
+      "/images/egipto/egipto2_rosetta-stone_wikimedia.jpg"
+    ]
+  },
+  {
+    "id": "egipto-fin-batalla-de-actium",
+    "region": "egipto",
+    "tipo": "evento",
+    "titulo": "El final del antiguo Egipto se da cuando el emperador romano",
+    "fecha_inicio": -31,
+    "fecha_fin": null,
+    "descripcion_corta": "El final del antiguo Egipto se da cuando el emperador romano Octavio vence al emperador romano Marco Antonio, quien era amante y aliado de la ultima faraona Cleopatra, en la batalla de Actium",
+    "imagenes": [
+      "/images/egipto/egipto_e7d4261c8786c84648d7f9efdab1ca15-1_node-57-29.png"
     ]
   }
 ]
