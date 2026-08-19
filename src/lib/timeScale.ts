@@ -1,3 +1,5 @@
+import { todosLosBloques } from "./datos";
+
 // Escala de tiempo en TRAMOS: varios tramos lineales de distinta densidad
 // para la historia registrada (cada uno cubre una franja con su propia
 // cantidad de contenido real), lineal más suave para la transición (el
@@ -290,11 +292,110 @@ function posicionLog(anio: number): number {
   return signo * Math.log10(edad + 1) * PIXELES_POR_DECADA_LOG;
 }
 
+// --- Compresión de los tramos sin contenido -------------------------------
+//
+// Los tramos de arriba reparten el ancho según la ANTIGÜEDAD, no según
+// cuánto contenido hay. En la prehistoria eso dejaba huecos enormes: entre
+// "Primer uso habitual del fuego" (800 000 AC) y "Primeras lanzas de
+// madera" (400 000 AC) no hay ninguna tarjeta y sin embargo se reservaban
+// más de 2500px de vacío. Sumando todos los tramos así, un 36% del ancho
+// total del canvas era espacio en blanco, casi todo al principio.
+//
+// En vez de retocar a mano las densidades (que es lo que hacen los tramos
+// de arriba, pensados para SEPARAR eventos demasiado juntos), acá se hace
+// lo contrario y de forma automática: se miran las fechas reales de todos
+// los bloques y se recorta el sobrante de los tramos donde no hay ninguno,
+// dejando siempre un respiro de `MARGEN_TRAMO_VACIO_PX`.
+//
+// La transformación es monótona y continua, así que no altera el orden
+// cronológico ni deja saltos: dentro de un tramo vacío las posiciones se
+// reescalan proporcionalmente, y todo lo que viene después simplemente se
+// corre hacia la izquierda. Como la regla de tiempo, las barras de región
+// y las tarjetas pasan todas por `anioAX`, se acomodan solas.
+
+// Respiro que se deja en un tramo sin contenido. 320px = el ancho de una
+// tarjeta de evento (240px, ver `RegionLane.tsx`) más algo de aire, de
+// modo que un salto largo de tiempo se siga LEYENDO como un salto largo
+// sin por eso reservar miles de píxeles vacíos.
+const MARGEN_TRAMO_VACIO_PX = 320;
+
+// Posiciones (en el espacio de `posicionLog`, antes de comprimir) donde
+// hay contenido real, y cuánto sobrante acumulado hay que descontar a
+// partir de cada una. Se calcula una sola vez al cargar el módulo.
+const ANCLAS_CONTENIDO: number[] = [];
+const DESCUENTO_ACUMULADO: number[] = [];
+
+{
+  const anios = new Set<number>();
+  for (const bloque of todosLosBloques) {
+    // Las fechas de fin cuentan como contenido: si no, un bloque que
+    // abarca miles de años (ej. "Revolución cognitiva", 70 000–30 000 AC)
+    // vería su propia barra recortada al mínimo junto con el hueco que
+    // viene después.
+    if (bloque.tipo === "evento") {
+      anios.add(bloque.fecha_inicio);
+      if (bloque.fecha_fin != null) anios.add(bloque.fecha_fin);
+    } else if (bloque.fecha_inicio != null) {
+      anios.add(bloque.fecha_inicio);
+    }
+  }
+
+  const posiciones = [...anios]
+    .map((anio) => posicionLog(anio))
+    .sort((a, b) => a - b);
+
+  let descuento = 0;
+  for (let i = 0; i < posiciones.length; i++) {
+    ANCLAS_CONTENIDO.push(posiciones[i]);
+    DESCUENTO_ACUMULADO.push(descuento);
+    const siguiente = posiciones[i + 1];
+    if (siguiente !== undefined) {
+      descuento += Math.max(0, siguiente - posiciones[i] - MARGEN_TRAMO_VACIO_PX);
+    }
+  }
+}
+
+/**
+ * Aplica la compresión de tramos vacíos a una posición ya calculada por
+ * `posicionLog`.
+ */
+function comprimirVacios(x: number): number {
+  if (ANCLAS_CONTENIDO.length === 0) return x;
+  if (x <= ANCLAS_CONTENIDO[0]) return x;
+
+  const ultima = ANCLAS_CONTENIDO.length - 1;
+  if (x >= ANCLAS_CONTENIDO[ultima]) {
+    return x - DESCUENTO_ACUMULADO[ultima];
+  }
+
+  // Búsqueda binaria del tramo [i, i+1] que contiene a x.
+  let bajo = 0;
+  let alto = ultima;
+  while (alto - bajo > 1) {
+    const medio = (bajo + alto) >> 1;
+    if (ANCLAS_CONTENIDO[medio] <= x) bajo = medio;
+    else alto = medio;
+  }
+
+  const inicio = ANCLAS_CONTENIDO[bajo];
+  const fin = ANCLAS_CONTENIDO[bajo + 1];
+  const largo = fin - inicio;
+  const base = inicio - DESCUENTO_ACUMULADO[bajo];
+
+  if (largo <= MARGEN_TRAMO_VACIO_PX) {
+    // El tramo ya era corto: no se toca, solo se corre lo ya descontado.
+    return base + (x - inicio);
+  }
+  // Tramo vacío recortado: se reparte proporcionalmente en el margen.
+  return base + ((x - inicio) / largo) * MARGEN_TRAMO_VACIO_PX;
+}
+
 /**
  * Convierte un año a posición X (sin aplicar aún pan/zoom), en escala
- * logarítmica de antigüedad. `anioMinimoGlobal` es solo un desplazamiento
- * de conveniencia para que el año más antiguo del set de datos quede
- * cerca de x=0 (no afecta la compresión relativa entre tramos).
+ * logarítmica de antigüedad y con los tramos sin contenido ya recortados.
+ * `anioMinimoGlobal` es solo un desplazamiento de conveniencia para que el
+ * año más antiguo del set de datos quede cerca de x=0 (no afecta la
+ * compresión relativa entre tramos).
  */
 export function anioAX(anio: number, anioMinimoGlobal: number): number {
   // Redondeado a 1 decimal: con muchos decimales de precisión flotante, el
@@ -303,7 +404,11 @@ export function anioAX(anio: number, anioMinimoGlobal: number): number {
   // cada posición (ruido en consola, no se corrige solo). Un decimal es
   // más que suficiente precisión visual para posicionar bloques.
   return (
-    Math.round((posicionLog(anio) - posicionLog(anioMinimoGlobal)) * 10) / 10
+    Math.round(
+      (comprimirVacios(posicionLog(anio)) -
+        comprimirVacios(posicionLog(anioMinimoGlobal))) *
+        10,
+    ) / 10
   );
 }
 
