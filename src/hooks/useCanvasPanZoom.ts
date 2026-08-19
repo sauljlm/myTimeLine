@@ -19,7 +19,13 @@ export interface BoundingBox {
 // la historia registrada (ver `timeScale.ts`), así que el canvas completo
 // es más ancho que antes — sin este margen extra, "Reset" no alcanzaba a
 // encuadrar todo el contenido y el botón de zoom mínimo se quedaba corto.
-const MIN_SCALE = 0.05;
+// Bajado de 0.05 a 0.01: con todo el contenido acumulado, los carriles de
+// América y las tarjetas a 500px, el canvas mide ~122 000px
+// de ancho, y a 0.05 el botón "Reset" ya no alcanzaba a mostrarlo
+// entero en pantalla (justo lo que ese botón existe para hacer). A este
+// zoom las tarjetas son ilegibles a propósito: la vista sirve para ver la
+// forma del conjunto y decidir a dónde acercarse.
+const MIN_SCALE = 0.01;
 const MAX_SCALE = 4;
 const SCALE_STATE_DEBOUNCE_MS = 60;
 const ZOOM_STEP = 1.2;

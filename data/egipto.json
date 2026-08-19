@@ -97,7 +97,8 @@
     "descripcion_corta": "Los antiguos egipcios veneraban a un extenso panteón de dioses, muchos con cuerpo humano y cabeza de animal. Ra, el dios del sol, estaba asociado con la vida y el orden cósmico. Osiris, dios de la muerte y la resurrección, gobernaba el más allá tras haber sido asesinado y desmembrado por su hermano Set, y luego resucitado por su esposa Isis, diosa de la magia y la maternidad. Su hijo Horus, representado como un halcón, era el dios de la realeza: cada faraón viviente era considerado su encarnación en la Tierra. Anubis, con cabeza de chacal, guiaba a los muertos y presidía la momificación y el pesaje del corazón en el juicio final.",
     "imagenes": [
       "/images/egipto/egipto2_la-tombe-de-horemheb-cropped_wikimedia.jpg"
-    ]
+    ],
+    "contextual": true
   },
   {
     "id": "egipto-estructura-social",
@@ -112,7 +113,8 @@
       "Artesanos, comerciantes y soldados",
       "Campesinos",
       "Esclavos (minoría, sobre todo prisioneros de guerra)"
-    ]
+    ],
+    "contextual": true
   },
   {
     "id": "egipto-momificacion",
@@ -464,7 +466,8 @@
       "/images/egipto/egipto_gatos-egipto-1_node-55-21.png",
       "/images/egipto/egipto_screenshot-2024-08-30-at-11-55-38-pm-1_node-56-26.png",
       "/images/egipto/egipto_screenshot-2024-08-30-at-11-56-56-pm-1_node-56-27.png"
-    ]
+    ],
+    "contextual": true
   },
   {
     "id": "egipto-satrapia-persa",

@@ -9,7 +9,10 @@ interface EventCardProps {
   onOpenLightbox: (evento: BloqueEvento, imagenIndex: number) => void;
 }
 
-const TAMANO_MINIATURA_PX = 110;
+// Subido dos veces un 50% a petición (110 → 165 → 248): las miniaturas se
+// leían muy pequeñas. El ancho de la tarjeta acompaña el cambio para que
+// sigan entrando dos por fila (248*2 + 2 de gap = 498 < 500).
+const TAMANO_MINIATURA_PX = 248;
 
 export function EventCard({ evento, onOpenLightbox }: EventCardProps) {
   // Antes el texto se recortaba a 4 líneas con "..." sin forma de leer el
@@ -21,7 +24,7 @@ export function EventCard({ evento, onOpenLightbox }: EventCardProps) {
   return (
     <div
       style={{
-        width: 240,
+        width: 500,
         display: "flex",
         flexDirection: "column",
         gap: 4,

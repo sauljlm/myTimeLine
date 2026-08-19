@@ -74,7 +74,8 @@
     "fecha_inicio": -3200,
     "fecha_fin": null,
     "descripcion_corta": "La mayoría de la población eran campesinos que vivían en aldeas alrededor de las ciudades, cultivando cebada, trigo, dátiles y hortalizas gracias a los canales de riego del Tigris y el Éufrates. Las casas se construían con ladrillos de adobe secados al sol, con pocas ventanas para protegerse del calor. La sociedad estaba dividida en hombres libres, dependientes de los templos o el palacio, y esclavos (casi siempre prisioneros de guerra o deudores insolventes). Las familias eran patriarcales y el matrimonio se formalizaba con contratos escritos en tablillas de arcilla. La religión politeísta impregnaba la vida diaria: cada ciudad tenía un dios patrono propio, y el zigurat funcionaba a la vez como centro religioso, administrativo y económico.",
-    "imagenes": []
+    "imagenes": [],
+    "contextual": true
   },
   {
     "id": "mesopotamia-modelo-economico",
@@ -84,7 +85,8 @@
     "fecha_inicio": -3100,
     "fecha_fin": null,
     "descripcion_corta": "La economía se basaba en la agricultura de regadío y en el excedente de grano que esta producía. Templos y palacios administraban gran parte de la tierra y el ganado, y llevaban registros contables en tablillas cuneiformes: de hecho, la escritura cuneiforme nació hacia el 3200 a. C. como un sistema de contabilidad para anotar cosechas, impuestos y transacciones, no como literatura. El comercio a larga distancia (con Anatolia, el Golfo Pérsico y el valle del Indo) intercambiaba grano y textiles por metales, madera y piedras preciosas que Mesopotamia no producía localmente. No existía moneda acuñada: los pagos se hacían en cebada o en plata pesada por peso (el siclo). El Código de Hammurabi también fijaba precios, salarios y reglas para los contratos comerciales.",
-    "imagenes": []
+    "imagenes": [],
+    "contextual": true
   },
   {
     "id": "mesopotamia-periodo-dinastico-arcaico",

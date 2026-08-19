@@ -27,6 +27,14 @@ export interface BloqueEvento {
   id: string;
   region: string;
   tipo: "evento";
+  /**
+   * Marca los bloques que no son un acontecimiento fechado sino una
+   * descripción transversal del período ("Cómo vivía la gente", "Modelo
+   * económico", "Estructura social", galerías de imágenes...). Se dibujan
+   * siempre por debajo de los acontecimientos, que son los que ocupan la
+   * línea del carril.
+   */
+  contextual?: boolean;
   titulo: string;
   fecha_inicio: number;
   fecha_fin: number | null;

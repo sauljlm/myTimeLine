@@ -58,8 +58,8 @@ const TRAMOS_LINEALES: { edadHasta: number; pxPorAnio: number }[] = [
   // angostos: casi todos a la densidad base (4px/año, igual que el resto
   // de "historia normal"), y solo los tramos que caen justo entre dos
   // eventos con pocos años de diferencia suben la densidad lo necesario
-  // para que quepan en la misma fila (240px de ancho de tarjeta + 24px
-  // de `GAP_HORIZONTAL_MIN` en `layout.ts` = 264px mínimos entre el
+  // para que quepan en la misma fila (500px de ancho de tarjeta + 24px
+  // de `GAP_HORIZONTAL_MIN` en `layout.ts` = 524px mínimos entre el
   // inicio de dos tarjetas consecutivas). Recalculado tras investigar y
   // agregar 9 eventos nuevos de guerras/revoluciones/inventos (batalla
   // de Hastings, Conflicto de las Investiduras, reloj mecánico, gafas,
@@ -125,8 +125,8 @@ const TRAMOS_LINEALES: { edadHasta: number; pxPorAnio: number }[] = [
   // que los límites de abajo combinan las fechas de todas. Igual
   // criterio que arriba: la mayoría a la densidad base (3px/año), y solo
   // los tramos entre eventos muy cercanos en el tiempo suben lo
-  // necesario para que quepan en la misma fila (240px de tarjeta + 24px
-  // de `GAP_HORIZONTAL_MIN` = 264px mínimos).
+  // necesario para que quepan en la misma fila (500px de tarjeta + 24px
+  // de `GAP_HORIZONTAL_MIN` = 524px mínimos).
   { edadHasta: 2031, pxPorAnio: 68 },
   { edadHasta: 2058, pxPorAnio: 10 },
   { edadHasta: 2095, pxPorAnio: 8 },
@@ -313,11 +313,11 @@ function posicionLog(anio: number): number {
 // corre hacia la izquierda. Como la regla de tiempo, las barras de región
 // y las tarjetas pasan todas por `anioAX`, se acomodan solas.
 
-// Respiro que se deja en un tramo sin contenido. 320px = el ancho de una
-// tarjeta de evento (240px, ver `RegionLane.tsx`) más algo de aire, de
+// Respiro que se deja en un tramo sin contenido. 580px = el ancho de una
+// tarjeta de evento (500px, ver `RegionLane.tsx`) más algo de aire, de
 // modo que un salto largo de tiempo se siga LEYENDO como un salto largo
 // sin por eso reservar miles de píxeles vacíos.
-const MARGEN_TRAMO_VACIO_PX = 320;
+const MARGEN_TRAMO_VACIO_PX = 580;
 
 // Posiciones (en el espacio de `posicionLog`, antes de comprimir) donde
 // hay contenido real, y cuánto sobrante acumulado hay que descontar a
@@ -390,9 +390,101 @@ function comprimirVacios(x: number): number {
   return base + ((x - inicio) / largo) * MARGEN_TRAMO_VACIO_PX;
 }
 
+// --- Separación mínima entre acontecimientos ------------------------------
+//
+// La compresión de arriba quita el vacío, pero no garantiza que dos
+// acontecimientos seguidos de una misma región quepan uno al lado del otro:
+// cuando caen demasiado juntos, `empacarEnFilas` los baja a otra fila y la
+// línea del carril deja de leerse como una secuencia. Esta segunda etapa
+// hace lo contrario que la compresión: ensancha —solo lo justo— los tramos
+// donde dos acontecimientos consecutivos de la misma región quedarían
+// encimados.
+//
+// Solo cuentan los acontecimientos: los bloques contextuales ("Cómo vivía
+// la gente", "Modelo económico"...) van por debajo y no necesitan sitio
+// propio en la línea.
+//
+// Dos bloques con el MISMO año exacto no se pueden separar por mucho que se
+// ensanche el tramo —la posición es función del año—, así que esos siguen
+// apilándose; no hay forma de evitarlo sin falsear una fecha.
+
+// Ancho de tarjeta (500px, ver `RegionLane.tsx`) más `GAP_HORIZONTAL_MIN`
+// (24px, ver `layout.ts`): la distancia mínima entre el inicio de dos
+// tarjetas para que no choquen.
+const SEPARACION_MINIMA_PX = 524;
+
+const ANCLAS_EXPANSION: number[] = [];
+const DESPLAZAMIENTO_ACUMULADO: number[] = [];
+
+{
+  // Posiciones (ya comprimidas) de cada acontecimiento, agrupadas por
+  // posición, con las regiones a las que pertenecen.
+  const porPosicion = new Map<number, Set<string>>();
+  for (const bloque of todosLosBloques) {
+    if (bloque.tipo !== "evento" || bloque.contextual) continue;
+    const x = comprimirVacios(posicionLog(bloque.fecha_inicio));
+    let regiones = porPosicion.get(x);
+    if (!regiones) {
+      regiones = new Set();
+      porPosicion.set(x, regiones);
+    }
+    regiones.add(bloque.region);
+  }
+
+  const posiciones = [...porPosicion.entries()].sort((a, b) => a[0] - b[0]);
+  const ultimaPorRegion: Record<string, number> = {};
+  let desplazamiento = 0;
+
+  for (const [x, regiones] of posiciones) {
+    let necesario = 0;
+    for (const region of regiones) {
+      const anterior = ultimaPorRegion[region];
+      if (anterior === undefined) continue;
+      necesario = Math.max(
+        necesario,
+        SEPARACION_MINIMA_PX - (x + desplazamiento - anterior),
+      );
+    }
+    if (necesario > 0) desplazamiento += necesario;
+
+    ANCLAS_EXPANSION.push(x);
+    DESPLAZAMIENTO_ACUMULADO.push(desplazamiento);
+    for (const region of regiones) ultimaPorRegion[region] = x + desplazamiento;
+  }
+}
+
+/**
+ * Aplica el desplazamiento acumulado por la separación de acontecimientos.
+ * Entre dos anclas se interpola linealmente para que la transformación siga
+ * siendo continua y monótona, igual que la compresión.
+ */
+function separarAcontecimientos(x: number): number {
+  const n = ANCLAS_EXPANSION.length;
+  if (n === 0) return x;
+  if (x <= ANCLAS_EXPANSION[0]) return x + DESPLAZAMIENTO_ACUMULADO[0];
+  if (x >= ANCLAS_EXPANSION[n - 1]) return x + DESPLAZAMIENTO_ACUMULADO[n - 1];
+
+  let bajo = 0;
+  let alto = n - 1;
+  while (alto - bajo > 1) {
+    const medio = (bajo + alto) >> 1;
+    if (ANCLAS_EXPANSION[medio] <= x) bajo = medio;
+    else alto = medio;
+  }
+
+  const inicio = ANCLAS_EXPANSION[bajo];
+  const fin = ANCLAS_EXPANSION[bajo + 1];
+  const largo = fin - inicio;
+  const desde = DESPLAZAMIENTO_ACUMULADO[bajo];
+  const hasta = DESPLAZAMIENTO_ACUMULADO[bajo + 1];
+  if (largo <= 0) return x + hasta;
+  return x + desde + ((x - inicio) / largo) * (hasta - desde);
+}
+
 /**
  * Convierte un año a posición X (sin aplicar aún pan/zoom), en escala
- * logarítmica de antigüedad y con los tramos sin contenido ya recortados.
+ * logarítmica de antigüedad, con los tramos sin contenido ya recortados y
+ * con los acontecimientos separados lo justo para que no se encimen.
  * `anioMinimoGlobal` es solo un desplazamiento de conveniencia para que el
  * año más antiguo del set de datos quede cerca de x=0 (no afecta la
  * compresión relativa entre tramos).
@@ -403,13 +495,9 @@ export function anioAX(anio: number, anioMinimoGlobal: number): number {
   // forma levemente distinta, y React marca un "hydration mismatch" en
   // cada posición (ruido en consola, no se corrige solo). Un decimal es
   // más que suficiente precisión visual para posicionar bloques.
-  return (
-    Math.round(
-      (comprimirVacios(posicionLog(anio)) -
-        comprimirVacios(posicionLog(anioMinimoGlobal))) *
-        10,
-    ) / 10
-  );
+  const posicion = (anio: number) =>
+    separarAcontecimientos(comprimirVacios(posicionLog(anio)));
+  return Math.round((posicion(anio) - posicion(anioMinimoGlobal)) * 10) / 10;
 }
 
 /** Formatea un año (positivo = DC, negativo = AC) para mostrar en la regla o en tarjetas. */

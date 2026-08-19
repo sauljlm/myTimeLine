@@ -15,9 +15,10 @@ interface RegionLaneProps {
   onOpenLightbox: (evento: BloqueEvento, imagenIndex: number) => void;
 }
 
+
 const ALTURA_BARRA_ENCABEZADO = 28;
 const ALTURA_BARRA_SUBPERIODO = 22;
-const ANCHO_TARJETA_EVENTO = 240;
+const ANCHO_TARJETA_EVENTO = 500;
 const ANCHO_TABLA_DIAGRAMA = 260;
 const ALTO_TABLA_DIAGRAMA_ESTIMADO = 220;
 const ESPACIO_ANTES_DE_BLOQUES = 16;
@@ -29,7 +30,7 @@ const ESPACIO_ANTES_DE_BLOQUES = 16;
 // mide más que esto, y como los bloques son `position: absolute`, el
 // contenedor nunca se enteraba de que su contenido real era más alto.
 const MINIATURAS_POR_FILA = 2;
-const ALTO_MINIATURA = 112;
+const ALTO_MINIATURA = 250;
 const ALTO_TEXTO_TARJETA = 130;
 
 function fechaDeBloque(bloque: Bloque, fechaFallback: number): number {
@@ -80,6 +81,9 @@ export function RegionLane({
         x,
         ancho: anchosReales[bloque.id] ?? anchoEstimado,
         alto: alturasReales[bloque.id] ?? altoEstimadoDeBloque(bloque),
+        // Las tablas y los diagramas son material de apoyo, igual que los
+        // bloques marcados como contextuales: tampoco ocupan la línea.
+        contextual: bloque.tipo !== "evento" || bloque.contextual === true,
         original: bloque,
       };
     });

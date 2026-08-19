@@ -50,7 +50,8 @@
     "descripcion_corta": "Sobrevivir a la glaciación exigía una adaptación constante al frío extremo: la ropa se confeccionaba cosiendo pieles de animales con agujas de hueso, y las viviendas se construían con lo que hubiera disponible, desde cuevas hasta refugios hechos enteramente con huesos y colmillos de mamut cubiertos de pieles, como los hallados en Mezhirich (Ucrania). El fuego era central para calentarse, cocinar y ahuyentar depredadores. Los grupos humanos eran pequeñas bandas nómadas de cazadores-recolectores que seguían las migraciones estacionales de renos, bisontes y mamuts, y que ya practicaban rituales funerarios y arte simbólico: pinturas rupestres, figurillas talladas y adornos personales.",
     "imagenes": [
       "/images/era-de-hielo/eradehielo_dwelling-made-with-mammoth-bones_wikimedia.jpg"
-    ]
+    ],
+    "contextual": true
   },
   {
     "id": "era-de-hielo-cueva-chauvet",

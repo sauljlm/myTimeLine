@@ -143,7 +143,8 @@
     "descripcion_corta": "La sociedad se organizaba en torno al feudalismo: un señor feudal cedía tierras (feudos) a sus vasallos a cambio de lealtad y servicio militar, mientras los siervos trabajaban la tierra sin poder abandonarla, entregando parte de su cosecha al señor a cambio de protección. La Iglesia católica era la institución más poderosa e influyente: marcaba el calendario, la educación (a través de los monasterios) y la vida espiritual de toda la sociedad, desde el campesino hasta el rey. La mayoría de la población vivía en aldeas rurales alrededor de un castillo o monasterio, en condiciones precarias, con una esperanza de vida corta y hambrunas recurrentes. Hacia el final del período, el crecimiento de las ciudades trajo consigo gremios de artesanos que regulaban oficios como la herrería, la carpintería o el tejido.",
     "imagenes": [
       "/images/edad-media/edadmedia_reeve-and-serfs_wikimedia.jpg"
-    ]
+    ],
+    "contextual": true
   },
   {
     "id": "em-tratado-verdun",
@@ -167,7 +168,8 @@
     "descripcion_corta": "La economía medieval temprana era mayormente agraria y de subsistencia, organizada en torno al feudo y al sistema señorial: la tierra pertenecía al señor, y los siervos la trabajaban a cambio de protección y una parte de la cosecha. Había poco comercio y casi no circulaba moneda fuera de las ciudades. A partir del siglo XI, el resurgimiento del comercio (sobre todo con el mundo islámico y Bizancio) y el crecimiento de las ciudades dieron lugar a una economía más monetaria: aparecieron las ferias comerciales, los primeros bancos italianos, y gremios de artesanos y comerciantes que regulaban precios, calidad y el acceso a los oficios. La peste negra (1346-1351), al matar entre un tercio y la mitad de la población europea, provocó escasez de mano de obra y aceleró el fin del sistema feudal, ya que los siervos sobrevivientes pudieron empezar a exigir salarios y mejores condiciones.",
     "imagenes": [
       "/images/edad-media/edadmedia_les-tr-s-riches-heures-du-duc-de-berry-mars_wikimedia.jpg"
-    ]
+    ],
+    "contextual": true
   },
   {
     "id": "em-califato-cordoba",

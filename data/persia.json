@@ -74,7 +74,8 @@
     "fecha_inicio": -520,
     "fecha_fin": null,
     "descripcion_corta": "El Imperio Persa fue notablemente tolerante con los pueblos conquistados: respetaba sus religiones, idiomas y costumbres locales a cambio de lealtad y tributo. La religión oficial era el zoroastrismo, centrado en el dios Ahura Mazda y la lucha entre el bien y el mal, aunque convivía con otras religiones del imperio, como el judaísmo (Ciro el Grande permitió el regreso de los judíos de su cautiverio en Babilonia y la reconstrucción del Templo de Jerusalén). La sociedad giraba en torno a la corte real, la nobleza guerrera y una amplia burocracia de escribas, con el arameo como lengua administrativa común entre pueblos que hablaban decenas de idiomas distintos.",
-    "imagenes": []
+    "imagenes": [],
+    "contextual": true
   },
   {
     "id": "persia-behistun",
@@ -108,7 +109,8 @@
     "fecha_inicio": -520,
     "fecha_fin": null,
     "descripcion_corta": "El imperio se dividía en provincias llamadas satrapías, cada una gobernada por un sátrapa que recaudaba tributos fijos en oro, plata o productos locales para la corona. Darío I estandarizó el sistema fiscal y acuñó el dárico, una moneda de oro que facilitó el comercio a larga distancia. Una extensa red de caminos, entre ellos el Camino Real de más de 2400 km entre Susa y Sardes, conectaba el imperio y permitía un servicio de correo rápido (los mensajeros del sistema angarium, antecesor de las postas), además de facilitar el movimiento de tropas y mercancías entre Egipto, Mesopotamia, Anatolia y el valle del Indo.",
-    "imagenes": []
+    "imagenes": [],
+    "contextual": true
   },
   {
     "id": "persia-persepolis",

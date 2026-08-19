@@ -3,6 +3,13 @@ export interface BloquePosicionable {
   x: number;
   ancho: number;
   alto: number;
+  /**
+   * Los bloques contextuales (ver `BloqueEvento.contextual`) nunca ocupan
+   * las filas de arriba: se empaquetan aparte, debajo de todos los
+   * acontecimientos, para que la línea del carril se lea como una
+   * secuencia de hechos y no se mezcle con las fichas de contexto.
+   */
+  contextual?: boolean;
 }
 
 export interface BloqueUbicado<T> {
@@ -30,7 +37,15 @@ const GAP_VERTICAL = 28;
 export function empacarEnFilas<T>(
   items: (BloquePosicionable & { original: T })[],
 ): { ubicados: BloqueUbicado<T>[]; alturaTotal: number } {
-  const ordenados = [...items].sort((a, b) => a.x - b.x);
+  // Orden de empaquetado: primero los acontecimientos y después los
+  // contextuales. Como el greedy de abajo asigna cada bloque a la primera
+  // fila libre, basta con recorrerlos en ese orden y prohibir que un
+  // contextual entre en una fila que ya usó un acontecimiento.
+  const ordenados = [...items].sort(
+    (a, b) =>
+      Number(Boolean(a.contextual)) - Number(Boolean(b.contextual)) ||
+      a.x - b.x,
+  );
 
   // PASO 1: asignar cada bloque a una fila (greedy first-fit, igual que
   // antes), pero sin fijar todavía ningún `top`. Una fila ya creada puede
@@ -40,10 +55,14 @@ export function empacarEnFilas<T>(
   const finXPorFila: number[] = [];
   const altoPorFila: number[] = [];
   const filaDeItem: number[] = [];
+  // Filas que ya contienen algún acontecimiento: quedan vetadas para los
+  // bloques contextuales.
+  const filaConAcontecimiento: boolean[] = [];
 
   ordenados.forEach((item, idx) => {
     let filaElegida = -1;
     for (let i = 0; i < finXPorFila.length; i++) {
+      if (item.contextual && filaConAcontecimiento[i]) continue;
       if (item.x >= finXPorFila[i] + GAP_HORIZONTAL_MIN) {
         filaElegida = i;
         break;
@@ -54,7 +73,9 @@ export function empacarEnFilas<T>(
       filaElegida = finXPorFila.length;
       finXPorFila.push(-Infinity);
       altoPorFila.push(0);
+      filaConAcontecimiento.push(false);
     }
+    if (!item.contextual) filaConAcontecimiento[filaElegida] = true;
 
     finXPorFila[filaElegida] = item.x + item.ancho;
     altoPorFila[filaElegida] = Math.max(altoPorFila[filaElegida], item.alto);

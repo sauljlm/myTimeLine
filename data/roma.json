@@ -462,7 +462,8 @@
       "Plebeyos libres",
       "Libertos (esclavos liberados)",
       "Esclavos"
-    ]
+    ],
+    "contextual": true
   },
   {
     "id": "roma-trajano",
@@ -530,7 +531,8 @@
       "/images/roma/roma_megaciudad-1200x640-1_node-53-11.png",
       "/images/roma/roma_1366-2000-1_node-53-14.png",
       "/images/roma/roma_coliseo-romano-en-3d-1_node-53-15.png"
-    ]
+    ],
+    "contextual": true
   },
   {
     "id": "roma-galeno",
