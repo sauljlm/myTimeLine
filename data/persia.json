@@ -1,5 +1,25 @@
 [
   {
+    "id": "persia-zoroastrismo",
+    "region": "persia",
+    "tipo": "evento",
+    "titulo": "Zoroastrismo",
+    "fecha_inicio": -600,
+    "fecha_fin": null,
+    "descripcion_corta": "El zoroastrismo, fundado por el profeta Zoroastro (Zaratustra), fue la religión oficial de varias dinastías persas, incluyendo la de Ciro el Grande. Se basa en el culto a un único dios, Ahura Mazda, y en la idea de una lucha cósmica entre el bien y el mal en la que cada persona debe elegir libremente su bando. Algunos historiadores sostienen que conceptos como el cielo y el infierno, los ángeles y demonios, y el juicio final llegaron al judaísmo, al cristianismo y al islam a través del contacto con el zoroastrismo persa, especialmente durante el cautiverio judío en Babilonia.",
+    "imagenes": []
+  },
+  {
+    "id": "persia-ciro-el-grande",
+    "region": "persia",
+    "tipo": "evento",
+    "titulo": "Ciro el Grande y el Cilindro de Ciro",
+    "fecha_inicio": -559,
+    "fecha_fin": -530,
+    "descripcion_corta": "Ciro II, conocido como \"el Grande\", fundó el Imperio Persa aqueménida y llegó a gobernar el imperio más extenso que había existido hasta entonces. Tras conquistar Babilonia en 539 a. C., liberó a los judíos allí cautivos y les permitió regresar a Jerusalén, respetando además las tradiciones religiosas y administrativas de los pueblos conquistados en lugar de imponerles las costumbres persas. El Cilindro de Ciro, un documento en cuneiforme descubierto en 1879, registra estos actos de clemencia y algunos historiadores lo consideran la primera declaración de derechos humanos de la historia.",
+    "imagenes": []
+  },
+  {
     "id": "persia-imperio-persa",
     "region": "persia",
     "tipo": "evento",
@@ -16,17 +36,78 @@
       "/images/persia/persia_maxresdefault-1-1_node-71-112.png"
     ],
     "links": [
-      { "titulo": "Video de los persas", "url": "https://www.youtube.com/watch?v=9B8ryYMKj9k" }
+      {
+        "titulo": "Video de los persas",
+        "url": "https://www.youtube.com/watch?v=9B8ryYMKj9k"
+      }
     ]
   },
   {
-    "id": "persia-ciro-el-grande",
+    "id": "persia-inmortales",
     "region": "persia",
     "tipo": "evento",
-    "titulo": "Ciro el Grande y el Cilindro de Ciro",
-    "fecha_inicio": -559,
-    "fecha_fin": -530,
-    "descripcion_corta": "Ciro II, conocido como \"el Grande\", fundó el Imperio Persa aqueménida y llegó a gobernar el imperio más extenso que había existido hasta entonces. Tras conquistar Babilonia en 539 a. C., liberó a los judíos allí cautivos y les permitió regresar a Jerusalén, respetando además las tradiciones religiosas y administrativas de los pueblos conquistados en lugar de imponerles las costumbres persas. El Cilindro de Ciro, un documento en cuneiforme descubierto en 1879, registra estos actos de clemencia y algunos historiadores lo consideran la primera declaración de derechos humanos de la historia.",
+    "titulo": "Los Inmortales y el ejército persa",
+    "fecha_inicio": -540,
+    "fecha_fin": null,
+    "descripcion_corta": "El ejército aqueménida era un reflejo del imperio: contingentes de decenas de pueblos, cada uno con su armamento y su forma de combatir, coordinados por un mando persa. Su cuerpo de élite eran los llamados Inmortales, diez mil infantes cuyo número se mantenía siempre exacto porque cada baja se reemplazaba de inmediato, de ahí el nombre que les dio Heródoto. Iban armados con lanza, arco y un escudo de mimbre, y los relieves de Persépolis y los frisos de ladrillo vidriado de Susa los muestran con túnicas ricamente decoradas. La táctica persa se basaba en el tiro masivo de flechas para desorganizar al enemigo antes del choque, apoyado por caballería y, más tarde, carros falcados. Ese modelo funcionó frente a los ejércitos de Oriente, pero se estrelló contra la infantería pesada griega, cuyas corazas y escudos de bronce resistían mucho mejor las flechas en el combate cuerpo a cuerpo.",
+    "imagenes": [
+      "/images/persia/persia2_inmortales-persian-warriors-from-berlin-museum-jpg_wikimedia.jpg"
+    ]
+  },
+  {
+    "id": "persia-cambises-egipto",
+    "region": "persia",
+    "tipo": "evento",
+    "titulo": "Cambises conquista Egipto",
+    "fecha_inicio": -525,
+    "fecha_fin": null,
+    "descripcion_corta": "Cambises II, hijo de Ciro, completó en 525 a. C. la obra de su padre al vencer al faraón Psamético III en Pelusio e incorporar Egipto al imperio: los aqueménidas pasaron a gobernar desde el Indo hasta el Nilo. Cambises se hizo coronar faraón siguiendo el ritual egipcio y adoptó la titulatura tradicional, en la línea del pragmatismo religioso persa. La historiografía griega, y en particular Heródoto, lo retrató en cambio como un tirano enloquecido que se burló de los dioses egipcios y mató al buey sagrado Apis, un relato que las fuentes egipcias no confirman y que hoy se atribuye a la propaganda de sus sucesores. Murió en 522 a. C. cuando regresaba a sofocar una usurpación, y su muerte abrió una crisis sucesoria que resolvería Darío I.",
+    "imagenes": [
+      "/images/persia/persia2_cambises-12-manasses-chronicle-jpg_wikimedia.jpg"
+    ]
+  },
+  {
+    "id": "persia-vida-cotidiana",
+    "region": "persia",
+    "tipo": "evento",
+    "titulo": "Cómo vivía la gente",
+    "fecha_inicio": -520,
+    "fecha_fin": null,
+    "descripcion_corta": "El Imperio Persa fue notablemente tolerante con los pueblos conquistados: respetaba sus religiones, idiomas y costumbres locales a cambio de lealtad y tributo. La religión oficial era el zoroastrismo, centrado en el dios Ahura Mazda y la lucha entre el bien y el mal, aunque convivía con otras religiones del imperio, como el judaísmo (Ciro el Grande permitió el regreso de los judíos de su cautiverio en Babilonia y la reconstrucción del Templo de Jerusalén). La sociedad giraba en torno a la corte real, la nobleza guerrera y una amplia burocracia de escribas, con el arameo como lengua administrativa común entre pueblos que hablaban decenas de idiomas distintos.",
+    "imagenes": []
+  },
+  {
+    "id": "persia-behistun",
+    "region": "persia",
+    "tipo": "evento",
+    "titulo": "Darío I y la inscripción de Behistún",
+    "fecha_inicio": -520,
+    "fecha_fin": null,
+    "descripcion_corta": "Darío I llegó al trono en 522 a. C. tras eliminar a un usurpador, en circunstancias que sus enemigos consideraron un golpe de Estado. Para justificar su legitimidad mandó tallar en un acantilado de Behistún, a decenas de metros de altura y sobre la ruta que unía Babilonia y Ecbatana, un relieve gigantesco con su versión de los hechos: él mismo bajo la protección de Ahura Mazda, pisando al usurpador, con nueve reyes rebeldes atados por el cuello. El texto se repite en tres lenguas y escrituras —persa antiguo, elamita y acadio—, y esa triple versión lo convirtió en el equivalente mesopotámico de la piedra de Rosetta: gracias a ella, Henry Rawlinson logró en el siglo XIX descifrar la escritura cuneiforme, abriendo de golpe el acceso a miles de años de textos de Mesopotamia.",
+    "imagenes": [
+      "/images/persia/persia2_behistun-da-a9-d8-aa-db-8c-d8-a8-d9-87-d8-af-d8-a7-d8-_wikimedia.jpg"
+    ]
+  },
+  {
+    "id": "persia-qanat",
+    "region": "persia",
+    "tipo": "evento",
+    "titulo": "Los qanats: ingeniería del agua",
+    "fecha_inicio": -520,
+    "fecha_fin": null,
+    "descripcion_corta": "En una meseta árida donde la evaporación se lleva el agua de cualquier canal abierto, los persas resolvieron el problema bajo tierra. Un qanat es una galería subterránea de kilómetros de longitud, excavada con una pendiente mínima y precisísima, que capta el agua del acuífero al pie de las montañas y la conduce por gravedad hasta los campos y las ciudades, sin bombas y sin apenas pérdidas. A lo largo del trazado se abren pozos verticales cada pocas decenas de metros para extraer la tierra, ventilar y permitir el mantenimiento, y desde el aire dibujan hileras de cráteres características. Su construcción y reparto exigían una organización comunitaria estricta, con reglas de propiedad del agua muy elaboradas. La técnica permitió poblar zonas desérticas, se extendió con el imperio hasta Egipto, Arabia, el norte de África y España, y algunos qanats de más de dos mil años siguen dando agua hoy.",
+    "imagenes": [
+      "/images/persia/filo_qanat-insideqanat-jpg_wikimedia.jpg"
+    ]
+  },
+  {
+    "id": "persia-modelo-economico",
+    "region": "persia",
+    "tipo": "evento",
+    "titulo": "Modelo económico",
+    "fecha_inicio": -520,
+    "fecha_fin": null,
+    "descripcion_corta": "El imperio se dividía en provincias llamadas satrapías, cada una gobernada por un sátrapa que recaudaba tributos fijos en oro, plata o productos locales para la corona. Darío I estandarizó el sistema fiscal y acuñó el dárico, una moneda de oro que facilitó el comercio a larga distancia. Una extensa red de caminos, entre ellos el Camino Real de más de 2400 km entre Susa y Sardes, conectaba el imperio y permitía un servicio de correo rápido (los mensajeros del sistema angarium, antecesor de las postas), además de facilitar el movimiento de tropas y mercancías entre Egipto, Mesopotamia, Anatolia y el valle del Indo.",
     "imagenes": []
   },
   {
@@ -40,33 +121,123 @@
     "imagenes": []
   },
   {
-    "id": "persia-zoroastrismo",
+    "id": "persia-camino-real",
     "region": "persia",
     "tipo": "evento",
-    "titulo": "Zoroastrismo",
-    "fecha_inicio": -600,
+    "titulo": "El Camino Real y el correo del imperio",
+    "fecha_inicio": -515,
     "fecha_fin": null,
-    "descripcion_corta": "El zoroastrismo, fundado por el profeta Zoroastro (Zaratustra), fue la religión oficial de varias dinastías persas, incluyendo la de Ciro el Grande. Se basa en el culto a un único dios, Ahura Mazda, y en la idea de una lucha cósmica entre el bien y el mal en la que cada persona debe elegir libremente su bando. Algunos historiadores sostienen que conceptos como el cielo y el infierno, los ángeles y demonios, y el juicio final llegaron al judaísmo, al cristianismo y al islam a través del contacto con el zoroastrismo persa, especialmente durante el cautiverio judío en Babilonia.",
-    "imagenes": []
+    "descripcion_corta": "Gobernar un imperio de miles de kilómetros exigía moverse rápido, y Darío I construyó para ello el Camino Real: unos 2 500 km desde Susa hasta Sardes, en la costa del Egeo, con puentes, guarniciones y unas 111 postas donde había caballos de refresco y alojamiento. Un viajero normal tardaba unos noventa días en recorrerlo; los correos del rey, relevándose de posta en posta, lo cubrían en una semana. Heródoto describió a esos mensajeros con una frase que siglos después adoptaría el servicio postal de Estados Unidos: ni la nieve, ni la lluvia, ni el calor, ni la oscuridad los detienen. El sistema no solo servía para el correo: transportaba tropas, tributos e informes de los inspectores reales, los 'ojos y oídos del rey', que vigilaban a los sátrapas. Es el antecedente directo de las calzadas romanas y de todo sistema postal estatal.",
+    "imagenes": [
+      "/images/persia/persia2_caminoreal-map-achaemenid-empire-en-png_wikimedia.png"
+    ]
   },
   {
-    "id": "persia-vida-cotidiana",
+    "id": "persia-darico",
     "region": "persia",
     "tipo": "evento",
-    "titulo": "Cómo vivía la gente",
-    "fecha_inicio": -520,
+    "titulo": "El dárico y la economía imperial",
+    "fecha_inicio": -510,
     "fecha_fin": null,
-    "descripcion_corta": "El Imperio Persa fue notablemente tolerante con los pueblos conquistados: respetaba sus religiones, idiomas y costumbres locales a cambio de lealtad y tributo. La religión oficial era el zoroastrismo, centrado en el dios Ahura Mazda y la lucha entre el bien y el mal, aunque convivía con otras religiones del imperio, como el judaísmo (Ciro el Grande permitió el regreso de los judíos de su cautiverio en Babilonia y la reconstrucción del Templo de Jerusalén). La sociedad giraba en torno a la corte real, la nobleza guerrera y una amplia burocracia de escribas, con el arameo como lengua administrativa común entre pueblos que hablaban decenas de idiomas distintos.",
-    "imagenes": []
+    "descripcion_corta": "Darío I creó una moneda de oro de gran pureza, el dárico, y su equivalente en plata, el siclo, con la imagen del rey arquero. Fue una de las primeras monedas de curso verdaderamente internacional: su ley se mantuvo estable durante casi dos siglos, lo que la hizo aceptada mucho más allá de las fronteras del imperio. Solo el Gran Rey podía acuñar en oro; los sátrapas y las ciudades podían hacerlo en plata y bronce. Junto a la moneda, Darío reorganizó la fiscalidad: fijó para cada satrapía un tributo anual determinado, en metal o en especie, en lugar de las exigencias arbitrarias anteriores, y unificó pesos y medidas. Buena parte de ese oro se acumulaba en los tesoros de Susa y Persépolis en forma de lingotes, y allí lo encontró Alejandro doscientos años después: una cantidad tan enorme que, al ponerla en circulación, alteró los precios en todo el Mediterráneo.",
+    "imagenes": [
+      "/images/persia/persia2_darico-achaemenid-coin-daric-420bc-front-jpg_wikimedia.jpg"
+    ]
   },
   {
-    "id": "persia-modelo-economico",
+    "id": "persia-revuelta-jonia",
     "region": "persia",
     "tipo": "evento",
-    "titulo": "Modelo económico",
-    "fecha_inicio": -520,
+    "titulo": "La revuelta jonia",
+    "fecha_inicio": -499,
+    "fecha_fin": -493,
+    "descripcion_corta": "En 499 a. C. las ciudades griegas de Jonia, en la costa de Asia Menor, se sublevaron contra el dominio persa. Las movía el descontento con los tiranos locales impuestos por el Gran Rey y con la presión fiscal, y las encabezó Aristágoras de Mileto. Atenas y Eretria enviaron veinte naves de apoyo, y los rebeldes llegaron a incendiar Sardes, capital de la satrapía. La respuesta persa fue implacable: tras seis años de guerra, la flota jonia fue destruida en Lade y Mileto arrasada, su población deportada y su santuario incendiado. La revuelta fracasó, pero tuvo una consecuencia decisiva: dio a Darío I el motivo —y el pretexto— para intervenir en Grecia continental. Según Heródoto, el rey ordenó a un sirviente que le repitiera cada día durante la comida: 'Señor, acuérdate de los atenienses'. De ahí salieron las Guerras Médicas.",
+    "imagenes": [
+      "/images/persia/persia2_jonia-turkey-ancient-region-map-ionia-jpg_wikimedia.jpg"
+    ]
+  },
+  {
+    "id": "persia-jerjes",
+    "region": "persia",
+    "tipo": "evento",
+    "titulo": "Jerjes I y el peso del imperio",
+    "fecha_inicio": -486,
     "fecha_fin": null,
-    "descripcion_corta": "El imperio se dividía en provincias llamadas satrapías, cada una gobernada por un sátrapa que recaudaba tributos fijos en oro, plata o productos locales para la corona. Darío I estandarizó el sistema fiscal y acuñó el dárico, una moneda de oro que facilitó el comercio a larga distancia. Una extensa red de caminos, entre ellos el Camino Real de más de 2400 km entre Susa y Sardes, conectaba el imperio y permitía un servicio de correo rápido (los mensajeros del sistema angarium, antecesor de las postas), además de facilitar el movimiento de tropas y mercancías entre Egipto, Mesopotamia, Anatolia y el valle del Indo.",
-    "imagenes": []
+    "descripcion_corta": "Jerjes I heredó en 486 a. C. un imperio en su máxima extensión y también sus problemas. Empezó sofocando rebeliones en Egipto y en Babilonia, esta última con dureza: eliminó el título de rey de Babilonia y, según algunas fuentes, se llevó la estatua de oro de Marduk. Después organizó la mayor expedición militar vista hasta entonces contra Grecia, con un puente de barcos sobre el Helesponto y un canal excavado en la península de Athos para evitar los naufragios de la campaña anterior. Ganó en las Termópilas y quemó Atenas, pero la derrota naval de Salamina y la de Platea al año siguiente le obligaron a renunciar a Europa. Volcó entonces sus recursos en la construcción, ampliando Persépolis con la Puerta de Todas las Naciones y la sala de las Cien Columnas. Murió asesinado en una conjura palaciega en 465 a. C.",
+    "imagenes": [
+      "/images/persia/persia2_jerjes-national-museum-of-iran-darafsh-28784-29-jpg_wikimedia.jpg"
+    ]
+  },
+  {
+    "id": "persia-artajerjes-i",
+    "region": "persia",
+    "tipo": "evento",
+    "titulo": "Artajerjes I y la paz con Grecia",
+    "fecha_inicio": -465,
+    "fecha_fin": null,
+    "descripcion_corta": "Tras el fracaso en Grecia, Persia cambió de método: en lugar de invadir, financiar. Artajerjes I gobernó cuarenta años y consolidó esa estrategia. Hubo que sofocar antes una grave rebelión en Egipto apoyada por Atenas, que terminó con la destrucción de la flota ateniense; después, hacia 449 a. C., las fuentes griegas hablan de un acuerdo conocido como Paz de Calias, por el que Persia renunciaba a intervenir en el Egeo y Atenas a hacerlo en Asia Menor y Chipre. A partir de ahí, el oro persa fue mucho más eficaz que sus ejércitos: subvencionando a Esparta contra Atenas durante la Guerra del Peloponeso, y después a Atenas y Tebas contra Esparta, Persia mantuvo a los griegos divididos y debilitados durante casi un siglo sin librar apenas batallas.",
+    "imagenes": [
+      "/images/persia/persia2_artajerjes-relief-of-artaxerxes-i-2c-from-his-tomb-in-na_wikimedia.jpg"
+    ]
+  },
+  {
+    "id": "persia-diez-mil",
+    "region": "persia",
+    "tipo": "evento",
+    "titulo": "Los Diez Mil y la debilidad revelada",
+    "fecha_inicio": -401,
+    "fecha_fin": -399,
+    "descripcion_corta": "En 401 a. C. Ciro el Joven se rebeló contra su hermano Artajerjes II y reclutó unos diez mil mercenarios griegos para reforzar su ejército. En la batalla de Cunaxa, cerca de Babilonia, los griegos derrotaron a la parte del ejército real que tenían enfrente, pero Ciro murió en la carga y su causa se quedó sin objeto. Los mercenarios quedaron a más de mil kilómetros de casa, sin paga, sin guías y con sus generales asesinados durante una negociación. Eligieron nuevos jefes —entre ellos el ateniense Jenofonte— y se abrieron camino combatiendo por Armenia hasta el mar Negro; su grito al avistarlo, '¡Thálatta, thálatta!', cierra el relato que el propio Jenofonte escribió, la Anábasis. La retirada dejó una lección que Grecia no olvidó: un ejército griego podía atravesar el imperio persa de parte a parte. Filipo y Alejandro tomarían nota.",
+    "imagenes": [
+      "/images/persia/persia2_diezmil-expedition-of-the-ten-thousand-jpg_wikimedia.jpg"
+    ]
+  },
+  {
+    "id": "persia-paz-del-rey",
+    "region": "persia",
+    "tipo": "evento",
+    "titulo": "La Paz del Rey",
+    "fecha_inicio": -387,
+    "fecha_fin": null,
+    "descripcion_corta": "En 387 a. C., agotadas por décadas de guerras entre ellas, las ciudades griegas aceptaron un tratado dictado desde Susa: la Paz del Rey o de Antálcidas. Sus términos los fijó Artajerjes II y los impuso Esparta como garante: las ciudades griegas de Asia Menor y Chipre volvían a manos persas, y todas las demás quedaban 'autónomas', cláusula que en la práctica servía para disolver cualquier liga capaz de hacer sombra a Esparta. Fue la culminación de la política persa de intervenir en Grecia con oro y diplomacia en vez de con ejércitos: el Gran Rey, derrotado militarmente un siglo antes, se había convertido en árbitro de los asuntos griegos. Los propios autores griegos lo vivieron como una humillación, y esa sensación alimentó el discurso panhelénico de unirse contra Persia que Filipo de Macedonia aprovecharía después.",
+    "imagenes": [
+      "/images/persia/persia2_pazrey-king-27s-peace-387-bc-jpg_wikimedia.jpg"
+    ]
+  },
+  {
+    "id": "persia-artajerjes-iii",
+    "region": "persia",
+    "tipo": "evento",
+    "titulo": "Artajerjes III restaura el imperio",
+    "fecha_inicio": -358,
+    "fecha_fin": null,
+    "descripcion_corta": "A mediados del siglo IV el imperio parecía deshacerse: satrapías enteras en rebelión, Egipto independiente desde hacía sesenta años y una corte llena de conjuras. Artajerjes III, que llegó al trono en 358 a. C. eliminando a buena parte de su familia, revirtió esa deriva con una dureza extrema. Ordenó a los sátrapas disolver sus ejércitos de mercenarios, aplastó las revueltas de Fenicia —Sidón fue destruida— y en 343 a. C. reconquistó Egipto, poniendo fin a la última dinastía faraónica nativa. Por un momento el imperio volvió a tener la extensión de los tiempos de Darío. Pero el precio fue una corte gobernada por el miedo: el propio Artajerjes murió envenenado por su eunuco Bagoas, que hizo lo mismo con su sucesor. De esa cadena de asesinatos salió al trono Darío III, justo cuando Alejandro cruzaba a Asia.",
+    "imagenes": [
+      "/images/persia/persia2_artajerjes3-rock-relief-of-artaxerxes-iii-in-persepolis-j_wikimedia.jpg"
+    ]
+  },
+  {
+    "id": "persia-issos",
+    "region": "persia",
+    "tipo": "evento",
+    "titulo": "Alejandro invade el imperio",
+    "fecha_inicio": -334,
+    "fecha_fin": null,
+    "descripcion_corta": "En 334 a. C. Alejandro cruzó el Helesponto con unos 35 000 hombres y venció en el río Gránico a las fuerzas de los sátrapas de Asia Menor, que habían rechazado el consejo del mercenario griego Memnón de arrasar el terreno en vez de presentar batalla. Al año siguiente, en Issos, se enfrentó por primera vez al propio Darío III: pese a la superioridad numérica persa, el terreno estrecho impidió desplegarla, la carga de Alejandro apuntó directamente al centro donde estaba el rey y Darío huyó del campo, abandonando su tienda, su tesoro y a su familia. El famoso mosaico de Pompeya representa ese instante. Darío ofreció después la mitad del imperio y la mano de su hija a cambio de la paz; Alejandro respondió que no necesitaba que le dieran lo que ya podía tomar, y se dirigió primero a Fenicia y Egipto para asegurar la costa.",
+    "imagenes": [
+      "/images/persia/persia2_alejandro_p-battle-of-issus-mosaic-museo-archeologico-naz_wikimedia.jpg"
+    ]
+  },
+  {
+    "id": "persia-gaugamela",
+    "region": "persia",
+    "tipo": "evento",
+    "titulo": "Gaugamela y el fin del imperio aqueménida",
+    "fecha_inicio": -331,
+    "fecha_fin": null,
+    "descripcion_corta": "El 1 de octubre del 331 a. C., en la llanura de Gaugamela, Darío III presentó batalla en un terreno elegido y allanado por él mismo para desplegar su enorme ejército, su caballería y sus carros falcados. Alejandro avanzó en diagonal hacia la derecha, obligando al ala persa a seguirlo y a abrir un hueco en su propia línea; por ese hueco cargó en cuña la caballería de los Compañeros directamente hacia Darío, que volvió a huir. El imperio se derrumbó en meses: Babilonia y Susa se rindieron sin resistencia, y Persépolis fue tomada y su palacio incendiado en 330 a. C., un episodio que las fuentes discuten entre venganza calculada por la quema de Atenas y un impulso durante un banquete. Darío III murió asesinado por uno de sus propios sátrapas. Con él terminaban dos siglos de dominio aqueménida, el mayor imperio que había existido hasta entonces.",
+    "imagenes": [
+      "/images/persia/persia2_gaugamela-battle-of-gaugamela-jpg_wikimedia.jpg"
+    ]
   }
 ]
