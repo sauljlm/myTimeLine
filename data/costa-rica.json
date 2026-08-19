@@ -7,27 +7,57 @@
     "fecha_inicio": -10000,
     "fecha_fin": -7000,
     "descripcion_corta": "Primeros humanos en CR entre el 10 000 y 7000 AC. Eran Nomadas, recolectores...",
-    "imagenes": []
+    "imagenes": [
+      "/images/costa-rica/cr2_paleoindio-clovis-point-2c-11500-9000-bc-2c-sevier-count_wikimedia.jpg"
+    ]
   },
   {
-    "id": "costarica-sociedades-cacicales",
+    "id": "cr-paleoindio",
     "region": "costa-rica",
     "tipo": "evento",
-    "titulo": "Primeras sociedades casicales",
-    "fecha_inicio": -300,
-    "fecha_fin": 500,
-    "descripcion_corta": "Humanos dejan de ser nomadas, empiezan a crear primeras construcciones y a sembrar, empieza a aparecer las vacijas de cerámica",
-    "imagenes": []
+    "titulo": "Los cazadores paleoindios",
+    "fecha_inicio": -9500,
+    "fecha_fin": -8000,
+    "descripcion_corta": "Los primeros habitantes del territorio que hoy es Costa Rica fueron cazadores-recolectores que llegaron siguiendo la gran migración americana. En el valle de Turrialba, junto a la confluencia de los ríos Reventazón y Chitaría, se halló el yacimiento paleoindio más importante del país: puntas de proyectil de tipo Clovis y de 'cola de pescado', las dos grandes tradiciones del poblamiento americano, que aparecen juntas en muy pocos lugares del continente. Eran grupos pequeños y muy móviles que cazaban megafauna —mastodontes, perezosos gigantes, gliptodontes— y recolectaban frutos y raíces, en un paisaje aún afectado por el final de la última glaciación. Hallazgos más recientes en Siquirres han dado fechas de hace unos 12 000 años, lo que convierte a esa zona en uno de los asentamientos humanos más antiguos documentados de Centroamérica.",
+    "imagenes": [
+      "/images/costa-rica/cr2_arcaico-turrialba-volcano-cone-sept-2005-jpg_wikimedia.jpg"
+    ]
   },
   {
-    "id": "costarica-regiones-culturales",
+    "id": "cr-arcaico",
     "region": "costa-rica",
     "tipo": "evento",
-    "titulo": "Regiones culturales precolombinas",
-    "fecha_inicio": 300,
-    "fecha_fin": null,
-    "descripcion_corta": "El territorio de la actual Costa Rica se divide arqueológicamente en tres grandes regiones culturales: la Gran Nicoya (noroeste), donde predominó la cultura chorotega, de origen mesoamericano, con una sociedad jerárquica con reyes y una fuerte clase sacerdotal; la Región Central y Caribe, conocida por sus metates trípode con panel colgante decorados con figuras mitológicas; y la región del Diquís (Gran Chiriquí, sur del país), famosa por sus esferas de piedra y una economía diversificada basada en el maíz, la yuca, el cacao, la pesca y la caza. Las tres regiones mantuvieron contacto e intercambio tanto con Mesoamérica como con Sudamérica.",
-    "imagenes": []
+    "titulo": "El Arcaico: los primeros cultivos",
+    "fecha_inicio": -6000,
+    "fecha_fin": -2000,
+    "descripcion_corta": "Al desaparecer la megafauna y estabilizarse el clima, los grupos humanos cambiaron de estrategia: en lugar de perseguir grandes presas, se especializaron en recursos locales —venado, pecarí, pesca, moluscos, palmas, frutos— y empezaron a manipular las plantas que recolectaban. Este período Arcaico es el más difícil de rastrear porque dejó pocos restos duraderos, pero los estudios de polen y de fitolitos en sedimentos de lagunas muestran algo decisivo: ya hacia el 5000 a. C. hay señales de quema y despeje de bosque y de plantas cultivadas, entre ellas tubérculos como la yuca y el ñampí, y más tarde el maíz llegado desde el norte. Es un proceso lento, de milenios, en el que la agricultura no sustituye a la caza de golpe sino que la complementa hasta volverse dominante.",
+    "imagenes": [
+      "/images/costa-rica/cr2_maiz-zea-mays-blanco2-279-png_wikimedia.png"
+    ]
+  },
+  {
+    "id": "cr-primeras-aldeas",
+    "region": "costa-rica",
+    "tipo": "evento",
+    "titulo": "La cerámica y las primeras aldeas",
+    "fecha_inicio": -2000,
+    "fecha_fin": -500,
+    "descripcion_corta": "Entre el 2000 y el 500 a. C. aparecen en Costa Rica las primeras comunidades agrícolas estables, con la cerámica como su señal más visible. Los restos más antiguos se han encontrado en Guanacaste, y algo posteriores son los del valle de Turrialba. Vivían en aldeas pequeñas de casas circulares o rectangulares, cultivaban maíz, frijol, yuca y pejibaye, y molían el grano en metates de piedra, que con el tiempo se convertirían en verdaderas obras de arte talladas con cabezas de jaguar y aves. La cerámica les permitió cocer, almacenar y transportar alimentos, y para los arqueólogos es además el mejor instrumento de datación: sus formas y decoraciones cambian con rapidez y permiten distinguir regiones y contactos. Con el sedentarismo llegaron también los cementerios y las primeras diferencias claras de estatus entre las tumbas.",
+    "imagenes": [
+      "/images/costa-rica/cr2_ceramica-costa-rican-ceremonial-metate-walters-2009202_wikimedia.jpg"
+    ]
+  },
+  {
+    "id": "cr-jade",
+    "region": "costa-rica",
+    "tipo": "evento",
+    "titulo": "El jade: el bien más preciado",
+    "fecha_inicio": -500,
+    "fecha_fin": 700,
+    "descripcion_corta": "Durante más de mil años, el objeto de mayor prestigio en Costa Rica fue el jade. Se trabajaron jadeíta, nefrita, serpentina y otras piedras verdes para hacer colgantes planos con forma de hacha, aves de alas desplegadas —el llamado 'jade ave'—, figuras humanas y animales, que se llevaban al cuello como símbolo de rango y acompañaban al difunto en la tumba. La técnica era extraordinariamente laboriosa: sin metales, las piezas se cortaban con cuerdas y arena húmeda y se perforaban con taladros de caña, un trabajo de semanas o meses para un solo colgante. Costa Rica no tiene yacimientos de jadeíta conocidos que expliquen semejante volumen, así que la materia prima llegaba por intercambio de larga distancia, probablemente del valle del Motagua en Guatemala. El Museo del Jade de San José conserva la mayor colección de jade precolombino de América.",
+    "imagenes": [
+      "/images/costa-rica/cr2_jade-museo-del-jade-y-de-la-cultura-precolombina-2_wikimedia.jpg"
+    ]
   },
   {
     "id": "costarica-esferas-de-piedra",
@@ -37,7 +67,21 @@
     "fecha_inicio": -300,
     "fecha_fin": 300,
     "descripcion_corta": "En el delta del río Diquís, en el sur de Costa Rica, las sociedades cacicales tallaron cientos de esferas de piedra casi perfectas, con diámetros de entre 10 centímetros y 2.57 metros, y un peso que puede superar las 16 toneladas. Se estima que fueron colocadas entre el 300 a. C. y el 300 d. C. como objetos ideológicos, políticos y ceremoniales, posiblemente vinculados a la jerarquía social o la organización del espacio de las aldeas. Son consideradas únicas en el mundo por su tamaño, cantidad y precisión geométrica, y la UNESCO las declaró Patrimonio Mundial de la Humanidad en 2014.",
-    "imagenes": []
+    "imagenes": [
+      "/images/costa-rica/cr2_esferas-parque-de-las-esferas-de-costa-rica-jpg_wikimedia.jpg"
+    ]
+  },
+  {
+    "id": "costarica-sociedades-cacicales",
+    "region": "costa-rica",
+    "tipo": "evento",
+    "titulo": "Primeras sociedades casicales",
+    "fecha_inicio": -300,
+    "fecha_fin": 500,
+    "descripcion_corta": "Humanos dejan de ser nomadas, empiezan a crear primeras construcciones y a sembrar, empieza a aparecer las vacijas de cerámica",
+    "imagenes": [
+      "/images/costa-rica/cr2_ceramica-costa-rican-ceremonial-metate-walters-2009202_wikimedia.jpg"
+    ]
   },
   {
     "id": "costarica-vida-cotidiana",
@@ -47,7 +91,22 @@
     "fecha_inicio": 300,
     "fecha_fin": null,
     "descripcion_corta": "Las sociedades cacicales de Costa Rica se organizaban en cacicazgos: comunidades jerárquicas gobernadas por un cacique, con un consejo de ancianos y especialistas religiosos (chamanes). Vivían en aldeas de bohíos (viviendas circulares con techo de paja) agrupadas alrededor de la casa del cacique y áreas ceremoniales. Se dedicaban al cultivo de maíz, yuca, frijoles y tubérculos, complementado con caza, pesca y recolección. El jade, y más tarde el oro trabajado en la orfebrería, tenían un fuerte valor ceremonial y de estatus social: se usaban en collares y figuras que representaban animales considerados sagrados, como águilas, jaguares y cocodrilos.",
-    "imagenes": []
+    "imagenes": [
+      "/images/costa-rica/cr2_cacicazgos-museo-nacional-de-costa-rica-01-jpg_wikimedia.jpg"
+    ],
+    "contextual": true
+  },
+  {
+    "id": "cr-cacicazgos",
+    "region": "costa-rica",
+    "tipo": "evento",
+    "titulo": "Los cacicazgos complejos",
+    "fecha_inicio": 300,
+    "fecha_fin": 800,
+    "descripcion_corta": "Entre el 300 y el 800 d. C. las aldeas crecieron y la sociedad dejó de ser igualitaria. Aparecen los cacicazgos: unidades políticas encabezadas por un jefe hereditario que concentraba poder militar, religioso y económico sobre varios poblados. Se nota en el registro arqueológico de tres formas: los asentamientos se jerarquizan, con un centro principal rodeado de aldeas menores; los enterramientos se vuelven desiguales, con tumbas cargadas de jade, oro y cerámica fina frente a otras casi vacías; y aparecen obras colectivas —montículos, calzadas, muros— que exigen mano de obra coordinada. En esa época surge también una cerámica nueva, con figuras de animales incisas sobre engobe rojo. El cacique redistribuía bienes y organizaba fiestas y guerras, y su autoridad se apoyaba tanto en la fuerza como en el control de los objetos de prestigio.",
+    "imagenes": [
+      "/images/costa-rica/cr2_cacicazgos-museo-nacional-de-costa-rica-01-jpg_wikimedia.jpg"
+    ]
   },
   {
     "id": "costarica-modelo-economico",
@@ -57,6 +116,58 @@
     "fecha_inicio": 300,
     "fecha_fin": null,
     "descripcion_corta": "La economía se basaba en la agricultura de subsistencia y el intercambio de bienes entre comunidades. Costa Rica funcionó como una zona de contacto cultural entre Mesoamérica y la región andina de Sudamérica, por lo que su territorio recibió influencias de ambas áreas. El jade (que no existe naturalmente en Costa Rica y llegaba por intercambio desde Guatemala) y, después, el oro trabajado localmente se usaban como bienes de prestigio que circulaban entre las élites de distintos cacicazgos, más que como una moneda de uso cotidiano. Las rutas de intercambio conectaban las tierras altas centrales con la costa Caribe y el Pacífico.",
-    "imagenes": []
+    "imagenes": [
+      "/images/costa-rica/cr2_diquis-diquis-jpg_wikimedia.jpg"
+    ],
+    "contextual": true
+  },
+  {
+    "id": "costarica-regiones-culturales",
+    "region": "costa-rica",
+    "tipo": "evento",
+    "titulo": "Regiones culturales precolombinas",
+    "fecha_inicio": 300,
+    "fecha_fin": null,
+    "descripcion_corta": "El territorio de la actual Costa Rica se divide arqueológicamente en tres grandes regiones culturales: la Gran Nicoya (noroeste), donde predominó la cultura chorotega, de origen mesoamericano, con una sociedad jerárquica con reyes y una fuerte clase sacerdotal; la Región Central y Caribe, conocida por sus metates trípode con panel colgante decorados con figuras mitológicas; y la región del Diquís (Gran Chiriquí, sur del país), famosa por sus esferas de piedra y una economía diversificada basada en el maíz, la yuca, el cacao, la pesca y la caza. Las tres regiones mantuvieron contacto e intercambio tanto con Mesoamérica como con Sudamérica.",
+    "imagenes": [
+      "/images/costa-rica/cr2_nicoya-nicoya-peninsula-nasa-jpg_wikimedia.jpg"
+    ],
+    "contextual": true
+  },
+  {
+    "id": "cr-oro",
+    "region": "costa-rica",
+    "tipo": "evento",
+    "titulo": "La orfebrería del oro",
+    "fecha_inicio": 700,
+    "fecha_fin": 1500,
+    "descripcion_corta": "Hacia el año 700 d. C., el oro sustituyó al jade como principal símbolo de poder en Costa Rica, un cambio que refleja el giro de las relaciones culturales del país: menos influencia mesoamericana desde el norte y más de las tradiciones del área sur, Panamá y Colombia. Los orfebres dominaron la técnica de la cera perdida y trabajaron sobre todo la tumbaga, una aleación de oro y cobre que funde a menor temperatura y a la que se le devolvía el brillo dorado tratando la superficie con ácidos vegetales. Produjeron colgantes de ranas, águilas, felinos y chamanes con cabeza de animal, cascabeles y discos pectorales. Buena parte de esas piezas fue fundida por los europeos tras la conquista; lo que se conserva —más de 1 600 objetos en el Museo del Oro Precolombino de San José— procede en su mayoría de tumbas.",
+    "imagenes": [
+      "/images/costa-rica/cr2_oro-chaman-museo-del-oro-precolombino-cri-07-2019_wikimedia.jpg"
+    ]
+  },
+  {
+    "id": "cr-guayabo",
+    "region": "costa-rica",
+    "tipo": "evento",
+    "titulo": "Guayabo de Turrialba",
+    "fecha_inicio": 800,
+    "fecha_fin": 1400,
+    "descripcion_corta": "Guayabo, en las faldas del volcán Turrialba, es el sitio arqueológico más extenso excavado en Costa Rica. Estuvo ocupado desde alrededor del 1000 a. C. y vivió su apogeo entre el 700 y el 1400 d. C., cuando pudo albergar a unas 1 500 o 2 000 personas. Conserva montículos circulares de piedra sobre los que se levantaban viviendas de madera y paja, calzadas empedradas que se prolongan kilómetros hacia otras comunidades, escalinatas, tumbas y petroglifos como el llamado monolito del jaguar y el lagarto. Lo más notable es su sistema hidráulico: acueductos de piedra, abiertos y subterráneos, que captaban agua de manantiales y la distribuían por el poblado, y que siguen funcionando hoy. Fue abandonado hacia 1400, antes de la llegada de los europeos, por razones que todavía se discuten. Es Patrimonio Mundial de la Ingeniería.",
+    "imagenes": [
+      "/images/costa-rica/cr2_guayabo-monumento-nacional-guayabo-28slim-29-001-jpg_wikimedia.jpg"
+    ]
+  },
+  {
+    "id": "cr-pueblos-contacto",
+    "region": "costa-rica",
+    "tipo": "evento",
+    "titulo": "Los pueblos indígenas al final del período",
+    "fecha_inicio": 1400,
+    "fecha_fin": 1500,
+    "descripcion_corta": "Al cerrarse el período precolombino, el territorio costarricense estaba ocupado por pueblos diversos, sin ningún Estado unificado. En el noroeste, los chorotegas y nicoyas mantenían fuertes rasgos mesoamericanos: lengua, calendario, mercados y cultivo intensivo de maíz. En el Valle Central y el Caribe vivían pueblos de lengua chibcha —huetares, votos, suerres—, organizados en cacicazgos con jefes como el legendario Garabito. En el sur, en el delta del Diquís, los antepasados de bribris, cabécares y borucas, emparentados culturalmente con el norte de Panamá y Colombia. Se estima que la población total rondaba entre 300 000 y 400 000 personas. Los descendientes de esos pueblos siguen vivos: bribris, cabécares, ngäbes, borucas, malekus, huetares, chorotegas y térrabas conservan hoy territorios, lenguas y tradiciones propias.",
+    "imagenes": [
+      "/images/costa-rica/cr2_indigenas-bribripa-at-the-bribri-indigenous-community-i_wikimedia.jpg"
+    ]
   }
 ]
