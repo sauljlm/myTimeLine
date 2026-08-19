@@ -36,6 +36,18 @@
     ]
   },
   {
+    "id": "em-san-benito",
+    "region": "edad-media",
+    "tipo": "evento",
+    "titulo": "San Benito y los monasterios",
+    "fecha_inicio": 529,
+    "fecha_fin": null,
+    "descripcion_corta": "Hacia 529 Benito de Nursia fundó el monasterio de Montecasino y escribió una regla que cambiaría la vida religiosa de Occidente. Frente al ascetismo extremo de los ermitaños orientales, propuso una vida comunitaria moderada bajo la autoridad de un abad, con un horario que repartía el día entre la oración y el trabajo —ora et labora— e incluía también el estudio y la lectura. Esa insistencia en el trabajo manual e intelectual tuvo una consecuencia enorme e imprevista: los monasterios se convirtieron en los grandes centros de conservación del saber. En sus scriptoria los monjes copiaron a mano durante siglos los textos clásicos griegos y latinos que de otro modo se habrían perdido, y sus bibliotecas, escuelas, hospitales y talleres agrícolas fueron durante mucho tiempo la única infraestructura cultural estable de Europa. La regla benedictina se extendió por todo el continente y sigue vigente.",
+    "imagenes": [
+      "/images/edad-media/em2_benito-heiligenkreuz-st-benedict-jpg_wikimedia.jpg"
+    ]
+  },
+  {
     "id": "edadmedia-nacimiento-del-islam",
     "region": "edad-media",
     "tipo": "evento",
@@ -84,6 +96,18 @@
     ]
   },
   {
+    "id": "em-carlomagno",
+    "region": "edad-media",
+    "tipo": "evento",
+    "titulo": "Carlomagno y el Imperio carolingio",
+    "fecha_inicio": 800,
+    "fecha_fin": null,
+    "descripcion_corta": "El día de Navidad del año 800, el papa León III coronó a Carlomagno emperador en Roma. Por primera vez desde la caída de Roma en 476 volvía a haber un emperador en Occidente, y el gesto selló la alianza entre el poder franco y el papado que marcaría toda la Edad Media. Carlomagno había unificado a golpe de campañas casi toda Europa occidental: Galia, buena parte de Germania —tras treinta años de guerra contra los sajones—, el norte de Italia y la Marca Hispánica. Para gobernar ese territorio nombró condes, envió inspectores (missi dominici) y unificó moneda y pesos. Impulsó además el llamado renacimiento carolingio: trajo eruditos como Alcuino de York, fundó escuelas en catedrales y monasterios y promovió una letra clara y legible, la minúscula carolina, base de la tipografía que todavía usamos.",
+    "imagenes": [
+      "/images/edad-media/em2_carlomagno-louis-f-c3-a9lix-amiel-charlemagne-empereur-d_wikimedia.jpg"
+    ]
+  },
+  {
     "id": "edadmedia-castillos-fases-iniciales",
     "region": "edad-media",
     "tipo": "evento",
@@ -95,6 +119,18 @@
       "/images/edad-media/edadmedia_baja-edad-media-1-e1669820052308-1_node-180-28.png",
       "/images/edad-media/edadmedia_torre-de-londres-castillo-londres-170117120517001-1600x800-1_node-181-37.png",
       "/images/edad-media/edadmedia_foto1-4-1_node-181-38.png"
+    ]
+  },
+  {
+    "id": "edad-media-aljuarismi",
+    "region": "edad-media",
+    "tipo": "evento",
+    "titulo": "Al-Juarismi, el álgebra y la Casa de la Sabiduría",
+    "fecha_inicio": 820,
+    "fecha_fin": null,
+    "descripcion_corta": "Mientras Europa occidental atravesaba siglos de escasa actividad científica, Bagdad reunió en la Casa de la Sabiduría a eruditos de todo el mundo conocido para traducir al árabe y estudiar las obras griegas, persas e indias. Allí trabajó hacia el 820 Muhammad ibn Musa al-Juarismi. En su Compendio de cálculo por reintegración y comparación (al-yabr, de donde viene 'álgebra') presentó por primera vez un método sistemático y general para resolver ecuaciones lineales y cuadráticas, tratando el procedimiento como objeto de estudio en sí mismo y no como un truco para cada problema. Difundió además el sistema de numeración decimal indio con el cero, sin el cual el cálculo moderno sería impensable. La versión latina de su nombre, Algoritmi, dio origen a la palabra algoritmo. Junto a él, figuras como al-Razi, al-Biruni o Ibn al-Haytham —pionero del método experimental en óptica— hicieron de este período una de las grandes edades de oro de la ciencia.",
+    "imagenes": [
+      "/images/edad-media/filo_aljuarismi-madrid-ciudad-universitaria-2c-monumento-a-mu_wikimedia.jpg"
     ]
   },
   {
@@ -110,6 +146,18 @@
     ]
   },
   {
+    "id": "em-tratado-verdun",
+    "region": "edad-media",
+    "tipo": "evento",
+    "titulo": "El Tratado de Verdún",
+    "fecha_inicio": 843,
+    "fecha_fin": null,
+    "descripcion_corta": "El imperio de Carlomagno no sobrevivió a sus nietos. Tras años de guerra entre los hijos de Luis el Piadoso, en agosto de 843 el Tratado de Verdún lo repartió en tres: Carlos el Calvo se quedó con la parte occidental —germen de Francia—, Luis el Germánico con la oriental —germen de Alemania— y Lotario, que conservó el título imperial, con una franja central alargada que iba de los Países Bajos a Italia, la Lotaringia. Aquella división, hecha por motivos dinásticos y sin criterio geográfico o lingüístico, fijó buena parte del mapa europeo posterior, y la franja central se convirtió en territorio disputado entre franceses y alemanes durante los mil años siguientes, hasta las dos guerras mundiales. Los Juramentos de Estrasburgo, previos al tratado, son además el primer texto conservado en una lengua romance y en alemán antiguo.",
+    "imagenes": [
+      "/images/edad-media/em2_verdun-louis-the-pious-blessing-the-division-of-the-_wikimedia.jpg"
+    ]
+  },
+  {
     "id": "edadmedia-modelo-economico",
     "region": "edad-media",
     "tipo": "evento",
@@ -119,6 +167,18 @@
     "descripcion_corta": "La economía medieval temprana era mayormente agraria y de subsistencia, organizada en torno al feudo y al sistema señorial: la tierra pertenecía al señor, y los siervos la trabajaban a cambio de protección y una parte de la cosecha. Había poco comercio y casi no circulaba moneda fuera de las ciudades. A partir del siglo XI, el resurgimiento del comercio (sobre todo con el mundo islámico y Bizancio) y el crecimiento de las ciudades dieron lugar a una economía más monetaria: aparecieron las ferias comerciales, los primeros bancos italianos, y gremios de artesanos y comerciantes que regulaban precios, calidad y el acceso a los oficios. La peste negra (1346-1351), al matar entre un tercio y la mitad de la población europea, provocó escasez de mano de obra y aceleró el fin del sistema feudal, ya que los siervos sobrevivientes pudieron empezar a exigir salarios y mejores condiciones.",
     "imagenes": [
       "/images/edad-media/edadmedia_les-tr-s-riches-heures-du-duc-de-berry-mars_wikimedia.jpg"
+    ]
+  },
+  {
+    "id": "em-califato-cordoba",
+    "region": "edad-media",
+    "tipo": "evento",
+    "titulo": "El califato de Córdoba",
+    "fecha_inicio": 929,
+    "fecha_fin": null,
+    "descripcion_corta": "En 929 el emir Abderramán III se proclamó califa, rompiendo con la autoridad religiosa de Bagdad y convirtiendo al-Ándalus en un Estado plenamente soberano. Durante poco más de un siglo, Córdoba fue la ciudad más grande y refinada de Europa occidental: se le atribuyen cientos de miles de habitantes, alumbrado y pavimento en las calles principales, baños públicos, hospitales y una biblioteca que, según las crónicas, reunió cientos de miles de volúmenes bajo al-Hakam II, cuando en los monasterios cristianos se contaban por decenas. Allí convivieron —con desigualdades y tensiones, pero con una convivencia real— musulmanes, cristianos y judíos, y se tradujeron y comentaron textos griegos que después llegarían a Europa por Toledo. De ese esplendor quedan la mezquita de Córdoba y las ruinas de Medina Azahara. El califato se desintegró en 1031 en los reinos de taifas.",
+    "imagenes": [
+      "/images/edad-media/em2_cordoba-dirham-abd-al-rahman-iii-17494-jpg_wikimedia.jpg"
     ]
   },
   {
@@ -143,6 +203,30 @@
     "descripcion_corta": "A partir del siglo XI, una serie de innovaciones tecnológicas transformó la agricultura europea: el arado pesado (con ruedas y vertedera) permitió trabajar los suelos densos y húmedos del norte de Europa; la collera rígida para caballos (en vez de la correa que ahorcaba al animal si tiraba fuerte) multiplicó su capacidad de tiro; y el sistema de rotación de tres campos (dos cultivados, uno en descanso cada año) aumentó la superficie cultivada y mejoró el rendimiento de la tierra. Junto con la expansión de los molinos de agua y de viento para moler grano, estos avances impulsaron un notable crecimiento de la población y de las ciudades hacia el siglo XII.",
     "imagenes": [
       "/images/edad-media/edadmedia_three-field-system_wikimedia.svg"
+    ]
+  },
+  {
+    "id": "em-leif-erikson",
+    "region": "edad-media",
+    "tipo": "evento",
+    "titulo": "Los vikingos llegan a América",
+    "fecha_inicio": 1000,
+    "fecha_fin": null,
+    "descripcion_corta": "Casi cinco siglos antes que Colón, los nórdicos cruzaron el Atlántico saltando de isla en isla: Islandia, Groenlandia y, hacia el año 1000, una tierra al oeste que las sagas llaman Vinlandia. La expedición se atribuye a Leif Erikson, hijo de Erik el Rojo. Durante siglos se tomó por leyenda, hasta que en los años sesenta la excavación de L'Anse aux Meadows, en Terranova, sacó a la luz casas de turba, una fragua y objetos inequívocamente escandinavos; la datación de unos anillos de crecimiento en madera cortada allí sitúa la ocupación en el año 1021 con precisión asombrosa. El asentamiento fue pequeño y breve: demasiado lejos, demasiado pocos colonos y conflictos con los pueblos indígenas, a los que llamaron skrælings. Por eso, a diferencia del viaje de 1492, aquel contacto no cambió la historia de los dos continentes.",
+    "imagenes": [
+      "/images/edad-media/em2_vinlandia-leif-erikson-statue-2c-duluth-2815290644106-2_wikimedia.jpg"
+    ]
+  },
+  {
+    "id": "edad-media-avicena",
+    "region": "edad-media",
+    "tipo": "evento",
+    "titulo": "Avicena y el Canon de medicina",
+    "fecha_inicio": 1025,
+    "fecha_fin": null,
+    "descripcion_corta": "Ibn Sina, latinizado como Avicena (980–1037), fue médico, filósofo y astrónomo persa, y una de las mentes más influyentes del milenio. Su Canon de medicina, terminado hacia 1025, organizó en cinco libros todo el saber médico griego, persa y árabe: describió enfermedades y su diagnóstico, catalogó unos 760 fármacos, señaló el papel del agua y del aire contaminados en la transmisión de infecciones, distinguió la meningitis y planteó la necesidad de probar los medicamentos de forma controlada antes de aplicarlos. Traducido al latín, fue el manual de referencia en las universidades europeas hasta el siglo XVII. En filosofía intentó conciliar a Aristóteles con el islam y formuló una distinción que marcaría a toda la escolástica posterior: la que separa la esencia (lo que algo es) de la existencia (que ese algo sea).",
+    "imagenes": [
+      "/images/edad-media/filo_avicena-pursina-jpg_wikimedia.jpg"
     ]
   },
   {
@@ -194,6 +278,19 @@
     ]
   },
   {
+    "id": "edadmedia-castillos-perfeccionados",
+    "region": "edad-media",
+    "tipo": "evento",
+    "titulo": "Castillos 1100-1200",
+    "fecha_inicio": 1100,
+    "fecha_fin": 1200,
+    "descripcion_corta": "A lo largo de la Edad Media, los castillos se fueron perfeccionando con avances como murallas más gruesas, torres de flanqueo, puentes levadizos y fosos. Para el siglo XII y XIII, los castillos ya eran complejas fortalezas defensivas, capaces de resistir asedios prolongados y ataques con armas de sitio como catapultas y torres de asedio.",
+    "imagenes": [
+      "/images/edad-media/edadmedia_screenshot-2024-10-09-at-10-14-42-am-1_node-181-36.png",
+      "/images/edad-media/edadmedia_download-1_node-181-39.png"
+    ]
+  },
+  {
     "id": "edadmedia-fundacion-universidades",
     "region": "edad-media",
     "tipo": "evento",
@@ -206,16 +303,15 @@
     ]
   },
   {
-    "id": "edadmedia-castillos-perfeccionados",
+    "id": "em-gotico",
     "region": "edad-media",
     "tipo": "evento",
-    "titulo": "Castillos 1100-1200",
-    "fecha_inicio": 1100,
-    "fecha_fin": 1200,
-    "descripcion_corta": "A lo largo de la Edad Media, los castillos se fueron perfeccionando con avances como murallas más gruesas, torres de flanqueo, puentes levadizos y fosos. Para el siglo XII y XIII, los castillos ya eran complejas fortalezas defensivas, capaces de resistir asedios prolongados y ataques con armas de sitio como catapultas y torres de asedio.",
+    "titulo": "El gótico y las catedrales",
+    "fecha_inicio": 1144,
+    "fecha_fin": null,
+    "descripcion_corta": "En 1144 se consagró el nuevo coro de la abadía de Saint-Denis, junto a París, impulsado por el abad Suger: es el primer edificio que reúne todos los elementos del gótico. La combinación de arco apuntado, bóveda de crucería y arbotante permitió descargar el peso en puntos concretos en lugar de en muros macizos, y con ello elevar las naves a alturas inéditas y abrir los muros en enormes vidrieras. El cambio no fue solo técnico sino teológico: Suger creía que la luz coloreada acercaba al fiel a lo divino. En un siglo se levantaron Chartres, Notre-Dame, Reims, Amiens, León o Burgos, obras que ocupaban generaciones enteras y movilizaban a una ciudad completa. Frente al románico —de muros gruesos, ventanas pequeñas y aire de fortaleza—, el gótico refleja una Europa más rica, más urbana y más segura de sí misma.",
     "imagenes": [
-      "/images/edad-media/edadmedia_screenshot-2024-10-09-at-10-14-42-am-1_node-181-36.png",
-      "/images/edad-media/edadmedia_download-1_node-181-39.png"
+      "/images/edad-media/em2_gotico-saint-denis-2893-29-2c-basilique-saint-denis-_wikimedia.jpg"
     ]
   },
   {
@@ -231,6 +327,66 @@
     ]
   },
   {
+    "id": "edad-media-averroes",
+    "region": "edad-media",
+    "tipo": "evento",
+    "titulo": "Averroes y el regreso de Aristóteles",
+    "fecha_inicio": 1180,
+    "fecha_fin": null,
+    "descripcion_corta": "Ibn Rushd, conocido en Europa como Averroes (1126–1198), nació en Córdoba y fue juez, médico y el más importante comentarista de Aristóteles. Sus comentarios, tan minuciosos que en latín se le llamó sencillamente 'el Comentador', devolvieron a Europa un Aristóteles casi olvidado, a través de las traducciones hechas en Toledo y Sicilia del árabe al latín. Defendió que filosofía y religión son dos caminos verdaderos hacia la misma verdad, dirigidos a públicos distintos, y que el creyente formado tiene el deber de razonar; esa postura le valió el destierro temporal y la quema de parte de sus libros. En las universidades europeas sus tesis provocaron un terremoto intelectual: el averroísmo latino fue condenado varias veces, y buena parte del esfuerzo de Tomás de Aquino consistió precisamente en responderle.",
+    "imagenes": [
+      "/images/edad-media/filo_averroes-statue-of-averroes-in-c-c3-b3rdoba-2c-spain-j_wikimedia.jpg"
+    ]
+  },
+  {
+    "id": "edad-media-fibonacci",
+    "region": "edad-media",
+    "tipo": "evento",
+    "titulo": "Fibonacci y los números arábigos",
+    "fecha_inicio": 1202,
+    "fecha_fin": null,
+    "descripcion_corta": "Leonardo de Pisa, llamado Fibonacci (c. 1170–1240), se crió en el norte de África, donde su padre era funcionario comercial, y allí aprendió el sistema de numeración indoarábigo. En 1202 publicó el Liber abaci, con el que introdujo en Europa las diez cifras y el cero y mostró, con ejemplos de contabilidad, cambio de moneda, intereses y pesos, hasta qué punto facilitaban el cálculo frente a los números romanos, con los que multiplicar o dividir era una tortura. Los mercaderes italianos lo adoptaron enseguida, aunque algunas ciudades llegaron a prohibir las nuevas cifras por miedo al fraude. En ese mismo libro aparece, como un problema sobre la cría de conejos, la sucesión en que cada término es la suma de los dos anteriores (1, 1, 2, 3, 5, 8, 13...), que lleva su nombre y cuya razón tiende al número áureo.",
+    "imagenes": [
+      "/images/edad-media/filo_fibonacci-fibonacci2-jpg_wikimedia.jpg"
+    ]
+  },
+  {
+    "id": "em-gengis-kan",
+    "region": "edad-media",
+    "tipo": "evento",
+    "titulo": "Gengis Kan y el imperio mongol",
+    "fecha_inicio": 1206,
+    "fecha_fin": null,
+    "descripcion_corta": "En 1206 una asamblea de jefes nómadas proclamó a Temuyín como Gengis Kan, 'soberano universal', tras haber unificado a las tribus de la estepa. En pocas décadas, sus ejércitos crearon el mayor imperio terrestre continuo de la historia, desde el mar de China hasta Europa oriental. Su fuerza no era el número sino la organización: caballería ligera capaz de recorrer distancias enormes, arco compuesto disparado al galope, disciplina en unidades decimales, espionaje previo y una brutalidad calculada —ciudades enteras exterminadas— que empujaba a las siguientes a rendirse. Gengis Kan promulgó además un código, la Yasa, garantizó la tolerancia religiosa, adoptó la escritura uigur y promovió el comercio. Bajo la llamada Pax Mongolica, la Ruta de la Seda fue más segura que nunca, y por ella viajaron mercancías, ideas, la pólvora... y probablemente también la peste negra.",
+    "imagenes": [
+      "/images/edad-media/em2_gengis-yuanemperoralbumgenghisportrait-jpg_wikimedia.jpg"
+    ]
+  },
+  {
+    "id": "em-francisco-asis",
+    "region": "edad-media",
+    "tipo": "evento",
+    "titulo": "Francisco de Asís y las órdenes mendicantes",
+    "fecha_inicio": 1209,
+    "fecha_fin": null,
+    "descripcion_corta": "Hijo de un rico comerciante de telas, Francisco de Asís renunció públicamente a la herencia de su padre y eligió vivir de la limosna. En 1209 obtuvo del papa la aprobación de una regla brevísima basada en la pobreza absoluta, y con ella nació una forma nueva de vida religiosa: en vez de retirarse a un monasterio con tierras y rentas, los frailes mendicantes no poseían nada, vivían en las ciudades y predicaban en la calle en lengua vulgar. Casi al mismo tiempo Domingo de Guzmán fundó los dominicos, más orientados al estudio y a la predicación doctrinal. Ambas órdenes respondían a un problema real: una Iglesia rica y distante en una Europa que se estaba urbanizando, y en la que movimientos críticos considerados heréticos ganaban terreno. De esas órdenes salieron después los grandes maestros de las universidades, entre ellos Tomás de Aquino y Roger Bacon.",
+    "imagenes": [
+      "/images/edad-media/em2_francisco-san-francesco-jpg_wikimedia.jpg"
+    ]
+  },
+  {
+    "id": "em-navas-tolosa",
+    "region": "edad-media",
+    "tipo": "evento",
+    "titulo": "Las Navas de Tolosa",
+    "fecha_inicio": 1212,
+    "fecha_fin": null,
+    "descripcion_corta": "El 16 de julio de 1212, en Sierra Morena, un ejército cristiano formado por tropas de Castilla, Aragón y Navarra —convocadas como cruzada por el papa Inocencio III— derrotó al califa almohade Muhammad al-Nasir. La victoria rompió el equilibrio de fuerzas que se mantenía en la península desde hacía siglos: en las décadas siguientes cayeron Córdoba, Valencia y Sevilla, y al-Ándalus quedó reducido al reino nazarí de Granada, que sobreviviría como estado vasallo hasta 1492. Es uno de los pocos casos en que reyes cristianos peninsulares, habitualmente enfrentados entre sí, combatieron juntos. La batalla dejó también un símbolo: las cadenas que, según la tradición, protegían la tienda del califa y que Sancho VII de Navarra rompió, y que desde entonces figuran en el escudo de Navarra.",
+    "imagenes": [
+      "/images/edad-media/em2_navas-batalla-de-las-navas-de-tolosa-2c-por-francis_wikimedia.jpg"
+    ]
+  },
+  {
     "id": "edadmedia-magna-carta",
     "region": "edad-media",
     "tipo": "evento",
@@ -243,6 +399,18 @@
     ]
   },
   {
+    "id": "em-inquisicion",
+    "region": "edad-media",
+    "tipo": "evento",
+    "titulo": "La Inquisición",
+    "fecha_inicio": 1231,
+    "fecha_fin": null,
+    "descripcion_corta": "En 1231 el papa Gregorio IX creó un tribunal permanente dependiente directamente de Roma para perseguir la herejía, y lo puso en manos de las nuevas órdenes mendicantes, sobre todo los dominicos. El contexto era la expansión de movimientos como el catarismo en el sur de Francia, que la Iglesia ya había combatido con una cruzada. El procedimiento inquisitorial supuso una novedad jurídica ambivalente: el tribunal investigaba de oficio y buscaba la confesión como prueba reina, para lo que a partir de 1252 se autorizó la tortura bajo ciertos límites, aunque también introdujo el interrogatorio reglado, la constancia escrita de todo el proceso y la posibilidad de abjurar y recibir penitencia en lugar de castigo. La entrega al brazo secular para ejecutar a los relapsos fue el extremo. Siglos después, la Inquisición española, creada en 1478, sería una institución distinta, controlada por la Corona.",
+    "imagenes": [
+      "/images/edad-media/em2_inquisicion-gregory-ix-jpg_wikimedia.jpg"
+    ]
+  },
+  {
     "id": "edadmedia-invasion-mongola",
     "region": "edad-media",
     "tipo": "evento",
@@ -252,6 +420,42 @@
     "descripcion_corta": "Bajo el mando de Batu Kan y el general Subotai, nietos de Gengis Kan, los ejércitos mongoles invadieron Europa oriental. El 9 de abril de 1241 derrotaron a un ejército de caballeros polacos y alemanes en la batalla de Legnica, y dos días después aplastaron al ejército húngaro en la batalla de Mohi. Europa central quedó prácticamente indefensa ante un ejército mucho más numeroso, pero la muerte del gran kan Ogodei ese mismo diciembre obligó a los mongoles a retirarse hacia Asia para disputar la sucesión, salvando —más por esa casualidad que por una victoria militar europea— al resto de Europa occidental de una posible invasión.",
     "imagenes": [
       "/images/edad-media/edadmedia_1236-1242-mongol-invasions-of-europe_wikimedia.jpg"
+    ]
+  },
+  {
+    "id": "edad-media-tomas-aquino",
+    "region": "edad-media",
+    "tipo": "evento",
+    "titulo": "Tomás de Aquino y la escolástica",
+    "fecha_inicio": 1265,
+    "fecha_fin": null,
+    "descripcion_corta": "La escolástica fue el método de enseñanza y de investigación de las universidades medievales: plantear una cuestión, exponer los argumentos contrarios, responderlos y resolver razonando. Su figura mayor es Tomás de Aquino (1225–1274), fraile dominico y profesor en París. Cuando la llegada de Aristóteles por vía árabe amenazaba con romper la teología cristiana, Tomás hizo justo lo contrario de rechazarlo: lo integró, sosteniendo que fe y razón no pueden contradecirse porque ambas vienen de la misma fuente, y que la razón alcanza por sí sola muchas verdades. En la Summa Theologica, empezada hacia 1265, organizó ese proyecto en miles de artículos, incluidas sus cinco vías para demostrar racionalmente la existencia de Dios. Elaboró además una teoría de la ley natural que sigue siendo referencia en filosofía del derecho.",
+    "imagenes": [
+      "/images/edad-media/filo_aquino-st-thomas-aquinasfxd-png_wikimedia.png"
+    ]
+  },
+  {
+    "id": "edad-media-roger-bacon",
+    "region": "edad-media",
+    "tipo": "evento",
+    "titulo": "Roger Bacon y el método experimental",
+    "fecha_inicio": 1267,
+    "fecha_fin": null,
+    "descripcion_corta": "El franciscano inglés Roger Bacon (c. 1219–1292), apodado Doctor Mirabilis, defendió algo poco habitual en su tiempo: que la autoridad de los libros antiguos no basta y que el conocimiento de la naturaleza debe apoyarse en la observación, la experiencia (scientia experimentalis) y las matemáticas. En el Opus Maius, escrito hacia 1267 a petición del papa Clemente IV, trató de óptica, calendario, geografía y lenguas, estudió la refracción y el arco iris, describió el efecto de las lentes para corregir la vista y señaló con siglos de antelación el error acumulado del calendario juliano. Imaginó también carros sin animales que tirasen de ellos, máquinas voladoras y navíos submarinos. Su insistencia en comprobar en lugar de repetir lo anticipa como precursor del método científico, aunque su ciencia todavía convivía con la alquimia y la astrología.",
+    "imagenes": [
+      "/images/edad-media/filo_bacon-roger-bacon-statue-jpg_wikimedia.jpg"
+    ]
+  },
+  {
+    "id": "em-marco-polo",
+    "region": "edad-media",
+    "tipo": "evento",
+    "titulo": "Marco Polo y la Ruta de la Seda",
+    "fecha_inicio": 1271,
+    "fecha_fin": null,
+    "descripcion_corta": "En 1271 el joven veneciano Marco Polo partió con su padre y su tío hacia Oriente. Pasó unos veinticuatro años fuera, la mayor parte al servicio de Kublai Kan, nieto de Gengis y emperador de China, que según su relato lo empleó como enviado por todo el imperio. A su regreso, prisionero en Génova tras una batalla naval, dictó a un compañero de celda El libro de las maravillas. Su descripción de ciudades inmensas, del papel moneda, del carbón usado como combustible, del correo imperial y de la riqueza de Catay y Cipango resultó tan increíble que muchos lo tomaron por mentiroso; se cuenta que en su lecho de muerte respondió que no había contado ni la mitad de lo que vio. El libro se copió por toda Europa y despertó una fascinación duradera por Asia: un ejemplar anotado de puño y letra por Cristóbal Colón se conserva todavía en Sevilla.",
+    "imagenes": [
+      "/images/edad-media/em2_marcopolo-marco-polo-mosaic-from-palazzo-tursi-jpg_wikimedia.jpg"
     ]
   },
   {
@@ -288,6 +492,30 @@
     "descripcion_corta": "Un cambio climático abrupto —lluvias torrenciales y veranos fríos que marcaron el fin del \"óptimo climático medieval\"— arruinó las cosechas de gran parte de Europa entre 1315 y 1317, provocando una hambruna masiva que mató a un porcentaje significativo de la población y diezmó al ganado. La crisis, sumada a la desconfianza hacia gobiernos incapaces de responder, dejó a Europa debilitada justo antes de la Peste Negra, que llegaría tres décadas después y encontraría una población ya empobrecida y malnutrida.",
     "imagenes": [
       "/images/edad-media/edadmedia_great-famine_wikimedia.jpg"
+    ]
+  },
+  {
+    "id": "em-dante",
+    "region": "edad-media",
+    "tipo": "evento",
+    "titulo": "Dante y las lenguas vernáculas",
+    "fecha_inicio": 1321,
+    "fecha_fin": null,
+    "descripcion_corta": "Dante Alighieri terminó la Divina Comedia poco antes de morir en 1321. Escribió su viaje por el Infierno, el Purgatorio y el Paraíso no en latín, la lengua culta obligada, sino en el toscano que hablaba la gente, y defendió esa elección en un tratado: la lengua vulgar es capaz de la máxima altura literaria. La decisión fue revolucionaria y su éxito convirtió al toscano en la base del italiano moderno. La Comedia es a la vez una síntesis de todo el saber medieval —teología escolástica, cosmología ptolemaica, mitología clásica— y un ajuste de cuentas personal y político, con papas y enemigos suyos repartidos por los círculos del infierno. Dante escribía desde el destierro, condenado a muerte en su Florencia natal. Con él, y poco después con Petrarca, Boccaccio, Chaucer o el Arcipreste de Hita, las lenguas europeas modernas empiezan a tener literatura propia.",
+    "imagenes": [
+      "/images/edad-media/em2_dante-portrait-de-dante-jpg_wikimedia.jpg"
+    ]
+  },
+  {
+    "id": "edad-media-ockham",
+    "region": "edad-media",
+    "tipo": "evento",
+    "titulo": "Guillermo de Ockham y su navaja",
+    "fecha_inicio": 1323,
+    "fecha_fin": null,
+    "descripcion_corta": "El franciscano inglés Guillermo de Ockham (c. 1287–1347) es conocido sobre todo por el principio de economía que lleva su nombre: no hay que multiplicar los entes sin necesidad; entre dos explicaciones que dan cuenta de lo mismo, conviene quedarse con la más simple. Esa 'navaja' se convirtió en una herramienta básica del razonamiento científico. En filosofía defendió el nominalismo: los universales —'humanidad', 'blancura'— no existen como realidades independientes, son solo nombres con los que agrupamos individuos, lo único que de verdad existe. Con ello separó la teología, que pertenece a la fe, del conocimiento del mundo, que se obtiene por experiencia, resquebrajando la síntesis de Tomás de Aquino. Enfrentado al papa por la pobreza franciscana, fue acusado de herejía y huyó a la corte del emperador. Su pensamiento abrió camino a la ciencia moderna y a la separación entre razón y fe.",
+    "imagenes": [
+      "/images/edad-media/filo_ockham-william-of-ockham-png_wikimedia.png"
     ]
   },
   {
@@ -363,6 +591,18 @@
     ]
   },
   {
+    "id": "em-humanismo",
+    "region": "edad-media",
+    "tipo": "evento",
+    "titulo": "El humanismo y el primer Renacimiento",
+    "fecha_inicio": 1400,
+    "fecha_fin": null,
+    "descripcion_corta": "Desde finales del siglo XIV, en las ciudades italianas enriquecidas por el comercio y la banca, un grupo de estudiosos empezó a buscar en bibliotecas de monasterios los manuscritos olvidados de la Antigüedad. Petrarca rescató discursos de Cicerón; otros encontraron a Lucrecio, a Quintiliano o a Vitruvio. De ahí nació el humanismo: leer a los clásicos en su lengua original y sin los comentarios acumulados, aprender griego —que recibió un impulso decisivo con los eruditos llegados de Constantinopla—, y poner al ser humano, su educación y su capacidad, en el centro del interés. La caída de la Edad Media no fue un corte brusco: convivieron durante décadas la escolástica y el humanismo, las catedrales góticas y las cúpulas renacentistas. Pero con la imprenta de 1440 esos textos recuperados dejaron de ser un lujo de unos pocos y se difundieron por toda Europa.",
+    "imagenes": [
+      "/images/edad-media/em2_humanismo-da-vinci-vitruve-luc-viatour-jpg_wikimedia.jpg"
+    ]
+  },
+  {
     "id": "edadmedia-guerras-husitas",
     "region": "edad-media",
     "tipo": "evento",
@@ -423,6 +663,18 @@
     ]
   },
   {
+    "id": "em-reyes-catolicos",
+    "region": "edad-media",
+    "tipo": "evento",
+    "titulo": "Los Reyes Católicos",
+    "fecha_inicio": 1469,
+    "fecha_fin": null,
+    "descripcion_corta": "El matrimonio en 1469 de Isabel de Castilla y Fernando de Aragón unió las dos coronas principales de la península, aunque cada reino conservó sus leyes, cortes y moneda: fue una unión dinástica, no todavía un Estado único. Su reinado conjunto reforzó extraordinariamente el poder real frente a la nobleza: crearon la Santa Hermandad para controlar los caminos, sometieron las órdenes militares, profesionalizaron la administración con juristas formados en las universidades y reformaron la hacienda y el ejército. También impusieron una unidad religiosa forzada: instauraron la Inquisición española en 1478 bajo control de la Corona y decretaron en 1492 la expulsión de los judíos que no se convirtieran. Fue precisamente ese Estado reforzado el que pudo financiar la guerra de Granada y, el mismo año, el viaje de Colón.",
+    "imagenes": [
+      "/images/edad-media/em2_reyescat-ferdinand-of-aragon-2c-isabella-of-castile-jp_wikimedia.jpg"
+    ]
+  },
+  {
     "id": "edadmedia-colon-descubre-america",
     "region": "edad-media",
     "tipo": "evento",
@@ -432,6 +684,18 @@
     "descripcion_corta": "El 12 de octubre de 1492, tras más de dos meses de travesía financiada por los Reyes Católicos de España, el navegante genovés Cristóbal Colón llegó a una isla del Caribe (probablemente la actual Bahamas) creyendo haber alcanzado las Indias Orientales por una ruta occidental alternativa a la controlada por los otomanos tras la caída de Constantinopla. Aunque los vikingos ya habían llegado brevemente a América casi 500 años antes, el viaje de Colón inició el contacto sostenido entre Europa y el continente americano, desencadenando el llamado \"intercambio colombino\" de plantas, animales, enfermedades y personas entre ambos hemisferios, y el inicio de siglos de colonización europea. Este hito se usa convencionalmente para marcar el final de la Edad Media y el comienzo de la Edad Moderna.",
     "imagenes": [
       "/images/edad-media/edadmedia_john-vanderlyn-columbus-landing-at-guanahani-1492-wga24269_wikimedia.jpg"
+    ]
+  },
+  {
+    "id": "em-toma-granada",
+    "region": "edad-media",
+    "tipo": "evento",
+    "titulo": "La toma de Granada",
+    "fecha_inicio": 1492,
+    "fecha_fin": null,
+    "descripcion_corta": "El 2 de enero de 1492 el rey Boabdil entregó las llaves de Granada a los Reyes Católicos tras diez años de guerra. Con ello desaparecía el último Estado musulmán de la península ibérica, casi ocho siglos después del desembarco del 711. Las capitulaciones firmadas prometían a los granadinos conservar su religión, su lengua, sus bienes y sus costumbres; esas garantías se incumplieron en pocos años, con conversiones forzosas y revueltas que acabarían en la expulsión de los moriscos más de un siglo después. La caída de Granada tuvo además un efecto inmediato y decisivo: liberó recursos y prestigio a la Corona justo cuando un navegante genovés llevaba años insistiendo en su proyecto de llegar a las Indias por el oeste. Las capitulaciones con Colón se firmaron en Santa Fe, el campamento del asedio, apenas tres meses después.",
+    "imagenes": [
+      "/images/edad-media/em2_granada-la-rendici-c3-b3n-de-granada-pradilla-jpg_wikimedia.jpg"
     ]
   }
 ]
