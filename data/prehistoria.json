@@ -3,7 +3,7 @@
     "id": "prehistoria-primeros-hom-nidos-17",
     "region": "prehistoria",
     "tipo": "evento",
-    "titulo": "Ardipithecus - 4000 000 - 6000 000 AC",
+    "titulo": "Ardipithecus",
     "fecha_inicio": -6000000,
     "fecha_fin": null,
     "descripcion_corta": "Ardipithecus - 4000 000 - 6000 000 AC",
@@ -15,7 +15,7 @@
     "id": "prehistoria-primeros-hom-nidos-18",
     "region": "prehistoria",
     "tipo": "evento",
-    "titulo": "Australopithecusanamensis - 4 000 000  AC",
+    "titulo": "Australopithecus anamensis",
     "fecha_inicio": -4000000,
     "fecha_fin": null,
     "descripcion_corta": "Australopithecusanamensis - 4 000 000  AC",
@@ -27,7 +27,7 @@
     "id": "prehistoria-primeros-hom-nidos-19",
     "region": "prehistoria",
     "tipo": "evento",
-    "titulo": "Australopithecus afarensis - 3 600 000 AC",
+    "titulo": "Australopithecus afarensis",
     "fecha_inicio": -3600000,
     "fecha_fin": null,
     "descripcion_corta": "Australopithecus afarensis - 3 600 000 AC",
@@ -39,7 +39,7 @@
     "id": "prehistoria-paleolitico-0",
     "region": "prehistoria",
     "tipo": "evento",
-    "titulo": "Los humanos eran nómadas y se refugiaban en cuevas para protegerse del",
+    "titulo": "Nómadas, cuevas y el fuego",
     "fecha_inicio": -2500000,
     "fecha_fin": null,
     "descripcion_corta": "Los humanos eran nómadas y se refugiaban en cuevas para protegerse del frío y de los animales salvajes. El gran evento de este período fue el descubrimiento y control del fuego, además de la creacion de primeras herramientas o armas de piedras.\n\nAparición de los primeros homínidos: Surgimiento del género Homo, con especies como Homo habilis en África. Se asocian con las primeras herramientas líticas.\n\nIndustria lítica Olduvayense: Las primeras herramientas de piedra conocidas (choppers y lascas), utilizadas para cortar carne y procesar alimentos.",
@@ -141,6 +141,50 @@
     ]
   },
   {
+    "id": "pre-enterramientos",
+    "region": "prehistoria",
+    "tipo": "evento",
+    "titulo": "Los primeros enterramientos",
+    "fecha_inicio": -100000,
+    "fecha_fin": null,
+    "descripcion_corta": "Enterrar a un muerto no tiene ninguna utilidad práctica, y por eso los primeros enterramientos intencionados son una de las señales más claras de un cambio en la mente humana. Hace unos 100 000 años, en cuevas de Oriente Próximo como Qafzeh y Skhul, aparecen cuerpos colocados deliberadamente en fosas, en posición fetal y acompañados de objetos: herramientas, ocre rojo, en un caso una mandíbula de jabalí entre las manos. Los neandertales también enterraban a sus muertos, como muestra la cueva de Shanidar, en el Kurdistán iraquí, donde se encontraron restos de varios individuos, entre ellos un hombre que había sobrevivido años con un brazo amputado y ciego de un ojo, lo que implica que alguien lo cuidó. Que un grupo dedique esfuerzo a sus muertos y a sus inválidos habla de vínculos, de memoria y, probablemente, de las primeras ideas sobre lo que hay después de la muerte.",
+    "imagenes": [
+      "/images/prehistoria/pre2_enterramientos-3-shanidar-cave-2c-a-paleolithic-cave-in-brad_wikimedia.jpg"
+    ]
+  },
+  {
+    "id": "pre-blombos",
+    "region": "prehistoria",
+    "tipo": "evento",
+    "titulo": "Blombos: los primeros símbolos",
+    "fecha_inicio": -75000,
+    "fecha_fin": null,
+    "descripcion_corta": "En la cueva de Blombos, en la costa sur de Sudáfrica, se hallaron bloques de ocre de unos 75 000 años grabados con un patrón de rombos entrecruzados. No representan nada concreto ni sirven para cortar ni raspar: son marcas hechas a propósito, con un diseño repetido, es decir, símbolos. En el mismo yacimiento aparecieron conchas perforadas y desgastadas por el roce, usadas como cuentas de collar, y un taller para fabricar pintura con ocre, grasa y carbón dentro de conchas de abulón. Todo ello, decenas de miles de años antes del arte rupestre europeo, obligó a replantear la idea de que el pensamiento simbólico surgió de golpe en Europa hace 40 000 años. Los adornos personales, además, implican algo social: señalar quién es uno ante los demás, pertenecer a un grupo, marcar un estatus.",
+    "imagenes": [
+      "/images/prehistoria/pre2_blombos-localisation-blombos-jpg_wikimedia.jpg"
+    ]
+  },
+  {
+    "id": "prehistoria-revolucion-cognitiva",
+    "region": "prehistoria",
+    "tipo": "evento",
+    "titulo": "Revolución cognitiva",
+    "fecha_inicio": -70000,
+    "fecha_fin": -30000,
+    "descripcion_corta": "Entre hace unos 70 000 y 30 000 años, algo cambió profundamente en la mente humana: aparecieron el pensamiento abstracto, el lenguaje complejo, el comportamiento simbólico y la capacidad de cooperar en grupos grandes de desconocidos gracias a mitos, espíritus y creencias compartidas —ficciones colectivas que ningún otro animal puede crear. La evidencia arqueológica (pigmentos de ocre rojo, cuentas de conchas perforadas, cáscaras de huevo de avestruz grabadas con diseños geométricos) muestra que este pensamiento simbólico ya existía en algunas poblaciones de África incluso 100 000 años antes, lo que sugiere que fue un proceso gradual más que un cambio repentino. Esta capacidad de imaginar y compartir historias es, para muchos historiadores, lo que permitió a nuestra especie organizarse, cooperar a gran escala y terminar dominando al resto de especies humanas y animales.",
+    "imagenes": []
+  },
+  {
+    "id": "prehistoria-vida-cotidiana",
+    "region": "prehistoria",
+    "tipo": "evento",
+    "titulo": "Cómo vivía la gente",
+    "fecha_inicio": -50000,
+    "fecha_fin": null,
+    "descripcion_corta": "Durante la mayor parte de la Prehistoria, los humanos vivieron en pequeñas bandas nómadas de entre 20 y 50 personas, generalmente emparentadas entre sí, que se desplazaban según la disponibilidad de caza y recolección. La organización social era igualitaria: no existía una jerarquía formal ni acumulación de riqueza, y las decisiones solían tomarse por consenso o bajo el liderazgo informal de los miembros más experimentados. Había división del trabajo por sexo (los hombres solían dedicarse más a la caza mayor y las mujeres a la recolección y el cuidado de los niños, aunque con bastante variación entre grupos), pero no existía todavía la especialización de oficios que traería después la revolución agrícola. Con el Neolítico y la vida sedentaria, esta organización igualitaria dio paso a sociedades jerárquicas con jefes, sacerdotes y diferencias de estatus heredables.",
+    "imagenes": []
+  },
+  {
     "id": "prehistoria-paleolitico-9",
     "region": "prehistoria",
     "tipo": "evento",
@@ -157,20 +201,46 @@
     ]
   },
   {
-    "id": "prehistoria-revolucion-cognitiva",
+    "id": "pre-venus",
     "region": "prehistoria",
     "tipo": "evento",
-    "titulo": "Revolución cognitiva",
-    "fecha_inicio": -70000,
-    "fecha_fin": -30000,
-    "descripcion_corta": "Entre hace unos 70 000 y 30 000 años, algo cambió profundamente en la mente humana: aparecieron el pensamiento abstracto, el lenguaje complejo, el comportamiento simbólico y la capacidad de cooperar en grupos grandes de desconocidos gracias a mitos, espíritus y creencias compartidas —ficciones colectivas que ningún otro animal puede crear. La evidencia arqueológica (pigmentos de ocre rojo, cuentas de conchas perforadas, cáscaras de huevo de avestruz grabadas con diseños geométricos) muestra que este pensamiento simbólico ya existía en algunas poblaciones de África incluso 100 000 años antes, lo que sugiere que fue un proceso gradual más que un cambio repentino. Esta capacidad de imaginar y compartir historias es, para muchos historiadores, lo que permitió a nuestra especie organizarse, cooperar a gran escala y terminar dominando al resto de especies humanas y animales.",
-    "imagenes": []
+    "titulo": "Las venus paleolíticas",
+    "fecha_inicio": -28000,
+    "fecha_fin": null,
+    "descripcion_corta": "Entre hace 30 000 y 20 000 años, cazadores de toda Europa —desde los Pirineos hasta Siberia— tallaron pequeñas figuras femeninas en piedra, hueso y marfil, o las modelaron en arcilla cocida. Las llamamos venus, y la más famosa es la de Willendorf, de once centímetros. Comparten rasgos llamativos: pechos, vientre y caderas muy marcados, cara sin facciones y a menudo pies apenas esbozados. Que aparezcan formas tan parecidas a miles de kilómetros y durante milenios indica ideas compartidas en un mundo sin ciudades ni escritura. Sobre su significado se ha discutido mucho —diosas de la fertilidad, amuletos, autorretratos vistos desde arriba, muñecas rituales— y no hay respuesta segura. Junto a ellas apareció otro tipo de arte portátil: propulsores decorados, colgantes y huesos grabados con marcas que algunos interpretan como cómputos lunares.",
+    "imagenes": [
+      "/images/prehistoria/pre2_venus-venus-of-willendorf-frontview-retouched-2-jpg_wikimedia.jpg"
+    ]
+  },
+  {
+    "id": "pre-aguja",
+    "region": "prehistoria",
+    "tipo": "evento",
+    "titulo": "La aguja y la ropa cosida",
+    "fecha_inicio": -20000,
+    "fecha_fin": null,
+    "descripcion_corta": "La aguja con ojo, tallada en hueso o marfil, es uno de esos inventos modestos que cambian el alcance de una especie. Antes se podían atar pieles con tiras, pero coserlas permite ropa ajustada, con costuras cerradas: capas, calzado, mitones, prendas que aíslan de verdad. Las agujas más antiguas conocidas superan los 40 000 años en Siberia, y su uso se generaliza durante el Último Máximo Glacial, precisamente cuando el frío era más extremo. Sin ese abrigo habría sido imposible vivir en las estepas heladas del norte de Eurasia ni cruzar Beringia hacia América. La confección exigía además una cadena de trabajo especializada: raspar y curtir las pieles, cortarlas, perforar, coser con tendón. En algunos enterramientos aparecen miles de cuentas de marfil cosidas a la ropa, señal de que el vestido no solo protegía: también decía quién era quien lo llevaba.",
+    "imagenes": [
+      "/images/prehistoria/pre2_aguja-aiguilles-courbes-jpg_wikimedia.jpg"
+    ]
+  },
+  {
+    "id": "pre-perro",
+    "region": "prehistoria",
+    "tipo": "evento",
+    "titulo": "El perro: la primera domesticación",
+    "fecha_inicio": -15000,
+    "fecha_fin": null,
+    "descripcion_corta": "Miles de años antes que la oveja, la cabra o el trigo, los humanos domesticaron un depredador: el lobo. No hay una fecha única —los estudios genéticos y los restos arqueológicos discuten entre 15 000 y 30 000 años atrás— pero sí un proceso probable: los lobos menos temerosos se acercaban a los campamentos por los restos de comida, y esa tolerancia mutua fue seleccionando generación tras generación animales más dóciles, de hocico más corto y orejas caídas. La colaboración fue ventajosa para ambos: el perro aportaba olfato, velocidad, alerta ante depredadores y ayuda en la caza; recibía comida segura y protección. En el yacimiento de Oberkassel, en Alemania, se encontró un perro enterrado junto a dos personas hace unos 14 000 años, con signos de haber sido cuidado durante una enfermedad grave. Es la primera alianza entre dos especies de la historia.",
+    "imagenes": [
+      "/images/prehistoria/pre2_perro-canis-lupus-howling-on-glacial-erratic-jpg_wikimedia.jpg"
+    ]
   },
   {
     "id": "prehistoria-mesolitico-11",
     "region": "prehistoria",
     "tipo": "evento",
-    "titulo": "Mejora en las técnicas del trabajo de la piedra, en forma pulida y ast",
+    "titulo": "El Mesolítico: piedra pulida y primeros asentamientos",
     "fecha_inicio": -10000,
     "fecha_fin": null,
     "descripcion_corta": "Mejora en las técnicas del trabajo de la piedra, en forma pulida y astillada. Además, primeros vestigios de asentamientos poblacionales y de rituales funerarios en los que se pueden observar rasgos de diferenciación social. Temina la glaciacion wurm, por lo que la temperatura aumenta y se extinguen muchas especies como el dodo, el mamut y el dientes de sable.\nfiguras humanas, además de animales, pintadas en el interior de las cavernas. Las escenas muestran grupos de humanos practicando cacería o algún ritual.\nAgricultura incipie",
@@ -180,16 +250,6 @@
       "/images/prehistoria/prehistoria_descubre-el-fascinante-arte-mesolitico-una-mirada-al-pasado-_node-19-70.png",
       "/images/prehistoria/prehistoria_01-02-23-pinturas-1_node-19-69.png"
     ]
-  },
-  {
-    "id": "prehistoria-vida-cotidiana",
-    "region": "prehistoria",
-    "tipo": "evento",
-    "titulo": "Cómo vivía la gente",
-    "fecha_inicio": -50000,
-    "fecha_fin": null,
-    "descripcion_corta": "Durante la mayor parte de la Prehistoria, los humanos vivieron en pequeñas bandas nómadas de entre 20 y 50 personas, generalmente emparentadas entre sí, que se desplazaban según la disponibilidad de caza y recolección. La organización social era igualitaria: no existía una jerarquía formal ni acumulación de riqueza, y las decisiones solían tomarse por consenso o bajo el liderazgo informal de los miembros más experimentados. Había división del trabajo por sexo (los hombres solían dedicarse más a la caza mayor y las mujeres a la recolección y el cuidado de los niños, aunque con bastante variación entre grupos), pero no existía todavía la especialización de oficios que traería después la revolución agrícola. Con el Neolítico y la vida sedentaria, esta organización igualitaria dio paso a sociedades jerárquicas con jefes, sacerdotes y diferencias de estatus heredables.",
-    "imagenes": []
   },
   {
     "id": "prehistoria-modelo-economico",
@@ -202,10 +262,34 @@
     "imagenes": []
   },
   {
+    "id": "pre-gobekli-tepe",
+    "region": "prehistoria",
+    "tipo": "evento",
+    "titulo": "Göbekli Tepe: el templo anterior a la agricultura",
+    "fecha_inicio": -9600,
+    "fecha_fin": null,
+    "descripcion_corta": "En una colina del sureste de Turquía, hacia 9600 a. C., grupos de cazadores-recolectores levantaron recintos circulares con pilares de piedra en forma de T de hasta cinco metros y varias toneladas, tallados con relieves de zorros, serpientes, jabalíes, buitres y escorpiones. Es el conjunto monumental más antiguo conocido, unos 6 000 años anterior a Stonehenge y a las pirámides. Lo que lo hace desconcertante es la fecha: se construyó antes de la agricultura, la cerámica y las ciudades, por gente que todavía vivía de la caza y la recolección. Eso invirtió una idea muy asentada, la de que primero llega la agricultura, luego el excedente y solo después la religión monumental. Aquí parece haber ocurrido al revés: reunir a cientos de personas para construir y celebrar pudo ser precisamente lo que empujó a domesticar plantas para alimentarlas. Los propios constructores enterraron los recintos deliberadamente siglos después.",
+    "imagenes": [
+      "/images/prehistoria/pre2_gobekli-g-c3-b6bekli-tepe-2c-urfa-jpg_wikimedia.jpg"
+    ]
+  },
+  {
+    "id": "pre-catalhoyuk",
+    "region": "prehistoria",
+    "tipo": "evento",
+    "titulo": "Çatalhöyük, una de las primeras ciudades",
+    "fecha_inicio": -7400,
+    "fecha_fin": null,
+    "descripcion_corta": "Hacia 7400 a. C., en la llanura de Konya (Turquía), llegaron a vivir varios miles de personas en un asentamiento sin calles: las casas de adobe se apiñaban pared con pared y se entraba por el techo, mediante escaleras, caminando por las azoteas como si fueran plazas. No se ha encontrado ningún edificio que destaque como palacio o templo, ni diferencias claras de riqueza entre viviendas, lo que sugiere una sociedad sorprendentemente igualitaria. Cultivaban cereales y legumbres, criaban ovejas y ganado, y decoraban las paredes con pinturas de toros, buitres y escenas de caza, además de cráneos de uro empotrados en los muros. Enterraban a sus muertos bajo el suelo de las propias casas. Çatalhöyük muestra que la vida urbana empezó antes de que existieran reyes, escritura o Estado, y que ese modelo tan denso e igualitario fue solo uno de los caminos posibles.",
+    "imagenes": [
+      "/images/prehistoria/pre2_catalhoyuk-c3-87atalh-c3-b6y-c3-bck-2c-7400-bc-2c-konya-_wikimedia.jpg"
+    ]
+  },
+  {
     "id": "prehistoria-neolitico-12",
     "region": "prehistoria",
     "tipo": "evento",
-    "titulo": "La sociedad pasa de ser nomada a sedentaria, hay una gran evolucion en",
+    "titulo": "El Neolítico: de nómadas a sedentarios",
     "fecha_inicio": -6500,
     "fecha_fin": null,
     "descripcion_corta": "La sociedad pasa de ser nomada a sedentaria, hay una gran evolucion en la agricultura, domesticación de animales, Crecimiento de la población, División y diferenciación del trabajo, jerarquización social. creación de vasijas de cerámica. Se paso de una economía de subsistencia a una economía productiva.\n\nlos grupos de humanos comenzaron a intervenir en los ciclos naturales de las plantas y animales para su mejor aprovechamiento.\nEl origen de la ganadería está vinculado con la caza controlada. En principio, los grupos de cazadores-recolectores preservaban a los animales que se encontraban en edad reproductiva, para asegurarse el alimento futuro. Luego comenzaron a capturar animales y encerrarlos en corrales, para tener alimento disponible en caso de escasez.\n\nLa agricultura surgió a partir de la recolección cuando algunos grupos humanos empezaron a observar el crecimiento de las plantas, seleccionaron semillas, las plantaron y esperaron su crecimiento. Inicialmente, se practicaba de manera itinerante en terrenos generados por la quema y tala de bosques, pero el bajo rendimiento llevó a buscar tierras más fértiles, lo que dio lugar a los primeros campos de cultivo permanentes.\nEn distintas regiones, se desarrollaron diferentes cultivos:\nCercano Oriente: Trigo, cebada, mijo, lino, habas, vid, y olivo.\nChina: Arroz, algodón, mijo, y soja.\nMesoamérica: Calabaza, chiles, maíz, palta, y frijoles.\nAndes Centrales: Papa, mandioca, ají, calabaza, frijoles, lentejas, y algodón.\n\nDesarrollaron sistemas para almacenar la comida y construyeron chozas de planta redonda, semienterradas, con techos de ramas, juncos y pajas.\n\nMás tarde, con el desarrollo de los cultivos y la creación de rebaños de animales, el carácter estacional de la agricultura y el cuidado de la ganadería, llevó al establecimiento de una vida sedentaria de forma permanente. Estos primeros poblados, llamados aldeas, se establecieron en lugares fértiles, con acceso al agua y a las pasturas.\n\nMás tarde, con el desarrollo de los cultivos y la creación de rebaños de animales, el carácter estacional de la agricultura y el cuidado de la ganadería, llevó al establecimiento de una vida sedentaria de forma permanente. Estos primeros poblados, llamados aldeas, se establecieron en lugares fértiles, con acceso al agua y a las pasturas.\n\nLas aldeas estaban integradas por varias familias tenían sus rebaños de animales y sus campos de cultivo. Las familias cooperaban para la realización de tareas agrícolas, la defensa del poblado, la búsqueda de materiales y la construcción de viviendas y fortificaciones.\n El desarrollo de nuevas actividades económicas llevaron a la diferenciación de tareas y a la división del trabajo en oficios especializados, como la fabricación de herramientas, cerámicas, tejidos, y metales. Con el aumento de la producción de alimentos y la posibilidad de almacenar excedentes, las aldeas crecieron en población, lo que dio lugar a las primeras ciudades.\n\nEl crecimiento urbano provocó la jerarquización de la sociedad, con diferencias sociales según las tareas desempeñadas. Los comerciantes y artesanos tenían un estatus superior al de los campesinos, que producían los alimentos. Además, surgieron grupos dedicados exclusivamente a tareas políticas y religiosas, como sacerdotes y funcionarios, que ocupaban la cima de la escala social, encargándose del culto, la construcción de templos, la organización política, y la administración de los bienes de la comunidad.\n\nAdoraban las fuerzas de la naturaleza, especialmente a aquellos elementos que afectaban el desarrollo de la agricultura y la ganadería. El sol y la lluvia comenzaron a tener un lugar central en los ritos y las ceremonias religiosas.\nAdemás, crearon esculturas antropomorfas (de apariencia humana) con las que representaban a sus antepasados o a diferentes fuerzas que adoraban, como la fertilidad.\nDurante este periodo, el enterramiento de los muertos se convirtió en distintivo social entre los rituales de las diferentes poblaciones. Según las diferentes creencias, se inhumaba el cuerpo de diferentes maneras; por ejemplo, en el suelo rodeado de objetos de la vida cotidiana, o dentro de cestos o urnas de cerámica.\n\nEn Göbekli Tepe, Turquía, se encontró el santuario más antiguo del mundo.\n\nDurante el periodo Neolítico aparecieron los primeros monumentos megalíticos.",
@@ -225,7 +309,7 @@
     "id": "prehistoria-edad-de-los-metales-13",
     "region": "prehistoria",
     "tipo": "evento",
-    "titulo": "se dan los orígenes de la metalurgia del cobre, los principios de la v",
+    "titulo": "La Edad del Cobre",
     "fecha_inicio": -6000,
     "fecha_fin": null,
     "descripcion_corta": "se dan los orígenes de la metalurgia del cobre, los principios de la vida urbana en el Próximo Oriente (protourbanismo) y el desarrollo de las primeras sociedades complejas (con jerarquización social).\n\n\nEdad de cobre\n\nEl trabajo de metales para la creación de utensilios, herramientas para arar la tierra, decoración y joyas como accesorios.\nLa agricultura, que se incrementó y mejoró con el uso de herramientas de piedra y de metal, además de técnicas innovadoras como los canales de riego.\nEl descubrimiento de la mezcla de metales a través de la fundición de dos o más elementos. Así surgió el bronce, tras la fundición de cobre con estaño.\nEl uso de diversos metales, como el oro, la plata, el estaño y el plomo.\nLa invención de la rueda que data de fines del Neolítico y comienzos de la Edad de los Metales. Se estima que fue creada por los sumerios, la civilización más antigua del Cercano Oriente.\nLas tribus sedentarias que aumentaron en cantidad y en densidad de habitantes, lo que dio origen a los primeros núcleos urbanos.\nLa construcción de viviendas y otros tipos de edificaciones, como templos, espacios de almacenamiento de bienes o salas de uso común para la actividad artesanal.\nLa aparición de megalitos, con fines rituales o religiosos, que consistían en enormes bloques de piedra, erigidos mediante algún sistema complejo de elevación.\nEl inicio de la metalurgia como oficio, que se expandió de manera gradual y lenta por todo el mundo.\nLas primeras embarcaciones de troncos y, luego, con una especie de vela para ser impulsadas por el viento, lo que permitía transportar elementos pesados.\nLos tejidos con hilos simples.",
@@ -237,10 +321,46 @@
     ]
   },
   {
+    "id": "pre-ceramica",
+    "region": "prehistoria",
+    "tipo": "evento",
+    "titulo": "La cerámica y el almacenamiento",
+    "fecha_inicio": -5500,
+    "fecha_fin": null,
+    "descripcion_corta": "Con la vida sedentaria y la agricultura apareció un problema nuevo: qué hacer con la cosecha hasta la siguiente. La respuesta fue el almacenamiento, y con él los graneros, los silos y sobre todo la cerámica. Cocer arcilla para obtener recipientes duros e impermeables permitió guardar grano y aceite protegidos de la humedad y los roedores, hervir alimentos —lo que ablanda legumbres y cereales y aprovecha mejor sus nutrientes— y fermentar leche y bebidas. La cerámica tuvo además una consecuencia inesperada para nosotros: como se rompe pero no se descompone, sus fragmentos son el material más abundante en los yacimientos, y sus formas y decoraciones cambian con rapidez de una región a otra, así que los arqueólogos las usan como reloj y como mapa para fechar niveles y rastrear contactos entre pueblos. Guardar excedente, además, hizo posible algo decisivo: que hubiera riqueza acumulable, y con ella desigualdad.",
+    "imagenes": [
+      "/images/prehistoria/pre2_ceramica-asikli-hoyuk-sarah-c-murray-6176-jpg_wikimedia.jpg"
+    ]
+  },
+  {
+    "id": "pre-megalitos",
+    "region": "prehistoria",
+    "tipo": "evento",
+    "titulo": "Los megalitos",
+    "fecha_inicio": -4000,
+    "fecha_fin": -2000,
+    "descripcion_corta": "Desde el V milenio a. C., comunidades campesinas de la fachada atlántica europea empezaron a mover piedras de decenas de toneladas para levantar dólmenes, menhires, alineamientos y círculos: los megalitos. Los hay desde Portugal y Bretaña hasta Escandinavia y las islas británicas, y los más antiguos, como los de Carnac o los dólmenes portugueses, son anteriores a las pirámides de Egipto. La mayoría eran tumbas colectivas usadas durante generaciones, pero muchos conjuntos tienen además una orientación astronómica precisa: en Stonehenge el eje señala la salida del sol en el solsticio de verano, y en Newgrange, en Irlanda, un rayo de luz recorre el corredor únicamente en el solsticio de invierno. Levantarlos exigía coordinar a cientos de personas durante años sin Estado ni escritura, lo que dice mucho de la capacidad organizativa de aquellas sociedades y del papel que el calendario y los antepasados tenían en su vida.",
+    "imagenes": [
+      "/images/prehistoria/pre2_megalitos-stonehenge2007-07-30-jpg_wikimedia.jpg"
+    ]
+  },
+  {
+    "id": "pre-otzi",
+    "region": "prehistoria",
+    "tipo": "evento",
+    "titulo": "Ötzi, el hombre de los hielos",
+    "fecha_inicio": -3300,
+    "fecha_fin": null,
+    "descripcion_corta": "En 1991 dos excursionistas encontraron un cadáver asomando del hielo en los Alpes, entre Italia y Austria. Creyeron que era un montañero moderno; resultó tener unos 5 300 años. Ötzi es la momia natural más estudiada del mundo y ofrece algo único: una instantánea completa de una persona concreta del final del Neolítico. Vestía capa de hierba trenzada, abrigo de pieles cosidas, calzado aislante relleno de heno y un gorro de piel de oso. Llevaba un hacha de cobre casi puro —muy valiosa entonces—, un arco sin terminar, flechas, un cuchillo de sílex y un botiquín con hongos de propiedades medicinales. Sabemos qué comió en sus últimas horas, que sufría artrosis y parásitos intestinales, y que tenía sesenta tatuajes en puntos que coinciden con zonas doloridas. Y sabemos cómo murió: una punta de flecha alojada en el hombro le seccionó una arteria. Fue un asesinato.",
+    "imagenes": [
+      "/images/prehistoria/pre2_otzi-otzi-quinson-jpg_wikimedia.jpg"
+    ]
+  },
+  {
     "id": "prehistoria-edad-de-los-metales-14",
     "region": "prehistoria",
     "tipo": "evento",
-    "titulo": "Se caracterizó por el descubrimiento de la aleación como técnica para ",
+    "titulo": "La Edad del Bronce",
     "fecha_inicio": -3000,
     "fecha_fin": null,
     "descripcion_corta": "Se caracterizó por el descubrimiento de la aleación como técnica para fundir diferentes metales. Con la aleación del cobre con estaño, se dio origen al bronce, un metal más resistente. Apareció la vida urbana en varias poblaciones europeas y surgieron sociedades de jefatura.\n\nEdad de bronce",
@@ -252,7 +372,7 @@
     "id": "prehistoria-edad-de-los-metales-nota-aparte-16",
     "region": "prehistoria",
     "tipo": "evento",
-    "titulo": "La escritura surgió alrededor del año 3000 a",
+    "titulo": "La aparición de la escritura",
     "fecha_inicio": -3000,
     "fecha_fin": null,
     "descripcion_corta": "La escritura surgió alrededor del año 3000 a.C. en Mesopotamia y Egipto, con Mesopotamia posiblemente adelantándose un poco, dada la fecha de las tablillas de arcilla de Uruk (3300 a.C.). La inscripción más antigua de Egipto es la Paleta de Narmer, datada entre 3150 y 3050 a.C.\n\nEn China, la escritura aparece en los \"huesos oraculares\" de la civilización Shang (1200 a.C.), aunque signos más antiguos en cerámicas de la cultura Yangshao (5000-4000 a.C.) podrían ser precursores. \n\nEn Europa, la escritura lineal A de Creta data de 1750 a.C. y está relacionada con la escritura lineal B, usada en griego arcaico.\n\nEn América Central, la escritura olmeca, descubierta en los años 1990 y datada alrededor de 900 a.C., es la más antigua, antecediendo a la escritura jeroglífica maya.\n\nFechas clave para el origen de la escritura: Mesopotamia 3100 a.C., Egipto 3100-3000 a.C., Creta 1750 a.C., China 1200 a.C., América Central 900 a.C. Esto sugiere que la idea de la escritura se difundió gradualmente desde Mesopotamia a otras culturas.\n\nLeer más\n\nEl acontecimiento que marcó el fin de la prehistoria y el comienzo de la historia fue la creación del sistema de escritura, cuyos inicios se ubican en Mesopotamia y Egipto.",
