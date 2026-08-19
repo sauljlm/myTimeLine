@@ -244,7 +244,7 @@
       "orden_vertical": 7,
       "color": "var(--color-costa-rica)",
       "fecha_inicio": -10000,
-      "fecha_fin": 500,
+      "fecha_fin": 1500,
       "subperiodos": [
         {
           "nombre": "Primeros humanos en CR",
@@ -305,6 +305,96 @@
           "nombre": "Hegemonía y declive",
           "fecha_inicio": -404,
           "fecha_fin": -369
+        }
+      ]
+    },
+    {
+      "id": "norteamerica",
+      "nombre": "Norteamérica",
+      "orden_vertical": 8,
+      "color": "var(--color-norteamerica)",
+      "fecha_inicio": -13000,
+      "fecha_fin": 1900,
+      "subperiodos": [
+        {
+          "nombre": "Pueblos originarios",
+          "fecha_inicio": -13000,
+          "fecha_fin": 1600
+        },
+        {
+          "nombre": "Colonización europea",
+          "fecha_inicio": 1600,
+          "fecha_fin": 1776
+        },
+        {
+          "nombre": "Estados Unidos",
+          "fecha_inicio": 1776,
+          "fecha_fin": 1848
+        },
+        {
+          "nombre": "El Viejo Oeste",
+          "fecha_inicio": 1848,
+          "fecha_fin": 1900
+        }
+      ]
+    },
+    {
+      "id": "centroamerica",
+      "nombre": "Centroamérica y Mesoamérica",
+      "orden_vertical": 9,
+      "color": "var(--color-centroamerica)",
+      "fecha_inicio": -1600,
+      "fecha_fin": 1900,
+      "subperiodos": [
+        {
+          "nombre": "Preclásico (olmecas)",
+          "fecha_inicio": -1600,
+          "fecha_fin": -200
+        },
+        {
+          "nombre": "Clásico (mayas, Teotihuacán)",
+          "fecha_inicio": -200,
+          "fecha_fin": 900
+        },
+        {
+          "nombre": "Posclásico (toltecas, aztecas)",
+          "fecha_inicio": 900,
+          "fecha_fin": 1521
+        },
+        {
+          "nombre": "Colonia e independencia",
+          "fecha_inicio": 1521,
+          "fecha_fin": 1900
+        }
+      ]
+    },
+    {
+      "id": "suramerica",
+      "nombre": "Suramérica",
+      "orden_vertical": 10,
+      "color": "var(--color-suramerica)",
+      "fecha_inicio": -3500,
+      "fecha_fin": 1900,
+      "subperiodos": [
+        {
+          "nombre": "Civilizaciones tempranas",
+          "fecha_inicio": -3500,
+          "fecha_fin": -200
+        },
+        {
+          "nombre": "Culturas regionales",
+          "fecha_inicio": -200,
+          "fecha_fin": 1000
+        },
+        {
+          "nombre": "Estados andinos e Inca",
+          "fecha_inicio": 1000,
+          "fecha_fin": 1533
+        },
+        {
+          "nombre": "Colonia e independencia",
+          "fecha_inicio": 1533,
+          "fecha_fin": 1900
         }
       ]
     }

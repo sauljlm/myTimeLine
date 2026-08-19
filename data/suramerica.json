@@ -1,0 +1,266 @@
+[
+  {
+    "id": "sa-caral",
+    "region": "suramerica",
+    "tipo": "evento",
+    "titulo": "Caral, la ciudad más antigua de América",
+    "fecha_inicio": -3000,
+    "fecha_fin": -1800,
+    "descripcion_corta": "En el valle de Supe, al norte de Lima, se levantó hacia 3000 a. C. una ciudad con pirámides, plazas circulares hundidas y edificios residenciales: Caral, contemporánea de las primeras pirámides egipcias y de las ciudades sumerias. Su descubrimiento, confirmado por dataciones a finales de los años noventa, obligó a reescribir el origen de la civilización americana, que se creía mucho más reciente. Caral tiene además dos particularidades notables: no se han encontrado murallas, armas ni restos de violencia, y tampoco cerámica, pese a su complejidad. Su economía combinaba la agricultura de algodón, calabaza y frijol en el valle con la pesca en la costa, intercambiando redes de algodón por pescado seco. Allí apareció también un quipu, mucho más antiguo que los incas.",
+    "imagenes": [
+      "/images/suramerica/sa_caral-caral-15-jpg_wikimedia.jpg"
+    ]
+  },
+  {
+    "id": "sa-chavin",
+    "region": "suramerica",
+    "tipo": "evento",
+    "titulo": "Chavín de Huántar",
+    "fecha_inicio": -1200,
+    "fecha_fin": -400,
+    "descripcion_corta": "Chavín fue el primer gran horizonte cultural andino: no un imperio, sino un centro ceremonial cuya influencia artística y religiosa se extendió por buena parte del actual Perú entre el 1200 y el 400 a. C. Su templo, en un cruce de rutas entre la costa, la sierra y la selva, está recorrido por galerías subterráneas laberínticas donde se encuentra el Lanzón, un monolito de más de cuatro metros con una divinidad de colmillos de felino y cabellera de serpientes. Los estudios acústicos han mostrado que los conductos amplificaban y distorsionaban el sonido de las trompetas de caracol, y se han hallado restos del cactus San Pedro, alucinógeno: todo apunta a un culto basado en experiencias sensoriales dirigidas por sacerdotes.",
+    "imagenes": [
+      "/images/suramerica/sa_chavin-chav-c3-adn-de-hu-c3-a1ntar-jpg_wikimedia.jpg"
+    ]
+  },
+  {
+    "id": "sa-paracas-nazca",
+    "region": "suramerica",
+    "tipo": "evento",
+    "titulo": "Paracas y Nazca: textiles y líneas",
+    "fecha_inicio": -400,
+    "fecha_fin": 800,
+    "descripcion_corta": "En la costa desértica del sur del Perú, la cultura Paracas produjo los tejidos más extraordinarios de la América antigua: mantos funerarios de varios metros bordados con cientos de figuras y hasta 190 tonos distintos, conservados intactos por la sequedad del desierto, que envolvían fardos con momias en posición fetal. También practicó trepanaciones craneanas con supervivencia comprobada. Sus herederos, los nazca, trazaron en la pampa las célebres líneas: figuras de colibrí, mono, araña y ballena de hasta trescientos metros, hechas retirando las piedras oscuras de la superficie para descubrir el suelo claro. Solo se aprecian desde el aire o desde las colinas, y hoy se relacionan sobre todo con rituales del agua, recorridos en procesión en una de las regiones más áridas del planeta.",
+    "imagenes": [
+      "/images/suramerica/sa_nazca-l-c3-adneas-de-nazca-2c-nazca-2c-per-c3-ba-2c_wikimedia.jpg"
+    ]
+  },
+  {
+    "id": "sa-moche",
+    "region": "suramerica",
+    "tipo": "evento",
+    "titulo": "Los moche",
+    "fecha_inicio": 100,
+    "fecha_fin": 800,
+    "descripcion_corta": "En los valles de la costa norte, los moche construyeron enormes pirámides de adobe —la Huaca del Sol usó más de 130 millones de ladrillos— y una red de canales de riego que convirtió el desierto en tierra de cultivo, obras que exigían un poder estatal capaz de organizar el trabajo. Su cerámica es una de las más expresivas del mundo antiguo: los huacos retrato reproducen rostros individuales con verrugas, cicatrices y gestos, y otras piezas documentan enfermedades, oficios, animales, ceremonias y una franca sexualidad. Los murales de sus templos narran el Sacrificio: un ritual en el que guerreros vencidos en combates ceremoniales eran degollados y su sangre ofrecida a los dioses, una escena que la arqueología ha confirmado con esqueletos hallados en las plazas.",
+    "imagenes": [
+      "/images/suramerica/sa_moche-h-luna-frisorestaurado-lou-jpg_wikimedia.jpg"
+    ]
+  },
+  {
+    "id": "sa-senor-sipan",
+    "region": "suramerica",
+    "tipo": "evento",
+    "titulo": "El Señor de Sipán",
+    "fecha_inicio": 250,
+    "fecha_fin": null,
+    "descripcion_corta": "En 1987, el arqueólogo Walter Alva llegó a Sipán siguiendo la pista de unas piezas de oro que habían aparecido en el mercado negro y encontró, contra todo pronóstico, una tumba moche intacta: la de un gobernante enterrado hacia el 250 d. C. con orejeras de oro y turquesa, narigueras, pectorales de conchas spondylus, cetros y un tocado semicircular, acompañado de un jefe militar, un sacerdote, tres mujeres, un niño, un perro y dos llamas. Es el hallazgo intacto más rico de la arqueología americana, comparable en importancia al de Tutankamón, y demostró que las escenas rituales pintadas en la cerámica moche no eran mitología: retrataban a personas reales con esos mismos atuendos.",
+    "imagenes": [
+      "/images/suramerica/sa_sipan-se-c3-b1or-de-s-c3-adpan-reconstrucci-c3-b3n-_wikimedia.jpg"
+    ]
+  },
+  {
+    "id": "sa-tiahuanaco",
+    "region": "suramerica",
+    "tipo": "evento",
+    "titulo": "Tiahuanaco",
+    "fecha_inicio": 500,
+    "fecha_fin": 1000,
+    "descripcion_corta": "A casi 3 900 metros de altitud, junto al lago Titicaca, Tiahuanaco prosperó donde la agricultura parece imposible: lo consiguió con los suka kollus, campos elevados rodeados de canales de agua que absorbían el calor del día y lo liberaban de noche, protegiendo los cultivos de las heladas. Sus experimentos modernos han demostrado que rendían más que la agricultura actual de la zona. La ciudad destaca por una cantería asombrosa: bloques de decenas de toneladas encajados con precisión milimétrica y grapas de metal fundidas in situ, y monumentos como la Puerta del Sol, tallada en un solo bloque de andesita con el dios de los báculos. Su influencia religiosa llegó al norte de Chile y Argentina antes de que una larga sequía la desmantelara.",
+    "imagenes": [
+      "/images/suramerica/sa_tiahuanaco-zonnepoort-tiwanaku-jpg_wikimedia.jpg"
+    ]
+  },
+  {
+    "id": "sa-wari",
+    "region": "suramerica",
+    "tipo": "evento",
+    "titulo": "El imperio wari",
+    "fecha_inicio": 600,
+    "fecha_fin": 1000,
+    "descripcion_corta": "Contemporáneo de Tiahuanaco pero más al norte, Wari fue probablemente el primer imperio propiamente dicho de los Andes. A diferencia de los centros ceremoniales anteriores, se expandió militarmente y administró el territorio: fundó ciudades planificadas de trazado ortogonal como Pikillacta, con recintos rectangulares idénticos repetidos en cuadrícula, construyó una red de caminos y almacenes, y usó los quipus para llevar cuentas. Su sistema de terrazas agrícolas transformó las laderas andinas. Los incas, siglos después, heredaron buena parte de ese modelo —caminos, almacenes estatales, colonias de población trasladada— hasta el punto de que muchos tramos del camino inca se superponen a los wari.",
+    "imagenes": [
+      "/images/suramerica/sa_wari-pikillaqta-was-a-wari-28pre-inca-29-ceremonia_wikimedia.jpg"
+    ]
+  },
+  {
+    "id": "sa-chimu",
+    "region": "suramerica",
+    "tipo": "evento",
+    "titulo": "Chimú y Chan Chan",
+    "fecha_inicio": 900,
+    "fecha_fin": 1470,
+    "descripcion_corta": "El reino chimú heredó la costa norte de los moche y construyó Chan Chan, la mayor ciudad de adobe del mundo: veinte kilómetros cuadrados con diez grandes ciudadelas amuralladas, cada una construida por un rey y convertida en su mausoleo al morir, ya que el sucesor debía levantar la suya propia. Sus muros conservan frisos de peces, aves y redes en relieve. Los chimú fueron excelentes orfebres y llevaron el riego al extremo, con canales de decenas de kilómetros que unían valles enteros. En 1470 fueron conquistados por los incas, que se llevaron a sus artesanos al Cusco para que trabajaran allí el metal: buena parte de la orfebrería que los españoles fundieron después procedía de esa tradición costeña.",
+    "imagenes": [
+      "/images/suramerica/sa_chimu-photomontagechanchan-jpg_wikimedia.jpg"
+    ]
+  },
+  {
+    "id": "sa-muiscas",
+    "region": "suramerica",
+    "tipo": "evento",
+    "titulo": "Los muiscas y El Dorado",
+    "fecha_inicio": 1000,
+    "fecha_fin": 1537,
+    "descripcion_corta": "En el altiplano de la actual Colombia, los muiscas formaron una confederación de cacicazgos —el zipa de Bacatá y el zaque de Hunza a la cabeza— sin llegar a construir ciudades de piedra: su riqueza estaba en la sal, las esmeraldas, el algodón y sobre todo el oro. Su orfebrería en tumbaga alcanzó una finura extraordinaria, como muestra la balsa muisca del Museo del Oro de Bogotá, que representa la ceremonia que dio origen a la leyenda: el nuevo cacique se cubría de polvo de oro y se adentraba en la laguna de Guatavita para ofrendarlo. De ahí nació el mito de El Dorado, que arrastró a decenas de expediciones europeas por selvas y llanos durante dos siglos, casi siempre con final desastroso.",
+    "imagenes": [
+      "/images/suramerica/sa_muisca-museo-del-oro-2c-bogota-2824976759882-29-jpg_wikimedia.jpg"
+    ]
+  },
+  {
+    "id": "sa-pachacutec",
+    "region": "suramerica",
+    "tipo": "evento",
+    "titulo": "Pachacútec y la expansión inca",
+    "fecha_inicio": 1438,
+    "fecha_fin": 1471,
+    "descripcion_corta": "Hasta 1438 el Cusco era un señorío más entre muchos. Ese año, según la tradición, los chancas lo asediaron, el inca reinante huyó y su hijo Cusi Yupanqui asumió la defensa, venció y tomó el nombre de Pachacútec, 'el que transforma el mundo'. Con él y con su hijo Túpac Yupanqui, el Tahuantinsuyo pasó en menos de un siglo a extenderse por más de 4 000 km, desde el sur de Colombia hasta el centro de Chile, con unos diez o doce millones de habitantes. Su método combinaba la negociación —ofrecía a los señores locales conservar el rango a cambio de sumisión— con la guerra si se negaban, y el traslado de poblaciones enteras, los mitmaqkuna, para desactivar rebeliones. Reconstruyó además el Cusco con la cantería monumental que aún se ve.",
+    "imagenes": [
+      "/images/suramerica/sa_pachacutec-brooklyn-museum-pachacuti-2c-tenth-inca-2c-1-_wikimedia.jpg"
+    ]
+  },
+  {
+    "id": "sa-machu-picchu",
+    "region": "suramerica",
+    "tipo": "evento",
+    "titulo": "Machu Picchu",
+    "fecha_inicio": 1450,
+    "fecha_fin": null,
+    "descripcion_corta": "Construida hacia 1450, probablemente como residencia real y santuario de Pachacútec, Machu Picchu se alza sobre un filo de montaña a 2 430 metros, entre precipicios. Su interés técnico es tan grande como el paisajístico: cerca del 60 % de la obra está bajo tierra, en cimientos y capas de drenaje de grava que evitan que las lluvias torrenciales deslicen la ladera, y sus terrazas sostienen el terreno además de cultivar. Los muros principales están hechos con sillares encajados sin mortero, con esquinas ligeramente inclinadas hacia dentro que resisten los terremotos. Nunca fue encontrada por los españoles y quedó cubierta por la vegetación hasta que Hiram Bingham la dio a conocer al mundo en 1911, guiado por campesinos locales que la conocían de siempre.",
+    "imagenes": [
+      "/images/suramerica/sa_machupicchu-machu-picchu-2c-peru-282018-29-jpg_wikimedia.jpg"
+    ]
+  },
+  {
+    "id": "sa-quipu",
+    "region": "suramerica",
+    "tipo": "evento",
+    "titulo": "El quipu y la administración inca",
+    "fecha_inicio": 1460,
+    "fecha_fin": null,
+    "descripcion_corta": "Los incas gobernaron un imperio de millones de personas sin escritura alfabética, pero no sin registro: usaban quipus, conjuntos de cuerdas anudadas donde la posición del nudo indicaba unidades, decenas o centenas, y el color y la torsión codificaban la categoría de lo contado. Los quipucamayocs llevaban así el censo, los tributos, el contenido de los almacenes y los días de trabajo. Ese trabajo, la mita, era la base del sistema: cada comunidad debía aportar turnos de mano de obra para caminos, terrazas o ejército, y a cambio el Estado garantizaba comida en los años malos desde sus depósitos, los qollqas. Se discute todavía si algunos quipus registraban también relatos e historia; los españoles quemaron miles por considerarlos idolátricos.",
+    "imagenes": [
+      "/images/suramerica/sa_quipu-quipu-mkl-bd-13-1890-28128905524-29-jpg_wikimedia.jpg"
+    ]
+  },
+  {
+    "id": "sa-qhapaq-nan",
+    "region": "suramerica",
+    "tipo": "evento",
+    "titulo": "El Qhapaq Ñan, el camino inca",
+    "fecha_inicio": 1470,
+    "fecha_fin": null,
+    "descripcion_corta": "El sistema vial andino sumaba unos 30 000 kilómetros de caminos empedrados que atravesaban desierto, sierra y selva, con escalinatas talladas en la roca, calzadas elevadas sobre pantanos y puentes colgantes de fibra de ichu trenzada que se renovaban cada año por trabajo comunal. Cada cierto tramo había tambos —posadas con almacenes— y casetas para los chasquis, los correos que se relevaban a la carrera y podían llevar un mensaje del Cusco a Quito, 2 000 km, en unos siete días. Todo ello sin rueda ni animales de carga más allá de la llama. Los propios conquistadores, acostumbrados a los caminos europeos de su tiempo, escribieron que no habían visto nada igual; y fue ese camino el que les permitió avanzar tan rápido.",
+    "imagenes": [
+      "/images/suramerica/sa_caminoinca-qhapaq-c3-91an-sistema-vial-andino-png_wikimedia.png"
+    ]
+  },
+  {
+    "id": "sa-guerra-civil-inca",
+    "region": "suramerica",
+    "tipo": "evento",
+    "titulo": "La guerra entre Huáscar y Atahualpa",
+    "fecha_inicio": 1529,
+    "fecha_fin": 1532,
+    "descripcion_corta": "Hacia 1527, una epidemia —muy probablemente viruela, llegada desde Centroamérica años antes que los propios europeos— mató al inca Huayna Cápac y a su heredero designado. Sus dos hijos, Huáscar en el Cusco y Atahualpa en Quito, se disputaron el trono en una guerra civil brutal que duró cinco años y dejó el imperio dividido, con miles de muertos y regiones enteras resentidas. Atahualpa venció en 1532 y capturó a su hermano justo cuando un grupo de 168 extranjeros desembarcaba en la costa norte. Ese es el contexto que explica lo que vino después: los españoles no encontraron un imperio unido y en su apogeo, sino uno recién salido de una guerra fratricida y azotado por una enfermedad desconocida.",
+    "imagenes": [
+      "/images/suramerica/sa_guerracivil-brooklyn-museum-atahualpa-2c-fourteenth-inca-_wikimedia.jpg"
+    ]
+  },
+  {
+    "id": "sa-cajamarca",
+    "region": "suramerica",
+    "tipo": "evento",
+    "titulo": "La emboscada de Cajamarca",
+    "fecha_inicio": 1532,
+    "fecha_fin": null,
+    "descripcion_corta": "El 16 de noviembre de 1532, Atahualpa entró en la plaza de Cajamarca con miles de acompañantes desarmados, confiado, para entrevistarse con los recién llegados. Los españoles, escondidos en los edificios, atacaron por sorpresa con caballería, arcabuces y un cañón; en unas horas mataron a miles de personas en la plaza cerrada y capturaron al inca sin apenas bajas propias. Atahualpa ofreció entonces el rescate más famoso de la historia: llenar una habitación con oro y dos con plata. Lo cumplió —llegaron caravanas durante meses, fundidas después en lingotes—, y aun así fue juzgado y ejecutado por garrote en 1533. La captura del inca paralizó un imperio cuya estructura entera dependía de su persona.",
+    "imagenes": [
+      "/images/suramerica/sa_cajamarca-la-captura-de-atahualpa-juan-lepiani-1920s-pn_wikimedia.png"
+    ]
+  },
+  {
+    "id": "sa-caida-tahuantinsuyo",
+    "region": "suramerica",
+    "tipo": "evento",
+    "titulo": "La caída del Tahuantinsuyo",
+    "fecha_inicio": 1533,
+    "fecha_fin": null,
+    "descripcion_corta": "Francisco Pizarro entró en el Cusco en noviembre de 1533 y colocó en el trono a Manco Inca, hijo de Huayna Cápac, como gobernante títere. Como en México, la conquista se apoyó en aliados indígenas —los cañaris y los huancas, sometidos por los incas, vieron una oportunidad— y en las epidemias, que seguían diezmando la población. Manco Inca se rebeló en 1536 y llegó a sitiar el Cusco con decenas de miles de hombres durante casi un año, pero fracasó y se retiró a las montañas de Vilcabamba. Los propios conquistadores acabaron matándose entre ellos por el reparto del botín: Pizarro fue asesinado en Lima en 1541 por partidarios de su antiguo socio Diego de Almagro, a quien él mismo había ejecutado.",
+    "imagenes": [
+      "/images/suramerica/sa_pizarro-portrait-of-francisco-pizarro-jpg_wikimedia.jpg"
+    ]
+  },
+  {
+    "id": "sa-potosi",
+    "region": "suramerica",
+    "tipo": "evento",
+    "titulo": "El cerro de Potosí",
+    "fecha_inicio": 1545,
+    "fecha_fin": null,
+    "descripcion_corta": "En 1545 se descubrió en el Alto Perú, a más de 4 000 metros, una montaña de plata: el Cerro Rico de Potosí. En pocas décadas la ciudad a sus pies llegó a tener unos 160 000 habitantes, tantos como Londres o París en su tiempo, y su plata financió los ejércitos de la monarquía española, llegó a China por el galeón de Manila y contribuyó a la inflación europea del siglo XVI. De ahí viene la expresión 'vale un potosí'. El coste humano fue atroz: la mita minera obligaba a las comunidades indígenas a enviar turnos de trabajadores a los socavones y a los molinos de amalgama con mercurio, y las estimaciones de muertos a lo largo de los siglos se cuentan por cientos de miles, entre indígenas y esclavos africanos traídos para reemplazarlos.",
+    "imagenes": [
+      "/images/suramerica/sa_potosi-cerro-ricco-jpg_wikimedia.jpg"
+    ]
+  },
+  {
+    "id": "sa-vilcabamba",
+    "region": "suramerica",
+    "tipo": "evento",
+    "titulo": "Vilcabamba y el último inca",
+    "fecha_inicio": 1572,
+    "fecha_fin": null,
+    "descripcion_corta": "Tras el fracaso del cerco del Cusco, Manco Inca y sus sucesores mantuvieron durante treinta y seis años un Estado inca independiente en Vilcabamba, en la ceja de selva al noroeste del Cusco: con su propio ejército, sus templos y su corte, hostigando a los españoles desde las montañas. El virrey Toledo terminó con él en 1572: capturó al último inca, Túpac Amaru I, lo llevó al Cusco y lo decapitó en la plaza pública ante una multitud indígena que, según los cronistas, gimió de tal modo que hubo que ordenar silencio. Su ejecución cerró la resistencia organizada, pero abrió otra cosa: la creencia del Inkarrí, según la cual el cuerpo del inca se está recomponiendo bajo tierra y volverá algún día a restaurar el orden.",
+    "imagenes": [
+      "/images/suramerica/sa_vilcabamba-tupacamarui-jpg_wikimedia.jpg"
+    ]
+  },
+  {
+    "id": "sa-tupac-amaru-ii",
+    "region": "suramerica",
+    "tipo": "evento",
+    "titulo": "La rebelión de Túpac Amaru II",
+    "fecha_inicio": 1780,
+    "fecha_fin": 1781,
+    "descripcion_corta": "José Gabriel Condorcanqui, cacique de Tinta y descendiente de los incas, tomó el nombre de Túpac Amaru II y encabezó en 1780 la mayor rebelión anticolonial de América antes de las independencias. Empezó ejecutando a un corregidor especialmente odiado y exigiendo el fin de los repartos forzosos de mercancías y de la mita minera; llegó a movilizar a decenas de miles de personas por el sur andino y a poner en jaque al virreinato. Capturado en 1781, fue obligado a presenciar la ejecución de su familia y descuartizado en la plaza del Cusco. La represión posterior prohibió los retratos de incas, los trajes tradicionales y hasta los Comentarios reales del Inca Garcilaso: se intentó borrar toda memoria del pasado inca.",
+    "imagenes": [
+      "/images/suramerica/sa_tupacamaru2-rebeli-c3-b3n-de-tupac-amaru-2c-de-tadeo-esca_wikimedia.jpg"
+    ]
+  },
+  {
+    "id": "sa-san-martin",
+    "region": "suramerica",
+    "tipo": "evento",
+    "titulo": "San Martín y la campaña libertadora",
+    "fecha_inicio": 1817,
+    "fecha_fin": 1821,
+    "descripcion_corta": "José de San Martín entendió que la independencia de Argentina no estaría segura mientras Lima siguiera siendo el centro del poder español. Durante dos años preparó en Mendoza el Ejército de los Andes y en enero de 1817 cruzó la cordillera por pasos de más de 4 000 metros con unos 5 000 hombres, artillería y mulas, una operación logística comparable a la de Aníbal. Venció en Chacabuco y aseguró Chile en Maipú; después embarcó hacia el Perú y proclamó su independencia en Lima en 1821. Al año siguiente se entrevistó en Guayaquil con Bolívar, en una reunión a puerta cerrada de la que no quedó acta, y a su regreso renunció a todos sus cargos y se marchó a Europa, dejándole el mando de la guerra.",
+    "imagenes": [
+      "/images/suramerica/sa_sanmartin-jos-c3-a9-de-san-mart-c3-adn-28retrato-2c-c-1_wikimedia.jpg"
+    ]
+  },
+  {
+    "id": "sa-bolivar",
+    "region": "suramerica",
+    "tipo": "evento",
+    "titulo": "Bolívar y la Gran Colombia",
+    "fecha_inicio": 1819,
+    "fecha_fin": 1830,
+    "descripcion_corta": "Simón Bolívar dirigió la independencia del norte de Suramérica con una mezcla de audacia militar y proyecto político. En 1819 cruzó los Andes por el páramo de Pisba en plena estación de lluvias, con tropas llaneras y una legión británica, y sorprendió a los realistas en Boyacá, liberando Nueva Granada en una campaña de once semanas. Ese mismo año proclamó la Gran Colombia, que unía las actuales Colombia, Venezuela, Ecuador y Panamá, y después vinieron Carabobo y Pichincha. Su sueño de una confederación hispanoamericana chocó con los caudillos regionales y las rivalidades locales: la Gran Colombia se disolvió en 1830, el año de su muerte, cuando escribió amargamente que quien sirve una revolución ara en el mar.",
+    "imagenes": [
+      "/images/suramerica/sa_bolivar-sim-c3-b3n-bol-c3-advar-toro-moreno-2c-luis-1_wikimedia.png"
+    ]
+  },
+  {
+    "id": "sa-ayacucho",
+    "region": "suramerica",
+    "tipo": "evento",
+    "titulo": "Ayacucho y el fin del dominio español",
+    "fecha_inicio": 1824,
+    "fecha_fin": null,
+    "descripcion_corta": "El 9 de diciembre de 1824, en la pampa de Ayacucho, a 3 300 metros de altitud, el ejército patriota al mando de Antonio José de Sucre derrotó al del virrey La Serna, que le superaba en número y artillería. La batalla duró poco más de una hora y terminó con el virrey herido y prisionero y con una capitulación que entregaba todo el Perú. Fue el último gran enfrentamiento de las guerras de independencia continentales: con él, España perdió el control del territorio americano que había gobernado durante tres siglos, conservando solo Cuba y Puerto Rico. En las filas de ambos bandos combatieron sobre todo americanos, y el propio ejército patriota reunía a venezolanos, colombianos, peruanos, argentinos y chilenos.",
+    "imagenes": [
+      "/images/suramerica/sa_ayacucho-batalla-de-ayacucho-by-mart-c3-adn-tovar-y-to_wikimedia.jpg"
+    ]
+  }
+]

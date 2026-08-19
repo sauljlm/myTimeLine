@@ -1,0 +1,314 @@
+[
+  {
+    "id": "ca-olmecas",
+    "region": "centroamerica",
+    "tipo": "evento",
+    "titulo": "Los olmecas: la cultura madre",
+    "fecha_inicio": -1600,
+    "fecha_fin": -400,
+    "descripcion_corta": "En las tierras bajas y húmedas de la costa del Golfo, en los actuales Veracruz y Tabasco, surgió hacia 1600 a. C. la primera civilización compleja de Mesoamérica. Se la llama olmeca —nombre que les pusieron los aztecas siglos después, 'gente del país del hule'— y se la considera la cultura madre porque en ella aparecen por primera vez rasgos que después compartirán todos los pueblos de la región: los centros ceremoniales con pirámides de tierra, el juego de pelota, el culto al jaguar, el calendario, los primeros signos de escritura y la obsesión por el jade. Sin metales, sin animales de tiro y sin rueda para el transporte, organizaron el traslado de bloques de basalto de decenas de toneladas desde canteras a más de sesenta kilómetros.",
+    "imagenes": [
+      "/images/centroamerica/ca_olmecas-cabeza-colosal-n-c2-ba1-del-museo-xalapa-jpg_wikimedia.jpg"
+    ]
+  },
+  {
+    "id": "ca-cabezas-colosales",
+    "region": "centroamerica",
+    "tipo": "evento",
+    "titulo": "San Lorenzo y las cabezas colosales",
+    "fecha_inicio": -1200,
+    "fecha_fin": null,
+    "descripcion_corta": "San Lorenzo fue el primer gran centro olmeca, en su apogeo hacia 1200 a. C. De allí proceden varias de las diecisiete cabezas colosales conocidas: bloques de basalto de hasta tres metros y veinte toneladas, tallados con rostros individualizados, labios gruesos y un tocado ceñido que recuerda a un casco. No son dioses: cada una tiene rasgos propios, y se cree que retratan a gobernantes concretos. Se transportaron desde la sierra de los Tuxtlas probablemente en balsas por los ríos y arrastradas después sobre rodillos, un esfuerzo colectivo enorme que solo se explica con un poder capaz de movilizar a mucha gente. Varias fueron mutiladas y enterradas de forma deliberada, quizá al morir el personaje representado o al caer su linaje.",
+    "imagenes": [
+      "/images/centroamerica/ca_cabezas-san-lorenzo-monument-4-crop-jpg_wikimedia.jpg"
+    ]
+  },
+  {
+    "id": "ca-la-venta",
+    "region": "centroamerica",
+    "tipo": "evento",
+    "titulo": "La Venta",
+    "fecha_inicio": -900,
+    "fecha_fin": -400,
+    "descripcion_corta": "Cuando San Lorenzo declinó, el centro olmeca se desplazó a La Venta, en Tabasco, activa entre el 900 y el 400 a. C. Allí se levantó la Gran Pirámide, un montículo de arcilla de más de treinta metros que es una de las construcciones más antiguas de Mesoamérica, alineada junto con el resto del conjunto según un eje ligeramente desviado del norte, posiblemente por razones astronómicas. Su hallazgo más asombroso son las ofrendas enterradas: mosaicos gigantes de bloques de serpentina que forman máscaras de jaguar y que fueron cubiertos de tierra inmediatamente después de terminarlos, nunca pensados para ser vistos. También aparecieron figurillas de jade colocadas en escena, como los actores de una ceremonia detenida hace 2 500 años.",
+    "imagenes": [
+      "/images/centroamerica/ca_laventa-la-venta-pir-c3-a1mide-cara-sur-jpg_wikimedia.jpg"
+    ]
+  },
+  {
+    "id": "ca-monte-alban",
+    "region": "centroamerica",
+    "tipo": "evento",
+    "titulo": "Monte Albán y los zapotecas",
+    "fecha_inicio": -500,
+    "fecha_fin": 800,
+    "descripcion_corta": "Hacia 500 a. C., los zapotecas arrasaron la cima de una montaña en el valle de Oaxaca para construir sobre ella una ciudad: Monte Albán, una de las primeras auténticas ciudades de América. Su posición dominante sobre los tres brazos del valle y su enorme plaza central hablan de un Estado capaz de coordinar a decenas de miles de personas. Allí están los llamados Danzantes, más de trescientas losas con figuras humanas desnudas en posturas retorcidas que hoy se interpretan como enemigos sacrificados, acompañadas de glifos con nombres y fechas. Monte Albán llegó a tener unos 25 000 habitantes y dominó Oaxaca durante más de mil años antes de ser abandonada hacia el 800 d. C.",
+    "imagenes": [
+      "/images/centroamerica/ca_montealban-monte-alb-c3-a1n-archeological-site-2c-oaxaca_wikimedia.jpg"
+    ]
+  },
+  {
+    "id": "ca-escritura-calendario",
+    "region": "centroamerica",
+    "tipo": "evento",
+    "titulo": "La escritura y el calendario mesoamericano",
+    "fecha_inicio": -400,
+    "fecha_fin": null,
+    "descripcion_corta": "Mesoamérica es una de las poquísimas regiones del mundo donde la escritura se inventó de forma independiente. Los primeros textos aparecen entre olmecas y zapotecas hacia el 500 a. C., y con ellos un sistema de cómputo del tiempo que compartirían todos los pueblos de la región: dos calendarios simultáneos, uno ritual de 260 días y otro solar de 365, que al engranarse producen un ciclo de 52 años, la llamada rueda calendárica. Cada final de ciclo era un momento de angustia colectiva —había que renovar el fuego para que el mundo continuara—. Usaban además un sistema numérico vigesimal con puntos y barras que incluía un símbolo para el cero, siglos antes de que la idea llegara a Europa desde la India.",
+    "imagenes": [
+      "/images/centroamerica/ca_escritura_zapoteca-zapotecan-languages-png_wikimedia.png"
+    ]
+  },
+  {
+    "id": "ca-juego-pelota",
+    "region": "centroamerica",
+    "tipo": "evento",
+    "titulo": "El juego de pelota",
+    "fecha_inicio": -300,
+    "fecha_fin": null,
+    "descripcion_corta": "Se han encontrado más de 1 500 canchas de juego de pelota por toda Mesoamérica, desde Honduras hasta Arizona. Se jugaba con una pelota de hule macizo que podía pesar varios kilos, golpeándola con las caderas, los codos y las rodillas —nunca con las manos ni los pies— y protegiéndose con cinturones de cuero, rodilleras y guantes. Pero no era solo un deporte: el recorrido de la pelota representaba el movimiento del sol y la lucha entre el día y la noche, y el Popol Vuh maya narra cómo los héroes gemelos se enfrentan jugando a los señores del inframundo. Algunos partidos terminaban con el sacrificio de jugadores, aunque se discute si morían los perdedores o, como sugieren varios relieves, los vencedores, en un honor terrible.",
+    "imagenes": [
+      "/images/centroamerica/ca_juegopelota-tepantitla-mural-2c-ballplayer-b-cropped-jpg_wikimedia.jpg"
+    ]
+  },
+  {
+    "id": "ca-teotihuacan",
+    "region": "centroamerica",
+    "tipo": "evento",
+    "titulo": "Teotihuacán, la ciudad de los dioses",
+    "fecha_inicio": 100,
+    "fecha_fin": 550,
+    "descripcion_corta": "En el altiplano central creció la mayor ciudad de la América precolombina: entre 100 y 550 d. C., Teotihuacán llegó a tener entre 100 000 y 200 000 habitantes, comparable a las mayores ciudades del mundo en su tiempo. Estaba trazada con una retícula rigurosa en torno a la Calzada de los Muertos, con las pirámides del Sol y de la Luna y el templo de la Serpiente Emplumada, y con miles de conjuntos residenciales de varios cuartos donde vivían familias enteras, algunos de ellos barrios de zapotecas y de mayas. Su influencia y sus mercaderes llegaron hasta Tikal, a 1 000 km. Lo notable es lo que no se ha encontrado: ni retratos de reyes, ni tumbas reales, ni textos glorificando a un gobernante. No sabemos quién mandaba, ni siquiera cómo se llamaban a sí mismos: el nombre se lo dieron los aztecas siglos después de su incendio y abandono.",
+    "imagenes": [
+      "/images/centroamerica/ca_teotihuacan-za77-teotihuac-c3-a1n-edo-de-mex-herberto-de-_wikimedia.jpg"
+    ]
+  },
+  {
+    "id": "ca-mayas-clasico",
+    "region": "centroamerica",
+    "tipo": "evento",
+    "titulo": "El esplendor maya: el período Clásico",
+    "fecha_inicio": 250,
+    "fecha_fin": 900,
+    "descripcion_corta": "Entre el 250 y el 900 d. C., las tierras bajas de la actual Guatemala, Belice, Honduras y el sur de México se llenaron de ciudades-estado mayas: Tikal, Calakmul, Palenque, Copán, Yaxchilán, Caracol. Nunca formaron un imperio unificado, sino un mosaico de reinos rivales que competían, se aliaban por matrimonio y se hacían la guerra para capturar prisioneros de alto rango. Cada uno estaba gobernado por un k'uhul ajaw, un 'señor sagrado' que hacía de intermediario con los dioses y los antepasados mediante rituales de autosacrificio. Levantaron pirámides, palacios, observatorios y calzadas de piedra caliza, y desarrollaron una agricultura intensiva con campos elevados y terrazas capaz de sostener densidades de población altísimas en plena selva.",
+    "imagenes": [
+      "/images/centroamerica/ca_mayas-chichen-itza-cb-jpg_wikimedia.jpg"
+    ]
+  },
+  {
+    "id": "ca-escritura-maya",
+    "region": "centroamerica",
+    "tipo": "evento",
+    "titulo": "La escritura maya y la Cuenta Larga",
+    "fecha_inicio": 300,
+    "fecha_fin": null,
+    "descripcion_corta": "Los mayas desarrollaron el sistema de escritura más completo de América: unos 800 glifos que combinan signos de palabra y de sílaba, con los que podían escribir cualquier cosa que dijeran. Grabaron en estelas, dinteles, escalinatas y vasijas la historia de sus reyes: nacimientos, ascensos al trono, guerras, victorias y alianzas, siempre fechados. Para ello usaban la Cuenta Larga, un cómputo continuo de días desde un punto de partida en 3114 a. C. que permite convertir sus fechas a nuestro calendario con precisión de un día. Su desciframiento fue una odisea de más de un siglo: durante décadas se creyó que solo hablaban de astronomía, hasta que en los años sesenta y setenta se demostró que narraban historia política. De los miles de códices que existieron, los frailes quemaron casi todos: sobreviven cuatro.",
+    "imagenes": [
+      "/images/centroamerica/ca_escritura_maya-chinkultic-ball-player-jpg_wikimedia.jpg"
+    ]
+  },
+  {
+    "id": "ca-tikal",
+    "region": "centroamerica",
+    "tipo": "evento",
+    "titulo": "Tikal y las guerras entre ciudades",
+    "fecha_inicio": 400,
+    "fecha_fin": null,
+    "descripcion_corta": "Tikal, en el Petén guatemalteco, fue una de las mayores ciudades mayas, con quizá 60 000 habitantes y templos de más de sesenta metros que asoman sobre la selva. Su historia muestra hasta qué punto la política maya era compleja: en 378 d. C. llegó un personaje llamado Siyaj K'ak', vinculado a Teotihuacán, murió el rey local ese mismo día y la dinastía cambió de manos, un episodio que se ha leído como una intervención extranjera. Después Tikal sostuvo una rivalidad de siglos con Calakmul, que la rodeó de alianzas y llegó a derrotarla en 562, sumiéndola en un siglo y medio de silencio; su rey Jasaw Chan K'awiil la devolvió al primer plano venciendo a Calakmul en 695. Toda esa historia se conoce por sus propias estelas.",
+    "imagenes": [
+      "/images/centroamerica/ca_tikal-tikal-3-jpg_wikimedia.jpg"
+    ]
+  },
+  {
+    "id": "ca-palenque",
+    "region": "centroamerica",
+    "tipo": "evento",
+    "titulo": "Pakal y Palenque",
+    "fecha_inicio": 615,
+    "fecha_fin": 683,
+    "descripcion_corta": "K'inich Janaab' Pakal subió al trono de Palenque con doce años, en 615, y gobernó sesenta y ocho. Bajo su reinado y el de su hijo, la ciudad alcanzó una arquitectura insuperada: palacios con torre de observación, acueductos bajo el suelo, techos aligerados y relieves de estuco de una delicadeza casi renacentista. En 1952, Alberto Ruz levantó una losa del suelo del Templo de las Inscripciones y encontró una escalera interior tapiada que descendía veinticinco metros hasta la cámara funeraria de Pakal, con su sarcófago tallado, una máscara de mosaico de jade y los restos de cinco jóvenes sacrificados en la entrada. Fue el primer descubrimiento que demostró que las pirámides mayas también podían ser tumbas, como las egipcias.",
+    "imagenes": [
+      "/images/centroamerica/ca_palenque-palenque-collage-jpg_wikimedia.jpg"
+    ]
+  },
+  {
+    "id": "ca-copan",
+    "region": "centroamerica",
+    "tipo": "evento",
+    "titulo": "Copán y las estelas",
+    "fecha_inicio": 750,
+    "fecha_fin": null,
+    "descripcion_corta": "En el extremo sureste del mundo maya, en la actual Honduras, Copán destacó por la calidad de su escultura: estelas talladas casi en bulto redondo, con retratos de sus reyes cubiertos de símbolos, y una Escalinata de los Jeroglíficos de sesenta y tres peldaños con más de 2 200 glifos, el texto maya más largo que se conserva. Su decimotercer rey, Dieciocho Conejo, gran mecenas de esas obras, fue capturado y decapitado en 738 por el gobernante de Quiriguá, una ciudad vasalla mucho menor: un desastre del que Copán tardó décadas en recuperarse. Los estudios de los esqueletos de sus últimos siglos muestran desnutrición y enfermedad crecientes, una de las pistas sobre lo que vendría después.",
+    "imagenes": [
+      "/images/centroamerica/ca_copan-copan-sculpture-jpg_wikimedia.jpg"
+    ]
+  },
+  {
+    "id": "ca-colapso-maya",
+    "region": "centroamerica",
+    "tipo": "evento",
+    "titulo": "El colapso del sur maya",
+    "fecha_inicio": 900,
+    "fecha_fin": null,
+    "descripcion_corta": "Entre el 800 y el 950 d. C., una tras otra, las grandes ciudades del sur maya dejaron de erigir estelas, abandonaron sus palacios y perdieron a la mayor parte de su población. No fue un final repentino ni uniforme, y la explicación tampoco es única: hoy se combina una serie de sequías severas documentadas en los sedimentos de los lagos, la deforestación y el agotamiento de los suelos por una agricultura intensiva, y una guerra endémica entre reinos que consumía recursos y hombres. La población no desapareció: se desplazó al norte de Yucatán, donde ciudades como Chichén Itzá y Uxmal vivieron su apogeo después. Los mayas nunca se extinguieron —hoy hay más de seis millones—; lo que colapsó fue un modelo político concreto.",
+    "imagenes": [
+      "/images/centroamerica/ca_colapso-tulumcatherwood1844-jpg_wikimedia.jpg"
+    ]
+  },
+  {
+    "id": "ca-chichen-itza",
+    "region": "centroamerica",
+    "tipo": "evento",
+    "titulo": "Chichén Itzá",
+    "fecha_inicio": 950,
+    "fecha_fin": 1200,
+    "descripcion_corta": "Chichén Itzá dominó el norte de Yucatán cuando el sur ya se había hundido, y su arquitectura mezcla lo maya con elementos del centro de México —serpientes emplumadas, chacmooles, columnatas—, prueba de contactos intensos con los toltecas. Su edificio más conocido, El Castillo, es un calendario de piedra: sus cuatro escalinatas de 91 peldaños más la plataforma superior suman 365, y en los equinoccios la sombra de las esquinas dibuja el cuerpo de una serpiente que baja hasta la cabeza esculpida en la base. Tiene además la mayor cancha de juego de pelota de Mesoamérica y el Cenote Sagrado, un pozo natural de sesenta metros de diámetro del que se han recuperado ofrendas de oro, jade, copal y restos humanos arrojados como sacrificio a los dioses de la lluvia.",
+    "imagenes": [
+      "/images/centroamerica/ca_chichen-kukulk-c3-a1n-rodeada-de-azul-jpg_wikimedia.jpg"
+    ]
+  },
+  {
+    "id": "ca-toltecas",
+    "region": "centroamerica",
+    "tipo": "evento",
+    "titulo": "Tula y los toltecas",
+    "fecha_inicio": 980,
+    "fecha_fin": 1150,
+    "descripcion_corta": "Tras la caída de Teotihuacán, los toltecas dominaron el altiplano central desde Tula, con un poder mucho más militarizado: sus monumentos más famosos son los atlantes, columnas de cuatro metros con forma de guerreros armados con lanzadardos. Para los pueblos posteriores, y sobre todo para los aztecas, los toltecas fueron el modelo de civilización y de refinamiento: la palabra tolteca acabó significando 'artista' o 'maestro artesano', y las dinastías nobles se inventaban genealogías que las conectaran con ellos. De esa época procede el relato de Quetzalcóatl, el rey-sacerdote que se opuso a los sacrificios humanos, fue expulsado y partió hacia el este prometiendo volver, una leyenda que casi cinco siglos después complicaría la lectura de la llegada de los españoles.",
+    "imagenes": [
+      "/images/centroamerica/ca_tula-kiosktula-jpg_wikimedia.jpg"
+    ]
+  },
+  {
+    "id": "ca-tenochtitlan",
+    "region": "centroamerica",
+    "tipo": "evento",
+    "titulo": "La fundación de Tenochtitlan",
+    "fecha_inicio": 1325,
+    "fecha_fin": null,
+    "descripcion_corta": "Los mexicas llegaron tarde al valle de México, como un grupo pobre y mal visto que sobrevivía como mercenario de señores más poderosos. Según su propia historia, su dios Huitzilopochtli les prometió una tierra donde vieran un águila posada sobre un nopal, y la encontraron en 1325 en un islote pantanoso del lago de Texcoco que nadie más quería. Aquella desventaja se volvió su fuerza: el lago era una defensa natural y una vía de transporte, y sobre él construyeron chinampas, campos flotantes de una fertilidad extraordinaria. En dos siglos Tenochtitlan pasó a ser una ciudad de más de 200 000 habitantes, con calzadas, acueducto de agua potable, mercados enormes y un recinto sagrado dominado por el Templo Mayor. Los conquistadores españoles, que habían visto Sevilla y Roma, escribieron que no habían contemplado nada semejante.",
+    "imagenes": [
+      "/images/centroamerica/ca_tenochtitlan-vista-completa-de-tenochtitl-c3-a1n-jpg_wikimedia.jpg"
+    ]
+  },
+  {
+    "id": "ca-triple-alianza",
+    "region": "centroamerica",
+    "tipo": "evento",
+    "titulo": "La Triple Alianza y el imperio azteca",
+    "fecha_inicio": 1428,
+    "fecha_fin": null,
+    "descripcion_corta": "En 1428, Tenochtitlan se alió con Texcoco y Tlacopan para derrocar al señorío de Azcapotzalco, que los dominaba. De esa Triple Alianza nació el imperio azteca, que en menos de un siglo controló buena parte de Mesoamérica. No era un imperio de ocupación: los pueblos sometidos conservaban sus gobernantes y sus dioses, pero pagaban un tributo estricto —maíz, algodón, cacao, plumas de quetzal, jade, trabajadores— registrado en libros de cuentas. Ese sistema hizo inmensamente rica a Tenochtitlan y profundamente odiada: cuando llegaron los españoles, decenas de miles de guerreros de pueblos tributarios, sobre todo tlaxcaltecas, se unieron a ellos. La conquista no fue de quinientos hombres contra un imperio, sino de una coalición indígena contra el poder dominante.",
+    "imagenes": [
+      "/images/centroamerica/ca_triple-aztec-triple-alliance-png_wikimedia.png"
+    ]
+  },
+  {
+    "id": "ca-mundo-azteca",
+    "region": "centroamerica",
+    "tipo": "evento",
+    "titulo": "El mundo azteca: mercados, escuelas y sacrificios",
+    "fecha_inicio": 1450,
+    "fecha_fin": null,
+    "descripcion_corta": "La sociedad mexica estaba muy organizada. Todos los niños, nobles y plebeyos, iban a la escuela —algo insólito en el mundo del siglo XV—: el calmécac formaba a la élite en religión, historia y escritura, y el telpochcalli preparaba a los demás para la guerra y el trabajo. El mercado de Tlatelolco reunía a decenas de miles de personas al día y tenía jueces propios para resolver disputas; se pagaba con granos de cacao y hachuelas de cobre. Los pochtecas, mercaderes de larga distancia, hacían también de espías. Y en el centro de todo, la religión: creían vivir en el Quinto Sol, una era que terminaría en catástrofe, y que la sangre humana alimentaba al sol para retrasar ese final. De ahí los sacrificios y las guerras floridas, campañas pactadas cuyo objetivo era capturar prisioneros vivos.",
+    "imagenes": [
+      "/images/centroamerica/ca_calendario_azteca-piedra-del-sol-png_wikimedia.png"
+    ]
+  },
+  {
+    "id": "ca-moctezuma",
+    "region": "centroamerica",
+    "tipo": "evento",
+    "titulo": "Moctezuma II",
+    "fecha_inicio": 1502,
+    "fecha_fin": 1520,
+    "descripcion_corta": "Moctezuma Xocoyotzin heredó en 1502 el imperio en su mayor extensión y reforzó su carácter sagrado: acentuó la distancia entre nobles y plebeyos, se hizo tratar como un ser casi divino ante el que nadie podía alzar la mirada, y endureció el tributo, lo que aumentó el descontento de los pueblos sometidos. Las crónicas posteriores —escritas ya bajo dominio español, y por eso sospechosas— hablan de presagios en los años previos: cometas, incendios inexplicables, voces en la noche. Su reacción ante la llegada de los extranjeros fue vacilante: los recibió con regalos y los alojó en el palacio de su padre, y acabó prisionero de sus propios huéspedes. Murió en junio de 1520 durante el asedio, según los españoles apedreado por su propio pueblo, según fuentes indígenas asesinado por ellos.",
+    "imagenes": [
+      "/images/centroamerica/ca_moctezuma-moctezuma-ii-jpg_wikimedia.jpg"
+    ]
+  },
+  {
+    "id": "ca-llegada-cortes",
+    "region": "centroamerica",
+    "tipo": "evento",
+    "titulo": "La llegada de Cortés",
+    "fecha_inicio": 1519,
+    "fecha_fin": null,
+    "descripcion_corta": "Hernán Cortés desembarcó en Veracruz en 1519 con unos 500 hombres, dieciséis caballos y varios cañones, desobedeciendo al gobernador de Cuba y quemando sus naves para que nadie pudiera volverse atrás. Su ventaja decisiva no fue tecnológica sino política: entendió enseguida las tensiones del imperio y las explotó. Doña Marina, la Malinche, mujer indígena entregada como esclava que hablaba náhuatl y maya, se convirtió en su intérprete y consejera, y su papel fue tan central que los mexicas llamaban a Cortés 'Malinche'. Tras vencer y luego aliarse con los tlaxcaltecas, enemigos jurados de Tenochtitlan, entró en la ciudad el 8 de noviembre de 1519 acompañado de miles de guerreros indígenas.",
+    "imagenes": [
+      "/images/centroamerica/ca_cortes-retrato-de-hern-c3-a1n-cort-c3-a9s-jpg_wikimedia.jpg"
+    ]
+  },
+  {
+    "id": "ca-caida-tenochtitlan",
+    "region": "centroamerica",
+    "tipo": "evento",
+    "titulo": "La caída de Tenochtitlan",
+    "fecha_inicio": 1521,
+    "fecha_fin": null,
+    "descripcion_corta": "Tras la matanza del Templo Mayor y la muerte de Moctezuma, los mexicas expulsaron a los españoles de la ciudad en la Noche Triste de 1520, con enormes bajas para los invasores. Pero llegó entonces un enemigo invisible: la viruela, traída sin querer, mató a una parte enorme de la población, incluido el nuevo tlatoani Cuitláhuac. Cortés reorganizó sus fuerzas en Tlaxcala, construyó bergantines para dominar el lago y sitió Tenochtitlan durante ochenta días, cortando el acueducto y el suministro de alimentos, con decenas de miles de aliados indígenas. La ciudad cayó el 13 de agosto de 1521, defendida hasta el final por Cuauhtémoc. Sobre sus ruinas se levantó México, capital de Nueva España, y las piedras del Templo Mayor sirvieron para construir la catedral.",
+    "imagenes": [
+      "/images/centroamerica/ca_caida-conquista-de-m-c3-a9xico-por-cort-c3-a9s-teno_wikimedia.png"
+    ]
+  },
+  {
+    "id": "ca-conquista-guatemala",
+    "region": "centroamerica",
+    "tipo": "evento",
+    "titulo": "La conquista del istmo",
+    "fecha_inicio": 1524,
+    "fecha_fin": null,
+    "descripcion_corta": "Desde México, Pedro de Alvarado marchó en 1524 hacia el sur con tropas españolas y miles de aliados tlaxcaltecas y mexicas. Venció a los quichés en Quetzaltenango —donde según la tradición murió su jefe Tecún Umán—, quemó su capital Q'umarkaj y sometió después a los cakchiqueles, sus antiguos aliados. Otras expediciones avanzaron desde Panamá hacia el norte, y el istmo quedó repartido entre capitanías y audiencias. La conquista de Centroamérica fue más lenta y fragmentada que la de México, porque no había un poder único que derribar sino decenas de señoríos. Como en todas partes, la mayor mortandad no la causaron las armas: viruela, sarampión y tifus redujeron la población indígena en porcentajes que los historiadores sitúan entre el 70 y el 90 % en un siglo.",
+    "imagenes": [
+      "/images/centroamerica/ca_alvarado-pedro-de-alvarado-28tom-c3-a1s-povedano-29-jp_wikimedia.jpg"
+    ]
+  },
+  {
+    "id": "ca-tayasal",
+    "region": "centroamerica",
+    "tipo": "evento",
+    "titulo": "El último reino maya independiente",
+    "fecha_inicio": 1697,
+    "fecha_fin": null,
+    "descripcion_corta": "En una isla del lago Petén Itzá, en plena selva guatemalteca, el reino itzá de Nojpetén —Tayasal— resistió independiente casi dos siglos después de la caída de Tenochtitlan. Su aislamiento y lo intrincado del terreno lo mantuvieron fuera del alcance español, y hasta allí llegaron misioneros que fueron rechazados una y otra vez; Cortés mismo había pasado por la zona en 1525 sin someterla. Los itzáes tenían además una razón propia para esperar: su calendario profético señalaba en qué ciclo debía producirse el cambio, y resistieron hasta que ese momento llegó. El 13 de marzo de 1697, las tropas del gobernador Martín de Ursúa cruzaron el lago en una galeota y tomaron la ciudad. Con ella terminaron casi dos milenios de estados mayas independientes.",
+    "imagenes": [
+      "/images/centroamerica/ca_tayasal-tayasal-sitio-arqueologico-jpg_wikimedia.jpg"
+    ]
+  },
+  {
+    "id": "ca-independencia-mexico",
+    "region": "centroamerica",
+    "tipo": "evento",
+    "titulo": "El grito de Dolores",
+    "fecha_inicio": 1810,
+    "fecha_fin": 1821,
+    "descripcion_corta": "La madrugada del 16 de septiembre de 1810, el cura Miguel Hidalgo tocó las campanas de su parroquia en Dolores y llamó a levantarse contra el mal gobierno. Lo siguieron miles de campesinos indígenas y mestizos armados con machetes y hondas, en un movimiento que fue tanto una guerra de independencia como una revuelta social contra los peninsulares y los criollos ricos, lo que asustó a buena parte de la élite. Hidalgo fue capturado y fusilado en 1811, y le sucedió José María Morelos, otro sacerdote, con un programa más definido: abolición de la esclavitud y del tributo indígena. También fue ejecutado. La independencia llegó al fin en 1821, por un pacto entre el insurgente Vicente Guerrero y el realista Agustín de Iturbide.",
+    "imagenes": [
+      "/images/centroamerica/ca_hidalgo-parroquia-de-nuestra-se-c3-b1ora-de-los-dolor_wikimedia.jpg"
+    ]
+  },
+  {
+    "id": "ca-independencia-centroamerica",
+    "region": "centroamerica",
+    "tipo": "evento",
+    "titulo": "La independencia de Centroamérica",
+    "fecha_inicio": 1821,
+    "fecha_fin": null,
+    "descripcion_corta": "El 15 de septiembre de 1821, reunidos en Guatemala, los representantes de la Capitanía General firmaron el acta de independencia de España. Fue un proceso llamativamente pacífico, sin las largas guerras de México o Suramérica: la élite criolla lo decidió en buena medida para adelantarse a que el pueblo lo hiciera por su cuenta, como decía el propio texto. Enseguida vino la confusión: el territorio se anexionó al efímero imperio de Iturbide en México y, al caer este, se separó en 1823 para formar las Provincias Unidas del Centro de América. Costa Rica, en el extremo sur, pobre y aislada, recibió la noticia de su independencia un mes después de que se hubiera declarado.",
+    "imagenes": [
+      "/images/centroamerica/ca_independencia_ca-act-of-independence-of-central-america-jpg_wikimedia.jpg"
+    ]
+  },
+  {
+    "id": "ca-provincias-unidas",
+    "region": "centroamerica",
+    "tipo": "evento",
+    "titulo": "Las Provincias Unidas y su ruptura",
+    "fecha_inicio": 1823,
+    "fecha_fin": 1841,
+    "descripcion_corta": "La República Federal de Centroamérica reunió a Guatemala, El Salvador, Honduras, Nicaragua y Costa Rica en un solo Estado, con capital en Guatemala y una constitución liberal que abolió la esclavitud en 1824, décadas antes que muchos países del continente. Su figura central fue el hondureño Francisco Morazán, presidente y militar, empeñado en reformas anticlericales y educativas que chocaron frontalmente con la Iglesia y con los conservadores. Las distancias, la falta de caminos, las rivalidades entre capitales y las guerras civiles la fueron desmontando; hacia 1841 la federación se había disuelto en cinco repúblicas separadas. Morazán fue fusilado en San José en 1842 intentando reunificarla, y desde entonces la unión centroamericana quedó como un ideal recurrente que nunca volvió a cuajar.",
+    "imagenes": [
+      "/images/centroamerica/ca_provincias-francisco-moraz-c3-a1n-quesada-jpg_wikimedia.jpg"
+    ]
+  }
+]

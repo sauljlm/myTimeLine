@@ -1,0 +1,278 @@
+[
+  {
+    "id": "na-clovis",
+    "region": "norteamerica",
+    "tipo": "evento",
+    "titulo": "Los cazadores Clovis",
+    "fecha_inicio": -11000,
+    "fecha_fin": -8800,
+    "descripcion_corta": "Durante décadas, la cultura Clovis se consideró la primera de América: sus puntas de lanza acanaladas, talladas con una técnica inconfundible, aparecen desde Canadá hasta México en un margen de apenas unos siglos alrededor del 11000 a. C., a veces clavadas entre costillas de mamut. Hoy sabemos que hubo gente antes —yacimientos como Monte Verde, en Chile, son bastante más antiguos—, pero Clovis sigue siendo la primera expansión documentada a escala continental. Coincide además con la extinción de la megafauna americana: mamuts, mastodontes, perezosos gigantes, caballos y camellos nativos desaparecieron en pocos milenios, y todavía se discute cuánto pesó la caza humana y cuánto el cambio climático del final de la glaciación.",
+    "imagenes": [
+      "/images/norteamerica/na_clovis-clovis-spearpoints-cleveland-museum-of-natura_wikimedia.jpg"
+    ]
+  },
+  {
+    "id": "na-adena",
+    "region": "norteamerica",
+    "tipo": "evento",
+    "titulo": "Los constructores de montículos",
+    "fecha_inicio": -1000,
+    "fecha_fin": 200,
+    "descripcion_corta": "En los valles del Ohio y el Misisipi, la cultura Adena empezó hacia el 1000 a. C. a levantar túmulos de tierra para enterrar a sus muertos, algunos de más de veinte metros de altura, construidos cesta a cesta durante generaciones. Vivían en aldeas pequeñas, cultivaban calabaza y plantas locales antes de que llegara el maíz, y cazaban y recolectaban el resto. Sus tumbas contienen pipas de piedra finamente talladas, láminas de mica y objetos de cobre nativo del lago Superior, señal de intercambios a larga distancia. Cuando los colonos europeos encontraron esos montículos siglos después se negaron a creer que los hubieran hecho los indígenas y los atribuyeron a fenicios, vikingos o a una 'raza perdida', un prejuicio que la arqueología tardó en desmontar.",
+    "imagenes": [
+      "/images/norteamerica/na_adena-adena-house-jpg_wikimedia.jpg"
+    ]
+  },
+  {
+    "id": "na-hopewell",
+    "region": "norteamerica",
+    "tipo": "evento",
+    "titulo": "Hopewell y las redes de intercambio",
+    "fecha_inicio": -200,
+    "fecha_fin": 500,
+    "descripcion_corta": "La tradición Hopewell no fue un pueblo ni un Estado, sino una red que conectó durante siglos a comunidades de medio continente. En sus túmulos aparecen obsidiana de las Rocosas, conchas del Golfo de México, dientes de tiburón, cobre de los Grandes Lagos, mica de los Apalaches y plata de Ontario, transformados en objetos ceremoniales de una delicadeza extraordinaria: manos recortadas en mica, pájaros de cobre, pipas con figuras de animales. Levantaron además enormes recintos geométricos de tierra —círculos, octógonos y cuadrados perfectos de cientos de metros— alineados con los ciclos de la luna, como los de Newark, que funcionaban como lugares de reunión y peregrinación entre grupos dispersos.",
+    "imagenes": [
+      "/images/norteamerica/na_hopewell-hopewell-exchange-network-hroe-2010-jpg_wikimedia.jpg"
+    ]
+  },
+  {
+    "id": "na-anasazi",
+    "region": "norteamerica",
+    "tipo": "evento",
+    "titulo": "Los ancestrales pueblo",
+    "fecha_inicio": 700,
+    "fecha_fin": 1300,
+    "descripcion_corta": "En la meseta del Colorado, donde hoy se juntan cuatro estados, los ancestrales pueblo —llamados también anasazi— construyeron pueblos de piedra y adobe de varios pisos. En el Cañón del Chaco levantaron 'grandes casas' como Pueblo Bonito, con cientos de habitaciones y kivas circulares para el ritual, conectadas por caminos rectilíneos de decenas de kilómetros y por un sistema de señales visuales entre cumbres; varias estructuras están alineadas con los solsticios y con los ciclos lunares. Más tarde edificaron aldeas encajadas bajo salientes rocosos, como el Cliff Palace de Mesa Verde. A finales del siglo XIII abandonaron la región, en coincidencia con una sequía de décadas documentada en los anillos de los árboles, y se desplazaron al sur: sus descendientes son los hopi, zuñi y los pueblos del río Grande.",
+    "imagenes": [
+      "/images/norteamerica/na_anasazi-cliff-palace-2c-mesa-verde-park-2c-colorado-2_wikimedia.jpg"
+    ]
+  },
+  {
+    "id": "na-cahokia",
+    "region": "norteamerica",
+    "tipo": "evento",
+    "titulo": "Cahokia, la mayor ciudad al norte de México",
+    "fecha_inicio": 1050,
+    "fecha_fin": 1350,
+    "descripcion_corta": "Frente a la actual San Luis, junto al Misisipi, Cahokia llegó a tener entre 15 000 y 20 000 habitantes hacia el año 1100: más que Londres en esa época, y la mayor concentración urbana al norte de México hasta finales del siglo XVIII. Su Monks Mound es la mayor estructura de tierra prehispánica de América, con una base más extensa que la de la Gran Pirámide de Guiza. Tenía plazas ceremoniales, un círculo de postes de madera que funcionaba como calendario solar y tumbas de élite con centenares de sacrificios humanos. Su economía se apoyaba en el maíz, que llegado del sur transformó la vida en todo el este. Fue abandonada hacia 1350 por una combinación de inundaciones, deforestación y tensiones internas.",
+    "imagenes": [
+      "/images/norteamerica/na_cahokia-monks-mound-in-july-jpg_wikimedia.jpg"
+    ]
+  },
+  {
+    "id": "na-iroqueses",
+    "region": "norteamerica",
+    "tipo": "evento",
+    "titulo": "La Confederación Iroquesa",
+    "fecha_inicio": 1450,
+    "fecha_fin": null,
+    "descripcion_corta": "Cinco naciones del actual estado de Nueva York —mohawk, oneida, onondaga, cayuga y séneca, más tarde también los tuscarora— pusieron fin a sus guerras uniéndose bajo la Gran Ley de la Paz. Era un sistema político elaborado: un consejo de sachems designados por las mujeres de mayor rango de cada clan, decisiones por consenso entre las naciones, autonomía interna de cada una y un procedimiento reglado para deponer a un jefe que incumpliera. Se transmitía oralmente con cinturones de wampum que servían de registro. Franklin y otros redactores estadounidenses conocían y citaban ese modelo federal, y aunque se discute cuánto influyó realmente en la Constitución, el Congreso de Estados Unidos reconoció esa deuda en 1988.",
+    "imagenes": [
+      "/images/norteamerica/na_iroqueses-haudenosaunee-territory-png_wikimedia.png"
+    ]
+  },
+  {
+    "id": "na-jamestown",
+    "region": "norteamerica",
+    "tipo": "evento",
+    "titulo": "Jamestown",
+    "fecha_inicio": 1607,
+    "fecha_fin": null,
+    "descripcion_corta": "En 1607, unos cien colonos enviados por una compañía por acciones fundaron Jamestown, el primer asentamiento inglés permanente en América. Fue un desastre inicial: buscaban oro en vez de sembrar, eligieron un terreno pantanoso con agua salobre y llegaron en plena sequía. En el invierno de 1609, el 'tiempo del hambre', murieron cuatro de cada cinco colonos y hubo casos documentados de canibalismo. Sobrevivió gracias al tabaco, que John Rolfe empezó a cultivar en 1612 y se convirtió en la exportación que sostuvo Virginia. Ese cultivo, muy intensivo en mano de obra, definió el rumbo de la colonia: primero sirvientes por contrato llegados de Inglaterra, y con el tiempo, esclavitud africana hereditaria fijada en las leyes.",
+    "imagenes": [
+      "/images/norteamerica/na_jamestown-jamestownzuniga-jpg_wikimedia.jpg"
+    ]
+  },
+  {
+    "id": "na-esclavitud",
+    "region": "norteamerica",
+    "tipo": "evento",
+    "titulo": "Los primeros africanos esclavizados",
+    "fecha_inicio": 1619,
+    "fecha_fin": null,
+    "descripcion_corta": "En agosto de 1619 llegó a Virginia un barco corsario que había capturado a portugueses en el Caribe y desembarcó a una veintena de africanos, los primeros documentados en la América inglesa. Su condición inicial fue ambigua —algunos llegaron a ser libres y propietarios—, pero a lo largo del siglo XVII las colonias fueron endureciendo las leyes hasta convertir la esclavitud en una condición racial, vitalicia y hereditaria por vía materna. Entre los siglos XVI y XIX, la trata transatlántica deportó a unos doce millones y medio de africanos hacia América; menos del 5 % llegó a lo que hoy es Estados Unidos, la mayoría fue al Caribe y a Brasil. Sobre ese trabajo forzado se construyeron las economías del tabaco, el arroz, el azúcar y, después, el algodón.",
+    "imagenes": [
+      "/images/norteamerica/na_esclavitud-slavery-in-the-13-colonies-jpg_wikimedia.jpg"
+    ]
+  },
+  {
+    "id": "na-mayflower",
+    "region": "norteamerica",
+    "tipo": "evento",
+    "titulo": "El Mayflower y Nueva Inglaterra",
+    "fecha_inicio": 1620,
+    "fecha_fin": null,
+    "descripcion_corta": "En noviembre de 1620 llegó a Cabo Cod el Mayflower con un centenar de pasajeros, la mitad de ellos separatistas religiosos que huían de la Iglesia de Inglaterra. Como habían arribado fuera de la jurisdicción de su patente, firmaron a bordo el Pacto del Mayflower, un acuerdo de gobierno por consentimiento mutuo que suele citarse como precedente del autogobierno estadounidense. Sobrevivieron al primer invierno —murió la mitad— con la ayuda de los wampanoag y de Tisquantum, que hablaba inglés porque años antes había sido secuestrado y llevado a Europa. La convivencia inicial no duró: la presión de la colonización desembocó en la guerra del rey Felipe (1675-1678), proporcionalmente uno de los conflictos más mortíferos de la historia norteamericana.",
+    "imagenes": [
+      "/images/norteamerica/na_mayflower-mayflower-in-plymouth-harbor-2c-by-william-ha_wikimedia.jpg"
+    ]
+  },
+  {
+    "id": "na-independencia",
+    "region": "norteamerica",
+    "tipo": "evento",
+    "titulo": "La Declaración de Independencia",
+    "fecha_inicio": 1776,
+    "fecha_fin": null,
+    "descripcion_corta": "Tras la guerra franco-india, Gran Bretaña quiso que las colonias pagaran parte del coste con nuevos impuestos, y estas respondieron con el lema de que no había impuestos sin representación en el Parlamento. El conflicto escaló del motín del té de Boston a la guerra abierta en 1775. El 4 de julio de 1776, el Congreso Continental aprobó la Declaración redactada por Jefferson, con su afirmación de que todos los hombres son creados iguales y tienen derechos inalienables: una frase escrita por un propietario de esclavos, contradicción que marcaría el país durante siglos. La guerra se decidió con la ayuda francesa y la rendición británica en Yorktown en 1781; el tratado de París reconoció la independencia en 1783.",
+    "imagenes": [
+      "/images/norteamerica/na_independencia_eeuu-united-states-declaration-of-independence-jpg_wikimedia.jpg"
+    ]
+  },
+  {
+    "id": "na-constitucion",
+    "region": "norteamerica",
+    "tipo": "evento",
+    "titulo": "La Constitución",
+    "fecha_inicio": 1787,
+    "fecha_fin": null,
+    "descripcion_corta": "Los primeros años del país bajo los Artículos de la Confederación fueron caóticos: el gobierno central no podía recaudar impuestos ni sostener un ejército. En 1787, una convención en Filadelfia redactó una constitución nueva que repartía el poder entre Ejecutivo, Legislativo y Judicial con controles mutuos, y entre el gobierno federal y los estados. Es la constitución escrita más antigua todavía en vigor. Se aprobó con dos compromisos que arrastraría durante décadas: un Congreso bicameral que daba igual peso a los estados pequeños en el Senado, y la cláusula que contaba a cada esclavo como tres quintos de persona para el reparto de escaños, aumentando el poder político del Sur sin reconocer derecho alguno a los esclavizados.",
+    "imagenes": [
+      "/images/norteamerica/na_constitucion-constitution-of-the-united-states-dpla-9ca804_wikimedia.jpg"
+    ]
+  },
+  {
+    "id": "na-luisiana",
+    "region": "norteamerica",
+    "tipo": "evento",
+    "titulo": "La compra de Luisiana",
+    "fecha_inicio": 1803,
+    "fecha_fin": null,
+    "descripcion_corta": "Napoleón, que necesitaba dinero para sus guerras europeas y acababa de perder Haití tras la revolución de los esclavizados, ofreció a Estados Unidos el territorio entero de Luisiana. Jefferson lo compró en 1803 por quince millones de dólares: más de dos millones de kilómetros cuadrados —el actual centro del país, de Nueva Orleans a Montana— a unos tres centavos por hectárea. De un plumazo el país duplicó su tamaño. El propio Jefferson dudaba de que la Constitución le permitiera hacerlo, y lo hizo igual. La operación no tuvo en cuenta a quienes vivían allí: decenas de naciones indígenas que ni fueron consultadas ni figuraban en el trato, y para las que aquella firma en París significó el principio del fin de su territorio.",
+    "imagenes": [
+      "/images/norteamerica/na_luisiana-louisianapurchase-fr-png_wikimedia.png"
+    ]
+  },
+  {
+    "id": "na-lewis-clark",
+    "region": "norteamerica",
+    "tipo": "evento",
+    "titulo": "La expedición de Lewis y Clark",
+    "fecha_inicio": 1804,
+    "fecha_fin": 1806,
+    "descripcion_corta": "Jefferson envió a Meriwether Lewis y William Clark a cruzar el continente, buscar una vía fluvial hasta el Pacífico y describir cuanto encontraran. Partieron en 1804 remontando el Misuri con unos treinta hombres y recorrieron más de 12 000 kilómetros en dos años y medio, con un solo muerto por causas naturales. No hallaron el paso fluvial —no existía—, pero trajeron mapas, cuadernos con cientos de especies nuevas para la ciencia y descripciones de decenas de pueblos indígenas. Su éxito dependió de esos pueblos: sin los caballos y las indicaciones de los shoshone y sin Sacagawea, la joven shoshone que viajaba con ellos con su bebé y cuya sola presencia señalaba a otros grupos que no eran una partida de guerra, difícilmente habrían llegado.",
+    "imagenes": [
+      "/images/norteamerica/na_lewisclark-lewis-and-clark-jpg_wikimedia.jpg"
+    ]
+  },
+  {
+    "id": "na-sendero-lagrimas",
+    "region": "norteamerica",
+    "tipo": "evento",
+    "titulo": "El Sendero de Lágrimas",
+    "fecha_inicio": 1830,
+    "fecha_fin": 1850,
+    "descripcion_corta": "La Ley de Traslado Forzoso de 1830, impulsada por el presidente Andrew Jackson, autorizó expulsar a las naciones indígenas del sureste hacia territorios al oeste del Misisipi. Los cheroqui llevaron el caso al Tribunal Supremo y ganaron: la sentencia reconoció su soberanía. Jackson la ignoró. Entre 1838 y 1839, el ejército los sacó de sus casas a punta de bayoneta y los llevó a pie más de mil kilómetros en invierno; murieron unos cuatro mil por frío, hambre y enfermedad. Lo mismo sufrieron choctaw, creek, chickasaw y seminolas. Era una de las llamadas 'cinco tribus civilizadas', con alfabeto propio —inventado por Sequoyah—, periódico, escuelas y constitución escrita: nada de eso los protegió frente al valor de sus tierras para el cultivo del algodón.",
+    "imagenes": [
+      "/images/norteamerica/na_senderolagrimas-trails-of-tears-en-png_wikimedia.png"
+    ]
+  },
+  {
+    "id": "na-alamo",
+    "region": "norteamerica",
+    "tipo": "evento",
+    "titulo": "El Álamo y la guerra con México",
+    "fecha_inicio": 1836,
+    "fecha_fin": 1848,
+    "descripcion_corta": "Colonos angloamericanos invitados a poblar Texas, entonces mexicana, acabaron rebelándose, entre otras razones porque México había abolido la esclavitud y ellos querían mantenerla. En 1836, el ejército de Santa Anna aplastó a los defensores de la misión de El Álamo, en San Antonio, tras trece días de asedio; el grito de '¡Recuerden El Álamo!' impulsó la victoria texana semanas después en San Jacinto. Texas fue anexionada por Estados Unidos en 1845 y de ahí salió la guerra con México, que terminó en 1848 con el tratado de Guadalupe Hidalgo: México cedió más de la mitad de su territorio —los actuales California, Nevada, Utah, Arizona, Nuevo México y partes de Colorado y Wyoming—. Miles de mexicanos se convirtieron en extranjeros sin moverse de casa.",
+    "imagenes": [
+      "/images/norteamerica/na_alamo-1854-alamo-jpg_wikimedia.jpg"
+    ]
+  },
+  {
+    "id": "na-oregon",
+    "region": "norteamerica",
+    "tipo": "evento",
+    "titulo": "La ruta de Oregón",
+    "fecha_inicio": 1843,
+    "fecha_fin": 1869,
+    "descripcion_corta": "Entre 1840 y el final de los años sesenta, unas 400 000 personas cruzaron el continente en caravanas de carretas por la ruta de Oregón y sus ramales hacia California y Utah: 3 200 kilómetros desde Missouri, cinco o seis meses de viaje a pie junto a los carros tirados por bueyes. El peligro real no fueron los ataques indígenas, mucho menos frecuentes de lo que contó después el cine, sino el cólera, la disentería, los accidentes con las armas y las ruedas, y los pasos de montaña antes de las nieves: se calcula que murió una de cada diez personas que emprendió el camino. Episodios como el de la partida Donner, atrapada por el invierno en Sierra Nevada en 1846, dieron la medida del riesgo. El ferrocarril acabó con la ruta en pocos años.",
+    "imagenes": [
+      "/images/norteamerica/na_oregon-wpdms-nasa-topo-oregon-trail-jpg_wikimedia.jpg"
+    ]
+  },
+  {
+    "id": "na-fiebre-oro",
+    "region": "norteamerica",
+    "tipo": "evento",
+    "titulo": "La fiebre del oro de California",
+    "fecha_inicio": 1848,
+    "fecha_fin": 1855,
+    "descripcion_corta": "En enero de 1848, días antes de que México cediera California, un carpintero encontró pepitas de oro en el aserradero de Sutter. La noticia tardó meses en correr y desató una de las mayores migraciones voluntarias de la historia: unas 300 000 personas llegaron en pocos años desde el este del país, pero también desde China, Chile, México, Irlanda y Australia. San Francisco pasó de 1 000 habitantes a 25 000 en dos años. Muy pocos se hicieron ricos con el oro; ganaron dinero quienes vendían picos, tiendas, pantalones —Levi Strauss— y comida a precios desorbitados. Para los pueblos nativos de California fue una catástrofe: su población cayó de unos 150 000 a menos de 30 000 en dos décadas por enfermedades, hambre y matanzas.",
+    "imagenes": [
+      "/images/norteamerica/na_fiebreoro-california-clipper-500-jpg_wikimedia.jpg"
+    ]
+  },
+  {
+    "id": "na-guerra-secesion",
+    "region": "norteamerica",
+    "tipo": "evento",
+    "titulo": "La Guerra de Secesión",
+    "fecha_inicio": 1861,
+    "fecha_fin": 1865,
+    "descripcion_corta": "La elección de Lincoln en 1860, contrario a extender la esclavitud a los nuevos territorios, provocó la secesión de once estados del Sur. La guerra que siguió fue la más sangrienta de la historia estadounidense: unos 620 000 muertos, más que en todas sus demás guerras juntas hasta Vietnam. Fue también la primera guerra industrial moderna, con ferrocarriles, telégrafo, acorazados, fusiles de repetición y trincheras que anticiparon 1914, y la primera ampliamente fotografiada: las imágenes de los muertos de Antietam impactaron al público como nunca antes. La Proclamación de Emancipación de 1863 convirtió la guerra en una lucha explícita contra la esclavitud, abolida al terminar por la Decimotercera Enmienda.",
+    "imagenes": [
+      "/images/norteamerica/na_guerracivil_eeuu-civilwarusacoll-png_wikimedia.png"
+    ]
+  },
+  {
+    "id": "na-vaqueros",
+    "region": "norteamerica",
+    "tipo": "evento",
+    "titulo": "Los vaqueros y las grandes arreadas",
+    "fecha_inicio": 1866,
+    "fecha_fin": 1886,
+    "descripcion_corta": "La época dorada del vaquero duró apenas veinte años. Tras la Guerra de Secesión, Texas estaba llena de ganado sin dueño que en el este valía diez veces más, así que se organizaron arreadas de miles de reses por rutas como la Chisholm hasta las estaciones de ferrocarril de Kansas: dos o tres meses a caballo, con una decena de hombres por manada, durmiendo al raso y vigilando las estampidas. Aproximadamente uno de cada tres vaqueros era mexicano o negro —de los vaqueros mexicanos venían el lazo, la silla, las espuelas, el rodeo y hasta el sombrero—, algo que el cine tardó un siglo en reflejar. El alambre de espino, que cercó las praderas, y el invierno catastrófico de 1886-87, que mató a millones de reses, acabaron con las grandes arreadas.",
+    "imagenes": [
+      "/images/norteamerica/na_vaqueros-herdquit-jpg_wikimedia.jpg"
+    ]
+  },
+  {
+    "id": "na-ferrocarril",
+    "region": "norteamerica",
+    "tipo": "evento",
+    "titulo": "El ferrocarril transcontinental",
+    "fecha_inicio": 1869,
+    "fecha_fin": null,
+    "descripcion_corta": "El 10 de mayo de 1869, en Promontory Summit (Utah), se clavó una escarpia de oro donde se unieron las dos líneas que venían del este y del oeste. El viaje de costa a costa pasó de seis meses a una semana. Lo construyeron sobre todo inmigrantes: irlandeses en la Union Pacific y unos 15 000 chinos en la Central Pacific, que hicieron el trabajo más peligroso —abrir túneles a dinamita en Sierra Nevada, trabajar bajo aludes— cobrando menos que los blancos y sin figurar en la fotografía oficial de la ceremonia. El ferrocarril acabó de abrir las llanuras a la colonización, hizo posible enviar el ganado del oeste a los mataderos de Chicago y aceleró la destrucción del modo de vida de los pueblos de las praderas.",
+    "imagenes": [
+      "/images/norteamerica/na_ferrocarril-east-and-west-shaking-hands-at-the-laying-of-_wikimedia.jpg"
+    ]
+  },
+  {
+    "id": "na-bisonte",
+    "region": "norteamerica",
+    "tipo": "evento",
+    "titulo": "La matanza del bisonte",
+    "fecha_inicio": 1870,
+    "fecha_fin": 1885,
+    "descripcion_corta": "A principios del siglo XIX pastaban en las llanuras entre 30 y 60 millones de bisontes; hacia 1889 quedaban poco más de mil. La caza comercial masiva —cueros para las correas de las fábricas del este, lenguas como manjar, y luego huesos para fertilizante— se disparó con el ferrocarril, que llevaba cazadores y sacaba las pieles; había trenes desde los que se disparaba por deporte sin recoger nada. No fue solo negocio: militares y políticos vieron con claridad que acabar con el bisonte era acabar con la independencia de las naciones de las praderas, que dependían de él para comer, vestirse y construir sus tiendas, y lo dijeron abiertamente. Fue una de las extinciones casi consumadas más rápidas que se conocen, y una forma de guerra por otros medios.",
+    "imagenes": [
+      "/images/norteamerica/na_bisonte-american-bison-k5680-1-jpg_wikimedia.jpg"
+    ]
+  },
+  {
+    "id": "na-little-bighorn",
+    "region": "norteamerica",
+    "tipo": "evento",
+    "titulo": "Little Bighorn",
+    "fecha_inicio": 1876,
+    "fecha_fin": null,
+    "descripcion_corta": "El descubrimiento de oro en las Colinas Negras, territorio garantizado a los lakota por tratado, provocó la invasión de buscadores y la orden del gobierno de confinar a los pueblos de las praderas en reservas. El 25 de junio de 1876, el teniente coronel Custer atacó con el Séptimo de Caballería un campamento enorme de lakotas, cheyenes y arapahoes reunidos junto al río Little Bighorn, bajo el liderazgo espiritual de Toro Sentado y militar de Caballo Loco. Dividió sus fuerzas, subestimó el número de guerreros y su destacamento fue aniquilado: unos 260 soldados muertos, él incluido. Fue la mayor victoria indígena de esas guerras y, precisamente por eso, precipitó la respuesta definitiva del ejército.",
+    "imagenes": [
+      "/images/norteamerica/na_littlebighorn-charles-marion-russell-the-custer-fight-28190_wikimedia.jpg"
+    ]
+  },
+  {
+    "id": "na-wounded-knee",
+    "region": "norteamerica",
+    "tipo": "evento",
+    "titulo": "Wounded Knee",
+    "fecha_inicio": 1890,
+    "fecha_fin": null,
+    "descripcion_corta": "Hacia 1890, confinados en reservas, hambrientos y con el bisonte extinguido, muchos pueblos abrazaron la Danza de los Espíritus, un movimiento profético que anunciaba el regreso de los antepasados y del bisonte si se bailaba y se vivía en paz. Las autoridades lo interpretaron como preparativo de guerra. El 29 de diciembre, mientras desarmaba a un grupo de lakotas junto al arroyo de Wounded Knee, el Séptimo de Caballería abrió fuego con ametralladoras Hotchkiss y mató a unas 250 o 300 personas, la mayoría mujeres, ancianos y niños, cuyos cuerpos quedaron congelados en la nieve hasta ser enterrados en una fosa común. Es la fecha con la que suele cerrarse tanto el Viejo Oeste como las guerras indias; ese mismo censo declaró oficialmente cerrada la frontera.",
+    "imagenes": [
+      "/images/norteamerica/na_wounded-soldiers-at-a-burial-for-the-dead-at-wounded-_wikimedia.jpg"
+    ]
+  }
+]
