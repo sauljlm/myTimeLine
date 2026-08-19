@@ -7,7 +7,21 @@
     "fecha_inicio": -2070,
     "fecha_fin": -1600,
     "descripcion_corta": "Considerada la primera dinastía china según la tradición histórica, aunque su existencia solo se ha podido confirmar parcialmente con evidencia arqueológica (asociada a la cultura Erlitou). Se le atribuye el desarrollo de los primeros sistemas de irrigación y el uso temprano del bronce en China.",
-    "imagenes": []
+    "imagenes": [
+      "/images/china/china2_xia-king-yu-of-xia-jpg_wikimedia.jpg"
+    ]
+  },
+  {
+    "id": "china-erlitou",
+    "region": "china",
+    "tipo": "evento",
+    "titulo": "Erlitou: la primera ciudad china",
+    "fecha_inicio": -1800,
+    "fecha_fin": null,
+    "descripcion_corta": "La dinastía Xia se conocía solo por textos escritos mil años después, y muchos historiadores la consideraban legendaria. En 1959 empezaron las excavaciones de Erlitou, en la provincia de Henan, y apareció algo inesperado para esa fecha: un asentamiento de unas 300 hectáreas con palacios de planta rectangular sobre plataformas de tierra apisonada, talleres especializados de bronce y turquesa, y calles trazadas. Está fechado entre 1900 y 1500 a. C., justo en el período que las crónicas atribuyen a los Xia. Allí aparecieron los primeros recipientes rituales de bronce fundidos con molde por secciones, una técnica china característica, y un dragón de turquesa formado por más de 2 000 piezas. Si Erlitou fue o no la capital Xia sigue discutiéndose —no se ha encontrado escritura que lo confirme—, pero demuestra que existió un Estado complejo en el valle del Río Amarillo antes de los Shang.",
+    "imagenes": [
+      "/images/china/china2_erlitou-20240815-erlitou-site-05-jpg_wikimedia.jpg"
+    ]
   },
   {
     "id": "china-dinastia-shang",
@@ -17,7 +31,33 @@
     "fecha_inicio": -1600,
     "fecha_fin": -1046,
     "descripcion_corta": "Primera dinastía china con evidencia escrita confirmada: los huesos oraculares, usados para adivinación, contienen la forma más antigua conocida de escritura china. Desarrollaron una metalurgia del bronce muy avanzada (vasijas rituales) y una sociedad centrada en el culto a los ancestros y la realeza.",
-    "imagenes": []
+    "imagenes": [
+      "/images/china/china2_shang-china-1-jpg_wikimedia.jpg"
+    ]
+  },
+  {
+    "id": "china-huesos-oraculares",
+    "region": "china",
+    "tipo": "evento",
+    "titulo": "Los huesos oraculares y la escritura china",
+    "fecha_inicio": -1300,
+    "fecha_fin": null,
+    "descripcion_corta": "En 1899 un erudito de Pekín descubrió que los 'huesos de dragón' que se vendían molidos como medicina en las boticas estaban cubiertos de escritura antiquísima. Eran omóplatos de buey y caparazones de tortuga usados por los reyes Shang para adivinar: se grababa la pregunta —si habría cosecha, si convenía atacar, qué causaba el dolor de muelas del rey—, se aplicaba calor hasta que el hueso se agrietaba, se interpretaban las grietas y a veces se anotaba después el resultado. Se han recuperado más de 150 000 fragmentos. Su importancia es doble: contienen la forma más antigua conocida de la escritura china, ya plenamente desarrollada y ancestro directa de los caracteres actuales —el único sistema de escritura antiguo que sigue en uso—, y confirmaron la lista de reyes Shang que transmitían las crónicas, demostrando que aquella dinastía fue real.",
+    "imagenes": [
+      "/images/china/china2_oraculos-orakelknochen-jpg_wikimedia.jpg"
+    ]
+  },
+  {
+    "id": "china-fu-hao",
+    "region": "china",
+    "tipo": "evento",
+    "titulo": "Fu Hao y el bronce Shang",
+    "fecha_inicio": -1200,
+    "fecha_fin": null,
+    "descripcion_corta": "En 1976 se excavó en Anyang la única tumba real Shang encontrada intacta. Pertenecía a Fu Hao, esposa del rey Wu Ding, y contenía más de 1 900 objetos: 468 piezas de bronce, 755 de jade, marfil, conchas de cauri usadas como moneda, y los restos de dieciséis personas sacrificadas y seis perros. Los huesos oraculares completan su retrato y lo hacen excepcional: Fu Hao dirigió campañas militares al mando de más de diez mil hombres, oficiaba ceremonias religiosas y administraba su propio feudo. Era, además de reina, general y sacerdotisa. Su ajuar muestra el nivel técnico del bronce Shang, fundido por el método de molde por secciones —distinto de la cera perdida usada en Occidente— que permitía decoraciones muy complejas, como el motivo taotie, una máscara animal que cubre vasijas rituales de decenas de kilos.",
+    "imagenes": [
+      "/images/china/china2_fuhao-fu-hao-statue-in-front-of-tomb-2844987347225-_wikimedia.jpg"
+    ]
   },
   {
     "id": "china-dinastia-zhou",
@@ -27,7 +67,21 @@
     "fecha_inicio": -1046,
     "fecha_fin": -256,
     "descripcion_corta": "La dinastía más larga de la historia china. Introdujo el concepto del \"Mandato del Cielo\" para legitimar el poder imperial, y fue la época de mayor florecimiento filosófico: durante el período de las Cien Escuelas de Pensamiento surgieron Confucio (confucianismo), Laozi (taoísmo) y Sun Tzu (autor de El arte de la guerra). Sus últimos siglos, el Período de los Reinos Combatientes, fueron de guerra casi constante entre estados rivales.",
-    "imagenes": []
+    "imagenes": [
+      "/images/china/china2_zhou-zhou-dynasty-1000-bc-png_wikimedia.png"
+    ]
+  },
+  {
+    "id": "china-mandato-cielo",
+    "region": "china",
+    "tipo": "evento",
+    "titulo": "El Mandato del Cielo",
+    "fecha_inicio": -1046,
+    "fecha_fin": null,
+    "descripcion_corta": "Cuando los Zhou derrotaron a los Shang, necesitaron justificar por qué unos recién llegados tenían derecho a gobernar, y formularon una idea que marcaría la política china durante tres mil años: el Mandato del Cielo. El Cielo concede el derecho a reinar al soberano virtuoso y se lo retira al que gobierna mal; las hambrunas, las inundaciones, las derrotas y las rebeliones son las señales de esa retirada, y entonces el pueblo tiene derecho a derrocarlo. A diferencia del derecho divino europeo, no era hereditario ni incondicional: obligaba al emperador a rendir cuentas, al menos en teoría. Toda dinastía posterior lo invocó para legitimarse y toda rebelión triunfante lo usó para justificarse, de modo que la historia china se contó como un ciclo de dinastías que reciben el mandato, se corrompen y lo pierden.",
+    "imagenes": [
+      "/images/china/china2_mandato-king-wu-of-zhou-jpg_wikimedia.jpg"
+    ]
   },
   {
     "id": "china-vida-cotidiana",
@@ -37,7 +91,9 @@
     "fecha_inicio": -800,
     "fecha_fin": null,
     "descripcion_corta": "La sociedad china antigua estaba profundamente marcada por el confucianismo, que enfatizaba el respeto a los mayores, la piedad filial y una jerarquía social clara: el emperador, los funcionarios-eruditos, los campesinos, los artesanos y, en el nivel más bajo, los comerciantes (vistos con recelo pese a su riqueza, por considerárselos poco productivos). La mayoría de la población eran campesinos que cultivaban mijo y arroz en pequeñas parcelas familiares, viviendo en aldeas agrupadas por clanes. La familia extensa y el culto a los ancestros eran el centro de la vida espiritual y social, y el acceso a la educación —y por tanto a la burocracia estatal— se convirtió, sobre todo desde la dinastía Han, en la principal vía de ascenso social a través de exámenes imperiales.",
-    "imagenes": []
+    "imagenes": [
+      "/images/china/china2_vivia-e6-b1-9d-e7-aa-af-e9-9d-92-e7-93-b7-e8-86-bd-_wikimedia.png"
+    ]
   },
   {
     "id": "china-modelo-economico",
@@ -47,7 +103,117 @@
     "fecha_inicio": -800,
     "fecha_fin": null,
     "descripcion_corta": "La economía se basaba en la agricultura intensiva (mijo en el norte, arroz en el sur), controlada por un Estado que cobraba impuestos en grano, trabajo (corvea) o servicio militar, y que llegó a monopolizar la producción de sal y hierro para financiar el gobierno. Con la dinastía Han se abrió la Ruta de la Seda, una red de rutas comerciales terrestres que conectaba China con India, Persia y el Mediterráneo, exportando seda, porcelana y té a cambio de caballos, vidrio, especias y metales preciosos. La moneda circulaba como monedas de bronce con un agujero cuadrado en el centro, que podían ensartarse en cuerdas para contar grandes cantidades con facilidad.",
-    "imagenes": []
+    "imagenes": [
+      "/images/china/china2_economia-ancientchinesecoins-jpg_wikimedia.jpg"
+    ]
+  },
+  {
+    "id": "china-primaveras-otonos",
+    "region": "china",
+    "tipo": "evento",
+    "titulo": "Primaveras y Otoños: el poder se fragmenta",
+    "fecha_inicio": -770,
+    "fecha_fin": -476,
+    "descripcion_corta": "En 771 a. C. la corte Zhou tuvo que huir hacia el este y, aunque los reyes conservaron el título y la autoridad ritual, el poder real pasó a manos de los señores de los estados vasallos. Ese período, llamado Primaveras y Otoños por la crónica del estado de Lu que lo narra, fue de guerras constantes entre docenas de estados que competían por la hegemonía y por el papel de protectores nominales del rey. Paradójicamente, tanta inestabilidad produjo una explosión intelectual: los gobernantes necesitaban consejeros y estrategas, y eso creó una demanda de pensadores que dio lugar a las llamadas Cien Escuelas de Pensamiento. Confucio, Lao-Tsé y Sun Tzu son hijos de esta época, y todos intentaban responder a la misma pregunta desde ángulos opuestos: cómo devolver el orden a un mundo que se había roto.",
+    "imagenes": [
+      "/images/china/china2_primaveras-spring-and-autumn-annals-annoted-jpg_wikimedia.jpg"
+    ]
+  },
+  {
+    "id": "china-guan-zhong",
+    "region": "china",
+    "tipo": "evento",
+    "titulo": "Guan Zhong y el ascenso de Qi",
+    "fecha_inicio": -685,
+    "fecha_fin": null,
+    "descripcion_corta": "Con los reyes Zhou reducidos a una autoridad simbólica, el estado de Qi se convirtió en la primera potencia hegemónica gracias a su ministro Guan Zhong, en el poder desde 685 a. C. Sus reformas fueron sorprendentemente modernas: estableció monopolios estatales sobre la sal y el hierro para financiar el Estado sin arruinar al campesinado con impuestos directos, fijó los impuestos según la calidad de la tierra, estandarizó pesos y medidas, acuñó moneda y organizó a la población en unidades administrativas que servían a la vez de base para el reclutamiento militar. Con esos recursos, el duque Huan de Qi fue reconocido como primer hegemón, protector nominal del rey Zhou y árbitro entre los estados. El libro que lleva el nombre de Guan Zhong es uno de los primeros tratados de economía política del mundo, y sus ideas sobre el papel del Estado en la economía se discutieron en China durante dos milenios.",
+    "imagenes": [
+      "/images/china/china2_guanzhong-qihuangongguanzhong2-jpg_wikimedia.jpg"
+    ]
+  },
+  {
+    "id": "china-seda",
+    "region": "china",
+    "tipo": "evento",
+    "titulo": "La seda",
+    "fecha_inicio": -650,
+    "fecha_fin": null,
+    "descripcion_corta": "China descubrió cómo criar el gusano Bombyx mori, alimentarlo con hojas de morera y devanar el hilo continuo de su capullo antes de que la mariposa lo rompiera: un solo capullo da cientos de metros de una fibra ligera, resistente y brillante que ningún otro material igualaba. La leyenda atribuye el hallazgo a la emperatriz Leizu, y los restos arqueológicos de seda se remontan a más de 3 000 años a. C. Durante siglos fue moneda de cambio, símbolo de rango —las leyes regulaban quién podía vestirla— y medio de pago de impuestos y salarios. China guardó celosamente el secreto de su producción bajo pena de muerte, y esa exclusividad convirtió la tela en el producto más codiciado de Eurasia: los romanos la pagaban a peso de oro y le dieron nombre a la ruta comercial que atravesaba el continente.",
+    "imagenes": [
+      "/images/china/china2_seda-khotan-fabrica-seda-d17-jpg_wikimedia.jpg"
+    ]
+  },
+  {
+    "id": "china-confucio",
+    "region": "china",
+    "tipo": "evento",
+    "titulo": "Confucio y el confucianismo",
+    "fecha_inicio": -551,
+    "fecha_fin": null,
+    "descripcion_corta": "Confucio (551–479 a. C.) vivió en una época de guerras entre estados y de desorden político, y buscó la solución no en leyes más duras sino en la calidad moral de las personas. Su enseñanza gira en torno al ren (la benevolencia o humanidad), el li (los ritos y las buenas formas que ordenan la convivencia) y el respeto a la jerarquía familiar y social, empezando por la piedad filial. Sostenía que el gobernante debe dar ejemplo: si él es recto, el pueblo lo será sin necesidad de castigos. Formuló también, en negativo, la regla de oro: no hagas a otros lo que no quieras para ti. Pasó buena parte de su vida viajando de corte en corte con sus discípulos sin lograr que ningún príncipe aplicara sus ideas. Sus conversaciones se recogieron después en las Analectas, y el confucianismo acabó siendo la base de la educación, la moral y los exámenes de acceso a la función pública en China durante más de dos mil años.",
+    "imagenes": [
+      "/images/china/filo_confucio-confucius-2c-fresco-from-a-western-han-tomb-o_wikimedia.jpg"
+    ]
+  },
+  {
+    "id": "china-laozi-taoismo",
+    "region": "china",
+    "tipo": "evento",
+    "titulo": "Lao-Tsé y el taoísmo",
+    "fecha_inicio": -530,
+    "fecha_fin": null,
+    "descripcion_corta": "Al confucianismo, centrado en el deber social y el ritual, se le opuso el taoísmo, atribuido a Lao-Tsé, un personaje del que apenas hay datos históricos fiables y que la tradición sitúa en los siglos VI–V a. C. Su libro, el Tao Te King, propone seguir el Tao: el curso natural de las cosas, imposible de definir con palabras ('el Tao que puede nombrarse no es el Tao eterno'). De ahí nace el wu wei, la no-acción o acción sin forzar: actuar conforme a la naturaleza en lugar de imponerse a ella, como el agua, que es lo más blando y sin embargo vence a lo más duro. En política implicaba un gobierno mínimo, que interviniera lo menos posible. Junto con Zhuangzi, el taoísmo aportó a la cultura china una contracorriente de espontaneidad, retiro y relativismo frente a la formalidad confuciana, y una influencia duradera en su medicina, su arte y su paisajismo.",
+    "imagenes": [
+      "/images/china/filo_laozi-zhang-lu-laozi-riding-an-ox-28cropped-29-jpg_wikimedia.jpg"
+    ]
+  },
+  {
+    "id": "china-sun-tzu",
+    "region": "china",
+    "tipo": "evento",
+    "titulo": "Sun Tzu y El arte de la guerra",
+    "fecha_inicio": -510,
+    "fecha_fin": null,
+    "descripcion_corta": "A Sun Tzu, general del estado de Wu hacia el 500 a. C., se le atribuye El arte de la guerra, el tratado militar más antiguo que se conserva y probablemente el más influyente de la historia. Sus trece capítulos no se ocupan tanto de tácticas concretas como de principios: conocer al enemigo y conocerse a uno mismo, adaptarse al terreno y a las circunstancias, usar el engaño y la información, y, sobre todo, evitar la batalla siempre que sea posible, porque 'la excelencia suprema consiste en someter al enemigo sin luchar'. Insiste en el coste económico y humano de una guerra larga y en la importancia del espionaje y de la moral de las tropas. Escrito durante el período de los Reinos Combatientes, se ha aplicado después mucho más allá de lo militar: hoy se cita constantemente en estrategia empresarial, política y deporte.",
+    "imagenes": [
+      "/images/china/filo_suntzu-enchoen27n3200-jpg_wikimedia.jpg"
+    ]
+  },
+  {
+    "id": "china-reinos-combatientes",
+    "region": "china",
+    "tipo": "evento",
+    "titulo": "Los Reinos Combatientes",
+    "fecha_inicio": -475,
+    "fecha_fin": -221,
+    "descripcion_corta": "A partir del 475 a. C. la guerra entre los estados chinos cambió de escala y de naturaleza. Quedaron siete grandes potencias enfrentadas, la nobleza de carros fue sustituida por ejércitos masivos de infantería y ballesteros reclutados entre los campesinos —se habla de campañas con cientos de miles de hombres—, y aparecieron la caballería, la ballesta de gatillo de bronce y las primeras murallas defensivas largas entre estados. La presión bélica obligó a modernizarlo todo: se generalizaron las herramientas de hierro y el arado tirado por bueyes, se construyeron grandes obras de regadío y se sustituyó a la aristocracia hereditaria por funcionarios nombrados por mérito. Fue también el momento de mayor efervescencia filosófica de China. El período terminó cuando el más occidental y militarizado de esos estados, Qin, los conquistó a todos.",
+    "imagenes": [
+      "/images/china/china2_combatientes-en-warringstatesall260bce-jpg_wikimedia.jpg"
+    ]
+  },
+  {
+    "id": "china-shang-yang",
+    "region": "china",
+    "tipo": "evento",
+    "titulo": "Shang Yang y el legismo",
+    "fecha_inicio": -356,
+    "fecha_fin": null,
+    "descripcion_corta": "Frente al confucianismo, que confiaba en la virtud del gobernante y en el ejemplo moral, el legismo sostenía lo contrario: las personas actúan por interés y miedo, así que solo leyes claras, públicas, iguales para todos y con premios y castigos muy severos pueden ordenar un Estado. A partir de 356 a. C. el ministro Shang Yang aplicó esas ideas en el estado de Qin con una radicalidad sin precedentes: abolió los privilegios hereditarios de la nobleza y concedió rango según los méritos militares, dividió a la población en grupos responsables colectivamente de los delitos de sus miembros, premió la producción agrícola y penalizó el comercio, y unificó pesos, medidas e impuestos. Qin pasó de ser un estado periférico a la mayor máquina militar de China. El propio Shang Yang acabó ejecutado por sus propias leyes tras la muerte de su protector, pero su modelo permitió la unificación del país.",
+    "imagenes": [
+      "/images/china/china2_shangyang-statue-of-shang-yang-jpg_wikimedia.jpg"
+    ]
+  },
+  {
+    "id": "china-dujiangyan",
+    "region": "china",
+    "tipo": "evento",
+    "titulo": "Dujiangyan: el sistema que aún riega Sichuan",
+    "fecha_inicio": -256,
+    "fecha_fin": null,
+    "descripcion_corta": "Hacia 256 a. C., el gobernador Li Bing afrontó un problema doble en la llanura de Chengdu: el río Min inundaba cada primavera al bajar de las montañas y, al mismo tiempo, la llanura sufría sequías. La solución fue notable por lo que no hizo: en lugar de construir una presa que cortara el río, dividió su cauce con un dique de gaviones de bambú con forma de boca de pez, de modo que el caudal se repartiera solo, enviando el agua limpia al canal de riego y devolviendo al cauce principal el exceso y los sedimentos en las crecidas. Para abrir el canal en la roca, sin explosivos, calentaron la piedra con fuego y la enfriaron con agua hasta agrietarla, en ocho años de trabajo. Dujiangyan convirtió Sichuan en el granero que alimentó la conquista de China por Qin, y sigue en funcionamiento hoy, regando más de medio millón de hectáreas: la obra hidráulica en uso más antigua del mundo.",
+    "imagenes": [
+      "/images/china/china2_dujiangyan-dujiangyan-2c-chengdu-2c-sichuan-2c-china-pan_wikimedia.jpg"
+    ]
   },
   {
     "id": "china-dinastia-qin",
@@ -57,7 +223,33 @@
     "fecha_inicio": -221,
     "fecha_fin": -206,
     "descripcion_corta": "Aunque duró apenas 15 años, Qin Shi Huang unificó por primera vez toda China bajo un solo imperio (Era Imperial), estandarizó la escritura, la moneda y las medidas, y comenzó la construcción de la Gran Muralla uniendo murallas previas de los reinos combatientes. Se hizo enterrar junto a un ejército de miles de guerreros de terracota. Gobernó bajo una filosofía legalista, basada en leyes estrictas y castigos severos.",
-    "imagenes": []
+    "imagenes": [
+      "/images/china/china2_qin-qin-empire-210-bce-png_wikimedia.png"
+    ]
+  },
+  {
+    "id": "china-gran-muralla",
+    "region": "china",
+    "tipo": "evento",
+    "titulo": "La Gran Muralla",
+    "fecha_inicio": -214,
+    "fecha_fin": null,
+    "descripcion_corta": "Tras unificar China, el primer emperador Qin Shi Huang ordenó unir y prolongar las murallas que los estados del norte habían levantado durante los Reinos Combatientes, para frenar las incursiones de los pueblos nómadas de la estepa. Cientos de miles de trabajadores —soldados, campesinos reclutados y condenados— construyeron con tierra apisonada, piedra y madera en condiciones durísimas; las crónicas y las leyendas hablan de miles de muertos enterrados junto a la obra. Aquella muralla Qin no es la que se visita hoy: la que se ve en las fotos, de ladrillo y piedra con torres de vigilancia, es sobre todo de la dinastía Ming, casi 1 700 años posterior. Su función nunca fue solo detener un ejército, sino controlar el paso y el comercio y dar aviso rápido mediante señales de humo. Sumando todas sus fases, supera los 20 000 kilómetros.",
+    "imagenes": [
+      "/images/china/china2_muralla-the-great-wall-of-china-at-jinshanling-edit-j_wikimedia.jpg"
+    ]
+  },
+  {
+    "id": "china-terracota",
+    "region": "china",
+    "tipo": "evento",
+    "titulo": "El ejército de terracota",
+    "fecha_inicio": -210,
+    "fecha_fin": null,
+    "descripcion_corta": "En 1974, unos campesinos que cavaban un pozo cerca de Xi'an dieron con fragmentos de cerámica. Bajo sus pies estaba el ejército funerario de Qin Shi Huang: más de 8 000 guerreros de terracota a tamaño natural, con caballos y carros, formados en orden de batalla para proteger al emperador después de la muerte. Se fabricaron en serie combinando piezas moldeadas —torsos, brazos, piernas—, pero los rostros se terminaban a mano uno a uno, y estuvieron pintados con colores vivos que se perdieron al contacto con el aire. Llevaban armas reales de bronce, algunas con un tratamiento superficial que las conservó afiladas. Todo esto es apenas la guardia exterior de un mausoleo aún sin excavar, que según el historiador Sima Qian reproduce el imperio entero con ríos de mercurio; los análisis del suelo han detectado, en efecto, concentraciones anómalas de ese metal.",
+    "imagenes": [
+      "/images/china/china2_terracota-terrakottaarm-c3-a9n-1-jpg_wikimedia.jpg"
+    ]
   },
   {
     "id": "china-dinastia-han",
@@ -67,7 +259,57 @@
     "fecha_inicio": -206,
     "fecha_fin": 220,
     "descripcion_corta": "Considerada una de las edades doradas de la civilización china: se consolidó la burocracia imperial basada en exámenes de mérito confuciano, se inventó el papel, y se abrió la Ruta de la Seda, conectando China con Asia Central, Persia y el Mediterráneo. Es tan influyente que el grupo étnico mayoritario de China todavía se llama \"han\" en su honor.",
-    "imagenes": []
+    "imagenes": [
+      "/images/china/china2_han-han-dynasty-map-2ce-png_wikimedia.png"
+    ]
+  },
+  {
+    "id": "china-emperador-wu",
+    "region": "china",
+    "tipo": "evento",
+    "titulo": "El emperador Wu y la expansión Han",
+    "fecha_inicio": -141,
+    "fecha_fin": -87,
+    "descripcion_corta": "Wu de Han reinó más de cincuenta años y convirtió a China en un imperio de escala continental. Pasó a la ofensiva contra los xiongnu, la confederación nómada que amenazaba el norte, y extendió el dominio Han hacia Asia central, Corea y el norte de Vietnam. Estableció el confucianismo como doctrina oficial del Estado y fundó una academia imperial para formar funcionarios en los clásicos, decisión que ligó durante dos milenios el gobierno de China a un cuerpo de letrados. En economía impuso monopolios estatales sobre la sal y el hierro y un sistema de graneros públicos para estabilizar los precios del grano. Fue él quien envió a Zhang Qian hacia occidente en una misión diplomática que, sin buscarlo, abrió las rutas comerciales con Asia central y con el mundo mediterráneo.",
+    "imagenes": [
+      "/images/china/china2_wudi-e6-bc-a2-e6-ad-a6-e5-b8-9d-jpg_wikimedia.jpg"
+    ]
+  },
+  {
+    "id": "china-ruta-seda",
+    "region": "china",
+    "tipo": "evento",
+    "titulo": "La Ruta de la Seda",
+    "fecha_inicio": -130,
+    "fecha_fin": null,
+    "descripcion_corta": "Más que un camino, fue una red de rutas de caravanas que unió China con Asia central, Persia, la India y el Mediterráneo a partir del siglo II a. C. Casi nadie la recorría entera: las mercancías pasaban de mano en mano en mercados sucesivos, encareciéndose en cada etapa. Hacia el oeste viajaban seda, laca, papel y porcelana; hacia el este, caballos, vidrio, oro, lana, especias y plantas nuevas. Pero lo que más pesó a largo plazo no fueron las mercancías sino lo que viajó con ellas: el budismo entró en China por esta vía, la tecnología del papel salió hacia el oeste, y también circularon técnicas, religiones, música y enfermedades —las grandes pestes de Roma y, más tarde, la peste negra, siguieron estas rutas—. Los romanos llegaron a preocuparse por la cantidad de oro que salía del imperio para pagar tejidos chinos.",
+    "imagenes": [
+      "/images/china/china2_rutaseda-silk-route-jpg_wikimedia.jpg"
+    ]
+  },
+  {
+    "id": "china-examenes",
+    "region": "china",
+    "tipo": "evento",
+    "titulo": "La academia imperial y los funcionarios letrados",
+    "fecha_inicio": -124,
+    "fecha_fin": null,
+    "descripcion_corta": "En 124 a. C. el emperador Wu fundó la Academia Imperial para formar funcionarios en los clásicos confucianos. Con ella arraigó una idea que distinguiría a China de casi todo el mundo antiguo: que el Estado debía ser administrado por hombres seleccionados por su formación y no por su nacimiento. El sistema se fue perfeccionando durante siglos hasta convertirse, ya bajo las dinastías Sui y Tang, en un examen imperial reglado, con pruebas escritas anónimas, celdas individuales de examen y controles contra el fraude, abierto en teoría a cualquier varón libre. En la práctica solo las familias con medios podían costear los años de estudio, pero permitió cierta movilidad social y creó una élite de letrados unida por una misma educación en todo el territorio. Europa no tuvo nada parecido hasta el siglo XIX, cuando copió la idea para sus propias administraciones.",
+    "imagenes": [
+      "/images/china/china2_examenes-ming-beamtenpr-c3-bcfungen1-jpg_wikimedia.jpg"
+    ]
+  },
+  {
+    "id": "china-wang-mang",
+    "region": "china",
+    "tipo": "evento",
+    "titulo": "Wang Mang y el interregno Xin",
+    "fecha_inicio": 9,
+    "fecha_fin": 23,
+    "descripcion_corta": "En el año 9 d. C., el regente Wang Mang depuso al último emperador Han occidental y fundó su propia dinastía, la Xin. Su programa fue extraordinariamente ambicioso: nacionalizó la tierra para repartirla entre los campesinos y frenar los grandes latifundios, prohibió la compraventa de esclavos, restableció los monopolios estatales, creó préstamos públicos a bajo interés y reformó la moneda varias veces. Justificó todo ello como un retorno a los ideales de la antigüedad confuciana. El resultado fue el caos: las reformas monetarias arruinaron el comercio, la administración no pudo aplicar el reparto de tierras y los terratenientes se le opusieron en bloque. Para colmo, el Río Amarillo cambió de curso, provocando inundaciones y hambrunas que se leyeron como la pérdida del Mandato del Cielo. Murió en la toma de la capital en el 23, y la dinastía Han fue restaurada.",
+    "imagenes": [
+      "/images/china/china2_wangmang-wul-he21-01467-e6-96-b0-e9-90-ab-e7-b9-aa-e5-_wikimedia.jpg"
+    ]
   },
   {
     "id": "china-cuatro-grandes-invenciones",
@@ -77,6 +319,20 @@
     "fecha_inicio": 105,
     "fecha_fin": null,
     "descripcion_corta": "China es la cuna de cuatro inventos que cambiarían el mundo entero. La brújula (una cuchara imantada que señalaba el sur) ya se usaba en el período de los Reinos Combatientes (475-221 a. C.). El papel se inventó durante la dinastía Han: hacia el año 105, el funcionario Cai Lun perfeccionó su fabricación a partir de corteza de árbol, cáñamo y trapos viejos. Siglos más tarde, ya en las dinastías Tang y Song, se desarrolló la imprenta (primero con bloques de madera, luego con tipos móviles hacia 1040) y se empezó a usar la pólvora en la guerra (desde el año 919). Estos cuatro inventos llegarían a Europa siglos después, a través de la Ruta de la Seda y el mundo islámico, transformando para siempre la escritura, la guerra y la navegación en todo el planeta.",
-    "imagenes": []
+    "imagenes": [
+      "/images/china/china2_invenciones-brujula-jpg_wikimedia.jpg"
+    ]
+  },
+  {
+    "id": "china-zhang-heng",
+    "region": "china",
+    "tipo": "evento",
+    "titulo": "Zhang Heng y el primer sismógrafo",
+    "fecha_inicio": 132,
+    "fecha_fin": null,
+    "descripcion_corta": "Zhang Heng (78–139 d. C.), astrónomo y matemático de la corte Han, presentó en el año 132 un aparato capaz de detectar terremotos lejanos: una vasija de bronce rodeada de ocho dragones, cada uno con una bola en la boca y un sapo debajo. La sacudida hacía caer la bola del dragón orientado hacia el temblor, indicando la dirección del seísmo aunque en la capital no se hubiera sentido nada. Las crónicas cuentan que detectó un terremoto a cientos de kilómetros días antes de que llegaran los mensajeros, para asombro de una corte que al principio dudó del invento. Zhang Heng construyó además una esfera armilar movida por agua, catalogó más de 2 500 estrellas, explicó correctamente los eclipses lunares como sombra de la Tierra y calculó π con notable aproximación. Es un buen ejemplo de hasta dónde llegó la ciencia china siglos antes que la europea.",
+    "imagenes": [
+      "/images/china/filo_zhangheng-20251004-tomb-of-zhang-heng-03-jpg_wikimedia.jpg"
+    ]
   }
 ]
