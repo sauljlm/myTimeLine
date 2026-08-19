@@ -17,6 +17,90 @@
     ]
   },
   {
+    "id": "roma-romulo-remo",
+    "region": "roma",
+    "tipo": "evento",
+    "titulo": "Rómulo y Remo: la fundación legendaria",
+    "fecha_inicio": -750,
+    "fecha_fin": null,
+    "descripcion_corta": "Según la leyenda que los propios romanos contaban, los gemelos Rómulo y Remo, hijos del dios Marte, fueron abandonados en el Tíber y amamantados por una loba hasta que un pastor los recogió. Ya adultos decidieron fundar una ciudad, discutieron sobre el lugar y los augurios, y Rómulo mató a Remo, dando nombre a Roma el 21 de abril del 753 a. C. según el cómputo tradicional. Para poblarla acogió a fugitivos y desterrados, y consiguió mujeres raptando a las sabinas, episodio que acabó en alianza entre ambos pueblos. La arqueología no confirma el relato, pero sí que en las colinas junto al Tíber hubo aldeas desde el siglo VIII a. C. que fueron uniéndose. Lo importante del mito es lo que revela de cómo se veían a sí mismos los romanos: un pueblo nacido de la guerra, de la mezcla y de la voluntad de fundar algo, no de un origen divino apacible.",
+    "imagenes": [
+      "/images/roma/roma2_romulo-lupa-capitolina-2c-rome-jpg_wikimedia.jpg"
+    ]
+  },
+  {
+    "id": "roma-numa-pompilio",
+    "region": "roma",
+    "tipo": "evento",
+    "titulo": "Numa Pompilio y la religión romana",
+    "fecha_inicio": -715,
+    "fecha_fin": null,
+    "descripcion_corta": "Al belicoso Rómulo le sucedió, según la tradición, Numa Pompilio, un sabino recordado justamente por lo contrario: sus más de cuarenta años de reinado transcurrieron en paz. A él se atribuye la organización de la religión del Estado, que en Roma nunca fue asunto privado sino institución pública. Creó los colegios sacerdotales, el cargo de pontífice máximo, las vestales encargadas de mantener el fuego sagrado, y fijó el calendario religioso con los días fastos y nefastos, aquellos en que podían o no tratarse los asuntos públicos. Los romanos entendían su relación con los dioses como un contrato: cumplido escrupulosamente el rito, cabía esperar la protección divina; de ahí su obsesión por la exactitud en las fórmulas y los augurios antes de cualquier batalla, elección o fundación.",
+    "imagenes": [
+      "/images/roma/roma2_numa-numa-pompilio-28ritratto-29-jpg_wikimedia.jpg"
+    ]
+  },
+  {
+    "id": "roma-tulo-anco",
+    "region": "roma",
+    "tipo": "evento",
+    "titulo": "Tulo Hostilio y Anco Marcio",
+    "fecha_inicio": -672,
+    "fecha_fin": null,
+    "descripcion_corta": "Entre el pacífico Numa y los reyes etruscos, la tradición sitúa a dos monarcas que ampliaron Roma en direcciones distintas. Tulo Hostilio fue el rey guerrero: destruyó Alba Longa, la ciudad de la que según el mito procedían los propios fundadores de Roma, y trasladó a sus habitantes al monte Celio, un método que Roma repetiría durante siglos —absorber al vencido en lugar de exterminarlo—. De su reinado procede el relato legendario del combate entre los tres Horacios romanos y los tres Curiacios albanos, resuelto por astucia cuando el único superviviente romano separó a sus enemigos heridos para vencerlos uno a uno. Anco Marcio, su sucesor, miró en cambio hacia el mar: extendió el dominio hasta la desembocadura del Tíber, fundó allí el puerto de Ostia, construyó el primer puente sobre el río y las primeras salinas, sentando las bases del comercio romano.",
+    "imagenes": [
+      "/images/roma/roma2_ancomarcio-ancus-martius-jpg_wikimedia.jpg"
+    ]
+  },
+  {
+    "id": "roma-etruscos",
+    "region": "roma",
+    "tipo": "evento",
+    "titulo": "Los etruscos y su herencia",
+    "fecha_inicio": -650,
+    "fecha_fin": null,
+    "descripcion_corta": "Antes de que Roma fuera nada, Etruria era la civilización dominante de la península itálica: ciudades amuralladas, dominio del hierro y del bronce, comercio con Grecia y Cartago, y una lengua que todavía hoy solo se entiende a medias. Roma les debe una parte enorme de lo que después consideró propio: el arco y la bóveda, las obras hidráulicas y el urbanismo trazado con rito, los símbolos del poder como los fasces —el haz de varas con el hacha— y la silla curul, el triunfo del general vencedor, los juegos de gladiadores y la adivinación por las entrañas de los animales. También varios de sus reyes fueron etruscos. Sus tumbas pintadas y sus sarcófagos, como el célebre de los esposos, muestran una sociedad donde las mujeres tenían una posición mucho más visible que en Grecia, algo que escandalizaba a los autores griegos.",
+    "imagenes": [
+      "/images/roma/roma2_etruscos-sarcophagus-of-the-spouses-from-villa-giulia-_wikimedia.jpg"
+    ]
+  },
+  {
+    "id": "roma-cloaca-maxima",
+    "region": "roma",
+    "tipo": "evento",
+    "titulo": "La Cloaca Máxima y los reyes etruscos",
+    "fecha_inicio": -600,
+    "fecha_fin": null,
+    "descripcion_corta": "Bajo los reyes etruscos, sobre todo Tarquinio Prisco, Roma dejó de ser un grupo de aldeas en colinas y se convirtió en ciudad. La zona baja entre las colinas era un pantano insalubre e inundable, y la solución fue la Cloaca Máxima: un gran canal de desagüe que drenaba el terreno y vertía en el Tíber, primero a cielo abierto y después abovedado en piedra. Desecado el pantano, ese espacio pudo pavimentarse y se convirtió en el Foro, el corazón político, religioso y comercial de Roma durante mil años. Se levantaron también el Circo Máximo y el gran templo de Júpiter en el Capitolio. Es un rasgo que define a Roma desde el principio: antes que templos deslumbrantes, infraestructura útil. Partes de la Cloaca Máxima siguen funcionando dentro del alcantarillado moderno de la ciudad, más de 2 500 años después.",
+    "imagenes": [
+      "/images/roma/roma2_cloaca-romacloacamaximapercorso-png_wikimedia.png"
+    ]
+  },
+  {
+    "id": "roma-servio-tulio",
+    "region": "roma",
+    "tipo": "evento",
+    "titulo": "Servio Tulio: el censo y la muralla",
+    "fecha_inicio": -578,
+    "fecha_fin": null,
+    "descripcion_corta": "El sexto rey, Servio Tulio, es recordado por una reforma que marcaría para siempre la política romana: dividió a los ciudadanos en clases según su patrimonio, no según su linaje, y organizó a partir de ahí tanto el ejército —cada clase debía costearse un equipo distinto— como el voto, mediante los comicios centuriados. El sistema era deliberadamente desigual: las centurias de los más ricos votaban primero y sumaban mayoría antes de que llegara el turno de los pobres. Para saber quién estaba en cada clase instauró el censo, un recuento periódico de personas y bienes que se convirtió en una de las instituciones más características del Estado romano. Se le atribuye también la primera gran muralla de la ciudad. Su sucesor, Tarquinio el Soberbio, gobernó de forma tiránica y fue expulsado en 509 a. C., dando paso a la República.",
+    "imagenes": [
+      "/images/roma/roma2_serviotulio-servius-by-rouille-jpg_wikimedia.jpg"
+    ]
+  },
+  {
+    "id": "roma-tarquinio-soberbio",
+    "region": "roma",
+    "tipo": "evento",
+    "titulo": "Tarquinio el Soberbio y el fin de la monarquía",
+    "fecha_inicio": -534,
+    "fecha_fin": null,
+    "descripcion_corta": "El séptimo y último rey, Tarquinio el Soberbio, llegó al trono asesinando a su suegro Servio Tulio y gobernó sin consultar al Senado, ejecutando o desterrando a los nobles que se le oponían: el apodo se lo pusieron por eso. Emprendió grandes obras, entre ellas el templo de Júpiter Capitolino, pero pagándolas con trabajos forzados que aumentaron el descontento. Según el relato de Tito Livio, la chispa final fue un crimen privado: su hijo Sexto violó a Lucrecia, una matrona romana, que se quitó la vida tras denunciarlo. Encabezada por Bruto, la aristocracia expulsó a la familia real en 509 a. C. y sustituyó al rey por dos cónsules elegidos cada año, que se vigilaban mutuamente. Roma quedó con un rechazo casi obsesivo a la idea de monarquía: cinco siglos después, acusar a alguien de querer ser rey seguía siendo el reproche político más grave, como comprobó Julio César.",
+    "imagenes": [
+      "/images/roma/roma2_tarquinio-tarquinius-superbus-jpg_wikimedia.jpg"
+    ]
+  },
+  {
     "id": "roma-republica",
     "region": "roma",
     "tipo": "evento",
@@ -38,6 +122,18 @@
     ]
   },
   {
+    "id": "roma-secesion-plebe",
+    "region": "roma",
+    "tipo": "evento",
+    "titulo": "La secesión de la plebe y los tribunos",
+    "fecha_inicio": -494,
+    "fecha_fin": null,
+    "descripcion_corta": "Expulsados los reyes, el poder quedó en manos de los patricios, las familias aristocráticas que controlaban el Senado y las magistraturas. La plebe —la mayoría de la población: campesinos, artesanos, comerciantes— cargaba con el servicio militar y las deudas sin poder acceder a los cargos. En 494 a. C. recurrió a un arma insólita y eficaz: abandonar la ciudad en masa y retirarse al Monte Sacro, dejando a Roma sin ejército ni trabajadores. La huelga general funcionó. De ella nació el tribuno de la plebe, un magistrado inviolable con poder de veto sobre las decisiones que perjudicaran al pueblo. El conflicto patricio-plebeyo siguió dos siglos y se resolvió a base de secesiones sucesivas que fueron arrancando derechos: las Doce Tablas, el matrimonio mixto, el acceso al consulado y, en 287 a. C., el reconocimiento de que los acuerdos de la plebe obligaban a todos.",
+    "imagenes": [
+      "/images/roma/roma2_plebe-secessio-plebis-jpg_wikimedia.jpg"
+    ]
+  },
+  {
     "id": "roma-ley-de-las-doce-tablas",
     "region": "roma",
     "tipo": "evento",
@@ -50,15 +146,123 @@
     ]
   },
   {
-    "id": "roma-julio-cesar-y-las-galias",
+    "id": "roma-saqueo-galo",
     "region": "roma",
     "tipo": "evento",
-    "titulo": "Julio César y las Guerras de las Galias",
-    "fecha_inicio": -58,
-    "fecha_fin": -49,
-    "descripcion_corta": "Entre el 58 y el 51 a. C., Julio César conquistó la Galia (la actual Francia) en una larga serie de campañas militares que le dieron enorme prestigio, riqueza y el apoyo del pueblo romano, además de un ejército personal extremadamente leal. El 10 de enero del 49 a. C., desafiando la prohibición del senado de cruzar con sus tropas el río Rubicón (el límite entre su provincia y el territorio bajo jurisdicción directa de Roma), César avanzó hacia Italia con la Legión XIII, desatando una guerra civil que ganaría en el 45 a. C., convirtiéndose en dictador perpetuo de Roma. Su célebre frase \"alea iacta est\" (\"la suerte está echada\") se pronunció, según la tradición, en ese mismo cruce.",
+    "titulo": "El saqueo galo de Roma",
+    "fecha_inicio": -390,
+    "fecha_fin": null,
+    "descripcion_corta": "Hacia 390 a. C. un ejército galo dirigido por Breno aplastó a las legiones en la batalla del Alia y entró en Roma casi sin resistencia. Los galos saquearon e incendiaron la ciudad, y solo el Capitolio resistió: según el relato tradicional, los graznidos de los gansos sagrados de Juno alertaron de un asalto nocturno. Roma acabó pagando un rescate en oro, y cuando los romanos protestaron porque las pesas estaban trucadas, Breno arrojó su espada sobre la balanza con la frase que se hizo proverbial: vae victis, ay de los vencidos. Fue la humillación más profunda de su historia temprana y dejó un miedo a los galos que duraría siglos. También sirvió de lección: Roma reconstruyó la ciudad, levantó una nueva muralla y reformó su ejército, sustituyendo la falange rígida por la formación manipular, más flexible.",
     "imagenes": [
-      "/images/roma/roma2_lionel-royer-vercingetorix-throwing-down-his-weapons-at_wikimedia.jpg"
+      "/images/roma/roma2_saqueogalo-paul-jamin-le-brenn-et-sa-part-de-butin-1893-_wikimedia.jpg"
+    ]
+  },
+  {
+    "id": "roma-guerras-samnitas",
+    "region": "roma",
+    "tipo": "evento",
+    "titulo": "Las guerras samnitas",
+    "fecha_inicio": -343,
+    "fecha_fin": -290,
+    "descripcion_corta": "Entre 343 y 290 a. C. Roma libró tres guerras contra los samnitas, un pueblo montañés del centro-sur de Italia, por el control de la península. Fueron largas y duras, con episodios humillantes como el de las Horcas Caudinas (321 a. C.), donde un ejército romano entero quedó atrapado en un desfiladero y tuvo que rendirse y pasar bajo el yugo. De esa experiencia salió una Roma transformada: adoptó el escudo alargado y el pilum, perfeccionó la legión manipular capaz de combatir en terreno quebrado, y construyó calzadas y colonias para asegurar lo conquistado. Al terminar, dominaba la mayor parte de Italia, no solo por las armas sino por su forma de organizar la victoria: en lugar de arrasar a los vencidos, los ligaba mediante tratados y les ofrecía grados de ciudadanía, convirtiendo enemigos en aliados que aportaban tropas.",
+    "imagenes": [
+      "/images/roma/roma2_samnitas-samnite-soldiers-from-a-tomb-frieze-in-nola-4_wikimedia.jpg"
+    ]
+  },
+  {
+    "id": "roma-via-apia",
+    "region": "roma",
+    "tipo": "evento",
+    "titulo": "La Vía Apia y las calzadas romanas",
+    "fecha_inicio": -312,
+    "fecha_fin": null,
+    "descripcion_corta": "En 312 a. C., en plena guerra contra los samnitas, el censor Apio Claudio el Ciego mandó construir una calzada de Roma a Capua para mover tropas y suministros con rapidez: la Vía Apia, la regina viarum. Su construcción muestra el método romano: capas sucesivas de piedra, grava y mortero rematadas por grandes losas encajadas, con bombeo para evacuar el agua, cunetas laterales y un trazado obstinadamente recto que atravesaba pantanos y colinas antes que rodearlos. Más tarde se prolongó hasta Brindisi, el puerto hacia Grecia y Oriente. El mismo censor levantó el primer acueducto de la ciudad, el Aqua Appia. Con el tiempo la red superó los 80 000 km de vías principales, permitió al correo imperial cubrir distancias enormes en pocos días y sirvió, mucho después de caído el Imperio, como esqueleto de las rutas europeas.",
+    "imagenes": [
+      "/images/roma/roma2_viaapia-via-appia-map-jpg_wikimedia.jpg"
+    ]
+  },
+  {
+    "id": "roma-primera-guerra-punica",
+    "region": "roma",
+    "tipo": "evento",
+    "titulo": "La Primera Guerra Púnica",
+    "fecha_inicio": -264,
+    "fecha_fin": -241,
+    "descripcion_corta": "Dueña ya de Italia, Roma chocó con Cartago, la gran potencia comercial y naval del Mediterráneo occidental, por el control de Sicilia. El conflicto (264–241 a. C.) fue el más largo de la Antigüedad hasta entonces, y planteó a Roma un problema nuevo: era una potencia terrestre sin flota frente a los mejores marinos del mundo. La solución fue característica: copiaron un barco cartaginés encallado, construyeron una flota en pocos meses y compensaron su falta de pericia naval con el corvus, un puente de abordaje con garfio que enganchaba la nave enemiga y convertía el combate marítimo en una lucha de infantería, donde eran superiores. Tras perder cientos de naves en batallas y tormentas y reconstruir la flota una y otra vez, Roma venció en las islas Egadas. Cartago cedió Sicilia, que se convirtió en su primera provincia.",
+    "imagenes": [
+      "/images/roma/roma2_punica1-first-punic-war-264-bc-it-jpg_wikimedia.jpg"
+    ]
+  },
+  {
+    "id": "roma-anibal-alpes",
+    "region": "roma",
+    "tipo": "evento",
+    "titulo": "Aníbal cruza los Alpes",
+    "fecha_inicio": -218,
+    "fecha_fin": null,
+    "descripcion_corta": "En 218 a. C. el general cartaginés Aníbal Barca hizo lo que Roma creía imposible: en vez de esperar el desembarco romano en África o Hispania, partió de Cartago Nova con unos 50 000 hombres, caballería y elefantes de guerra, cruzó los Pirineos, atravesó la Galia y superó los Alpes en pleno otoño, entre desprendimientos, nieve y ataques de las tribus de montaña. Perdió por el camino a casi la mitad de su ejército y a casi todos los elefantes, pero apareció en la llanura del Po donde nadie lo esperaba y derrotó a los romanos en Tesino y Trebia. Su plan no era tomar Roma, sino romper el sistema de alianzas italiano y dejarla aislada. Permaneció quince años combatiendo en Italia sin ser vencido en campo abierto, y sigue estudiándose como uno de los mayores estrategas de la historia.",
+    "imagenes": [
+      "/images/roma/roma2_anibal-hannibal-barca-bust-from-capua-photo-jpg_wikimedia.jpg"
+    ]
+  },
+  {
+    "id": "roma-batalla-cannas",
+    "region": "roma",
+    "tipo": "evento",
+    "titulo": "La batalla de Cannas",
+    "fecha_inicio": -216,
+    "fecha_fin": null,
+    "descripcion_corta": "El 2 de agosto de 216 a. C., en Cannas (Apulia), Aníbal se enfrentó a un ejército romano que casi le doblaba en número. Dispuso su centro adelantado en forma curva y con las tropas más débiles, de modo que cediera lentamente ante el empuje romano mientras su infantería veterana aguantaba en las alas y su caballería barría la de los flancos. Los romanos avanzaron creyendo que vencían y acabaron rodeados por completo, tan apretados que muchos no podían ni levantar las armas. Fue una de las mayores catástrofes militares de la historia: las fuentes hablan de entre 50 000 y 70 000 muertos en un solo día, incluido un cónsul y buena parte del Senado. Roma se negó a negociar, prohibió incluso llorar en público, y adoptó la estrategia de desgaste de Fabio Máximo, evitando la batalla campal. La maniobra envolvente de Cannas se sigue enseñando en las academias militares.",
+    "imagenes": [
+      "/images/roma/roma2_cannas-annibale-a-canne-jpg_wikimedia.jpg"
+    ]
+  },
+  {
+    "id": "roma-zama-escipion",
+    "region": "roma",
+    "tipo": "evento",
+    "titulo": "Zama y la victoria de Escipión",
+    "fecha_inicio": -202,
+    "fecha_fin": null,
+    "descripcion_corta": "Publio Cornelio Escipión, que había perdido a su padre y a su tío en la guerra, entendió que Aníbal no sería derrotado en Italia. Conquistó primero las bases cartaginesas de Hispania y después desembarcó en África, obligando a Cartago a llamar de vuelta a su general tras quince años de campaña. Ambos se encontraron en Zama en 202 a. C. Escipión había aprendido del enemigo: abrió pasillos en su formación para que los elefantes cartagineses la atravesaran sin causar daño, y ganó gracias a la caballería númida, que esta vez luchaba de su lado. La derrota terminó la guerra: Cartago perdió su flota y sus territorios y quedó sometida a Roma, que se convirtió en la potencia dominante del Mediterráneo. Escipión recibió el sobrenombre de Africano; Aníbal huyó a Oriente y acabó envenenándose para no caer prisionero.",
+    "imagenes": [
+      "/images/roma/roma2_zama-slaget-ved-zama-cornelis-cort-2c-1567-jpg_wikimedia.jpg"
+    ]
+  },
+  {
+    "id": "roma-destruccion-cartago",
+    "region": "roma",
+    "tipo": "evento",
+    "titulo": "La destrucción de Cartago",
+    "fecha_inicio": -146,
+    "fecha_fin": null,
+    "descripcion_corta": "Medio siglo después, Cartago se había recuperado económicamente aunque ya no era una amenaza militar. En el Senado, Catón el Viejo terminaba cada discurso, hablara de lo que hablara, con la misma frase: además, opino que Cartago debe ser destruida. Roma le declaró la guerra con un pretexto y exigió condiciones imposibles: entregar las armas primero y abandonar la ciudad después. Los cartagineses resistieron un asedio de tres años y una lucha casa por casa. En 146 a. C. Escipión Emiliano tomó la ciudad, la arrasó y vendió como esclavos a los supervivientes. Ese mismo año Roma destruía Corinto: el Mediterráneo quedaba bajo su control sin rival posible. La leyenda de que sembraron sal en el suelo es una invención moderna; lo cierto es que un siglo después Julio César refundó Cartago como colonia romana, y llegó a ser una de las mayores ciudades del Imperio.",
+    "imagenes": [
+      "/images/roma/roma2_cartago-vitrine-3e-guerre-punique-jpg_wikimedia.jpg"
+    ]
+  },
+  {
+    "id": "roma-hermanos-graco",
+    "region": "roma",
+    "tipo": "evento",
+    "titulo": "Los hermanos Graco y la cuestión agraria",
+    "fecha_inicio": -133,
+    "fecha_fin": -121,
+    "descripcion_corta": "Las conquistas hicieron inmensamente rica a la aristocracia y arruinaron al campesinado: los soldados pasaban años fuera mientras sus tierras se perdían y eran absorbidas por grandes latifundios trabajados con los esclavos capturados en las guerras. Tiberio Graco, tribuno en 133 a. C., propuso repartir tierras públicas acaparadas ilegalmente entre los ciudadanos sin recursos. La oposición del Senado fue feroz y acabó en un linchamiento: Tiberio y unos trescientos partidarios fueron asesinados en plena calle. Su hermano Cayo retomó el programa diez años después, con reparto de grano subvencionado y colonias, y terminó igual, muerto en 121 a. C. junto a miles de seguidores. Fue la primera vez que la violencia política resolvía un conflicto en Roma, y abrió un siglo de guerras civiles que terminaría con la propia República.",
+    "imagenes": [
+      "/images/roma/roma2_gracos-eugene-guillaume-the-gracchi-28cropped-29-jpg_wikimedia.jpg"
+    ]
+  },
+  {
+    "id": "roma-reformas-mario",
+    "region": "roma",
+    "tipo": "evento",
+    "titulo": "Las reformas de Mario",
+    "fecha_inicio": -107,
+    "fecha_fin": null,
+    "descripcion_corta": "Cayo Mario, un 'hombre nuevo' sin antepasados ilustres, llegó a cónsul siete veces y transformó el ejército romano. Ante la falta de reclutas con propiedades suficientes, abrió el alistamiento a los ciudadanos sin patrimonio, que hasta entonces quedaban fuera: el Estado les daba el equipo y, al licenciarse tras años de servicio, esperaban tierras. Uniformó el armamento, hizo que cada soldado cargara con su impedimenta —de ahí el apodo de 'mulos de Mario'— y convirtió el águila en el estandarte de la legión. El resultado fue un ejército profesional, disciplinado y muy superior, que salvó a Italia de la invasión de cimbrios y teutones. Pero tuvo una consecuencia política enorme: esos soldados dependían de su general, no del Senado, para cobrar su recompensa, y a él le eran leales. Ahí está la raíz de las guerras civiles que siguieron.",
+    "imagenes": [
+      "/images/roma/roma2_mario-bust-of-marius-28gl-319-29-glyptothek-munich-_wikimedia.jpg"
     ]
   },
   {
@@ -83,6 +287,78 @@
     "descripcion_corta": "La legión, la unidad militar más grande e icónica del ejército romano, estaba compuesta por unos 5000 soldados de infantería (legionarios), organizados en cohortes de aproximadamente 480 hombres, que a su vez se dividían en centurias de 80. Esta estructura flexible permitía a las legiones combatir como un bloque compacto o dividirse en unidades más pequeñas según la situación del combate. Solo los ciudadanos romanos podían alistarse como legionarios, a cambio de paga, tierras al retirarse y la posibilidad de ascenso social; esta disciplina, organización jerárquica y logística superó a la de cualquier ejército de su época y sirvió de modelo para ejércitos posteriores hasta la actualidad.",
     "imagenes": [
       "/images/roma/roma2_trajan-s-column-nmr-panel-057-a_wikimedia.jpg"
+    ]
+  },
+  {
+    "id": "roma-sila-guerra-civil",
+    "region": "roma",
+    "tipo": "evento",
+    "titulo": "Sila y la primera guerra civil",
+    "fecha_inicio": -82,
+    "fecha_fin": null,
+    "descripcion_corta": "El enfrentamiento entre Mario, apoyado por los populares, y su antiguo lugarteniente Sila, respaldado por los optimates del Senado, llevó a lo impensable: en 88 a. C. Sila marchó con sus legiones sobre la propia Roma, algo que ninguna ley contemplaba porque a nadie se le había ocurrido. Tras vencer a Mitrídates en Oriente, regresó y tomó la ciudad de nuevo en 82 a. C., se hizo nombrar dictador sin límite de tiempo e impuso las proscripciones: listas públicas de enemigos a los que cualquiera podía matar quedándose con parte de sus bienes. Miles de personas murieron y muchas familias fueron arruinadas. Reforzó el poder del Senado, y después hizo algo insólito: renunció al poder y se retiró. Pero el precedente estaba sentado, y una generación después César, que de joven estuvo en aquellas listas, cruzaría el Rubicón.",
+    "imagenes": [
+      "/images/roma/roma2_sila-q-pompeius-rufus-2c-denarius-2c-54-bc-2c-rrc-_wikimedia.jpg"
+    ]
+  },
+  {
+    "id": "roma-ciceron",
+    "region": "roma",
+    "tipo": "evento",
+    "titulo": "Cicerón y la filosofía en latín",
+    "fecha_inicio": -63,
+    "fecha_fin": null,
+    "descripcion_corta": "Marco Tulio Cicerón (106–43 a. C.) fue el mayor orador de Roma, cónsul en 63 a. C. y defensor de la República frente a quienes querían concentrar el poder, postura que acabó costándole la vida tras la muerte de César. Su aportación intelectual fue doble. Por un lado creó el vocabulario filosófico latino: palabras como cualidad, esencia, moral o evidencia son traducciones suyas de términos griegos, y a través del latín pasaron a las lenguas modernas. Por otro, divulgó para el público romano las escuelas griegas —estoicismo, epicureísmo, escepticismo académico— en obras como Sobre la naturaleza de los dioses, Sobre los deberes o Sobre la república, donde defendió la existencia de una ley natural común a todos los seres humanos, por encima de las leyes de cada ciudad. Su prosa fue el modelo del buen latín durante siglos y su redescubrimiento impulsó el humanismo renacentista.",
+    "imagenes": [
+      "/images/roma/filo_ciceron-bust-of-cicero-281st-cent-bc-29-palazzo-nuovo_wikimedia.jpg"
+    ]
+  },
+  {
+    "id": "roma-julio-cesar-y-las-galias",
+    "region": "roma",
+    "tipo": "evento",
+    "titulo": "Julio César y las Guerras de las Galias",
+    "fecha_inicio": -58,
+    "fecha_fin": -49,
+    "descripcion_corta": "Entre el 58 y el 51 a. C., Julio César conquistó la Galia (la actual Francia) en una larga serie de campañas militares que le dieron enorme prestigio, riqueza y el apoyo del pueblo romano, además de un ejército personal extremadamente leal. El 10 de enero del 49 a. C., desafiando la prohibición del senado de cruzar con sus tropas el río Rubicón (el límite entre su provincia y el territorio bajo jurisdicción directa de Roma), César avanzó hacia Italia con la Legión XIII, desatando una guerra civil que ganaría en el 45 a. C., convirtiéndose en dictador perpetuo de Roma. Su célebre frase \"alea iacta est\" (\"la suerte está echada\") se pronunció, según la tradición, en ese mismo cruce.",
+    "imagenes": [
+      "/images/roma/roma2_lionel-royer-vercingetorix-throwing-down-his-weapons-at_wikimedia.jpg"
+    ]
+  },
+  {
+    "id": "roma-lucrecio",
+    "region": "roma",
+    "tipo": "evento",
+    "titulo": "Lucrecio y el atomismo epicúreo",
+    "fecha_inicio": -55,
+    "fecha_fin": null,
+    "descripcion_corta": "Lucrecio escribió hacia mediados del siglo I a. C. De rerum natura ('Sobre la naturaleza de las cosas'), un poema en seis libros que expone en verso la física de Demócrito y la filosofía de Epicuro. Sostiene que todo cuanto existe son átomos y vacío; que los átomos caen y a veces se desvían levemente (el clinamen), lo que explica que haya combinaciones y también libertad; que el alma es material y muere con el cuerpo; y que los dioses, si existen, no se ocupan de nosotros. Su objetivo era terapéutico: liberar al lector del miedo a los dioses y a la muerte, la raíz de la infelicidad humana. Contiene intuiciones asombrosas para su tiempo sobre la evolución de las especies y el origen del lenguaje y de la sociedad. Perdido durante la Edad Media, un único manuscrito reapareció en 1417 y su lectura influyó en Galileo, Newton, Montaigne y buena parte del pensamiento moderno.",
+    "imagenes": [
+      "/images/roma/filo_lucrecio-lucretius1-png_wikimedia.png"
+    ]
+  },
+  {
+    "id": "roma-idus-de-marzo",
+    "region": "roma",
+    "tipo": "evento",
+    "titulo": "El asesinato de Julio César",
+    "fecha_inicio": -44,
+    "fecha_fin": null,
+    "descripcion_corta": "Tras vencer a Pompeyo en la guerra civil, César acumuló un poder sin precedentes: dictador perpetuo, control del ejército y del calendario —la reforma juliana, con año de 365 días y bisiesto, es suya y sigue siendo la base del nuestro—, además de reformas de deudas, colonias para veteranos y ampliación del Senado. Muchos senadores vieron en ello el fin de la República y el regreso de la monarquía. El 15 de marzo del 44 a. C., los idus, un grupo de unos sesenta conjurados encabezados por Bruto y Casio lo apuñaló en una sesión del Senado. El magnicidio no restauró nada: desató una nueva guerra civil entre los conjurados y los herederos de César, y el resultado final fue exactamente lo que temían evitar, un poder personal permanente en manos de su sobrino nieto Octavio.",
+    "imagenes": [
+      "/images/roma/roma2_idusmarzo-vincenzo-camuccini-la-morte-di-cesare-28cropp_wikimedia.jpg"
+    ]
+  },
+  {
+    "id": "roma-batalla-accio",
+    "region": "roma",
+    "tipo": "evento",
+    "titulo": "La batalla de Accio",
+    "fecha_inicio": -31,
+    "fecha_fin": null,
+    "descripcion_corta": "El 2 de septiembre del 31 a. C., frente a la costa de Accio (Grecia), se enfrentaron las flotas de Octavio, dirigida por su general Agripa, y la de Marco Antonio y Cleopatra VII de Egipto. Las naves de Antonio eran mayores y más pesadas; las de Octavio, ligeras y mejor maniobradas. En mitad del combate Cleopatra rompió la línea con su escuadra y Antonio la siguió, dejando al resto de su flota a su suerte. Ambos se suicidaron al año siguiente en Alejandría, y Egipto pasó a ser provincia romana. Accio cerró un siglo de guerras civiles y dejó a Octavio como dueño único del mundo romano. En 27 a. C. el Senado le concedió el título de Augusto: mantuvo las formas de la República —el Senado, los cónsules, las elecciones— mientras concentraba en su persona el poder real. Empezaba el Imperio y con él la Pax Romana.",
+    "imagenes": [
+      "/images/roma/roma2_accio-castro-battle-of-actium-jpg_wikimedia.jpg"
     ]
   },
   {
@@ -113,6 +389,30 @@
     ]
   },
   {
+    "id": "roma-seneca",
+    "region": "roma",
+    "tipo": "evento",
+    "titulo": "Séneca y el estoicismo romano",
+    "fecha_inicio": 62,
+    "fecha_fin": null,
+    "descripcion_corta": "Nacido en Córdoba (Hispania), Lucio Anneo Séneca (c. 4 a. C.–65 d. C.) fue el filósofo estoico más leído de Roma y, a la vez, un hombre riquísimo y preceptor y consejero del emperador Nerón, contradicción que sus enemigos no dejaron de señalar. En sus Cartas a Lucilio y en tratados como Sobre la brevedad de la vida o Sobre la ira, el estoicismo abandona la especulación y se vuelve consejo práctico: no malgastar el tiempo, distinguir lo que está en nuestra mano de lo que no, prepararse mentalmente para la adversidad, tratar con humanidad a los esclavos. Cuando Nerón lo acusó de conspirar, se quitó la vida en el 65 con la serenidad que había predicado. Con Epicteto —un esclavo liberto— y el emperador Marco Aurelio forma la tríada del estoicismo romano, la corriente antigua que más se sigue leyendo hoy fuera de la academia.",
+    "imagenes": [
+      "/images/roma/filo_seneca-c-c3-b3rdoba-2015-10-23-2668-2825945264960-29_wikimedia.jpg"
+    ]
+  },
+  {
+    "id": "roma-incendio-neron",
+    "region": "roma",
+    "tipo": "evento",
+    "titulo": "El incendio de Roma y Nerón",
+    "fecha_inicio": 64,
+    "fecha_fin": null,
+    "descripcion_corta": "En julio del año 64 un incendio se declaró junto al Circo Máximo y devastó Roma durante seis días: de sus catorce distritos, tres quedaron destruidos por completo y solo cuatro se salvaron. La ciudad era un laberinto de insulae de varios pisos, con estructura de madera y calles estrechas, perfecto para propagar el fuego. Corrió el rumor de que el propio Nerón lo había provocado para reconstruir la ciudad a su gusto —la historia de que tocaba la lira mientras Roma ardía viene de Tácito, que la recoge como habladuría—, y para desviar las sospechas culpó a los cristianos, entonces una secta minoritaria, iniciando la primera persecución. Tras el desastre Nerón dictó normas de construcción modernas: calles más anchas, límite de altura, materiales incombustibles y patios de separación entre edificios. También aprovechó el solar despejado para levantarse la Domus Aurea, un palacio descomunal que se le reprochó amargamente.",
+    "imagenes": [
+      "/images/roma/roma2_incendio-robert-2c-hubert-incendie-c3-a0-rome-jpg_wikimedia.jpg"
+    ]
+  },
+  {
     "id": "roma-dinastia-flavia",
     "region": "roma",
     "tipo": "evento",
@@ -126,56 +426,27 @@
     ]
   },
   {
-    "id": "roma-crisis-del-siglo-3",
+    "id": "roma-plinio",
     "region": "roma",
     "tipo": "evento",
-    "titulo": "Crisis del siglo 3",
-    "fecha_inicio": 313,
+    "titulo": "Plinio el Viejo y la Historia Natural",
+    "fecha_inicio": 77,
     "fecha_fin": null,
-    "descripcion_corta": "Fue un periodo de 50 años donde se producen fuertes presiones de los pueblos exteriores, y una fuerte crisis ecónomica, política, y social en el interior del Imperio. Tras una fase de Anarquia militar en donde la seguridad y la unidad del imperio peligraba, diferentes emperadores ligraron reunificar el imperio. La crisis se estabiliza con el ascenso del emperador Diocleciano que llevo a cabo un importante programa de reformas, comprendió que el imperio era demasiado grande para controlarlo, por lo que decidio trofearlo. Este periodo se conoce como la Tetrarquía o gobierno de 4 o sea que el imperio se dividia en 4 y cada uno gobernaba su parte. Se produjo la gran persecución de Dioclesiano, que fue la ultima y posiblemente la más sangrienta persecución de cristianos durante el imperio Romano. El sistema de la tetrarquía desenvoco en una lucha entre gobernantes en donde solo podia quedar un emperador, quien fue Constantino el grande quien legalizó la religión cristiana en el año 313. Convoco el primer concilio ecumenico universal en el año 325, donde se unifican los dogmas y se sientan las bases del credo oficial. La capital se pasa a Constantinopla.",
+    "descripcion_corta": "Plinio el Viejo (23–79 d. C.), militar y administrador, dedicó cada rato libre a leer y tomar notas hasta reunir en la Historia Natural la mayor enciclopedia de la Antigüedad: 37 libros publicados hacia el año 77 que recogen unos 20 000 datos sobre astronomía, geografía, zoología, botánica, medicina, minería y arte, citando a más de 400 autores. Es el primer intento conocido de reunir todo el saber disponible en una obra ordenada y con índice, y durante siglos fue la referencia sobre el mundo natural, aunque mezcla observaciones exactas con leyendas sobre pueblos y animales fabulosos. Murió coherente con su curiosidad: cuando el Vesubio sepultó Pompeya en el 79, acercó su flota a la costa para observar de cerca la erupción y ayudar a evacuar gente, y allí murió asfixiado. Su sobrino, Plinio el Joven, dejó el relato de aquel día en dos cartas célebres.",
     "imagenes": [
-      "/images/roma/roma2_map-of-ancient-rome-271-ad_wikimedia.svg"
+      "/images/roma/filo_plinio-plinyelder-jpg_wikimedia.jpg"
     ]
   },
   {
-    "id": "roma-cristianizacion",
+    "id": "roma-coliseo",
     "region": "roma",
     "tipo": "evento",
-    "titulo": "Cristianización",
-    "fecha_inicio": 380,
+    "titulo": "El Coliseo",
+    "fecha_inicio": 80,
     "fecha_fin": null,
-    "descripcion_corta": "El emperador Teodosio el Grande tomó la decisión de convertir el cristianismo en la única religión oficial. Durante más de tres siglos, los cristianos fueron uno de los colectivos más perseguidos del Imperio Romano, ya que podían hacer peligrar pilares esenciales para la estabilidad del dominio romano, como el culto a los emperadores, un sistema político y económico que dependía de la guerra y una desigualdad clara entre clases, pueblos y sexos. Durante este periodo el imperio Romano inicia una epoca de declive. Tras la muerte del emperador Teodosio Roma se divide en dos (Oriente y Oxidente) y se reparte entre sus 2 hijos. Durante este periodo Roma era atacado por Varbaros. En el año 476 se produce la caida del imperio romano, pero el imperio de Oriente perduro por 1000 años más, se conoce como imperio Bizantino y cae en la caida de constantinopla 1453",
+    "descripcion_corta": "El Anfiteatro Flavio, inaugurado en el año 80 por Tito, se levantó precisamente sobre el lago artificial de la Domus Aurea de Nerón: un gesto político que devolvía al pueblo el espacio que un emperador odiado se había apropiado. Con capacidad para unos 50 000 espectadores, es una obra maestra de ingeniería: hormigón y travertino, ochenta arcos de acceso numerados que permitían llenarlo y vaciarlo en minutos, un sistema de toldos (velarium) manejado por marineros para dar sombra, y bajo la arena un sótano con jaulas, rampas y montacargas para hacer aparecer fieras y decorados. Allí se celebraron combates de gladiadores, cacerías y ejecuciones durante casi cinco siglos, financiados por emperadores y magistrados como forma de ganarse al pueblo: el 'pan y circo' que denunciaba el poeta Juvenal.",
     "imagenes": [
-      "/images/roma/roma_screen-shot-2024-09-25-at-22-08-43-1_node-138-7.png",
-      "/images/roma/roma_screen-shot-2024-09-25-at-23-00-50-1_node-141-12.png",
-      "/images/roma/roma_001-415-388-1_node-141-13.png",
-      "/images/roma/roma_saiba-tudo-sobre-a-comemoracao-do-aniversario-de-roma-na-italia-1080x675-1_node-141-14.png",
-      "/images/roma/roma_acueducto-segovia-98-1_node-141-15.png"
-    ]
-  },
-  {
-    "id": "roma-caida-del-imperio-romano",
-    "region": "roma",
-    "tipo": "evento",
-    "titulo": "Caída del imperio Romano",
-    "fecha_inicio": 476,
-    "fecha_fin": null,
-    "descripcion_corta": "La caída del Imperio Romano ocurrió en 476 d.C. cuando el último emperador de Occidente fue depuesto. Fue resultado de crisis internas como corrupción y problemas económicos, y de invasiones de tribus bárbaras. Este colapso marcó el fin de Roma Occidental y el inicio de la Edad Media en Europa.",
-    "imagenes": [
-      "/images/roma/roma_screen-shot-2024-09-25-at-22-56-53-1_node-141-11.png",
-      "/images/roma/roma_f-cole-thomas-the-course-of-empire-destruction-1836-apert-1_node-141-17.png"
-    ]
-  },
-  {
-    "id": "roma-barbaros-invasiones-barbaras",
-    "region": "roma",
-    "tipo": "evento",
-    "titulo": "Barbaros . invaciones Barbaras",
-    "fecha_inicio": 476,
-    "fecha_fin": null,
-    "descripcion_corta": "Los bárbaros eran grupos tribales que vivían fuera de las fronteras del Imperio Romano, y fueron llamados así por los romanos debido a sus lenguas y costumbres diferentes. Provenían de regiones como Germania, Escandinavia, y las estepas euroasiáticas. Entre ellos destacaban los godos, vándalos, hunos, sajones y francos. Estos pueblos protagonizaron varias invasiones durante la crisis del Imperio Romano, contribuyendo a su caída en el siglo V. A pesar de ser considerados incivilizados por los romanos, los bárbaros tenían sus propias estructuras sociales y culturales complejas.",
-    "imagenes": [
-      "/images/roma/roma_invasores-1_node-141-23.png"
+      "/images/roma/roma2_coliseo-europe-day-2024-53718129954-jpg_wikimedia.jpg"
     ]
   },
   {
@@ -191,6 +462,54 @@
       "Plebeyos libres",
       "Libertos (esclavos liberados)",
       "Esclavos"
+    ]
+  },
+  {
+    "id": "roma-trajano",
+    "region": "roma",
+    "tipo": "evento",
+    "titulo": "Trajano y la máxima extensión del Imperio",
+    "fecha_inicio": 117,
+    "fecha_fin": null,
+    "descripcion_corta": "Trajano, nacido en Itálica (cerca de la actual Sevilla), fue el primer emperador procedente de las provincias, señal de hasta qué punto el Imperio había dejado de ser cosa solo de italianos. Gobernó del 98 al 117 y bajo su mando Roma alcanzó su mayor extensión: unos cinco millones de kilómetros cuadrados, desde Britania hasta el golfo Pérsico, tras conquistar la Dacia —el oro de sus minas financió obras públicas por todo el Imperio— y campañas en Armenia y Mesopotamia. Con el botín construyó el Foro de Trajano, un puerto en Ostia, calzadas y acueductos, y creó los alimenta, un fondo público para mantener y educar a niños pobres de Italia. La Columna Trajana narra la guerra dacia en una espiral de relieves de 200 metros, una de las mejores fuentes visuales sobre el ejército romano. El Senado lo recordó como optimus princeps, el mejor gobernante.",
+    "imagenes": [
+      "/images/roma/roma2_trajano-traianus-glyptothek-munich-336-jpg_wikimedia.jpg"
+    ]
+  },
+  {
+    "id": "roma-muro-adriano",
+    "region": "roma",
+    "tipo": "evento",
+    "titulo": "El muro de Adriano y la frontera",
+    "fecha_inicio": 122,
+    "fecha_fin": null,
+    "descripcion_corta": "Adriano, sucesor de Trajano, cambió de política: renunció a las conquistas más recientes y difíciles de sostener y decidió fijar y fortificar las fronteras. El símbolo de ese giro es el muro que mandó levantar en el norte de Britania a partir del 122: unos 117 kilómetros de costa a costa, con fuertes cada milla romana, torres de vigilancia, foso y camino militar. No era una muralla infranqueable como suele imaginarse, sino un sistema de control: marcaba dónde acababa el Imperio, regulaba el paso de personas y mercancías, y permitía cobrar impuestos y reaccionar ante incursiones. Adriano dedicó buena parte de su reinado a recorrer las provincias inspeccionando ejércitos y ciudades, y a promover la cultura griega. Buena parte del muro sigue en pie y es Patrimonio de la Humanidad.",
+    "imagenes": [
+      "/images/roma/roma2_adriano-milecastle-39-on-hadrian-27s-wall-2-jpg_wikimedia.jpg"
+    ]
+  },
+  {
+    "id": "roma-hormigon",
+    "region": "roma",
+    "tipo": "evento",
+    "titulo": "El hormigón romano y la cúpula del Panteón",
+    "fecha_inicio": 126,
+    "fecha_fin": null,
+    "descripcion_corta": "El opus caementicium —mezcla de cal, agua, piedras y, sobre todo, ceniza volcánica de Puzzoli— permitió a Roma construir de una forma imposible con piedra tallada: fraguaba incluso bajo el agua, se vertía en encofrados y admitía arcos, bóvedas y cúpulas de gran luz. Con él se levantaron puertos, acueductos, termas y el Coliseo. Su obra maestra es la cúpula del Panteón, terminada hacia 126 d. C. bajo Adriano: 43,3 metros de diámetro, todavía hoy la mayor cúpula de hormigón sin armar del mundo, aligerada con casetones y con áridos cada vez más ligeros hacia arriba, y abierta en el centro por un óculo de nueve metros. La receta se perdió con el Imperio y Europa tardó más de mil años en volver a construir algo semejante. Análisis recientes muestran que sus grumos de cal le dan cierta capacidad de autorreparación, lo que explica que siga en pie tras dos milenios.",
+    "imagenes": [
+      "/images/roma/filo_hormigon-pantheon-rom-1-cropped-jpg_wikimedia.jpg"
+    ]
+  },
+  {
+    "id": "roma-ptolomeo",
+    "region": "roma",
+    "tipo": "evento",
+    "titulo": "Ptolomeo y el Almagesto",
+    "fecha_inicio": 145,
+    "fecha_fin": null,
+    "descripcion_corta": "Claudio Ptolomeo trabajó en Alejandría, entonces parte del Imperio romano, hacia mediados del siglo II. En el Almagesto recopiló y perfeccionó toda la astronomía griega en un sistema geocéntrico capaz de predecir con notable precisión las posiciones de los planetas mediante epiciclos y deferentes: círculos sobre círculos que explicaban el extraño movimiento retrógrado de los planetas sin renunciar a la Tierra como centro. Incluyó un catálogo de más de mil estrellas. Su modelo funcionaba tan bien para predecir que se mantuvo vigente unos 1 400 años, hasta Copérnico y Kepler. En su Geografía recopiló las coordenadas de unos 8 000 lugares y sentó las bases de la cartografía moderna, aunque su subestimación del tamaño de la Tierra contribuyó, siglos después, a que Colón creyera factible llegar a Asia navegando hacia el oeste.",
+    "imagenes": [
+      "/images/roma/filo_ptolomeo-psm-v78-d326-ptolemy-png_wikimedia.png"
     ]
   },
   {
@@ -211,6 +530,143 @@
       "/images/roma/roma_megaciudad-1200x640-1_node-53-11.png",
       "/images/roma/roma_1366-2000-1_node-53-14.png",
       "/images/roma/roma_coliseo-romano-en-3d-1_node-53-15.png"
+    ]
+  },
+  {
+    "id": "roma-galeno",
+    "region": "roma",
+    "tipo": "evento",
+    "titulo": "Galeno y la medicina anatómica",
+    "fecha_inicio": 165,
+    "fecha_fin": null,
+    "descripcion_corta": "Galeno de Pérgamo (129–216 d. C.) empezó atendiendo heridas de gladiadores, lo que le dio una experiencia anatómica poco común, y acabó como médico personal de Marco Aurelio. Recogió la herencia de Hipócrates y le añadió la disección sistemática —de animales, porque diseccionar cadáveres humanos estaba prohibido en Roma—, con la que demostró que las arterias llevan sangre y no aire, que el cerebro y no el corazón controla el movimiento, y que los riñones producen la orina. Ató nervios de un cerdo para probar en vivo qué función controlaba cada uno. Escribió cientos de tratados y defendió que un buen médico debe ser también filósofo y razonar, no repetir recetas. Su autoridad fue tan grande que durante 1 300 años se le citó como verdad indiscutible, incluidos sus errores por extrapolar del animal al ser humano, hasta que Vesalio los corrigió en el siglo XVI.",
+    "imagenes": [
+      "/images/roma/filo_galeno-galen-lithograph-by-p-r-vign-c3-a9ron-wellcom_wikimedia.jpg"
+    ]
+  },
+  {
+    "id": "roma-marco-aurelio",
+    "region": "roma",
+    "tipo": "evento",
+    "titulo": "Marco Aurelio y las Meditaciones",
+    "fecha_inicio": 175,
+    "fecha_fin": null,
+    "descripcion_corta": "Marco Aurelio (121–180 d. C.) fue emperador de Roma durante casi veinte años marcados por guerras en la frontera del Danubio y por una peste devastadora. En las noches de campaña escribió en griego, solo para sí mismo, los cuadernos que hoy llamamos Meditaciones: no un tratado ni un libro pensado para publicarse, sino recordatorios personales para mantener la calma y actuar con justicia. Insiste una y otra vez en aceptar lo que no depende de nosotros, en no dejarse arrastrar por la ira ni por la opinión ajena, en recordar lo breve que es todo y en cumplir con el propio deber hacia los demás, porque 'lo que no beneficia al enjambre tampoco beneficia a la abeja'. Que el hombre más poderoso del mundo escribiera para exigirse humildad hace de este libro un caso único, y cierra el círculo del estoicismo: la misma doctrina que consolaba a un esclavo como Epicteto servía de guía a un emperador.",
+    "imagenes": [
+      "/images/roma/filo_marcoaurelio-msr-ra-61-b-1-dm-28cropped-29-jpg_wikimedia.jpg"
+    ]
+  },
+  {
+    "id": "roma-constitucion-antoniniana",
+    "region": "roma",
+    "tipo": "evento",
+    "titulo": "La ciudadanía para todos",
+    "fecha_inicio": 212,
+    "fecha_fin": null,
+    "descripcion_corta": "En el año 212 el emperador Caracalla promulgó la Constitutio Antoniniana, que concedió la ciudadanía romana a prácticamente todos los habitantes libres del Imperio. Durante siglos ser ciudadano había sido un privilegio que se ganaba por nacimiento, por servicio militar o por concesión, y traía derechos muy concretos: casarse conforme al derecho romano, acudir a los tribunales, apelar ante el emperador, no ser sometido a ciertos castigos. De golpe, millones de provinciales de Hispania, Galia, Egipto o Siria pasaron a ser romanos de pleno derecho. Los historiadores antiguos, como Dión Casio, sostenían que el motivo fue fiscal: ampliar la base de quienes pagaban los impuestos reservados a ciudadanos. Fuera cual fuera la intención, el efecto fue enorme: unificó jurídicamente un territorio inmenso y culminó la idea, ya presente en la República, de que Roma no era una etnia sino una ciudadanía.",
+    "imagenes": [
+      "/images/roma/roma2_antoniniana-caracalla03-pushkin-jpg_wikimedia.jpg"
+    ]
+  },
+  {
+    "id": "roma-diocleciano-tetrarquia",
+    "region": "roma",
+    "tipo": "evento",
+    "titulo": "Diocleciano y la tetrarquía",
+    "fecha_inicio": 284,
+    "fecha_fin": null,
+    "descripcion_corta": "El siglo III llevó al Imperio al borde del colapso: emperadores proclamados y asesinados por las tropas casi cada año, presión en todas las fronteras, peste, inflación desbocada y territorios que se independizaron de hecho. Diocleciano, que llegó al poder en 284, lo reorganizó de arriba abajo. Su idea central fue que el Imperio era demasiado grande para un solo hombre: instauró la tetrarquía, el gobierno de cuatro —dos Augustos y dos Césares como sucesores designados—, repartiéndose regiones y frentes. Multiplicó las provincias para controlarlas mejor, separó el mando civil del militar, reformó el impuesto y la moneda e intentó frenar los precios por decreto. Impuso también un ceremonial cortesano casi oriental y desató la última gran persecución de los cristianos. El sistema estabilizó el Imperio pero no sobrevivió a su retirada: nadie más aceptó abdicar voluntariamente, como él hizo en 305.",
+    "imagenes": [
+      "/images/roma/roma2_diocleciano-venice-e2-80-93-the-tetrarchs-03-jpg_wikimedia.jpg"
+    ]
+  },
+  {
+    "id": "roma-constantino-milvio",
+    "region": "roma",
+    "tipo": "evento",
+    "titulo": "Constantino y el Puente Milvio",
+    "fecha_inicio": 312,
+    "fecha_fin": null,
+    "descripcion_corta": "Rota la tetrarquía, los aspirantes al trono se enfrentaron entre sí. El 28 de octubre del 312 Constantino venció a Majencio en el puente Milvio, a las puertas de Roma, y quedó dueño de Occidente. La tradición cristiana cuenta que la víspera vio una señal en el cielo con la promesa 'con este signo vencerás' y mandó pintar el crismón en los escudos de sus soldados. Al año siguiente, el Edicto de Milán estableció la libertad de culto en todo el Imperio y devolvió a las iglesias los bienes confiscados: el cristianismo pasaba de ser perseguido a estar protegido por el poder, un vuelco de consecuencias incalculables para la historia de Europa. Constantino convocó además el Concilio de Nicea en 325 para resolver las disputas doctrinales, aunque él mismo se bautizó solo en su lecho de muerte.",
+    "imagenes": [
+      "/images/roma/roma2_constantino-milvbruck-jpg_wikimedia.jpg"
+    ]
+  },
+  {
+    "id": "roma-crisis-del-siglo-3",
+    "region": "roma",
+    "tipo": "evento",
+    "titulo": "Crisis del siglo 3",
+    "fecha_inicio": 313,
+    "fecha_fin": null,
+    "descripcion_corta": "Fue un periodo de 50 años donde se producen fuertes presiones de los pueblos exteriores, y una fuerte crisis ecónomica, política, y social en el interior del Imperio. Tras una fase de Anarquia militar en donde la seguridad y la unidad del imperio peligraba, diferentes emperadores ligraron reunificar el imperio. La crisis se estabiliza con el ascenso del emperador Diocleciano que llevo a cabo un importante programa de reformas, comprendió que el imperio era demasiado grande para controlarlo, por lo que decidio trofearlo. Este periodo se conoce como la Tetrarquía o gobierno de 4 o sea que el imperio se dividia en 4 y cada uno gobernaba su parte. Se produjo la gran persecución de Dioclesiano, que fue la ultima y posiblemente la más sangrienta persecución de cristianos durante el imperio Romano. El sistema de la tetrarquía desenvoco en una lucha entre gobernantes en donde solo podia quedar un emperador, quien fue Constantino el grande quien legalizó la religión cristiana en el año 313. Convoco el primer concilio ecumenico universal en el año 325, donde se unifican los dogmas y se sientan las bases del credo oficial. La capital se pasa a Constantinopla.",
+    "imagenes": [
+      "/images/roma/roma2_map-of-ancient-rome-271-ad_wikimedia.svg"
+    ]
+  },
+  {
+    "id": "roma-constantinopla",
+    "region": "roma",
+    "tipo": "evento",
+    "titulo": "Constantinopla, la nueva capital",
+    "fecha_inicio": 330,
+    "fecha_fin": null,
+    "descripcion_corta": "En 330 Constantino inauguró en el emplazamiento de la antigua colonia griega de Bizancio una nueva capital que llevaría su nombre: Constantinopla. La elección era estratégica más que sentimental. Estaba en el punto de paso entre Europa y Asia, controlaba el Bósforo y el comercio entre el Mediterráneo y el mar Negro, quedaba mucho más cerca de las fronteras conflictivas del Danubio y de Persia, y era defendible casi por completo desde el mar. La dotó de senado, foros, hipódromo, acueductos y murallas, y la pobló trayendo obras de arte y familias de todo el Imperio. El desplazamiento del centro de gravedad hacia el este fue definitivo: cuando Roma cayó en 476, Constantinopla siguió siendo capital de un Imperio romano de Oriente que duraría casi mil años más, hasta 1453.",
+    "imagenes": [
+      "/images/roma/roma2_constantinopla-a-view-from-the-sphendone-of-the-hippodrome-j_wikimedia.jpg"
+    ]
+  },
+  {
+    "id": "roma-cristianizacion",
+    "region": "roma",
+    "tipo": "evento",
+    "titulo": "Cristianización",
+    "fecha_inicio": 380,
+    "fecha_fin": null,
+    "descripcion_corta": "El emperador Teodosio el Grande tomó la decisión de convertir el cristianismo en la única religión oficial. Durante más de tres siglos, los cristianos fueron uno de los colectivos más perseguidos del Imperio Romano, ya que podían hacer peligrar pilares esenciales para la estabilidad del dominio romano, como el culto a los emperadores, un sistema político y económico que dependía de la guerra y una desigualdad clara entre clases, pueblos y sexos. Durante este periodo el imperio Romano inicia una epoca de declive. Tras la muerte del emperador Teodosio Roma se divide en dos (Oriente y Oxidente) y se reparte entre sus 2 hijos. Durante este periodo Roma era atacado por Varbaros. En el año 476 se produce la caida del imperio romano, pero el imperio de Oriente perduro por 1000 años más, se conoce como imperio Bizantino y cae en la caida de constantinopla 1453",
+    "imagenes": [
+      "/images/roma/roma_screen-shot-2024-09-25-at-22-08-43-1_node-138-7.png",
+      "/images/roma/roma_screen-shot-2024-09-25-at-23-00-50-1_node-141-12.png",
+      "/images/roma/roma_001-415-388-1_node-141-13.png",
+      "/images/roma/roma_saiba-tudo-sobre-a-comemoracao-do-aniversario-de-roma-na-italia-1080x675-1_node-141-14.png",
+      "/images/roma/roma_acueducto-segovia-98-1_node-141-15.png"
+    ]
+  },
+  {
+    "id": "roma-saqueo-alarico",
+    "region": "roma",
+    "tipo": "evento",
+    "titulo": "El saqueo de Roma por Alarico",
+    "fecha_inicio": 410,
+    "fecha_fin": null,
+    "descripcion_corta": "En 395, a la muerte de Teodosio, el Imperio quedó dividido de forma definitiva entre sus dos hijos: Occidente y Oriente ya no volverían a unirse. Presionados por los hunos, pueblos enteros cruzaron las fronteras, unas veces como aliados y otras como invasores. El visigodo Alarico, que había servido a Roma como general federado, reclamaba tierras y pagos prometidos; tras años de negociaciones fallidas, en agosto del 410 sus tropas entraron en Roma y la saquearon durante tres días. Militarmente no fue decisivo —la capital efectiva ya era Rávena— pero el impacto moral resultó enorme: hacía ochocientos años que ningún enemigo tomaba la ciudad. San Agustín escribió La ciudad de Dios en parte para responder a quienes culpaban del desastre al abandono de los dioses antiguos. Roma sería saqueada otra vez en 455, y en 476 el último emperador de Occidente fue depuesto.",
+    "imagenes": [
+      "/images/roma/roma2_alarico-evariste-vital-luminais-le-sac-de-rome-jpg_wikimedia.jpg"
+    ]
+  },
+  {
+    "id": "roma-barbaros-invasiones-barbaras",
+    "region": "roma",
+    "tipo": "evento",
+    "titulo": "Barbaros . invaciones Barbaras",
+    "fecha_inicio": 476,
+    "fecha_fin": null,
+    "descripcion_corta": "Los bárbaros eran grupos tribales que vivían fuera de las fronteras del Imperio Romano, y fueron llamados así por los romanos debido a sus lenguas y costumbres diferentes. Provenían de regiones como Germania, Escandinavia, y las estepas euroasiáticas. Entre ellos destacaban los godos, vándalos, hunos, sajones y francos. Estos pueblos protagonizaron varias invasiones durante la crisis del Imperio Romano, contribuyendo a su caída en el siglo V. A pesar de ser considerados incivilizados por los romanos, los bárbaros tenían sus propias estructuras sociales y culturales complejas.",
+    "imagenes": [
+      "/images/roma/roma_invasores-1_node-141-23.png"
+    ]
+  },
+  {
+    "id": "roma-caida-del-imperio-romano",
+    "region": "roma",
+    "tipo": "evento",
+    "titulo": "Caída del imperio Romano",
+    "fecha_inicio": 476,
+    "fecha_fin": null,
+    "descripcion_corta": "La caída del Imperio Romano ocurrió en 476 d.C. cuando el último emperador de Occidente fue depuesto. Fue resultado de crisis internas como corrupción y problemas económicos, y de invasiones de tribus bárbaras. Este colapso marcó el fin de Roma Occidental y el inicio de la Edad Media en Europa.",
+    "imagenes": [
+      "/images/roma/roma_screen-shot-2024-09-25-at-22-56-53-1_node-141-11.png",
+      "/images/roma/roma_f-cole-thomas-the-course-of-empire-destruction-1836-apert-1_node-141-17.png"
     ]
   }
 ]
