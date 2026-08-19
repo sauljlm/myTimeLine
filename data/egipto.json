@@ -26,6 +26,30 @@
     ]
   },
   {
+    "id": "egipto-narmer",
+    "region": "egipto",
+    "tipo": "evento",
+    "titulo": "Narmer y la unificación de las Dos Tierras",
+    "fecha_inicio": -3100,
+    "fecha_fin": null,
+    "descripcion_corta": "Egipto nació de la unión de dos países muy distintos: el Alto Egipto, el estrecho valle del sur, y el Bajo Egipto, el delta del norte. Hacia 3100 a. C. un rey del sur, Narmer —identificado por muchos con el legendario Menes—, completó esa unificación y fundó la primera dinastía, con capital en Menfis. El documento que lo cuenta es la paleta de Narmer, una placa de esquisto de 64 cm hallada en Hieracómpolis: en una cara el rey aparece con la corona blanca del Alto Egipto abatiendo a un enemigo, y en la otra con la corona roja del Bajo Egipto pasando revista a los decapitados. Es una de las primeras obras que combina imagen y escritura jeroglífica para narrar un hecho político. Desde entonces el faraón se titularía Señor de las Dos Tierras y llevaría la doble corona, un símbolo que duraría tres mil años.",
+    "imagenes": [
+      "/images/egipto/egipto2_narmer-narmer-palette-jpg_wikimedia.jpg"
+    ]
+  },
+  {
+    "id": "egipto-nilo",
+    "region": "egipto",
+    "tipo": "evento",
+    "titulo": "El Nilo: la vida de Egipto",
+    "fecha_inicio": -3000,
+    "fecha_fin": null,
+    "descripcion_corta": "Heródoto lo resumió en una frase: Egipto es un don del Nilo. Todo el país es en realidad una franja verde de pocos kilómetros a cada lado del río, rodeada de desierto. Cada verano, las lluvias del monzón en Etiopía provocaban la crecida, que inundaba las tierras de julio a octubre y al retirarse dejaba una capa de limo negro y fértil —de ahí el nombre que los egipcios daban a su tierra, Kemet, 'la tierra negra'—. De esa regularidad salió casi todo lo demás: un calendario de tres estaciones ligadas al río, la geometría para volver a marcar los lindes de los campos borrados por el agua, los nilómetros para medir la crecida y calcular por adelantado la cosecha y los impuestos, y un Estado centralizado capaz de organizar canales, diques y graneros. Una crecida escasa significaba hambre; varias seguidas podían derribar a una dinastía entera.",
+    "imagenes": [
+      "/images/egipto/egipto2_nilo-river-nile-near-aswan-jpg_wikimedia.jpg"
+    ]
+  },
+  {
     "id": "egipto-calendario-egipcio",
     "region": "egipto",
     "tipo": "evento",
@@ -49,6 +73,18 @@
       "/images/egipto/egipto_screenshot-2024-09-01-at-8-41-51-pm-1_node-64-46.png",
       "/images/egipto/egipto_hjj-suaml-1256x620-1_node-64-48.png",
       "/images/egipto/egipto_7-maravillas-gran-piramide-antes-38bcf343-1400x788-1_node-64-47.png"
+    ]
+  },
+  {
+    "id": "egipto-zoser-imhotep",
+    "region": "egipto",
+    "tipo": "evento",
+    "titulo": "Zoser e Imhotep: la primera pirámide",
+    "fecha_inicio": -2670,
+    "fecha_fin": null,
+    "descripcion_corta": "Hasta entonces los reyes se enterraban en mastabas, tumbas rectangulares de adobe. Hacia 2670 a. C., el arquitecto Imhotep concibió para el faraón Zoser algo nuevo en Saqqara: superponer seis mastabas de tamaño decreciente, todas en piedra tallada, hasta formar una pirámide escalonada de unos 60 metros. Fue el primer gran edificio de piedra de la historia y el prototipo de todas las pirámides posteriores. Alrededor levantó un complejo funerario amurallado con patios y capillas donde las columnas y los muros imitan en piedra las formas de la arquitectura anterior en madera y juncos. Imhotep, además de arquitecto, fue médico y sumo sacerdote, y es uno de los poquísimos personajes no reales del antiguo Egipto que acabó divinizado: siglos después se le veneraba como dios de la medicina, y los griegos lo identificaron con Asclepio.",
+    "imagenes": [
+      "/images/egipto/egipto2_zoser-saqqara-pyramid-ver-2-jpg_wikimedia.jpg"
     ]
   },
   {
@@ -103,6 +139,30 @@
     ]
   },
   {
+    "id": "egipto-textos-piramides",
+    "region": "egipto",
+    "tipo": "evento",
+    "titulo": "Los Textos de las Pirámides",
+    "fecha_inicio": -2350,
+    "fecha_fin": null,
+    "descripcion_corta": "Grabados en las paredes interiores de las pirámides de finales del Imperio Antiguo, empezando por la del faraón Unis hacia 2350 a. C., los Textos de las Pirámides son el corpus religioso más antiguo del mundo que se conserva. Son cientos de fórmulas, conjuros y himnos destinados a proteger al rey difunto, garantizarle alimento y ayudarle a ascender al cielo para unirse a las estrellas imperecederas o a Ra. Están escritos en jeroglíficos y a menudo con los signos de animales peligrosos mutilados a propósito, para que no cobraran vida y dañaran al difunto en la cámara. Al principio fueron un privilegio exclusivamente real; con el tiempo, un proceso que los egiptólogos llaman 'democratización del más allá', esas fórmulas pasaron a los sarcófagos de los nobles (Textos de los Sarcófagos) y acabaron en los papiros del Libro de los Muertos, al alcance de cualquiera que pudiera pagarlos.",
+    "imagenes": [
+      "/images/egipto/egipto2_textos-pyramid-text-teti-jpg_wikimedia.jpg"
+    ]
+  },
+  {
+    "id": "egipto-primer-periodo-intermedio",
+    "region": "egipto",
+    "tipo": "evento",
+    "titulo": "El colapso del Imperio Antiguo",
+    "fecha_inicio": -2181,
+    "fecha_fin": null,
+    "descripcion_corta": "Tras el larguísimo reinado de Pepi II, el Estado egipcio se desmoronó hacia 2181 a. C. Confluyeron varias causas: el poder de los gobernadores provinciales, que habían convertido sus cargos en hereditarios; el coste enorme de los complejos funerarios y del clero; y, según los estudios paleoclimáticos, una sequía prolongada que redujo las crecidas del Nilo y provocó hambrunas. Egipto se fragmentó durante más de un siglo en reinos rivales —el llamado Primer Período Intermedio— con dinastías simultáneas en Heracleópolis y Tebas. Los textos de la época describen un mundo del revés, con tumbas saqueadas y pobres enriquecidos. El país volvió a unirse hacia 2050 a. C. bajo el tebano Mentuhotep II, que inauguró el Imperio Medio. La lección quedó grabada en la mentalidad egipcia: sin un faraón fuerte, volvía el caos.",
+    "imagenes": [
+      "/images/egipto/egipto2_intermedio1-statue-of-montuhotep-from-deir-al-bahri-2c-11_wikimedia.jpg"
+    ]
+  },
+  {
     "id": "egipto-imperio-medio",
     "region": "egipto",
     "tipo": "evento",
@@ -113,6 +173,66 @@
     "imagenes": [
       "/images/egipto/egipto_am-3fn4-1_node-64-51.png",
       "/images/egipto/egipto_screenshot-2024-09-01-at-8-57-11-pm-1_node-64-52.png"
+    ]
+  },
+  {
+    "id": "egipto-literatura",
+    "region": "egipto",
+    "tipo": "evento",
+    "titulo": "La literatura del Imperio Medio",
+    "fecha_inicio": -1875,
+    "fecha_fin": null,
+    "descripcion_corta": "El Imperio Medio fue la época clásica de la literatura egipcia, la que después se copiaba en las escuelas de escribas como modelo de buen lenguaje. La obra maestra es la Historia de Sinuhé: un cortesano huye de Egipto al morir el faraón, hace fortuna entre los beduinos de Siria, vence a un campeón local en combate singular y, ya anciano, suplica regresar para ser enterrado en su tierra. Es un relato con conflicto interior, nostalgia y un personaje que cambia, muy lejos de la propaganda regia. Junto a él circularon el Cuento del náufrago, las Lamentaciones de Ipuwer —que describen un país sumido en el caos—, la Profecía de Neferti y textos de enseñanzas donde un padre instruye a su hijo sobre cómo comportarse. Se escribían en hierático, la escritura cursiva derivada de los jeroglíficos, sobre papiros y ostraca.",
+    "imagenes": [
+      "/images/egipto/egipto2_sinuhe-papyrus-van-ipoewer-google-art-project-jpg_wikimedia.jpg"
+    ]
+  },
+  {
+    "id": "egipto-sesostris",
+    "region": "egipto",
+    "tipo": "evento",
+    "titulo": "Sesostris III y el apogeo del Imperio Medio",
+    "fecha_inicio": -1870,
+    "fecha_fin": null,
+    "descripcion_corta": "Sesostris III, que reinó desde 1872 a. C., llevó al Imperio Medio a su punto más alto. Quebró definitivamente el poder de los nobles provinciales que habían provocado el colapso anterior, sustituyéndolos por una administración de funcionarios dependientes del palacio y dividiendo el país en grandes distritos. Emprendió cuatro campañas hacia el sur y fijó la frontera en Semna, en la segunda catarata, protegiéndola con una cadena de fortalezas de adobe impresionantes que controlaban el comercio nubio del oro, el marfil y el ébano. También mandó ampliar un canal en la primera catarata para permitir el paso de los barcos. Sus estatuas rompen con la sonrisa idealizada de los faraones anteriores: lo muestran con párpados pesados y gesto grave, casi cansado, el retrato de un gobernante consciente de la carga del poder.",
+    "imagenes": [
+      "/images/egipto/egipto2_sesostris-gd-eg-louxor-116-jpg_wikimedia.jpg"
+    ]
+  },
+  {
+    "id": "egipto-hicsos",
+    "region": "egipto",
+    "tipo": "evento",
+    "titulo": "Los hicsos y el carro de guerra",
+    "fecha_inicio": -1700,
+    "fecha_fin": null,
+    "descripcion_corta": "A partir del siglo XVIII a. C., poblaciones semitas procedentes de Canaán fueron asentándose en el delta oriental, primero como comerciantes y trabajadores y después como grupo dominante. Hacia 1650 a. C. esos gobernantes extranjeros —heka jasut, 'gobernantes de tierras extranjeras', de donde viene hicsos— controlaban el norte de Egipto desde su capital Avaris, mientras Tebas resistía en el sur. Por primera vez en mil años Egipto era gobernado por forasteros, un trauma que su memoria histórica no olvidaría. Pero también trajeron tecnología decisiva: el carro de guerra tirado por caballos, el arco compuesto, nuevas espadas y armaduras, el torno de alfarero mejorado y técnicas de bronce. Cuando los príncipes tebanos, con Ahmose I, los expulsaron hacia 1550 a. C., lo hicieron con sus mismas armas, y fundaron el Imperio Nuevo, ya con vocación abiertamente militar e imperial.",
+    "imagenes": [
+      "/images/egipto/egipto2_hicsos-painting-of-foreign-delegation-in-the-tomb-of_wikimedia.jpg"
+    ]
+  },
+  {
+    "id": "egipto-papiro-rhind",
+    "region": "egipto",
+    "tipo": "evento",
+    "titulo": "El papiro Rhind: las matemáticas egipcias",
+    "fecha_inicio": -1650,
+    "fecha_fin": null,
+    "descripcion_corta": "Copiado por el escriba Ahmes hacia 1650 a. C. a partir de un original más antiguo, el papiro Rhind es el mayor documento matemático del antiguo Egipto: 84 problemas resueltos sobre reparto de panes y cerveza, cálculo de superficies y volúmenes, pendientes de pirámides y conversión de medidas. Su promesa inicial es ambiciosa: enseñar 'el conocimiento exacto de todas las cosas y de los oscuros secretos'. Muestra un sistema muy particular basado casi por completo en fracciones unitarias (1/2, 1/3, 1/5...), con tablas para descomponer cualquier fracción en suma de ellas, y una aproximación de π equivalente a unos 3,16, notable para la época. Las matemáticas egipcias eran ante todo prácticas —repartir cosechas, calcular impuestos, replantear los campos tras la crecida del Nilo, levantar monumentos— y no buscaban demostrar teoremas generales, como harían después los griegos.",
+    "imagenes": [
+      "/images/egipto/filo_papiro_rhind-rhind-mathematical-papyrus-jpg_wikimedia.jpg"
+    ]
+  },
+  {
+    "id": "egipto-papiro-edwin-smith",
+    "region": "egipto",
+    "tipo": "evento",
+    "titulo": "El papiro Edwin Smith: la medicina egipcia",
+    "fecha_inicio": -1600,
+    "fecha_fin": null,
+    "descripcion_corta": "Este papiro, copiado hacia 1600 a. C. de un texto varios siglos anterior, es el tratado de cirugía más antiguo que se conoce y sorprende por su enfoque casi clínico. Presenta 48 casos de heridas, fracturas y luxaciones ordenados de la cabeza a los pies, y cada uno sigue el mismo esquema: título, exploración del paciente, diagnóstico y decisión terapéutica, con tres veredictos posibles —una dolencia que trataré, una con la que lucharé, una que no se debe tratar—, es decir, el reconocimiento explícito de los límites del médico. Describe suturas, vendajes, cauterización e inmovilizaciones, y contiene la primera mención conocida del cerebro y de cómo una lesión craneal afecta a otras partes del cuerpo. Apenas recurre a la magia, a diferencia de otros papiros médicos egipcios como el Ebers, mucho más lleno de conjuros junto a sus recetas.",
+    "imagenes": [
+      "/images/egipto/filo_edwin_smith-edwin-smith-papyrus-v2-jpg_wikimedia.jpg"
     ]
   },
   {
@@ -130,6 +250,18 @@
       "/images/egipto/egipto_f-elconfidencial-com-original-cbc-972-a09-cbc972a09600a10642f09b5212a51961-1_node-65-58.png",
       "/images/egipto/egipto_expedici-n-de-tutankamon-egypt-tours-portal-1_node-65-59.png",
       "/images/egipto/egipto_tutankamon-teorias-faraon-vida-hijos-momia-muerte-enfermedad-leyendas-egipto-home-1_node-65-60.png"
+    ]
+  },
+  {
+    "id": "egipto-libro-muertos",
+    "region": "egipto",
+    "tipo": "evento",
+    "titulo": "El Libro de los Muertos",
+    "fecha_inicio": -1500,
+    "fecha_fin": null,
+    "descripcion_corta": "Su título egipcio real es 'Libro de la salida al día': no es un libro único ni cerrado, sino una colección de unos 200 conjuros que cada persona encargaba a medida y se depositaba en la tumba, en papiros ilustrados que podían medir varios metros. Servían para superar los peligros del viaje por el más allá, conocer los nombres de los guardianes y no ser devorado por los monstruos. Su escena central es el juicio de Osiris: el corazón del difunto se pesa en una balanza frente a la pluma de Maat, la verdad y el orden justo. Si pesa más por las malas acciones, lo devora Ammit, un ser con cabeza de cocodrilo; si está en equilibrio, el difunto entra en los campos de Ialu. Antes, debía recitar la 'confesión negativa', una lista de faltas que no había cometido. Es uno de los primeros testimonios de la idea de que la conducta moral en vida decide el destino después de la muerte.",
+    "imagenes": [
+      "/images/egipto/egipto2_libromuertos-el-pesado-del-coraz-c3-b3n-en-el-papiro-de-hu_wikimedia.jpg"
     ]
   },
   {
@@ -217,6 +349,30 @@
     ]
   },
   {
+    "id": "egipto-tanis-tebas",
+    "region": "egipto",
+    "tipo": "evento",
+    "titulo": "Egipto dividido: Tanis y los sacerdotes de Amón",
+    "fecha_inicio": -1000,
+    "fecha_fin": null,
+    "descripcion_corta": "Al terminar el Imperio Nuevo, Egipto se partió en dos de hecho sin que nadie llegara a declararlo: los faraones de la dinastía XXI gobernaban el norte desde Tanis, en el delta, mientras los sumos sacerdotes de Amón mandaban en el sur desde Tebas con poder militar y económico propio. Ambos poderes se toleraron y se emparentaron por matrimonios, y ninguno intentó eliminar al otro. El templo de Amón había acumulado durante siglos tierras, graneros, talleres y esclavos donados por los faraones victoriosos, hasta controlar una parte enorme de la riqueza del país: la propia generosidad de los reyes había creado un rival. De esta época procede uno de los hallazgos más espectaculares de la arqueología egipcia: la tumba intacta de Psusenes I en Tanis, con su máscara y su sarcófago de plata, descubierta en 1940 y eclipsada por el estallido de la Segunda Guerra Mundial.",
+    "imagenes": [
+      "/images/egipto/egipto2_tanis-psusennes-i-27s-funerary-mask-in-2012-jpg_wikimedia.jpg"
+    ]
+  },
+  {
+    "id": "egipto-sheshonq",
+    "region": "egipto",
+    "tipo": "evento",
+    "titulo": "Sheshonq I y los faraones libios",
+    "fecha_inicio": -945,
+    "fecha_fin": null,
+    "descripcion_corta": "Tras el Imperio Nuevo, Egipto entró en el Tercer Período Intermedio: el país volvió a dividirse, con faraones en Tanis, en el delta, y los sumos sacerdotes de Amón gobernando de hecho el sur desde Tebas. En ese contexto, descendientes de mercenarios libios asentados durante generaciones llegaron al trono. Sheshonq I, fundador de la dinastía XXII hacia 945 a. C., reunificó el país por un tiempo colocando a sus hijos en los cargos clave, incluido el sacerdocio de Amón, y volvió a intervenir militarmente en Palestina. En el templo de Karnak mandó grabar una larga lista de ciudades conquistadas en esa campaña, que muchos investigadores relacionan con el faraón Sisac mencionado en la Biblia. Su reinado fue un último destello de unidad: después, Egipto volvió a fragmentarse en reinos rivales que acabarían facilitando las invasiones extranjeras.",
+    "imagenes": [
+      "/images/egipto/egipto2_sheshonq-karnak-tempel-19-jpg_wikimedia.jpg"
+    ]
+  },
+  {
     "id": "egipto-dinastia-kushita",
     "region": "egipto",
     "tipo": "evento",
@@ -226,6 +382,54 @@
     "descripcion_corta": "Entre el 744 y el 656 a. C., Egipto fue gobernado por la dinastía XXV, formada por reyes originarios del reino de Kush (en la actual Sudán), conocidos popularmente como los \"faraones negros\". El rey Piye inició la conquista en 727 a. C., capturando Menfis y unificando Egipto bajo control nubio tras un largo período de fragmentación política. Lejos de imponerse como conquistadores ajenos, los faraones kushitas se presentaron como restauradores de la tradición egipcia más antigua: revivieron el arte y la arquitectura del Imperio Antiguo, construyeron nuevas pirámides (más pequeñas y de ángulo más pronunciado que las de Guiza, siguiendo el estilo nubio) en su propia tierra natal, y patrocinaron templos a los dioses egipcios tradicionales. La dinastía terminó cuando el Imperio asirio invadió Egipto y expulsó a los reyes kushitas de vuelta a Nubia, aunque el reino de Kush sobreviviría independiente durante casi mil años más.",
     "imagenes": [
       "/images/egipto/egipto3_pyramid-amanimalel-nuri-22_wikimedia.jpg"
+    ]
+  },
+  {
+    "id": "egipto-taharqa",
+    "region": "egipto",
+    "tipo": "evento",
+    "titulo": "Taharqa y el apogeo kushita",
+    "fecha_inicio": -690,
+    "fecha_fin": null,
+    "descripcion_corta": "Taharqa, que reinó desde 690 a. C., llevó a su punto más alto el dominio de los faraones kushitas llegados de Nubia. Lejos de ser gobernantes extranjeros que impusieran otra cultura, se consideraban restauradores de la tradición: repararon templos abandonados, revivieron el arte y los ritos del Imperio Antiguo y volvieron a construir pirámides —aunque más pequeñas y empinadas— para enterrar a sus reyes en Nubia, donde acabaría habiendo más que en todo Egipto. Taharqa levantó obras en Karnak, entre ellas una columnata de la que aún se alza una columna, y aprovechó unas crecidas excepcionales del Nilo como señal del favor divino. Su reinado terminó enfrentado a los asirios, que lo expulsaron de Menfis y saquearon Tebas. El reino de Kush, sin embargo, siguió existiendo en Nubia casi mil años más, con capital en Meroe.",
+    "imagenes": [
+      "/images/egipto/egipto2_taharqa-taharqa-2c-louvre-museum-jpg_wikimedia.jpg"
+    ]
+  },
+  {
+    "id": "egipto-invasion-asiria",
+    "region": "egipto",
+    "tipo": "evento",
+    "titulo": "La invasión asiria",
+    "fecha_inicio": -671,
+    "fecha_fin": null,
+    "descripcion_corta": "El Imperio asirio, la mayor potencia militar de su tiempo, chocó con el Egipto gobernado por los faraones kushitas. En 671 a. C. el rey Asaradón invadió el país, tomó Menfis y se proclamó rey del Alto y el Bajo Egipto; una estela conmemorativa lo muestra sosteniendo con cuerdas a sus prisioneros, entre ellos el heredero egipcio. Los asirios contaban con armas de hierro, ingeniería de asedio y un ejército permanente, muy superior a lo que Egipto podía oponer. La ocupación fue inestable: hubo rebeliones y una segunda campaña de Asurbanipal que en 663 a. C. saqueó Tebas, la ciudad sagrada de Amón, un golpe que resonó en todo el Próximo Oriente. Los asirios acabaron gobernando a través de príncipes locales del delta, y precisamente uno de esos vasallos, Psamético I, sería quien aprovechara el declive asirio para recuperar la independencia.",
+    "imagenes": [
+      "/images/egipto/egipto2_asiria-detail-sam-27al-stele-of-esarhaddon-2c-671-bc_wikimedia.jpg"
+    ]
+  },
+  {
+    "id": "egipto-dinastia-saita",
+    "region": "egipto",
+    "tipo": "evento",
+    "titulo": "La dinastía saíta: el último renacimiento",
+    "fecha_inicio": -664,
+    "fecha_fin": null,
+    "descripcion_corta": "Psamético I, príncipe de Sais y en principio vasallo de Asiria, fue expulsando a sus protectores y reunificó Egipto hacia 664 a. C., fundando la dinastía XXVI. El país vivió casi siglo y medio de estabilidad y prosperidad, sostenido en buena medida por mercenarios griegos y carios y por un comercio cada vez más intenso con el Egeo: a los griegos se les concedió la ciudad de Náucratis en el delta como puerto propio. Fue también una época deliberadamente arcaizante: el arte, los títulos y hasta la ortografía imitaron los modelos del Imperio Antiguo, mil quinientos años anteriores, en un esfuerzo consciente por reconectar con el pasado glorioso. En esos años visitaron Egipto griegos como Solón y, según la tradición, Tales y Pitágoras, y de ahí procede buena parte de lo que Grecia aprendió del saber egipcio.",
+    "imagenes": [
+      "/images/egipto/egipto2_saita-psammetique-ier-t-pabasa-jpg_wikimedia.jpg"
+    ]
+  },
+  {
+    "id": "egipto-necao",
+    "region": "egipto",
+    "tipo": "evento",
+    "titulo": "Necao II: el canal y la vuelta a África",
+    "fecha_inicio": -600,
+    "fecha_fin": null,
+    "descripcion_corta": "Necao II, nieto de Psamético, gobernó un Egipto volcado al comercio y emprendió dos proyectos de una ambición extraordinaria. El primero fue un canal que uniera el Nilo con el mar Rojo, antecedente lejano del de Suez; Heródoto cuenta que murieron en la obra más de cien mil trabajadores y que Necao la abandonó tras un oráculo desfavorable, aunque los persas la completarían después. El segundo fue encargar a marinos fenicios que circunnavegaran África: según el relato, partieron por el mar Rojo, tardaron unos tres años deteniéndose a sembrar y cosechar por el camino, y regresaron por el Mediterráneo. Heródoto dice no creer un detalle: que al doblar el extremo sur tenían el sol a su derecha, al norte. Precisamente ese detalle, imposible de inventar entonces, es lo que hace pensar a muchos historiadores que el viaje ocurrió de verdad.",
+    "imagenes": [
+      "/images/egipto/egipto2_necao-st-c3-a8le-cintr-c3-a9e-2c-e-22036-042007-24-_wikimedia.jpg"
     ]
   },
   {
@@ -263,6 +467,78 @@
     ]
   },
   {
+    "id": "egipto-satrapia-persa",
+    "region": "egipto",
+    "tipo": "evento",
+    "titulo": "Egipto bajo los persas",
+    "fecha_inicio": -500,
+    "fecha_fin": null,
+    "descripcion_corta": "Tras la conquista de Cambises en 525 a. C., Egipto pasó a ser una satrapía del Imperio aqueménida: la dinastía XXVII de las listas egipcias está formada por reyes persas. Los primeros años fueron de integración: Darío I se hizo representar como faraón, respetó los cultos, mandó recopilar por escrito las leyes egipcias, terminó el canal entre el Nilo y el mar Rojo que había iniciado Necao y construyó templos como el de Hibis en el oasis de Jarga. El país aportaba al imperio grano, tejidos y una parte importante de su tributo. Pero la presión fiscal y la lejanía del poder alimentaron rebeliones casi continuas, algunas apoyadas por Atenas. Heródoto visitó Egipto en esta época, hacia mediados del siglo V a. C., y dedicó un libro entero de sus Historias a describir sus costumbres, su religión y sus monumentos: buena parte de lo que Occidente creyó saber sobre Egipto durante siglos viene de esas páginas.",
+    "imagenes": [
+      "/images/egipto/egipto2_persas27-ancientegyptianstatuette-royalscribebokenneni_wikimedia.png"
+    ]
+  },
+  {
+    "id": "egipto-revuelta-inaro",
+    "region": "egipto",
+    "tipo": "evento",
+    "titulo": "La revuelta de Inaro y la ayuda ateniense",
+    "fecha_inicio": -460,
+    "fecha_fin": -454,
+    "imagenes": [
+      "/images/egipto/egipto2_inaro-inarus-portrait-jpg_wikimedia.jpg"
+    ],
+    "descripcion_corta": "La dominación persa nunca fue pacífica. Hacia 460 a. C., aprovechando la muerte de Jerjes, un príncipe libio del delta llamado Inaro encabezó la mayor rebelión de todas y expulsó a los persas de buena parte del norte del país. Atenas, que llevaba décadas enfrentada a Persia, vio la ocasión y desvió a Egipto una flota de doscientas naves de la Liga de Delos. Durante unos años los aliados dominaron Menfis y sitiaron la ciudadela persa. Pero el rey Artajerjes I envió un ejército enorme al mando de Megabizo, que rompió el asedio, arrinconó a los rebeldes en la isla de Prosopitis y destruyó allí la expedición ateniense, uno de los mayores desastres militares de la historia de Atenas. Inaro fue capturado y ejecutado hacia 454 a. C. La revuelta fracasó, pero mostró dos cosas: que Egipto no se resignaba, y que su suerte estaba ya ligada al pulso entre Grecia y Persia."
+  },
+  {
+    "id": "egipto-ultimos-faraones",
+    "region": "egipto",
+    "tipo": "evento",
+    "titulo": "Los últimos faraones nativos",
+    "fecha_inicio": -404,
+    "fecha_fin": null,
+    "descripcion_corta": "La conquista persa de 525 a. C. convirtió a Egipto en una satrapía, pero el país nunca se resignó. Aprovechando la muerte de Darío II, en 404 a. C. un noble del delta llamado Amirteo expulsó a los persas y devolvió a Egipto sesenta años de independencia bajo las dinastías XXVIII, XXIX y XXX. Fue un período de resistencia constante: los faraones financiaron mercenarios griegos —Atenas y Esparta, enfrentadas a Persia, fueron aliadas intermitentes—, fortificaron las bocas del Nilo y rechazaron varias invasiones. También hubo una notable actividad constructora, con templos que se cuentan entre los últimos levantados por faraones egipcios. Pero el desequilibrio de fuerzas era insalvable, y esos seis decenios serían la última vez en más de dos mil años que Egipto se gobernó a sí mismo.",
+    "imagenes": [
+      "/images/egipto/egipto2_ultimos-louvre-egyptien-01-jpg_wikimedia.jpg"
+    ]
+  },
+  {
+    "id": "egipto-nectanebo",
+    "region": "egipto",
+    "tipo": "evento",
+    "titulo": "Nectanebo II, el último faraón egipcio",
+    "fecha_inicio": -343,
+    "fecha_fin": null,
+    "descripcion_corta": "Nectanebo II fue el último faraón nacido en Egipto. Intentó frenar a Persia como se podía entonces: alianzas con sátrapas rebeldes y con las ciudades fenicias, y miles de mercenarios griegos a sueldo. Rechazó una primera invasión, pero en 343 a. C. Artajerjes III volvió con un ejército enorme, tomó las fortalezas del delta y Nectanebo huyó hacia el sur, hacia Nubia, donde se pierde su rastro. La segunda dominación persa fue breve y brutal, con templos saqueados y una represión que dejó a los egipcios dispuestos a recibir como libertador a cualquiera. Diez años después llegó Alejandro. Con Nectanebo terminan casi tres mil años de faraones egipcios gobernando Egipto: después vendrían persas, macedonios, romanos, bizantinos y árabes. La leyenda posterior, difundida en la Novela de Alejandro, llegó a convertirlo en padre secreto del propio Alejandro Magno.",
+    "imagenes": [
+      "/images/egipto/egipto2_nectanebo-nectanebo-ii-isis-louvre-n402-jpg_wikimedia.jpg"
+    ]
+  },
+  {
+    "id": "egipto-alejandro-conquista",
+    "region": "egipto",
+    "tipo": "evento",
+    "titulo": "Alejandro Magno conquista Egipto",
+    "fecha_inicio": -332,
+    "fecha_fin": null,
+    "descripcion_corta": "En 332 a. C., tras vencer a Darío III en Issos y tomar Tiro y Gaza, Alejandro entró en Egipto y apenas encontró resistencia: el sátrapa persa le entregó el país y la población lo recibió como liberador de una ocupación odiada. Alejandro entendió que gobernar Egipto exigía respetar sus formas: sacrificó a los dioses egipcios en Menfis, se hizo coronar con los títulos faraónicos y emprendió una expedición al oasis de Siwa, en pleno desierto, donde el oráculo de Amón lo saludó —según se difundió después— como hijo del dios. Ese reconocimiento le dio una legitimidad religiosa que utilizaría en el resto de sus campañas. A su muerte en 323 a. C., su general Ptolomeo se quedó con Egipto, trasladó allí su cadáver y fundó una dinastía que gobernaría casi tres siglos, hasta Cleopatra.",
+    "imagenes": [
+      "/images/egipto/egipto2_alejandro_eg-bust-alexander-bm-1857-jpg_wikimedia.jpg"
+    ]
+  },
+  {
+    "id": "egipto-fundacion-alejandria",
+    "region": "egipto",
+    "tipo": "evento",
+    "titulo": "La fundación de Alejandría",
+    "fecha_inicio": -331,
+    "fecha_fin": null,
+    "descripcion_corta": "En 331 a. C., en un punto de la costa mediterránea junto a un pueblo de pescadores y protegido por la isla de Faros, Alejandro trazó él mismo el perímetro de una ciudad nueva. La leyenda cuenta que, a falta de tiza, marcaron las calles con harina y que unos pájaros se la comieron, presagio que los adivinos interpretaron como que la ciudad alimentaría al mundo. Alejandría se diseñó con plano ortogonal, avenidas anchas, dos puertos unidos por un dique y barrios para griegos, egipcios y judíos. Bajo los Ptolomeos se convirtió en la mayor ciudad del Mediterráneo y en la capital intelectual del mundo helenístico: allí trabajaron Euclides, Eratóstenes, Arquímedes y Herón, y allí se tradujo la Biblia hebrea al griego. Fue el modelo de ciudad cosmopolita donde el conocimiento se reunía, se comparaba y se discutía.",
+    "imagenes": [
+      "/images/egipto/egipto2_alejandria-alexstanleybridge-jpg_wikimedia.jpg"
+    ]
+  },
+  {
     "id": "egipto-cleopatra-y-los-tolomeos",
     "region": "egipto",
     "tipo": "evento",
@@ -275,6 +551,18 @@
     ]
   },
   {
+    "id": "egipto-faro-biblioteca",
+    "region": "egipto",
+    "tipo": "evento",
+    "titulo": "El Faro y la Biblioteca de Alejandría",
+    "fecha_inicio": -280,
+    "fecha_fin": null,
+    "descripcion_corta": "Los Ptolomeos dotaron a Alejandría de dos instituciones que la hicieron célebre. El Faro, terminado hacia 280 a. C. en la isla de Faros, medía más de cien metros —una de las construcciones más altas del mundo antiguo— y guiaba a los barcos con una hoguera amplificada por espejos metálicos, visible a decenas de kilómetros. Fue una de las siete maravillas, resistió mil quinientos años y cayó por terremotos en el siglo XIV; su nombre quedó como palabra común para 'faro' en varias lenguas. La Biblioteca, unida al Museo —templo de las Musas y auténtico instituto de investigación con sueldos, comedor y alojamiento para los sabios—, llegó a reunir cientos de miles de rollos. Los Ptolomeos hacían copiar todos los libros que llegaban en los barcos y devolvían la copia, quedándose el original. No ardió de golpe en un solo incendio: se apagó por incendios sucesivos, recortes y el declive de la ciudad.",
+    "imagenes": [
+      "/images/egipto/egipto2_faro-lighthouse-thiersch-png_wikimedia.png"
+    ]
+  },
+  {
     "id": "egipto-piedra-de-rosetta",
     "region": "egipto",
     "tipo": "evento",
@@ -284,6 +572,18 @@
     "descripcion_corta": "La Piedra de Rosetta, tallada en el 196 a. C., contiene un mismo decreto escrito en tres sistemas de escritura: jeroglíficos egipcios, escritura demótica y griego antiguo. Descubierta por soldados franceses en 1799 durante la campaña de Napoleón en Egipto, permaneció como un misterio hasta que en 1822 el lingüista francés Jean-François Champollion, comparando los tres textos y apoyándose en su conocimiento del copto, logró descifrar finalmente los jeroglíficos egipcios: un sistema de escritura que llevaba más de 1400 años sin poder leerse. Este hallazgo abrió la puerta al estudio moderno del Antiguo Egipto, la egiptología.",
     "imagenes": [
       "/images/egipto/egipto2_rosetta-stone_wikimedia.jpg"
+    ]
+  },
+  {
+    "id": "egipto-cleopatra-roma",
+    "region": "egipto",
+    "tipo": "evento",
+    "titulo": "Cleopatra VII, César y Marco Antonio",
+    "fecha_inicio": -48,
+    "fecha_fin": null,
+    "descripcion_corta": "Cleopatra VII heredó un Egipto todavía rico pero atrapado en la órbita de Roma, y su estrategia fue aliarse con quien mandara en ella. Expulsada del trono por su hermano, en 48 a. C. se presentó ante Julio César —la anécdota dice que envuelta en una alfombra—, recuperó el poder con su apoyo y tuvo un hijo con él, Cesarión. Tras el asesinato de César se unió a Marco Antonio, con quien tuvo tres hijos más y compartió el proyecto de un imperio oriental con capital en Alejandría. Octavio convirtió esa relación en propaganda: presentó la guerra no como una guerra civil entre romanos, sino como la defensa de Roma frente a una reina extranjera. Tras la derrota de Accio en 31 a. C., ambos se suicidaron. Cleopatra fue mucho más que la seductora del tópico: hablaba una decena de lenguas —la única de su dinastía que aprendió egipcio—, escribió sobre farmacología y gobernó con notable habilidad durante veinte años. Con ella terminan tres milenios de Egipto independiente.",
+    "imagenes": [
+      "/images/egipto/egipto2_cleopatra7-kleopatra-vii-altes-museum-berlin1-jpg_wikimedia.jpg"
     ]
   },
   {
