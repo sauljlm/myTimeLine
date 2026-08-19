@@ -12,6 +12,18 @@
     ]
   },
   {
+    "id": "china-yu-aguas",
+    "region": "china",
+    "tipo": "evento",
+    "titulo": "Yu el Grande y el control de las aguas",
+    "fecha_inicio": -2000,
+    "fecha_fin": null,
+    "descripcion_corta": "El mito fundacional de la civilización china no habla de una guerra ni de un dios creador, sino de una obra pública. Cuenta que el Río Amarillo inundaba sin control y que el padre de Yu intentó contenerlo con diques, fracasando durante nueve años. Yu cambió de método: en lugar de bloquear el agua, la canalizó y la repartió, dragando cauces y abriendo derivaciones, y trabajó trece años sin entrar en su casa ni una vez, aunque pasó tres veces por delante de su puerta. Por ese mérito recibió el trono y fundó la dinastía Xia. El relato dice mucho de los valores que China consideraba propios del buen gobernante: sacrificio, servicio público y saber trabajar con la naturaleza en lugar de contra ella. Y apunta a un hecho real: en una llanura que depende de un río tan caprichoso, quien organizaba el trabajo hidráulico acababa gobernando.",
+    "imagenes": [
+      "/images/china/china3_yu-china-edcp-relief-location-map-jpg_wikimedia.jpg"
+    ]
+  },
+  {
     "id": "china-erlitou",
     "region": "china",
     "tipo": "evento",
@@ -21,6 +33,18 @@
     "descripcion_corta": "La dinastía Xia se conocía solo por textos escritos mil años después, y muchos historiadores la consideraban legendaria. En 1959 empezaron las excavaciones de Erlitou, en la provincia de Henan, y apareció algo inesperado para esa fecha: un asentamiento de unas 300 hectáreas con palacios de planta rectangular sobre plataformas de tierra apisonada, talleres especializados de bronce y turquesa, y calles trazadas. Está fechado entre 1900 y 1500 a. C., justo en el período que las crónicas atribuyen a los Xia. Allí aparecieron los primeros recipientes rituales de bronce fundidos con molde por secciones, una técnica china característica, y un dragón de turquesa formado por más de 2 000 piezas. Si Erlitou fue o no la capital Xia sigue discutiéndose —no se ha encontrado escritura que lo confirme—, pero demuestra que existió un Estado complejo en el valle del Río Amarillo antes de los Shang.",
     "imagenes": [
       "/images/china/china2_erlitou-20240815-erlitou-site-05-jpg_wikimedia.jpg"
+    ]
+  },
+  {
+    "id": "china-bronce-ritual",
+    "region": "china",
+    "tipo": "evento",
+    "titulo": "El bronce ritual y los talleres reales",
+    "fecha_inicio": -1700,
+    "fecha_fin": null,
+    "descripcion_corta": "Los bronces chinos no eran armas ni herramientas de uso diario, sino vasijas para el culto a los antepasados: recipientes para cocer carne, calentar vino o servir cereal durante los banquetes rituales. Su fabricación exigía una organización estatal completa —minas de cobre y estaño, transporte, talleres, escribas— y una técnica propia: el molde por secciones, en el que se modelaba la pieza en arcilla, se cortaba el molde en partes y se volvía a ensamblar. A diferencia de la cera perdida usada en Occidente, permitía decoraciones nítidas y repetibles, como el taotie, una máscara animal simétrica que cubre las superficies. Algunas piezas superan los 800 kilos. Poseerlas era el signo del poder: los textos hablan de los nueve calderos como emblema del derecho a gobernar, y preguntar por su peso equivalía a desafiar al rey.",
+    "imagenes": [
+      "/images/china/china3_bronce-met-dp219959-jpg_wikimedia.jpg"
     ]
   },
   {
@@ -36,6 +60,18 @@
     ]
   },
   {
+    "id": "china-anyang",
+    "region": "china",
+    "tipo": "evento",
+    "titulo": "Anyang, la última capital Shang",
+    "fecha_inicio": -1400,
+    "fecha_fin": null,
+    "descripcion_corta": "Yinxu, en las afueras de la actual Anyang, fue la capital de los Shang durante sus últimos dos siglos y medio, y su excavación desde 1928 marcó el nacimiento de la arqueología científica china. Salieron a la luz cimientos de palacios y templos sobre plataformas de tierra apisonada, talleres de bronce, hueso y jade, once tumbas reales con pozos de acceso en cruz, y los archivos de huesos oraculares. También apareció el lado más duro de aquella sociedad: miles de víctimas de sacrificios humanos, en su mayoría prisioneros de guerra, enterradas en fosas rituales y bajo los cimientos de los edificios. Yinxu confirmó que los Shang, hasta entonces conocidos solo por textos muy posteriores, habían existido tal como los describían las crónicas, y es hoy Patrimonio de la Humanidad.",
+    "imagenes": [
+      "/images/china/china3_anyang-e5-ae-89-e9-98-b3-panoramio-jpg_wikimedia.jpg"
+    ]
+  },
+  {
     "id": "china-huesos-oraculares",
     "region": "china",
     "tipo": "evento",
@@ -48,6 +84,18 @@
     ]
   },
   {
+    "id": "china-wu-ding",
+    "region": "china",
+    "tipo": "evento",
+    "titulo": "Los reyes-adivinos Shang",
+    "fecha_inicio": -1250,
+    "fecha_fin": null,
+    "descripcion_corta": "El rey Shang no era solo un jefe militar: era el intermediario entre su pueblo y los antepasados reales, y su función principal era consultarlos. Bajo Wu Ding, que reinó unos cincuenta años hacia 1250 a. C., esa práctica alcanzó su apogeo y dejó decenas de miles de huesos oraculares con las preguntas grabadas: sobre cosechas, lluvias, partos, expediciones militares, sueños e incluso el dolor de muelas del rey. Las respuestas se leían en las grietas que abría el calor, y a veces se anotaba después si el pronóstico había acertado. Ese archivo, escrito para hablar con los muertos, se ha convertido en la fuente más directa que tenemos sobre la vida de un Estado de hace 3 200 años: nombres de reyes, campañas, sacrificios, calendario y hasta el registro de un eclipse.",
+    "imagenes": [
+      "/images/china/china3_adivinos-e6-ad-a6-e4-b8-81-jpg_wikimedia.jpg"
+    ]
+  },
+  {
     "id": "china-fu-hao",
     "region": "china",
     "tipo": "evento",
@@ -57,6 +105,18 @@
     "descripcion_corta": "En 1976 se excavó en Anyang la única tumba real Shang encontrada intacta. Pertenecía a Fu Hao, esposa del rey Wu Ding, y contenía más de 1 900 objetos: 468 piezas de bronce, 755 de jade, marfil, conchas de cauri usadas como moneda, y los restos de dieciséis personas sacrificadas y seis perros. Los huesos oraculares completan su retrato y lo hacen excepcional: Fu Hao dirigió campañas militares al mando de más de diez mil hombres, oficiaba ceremonias religiosas y administraba su propio feudo. Era, además de reina, general y sacerdotisa. Su ajuar muestra el nivel técnico del bronce Shang, fundido por el método de molde por secciones —distinto de la cera perdida usada en Occidente— que permitía decoraciones muy complejas, como el motivo taotie, una máscara animal que cubre vasijas rituales de decenas de kilos.",
     "imagenes": [
       "/images/china/china2_fuhao-fu-hao-statue-in-front-of-tomb-2844987347225-_wikimedia.jpg"
+    ]
+  },
+  {
+    "id": "china-antepasados",
+    "region": "china",
+    "tipo": "evento",
+    "titulo": "El culto a los antepasados",
+    "fecha_inicio": -1150,
+    "fecha_fin": null,
+    "descripcion_corta": "En China los muertos no se marchaban: seguían formando parte de la familia y podían ayudar o perjudicar a los vivos según se les atendiera. De ahí que el culto a los antepasados sea el hilo religioso más continuo de su historia, anterior al confucianismo, al taoísmo y al budismo, y que sobreviviera a todos ellos. Se les ofrecían alimento y bebida en vasijas rituales, se les consultaba antes de cualquier decisión importante y se llevaba un registro genealógico riguroso, porque el orden de las generaciones determinaba el de las ofrendas. Esa lógica moldeó mucho más que la religión: explica el peso de la piedad filial en la moral confuciana, la importancia de tener descendencia varonil, la autoridad del padre dentro del hogar y la costumbre de los templos familiares y las tablillas con los nombres de los difuntos, aún vivas hoy.",
+    "imagenes": [
+      "/images/china/china3_antepasados-e7-ab-a5-e6-b0-8f-e5-ae-97-e7-a5-a0-e4-be-9b-_wikimedia.jpg"
     ]
   },
   {
@@ -84,6 +144,18 @@
     ]
   },
   {
+    "id": "china-fengjian",
+    "region": "china",
+    "tipo": "evento",
+    "titulo": "El sistema fengjian: los feudos Zhou",
+    "fecha_inicio": -950,
+    "fecha_fin": null,
+    "descripcion_corta": "Tras derrotar a los Shang, los Zhou se encontraron con un territorio demasiado grande para gobernarlo desde una sola capital sin caminos ni burocracia. Su solución, atribuida sobre todo al duque de Zhou, fue repartirlo: concedieron territorios a parientes, aliados y generales, que los gobernaban con autonomía a cambio de tributo, tropas y lealtad ritual al rey. Es el llamado fengjian, y guarda un parecido notable con el feudalismo europeo, aunque surgió dos mil años antes y por su cuenta. Funcionó mientras los lazos familiares con la corte estuvieron frescos, pero con las generaciones los señores fueron sintiéndose reyes en su propia tierra. Cuando la corte tuvo que huir al este en 771 a. C., el sistema ya estaba vacío por dentro: el rey conservó el prestigio ritual y perdió el poder real.",
+    "imagenes": [
+      "/images/china/china3_fengjian-duke-of-zhou-png_wikimedia.png"
+    ]
+  },
+  {
     "id": "china-vida-cotidiana",
     "region": "china",
     "tipo": "evento",
@@ -93,7 +165,8 @@
     "descripcion_corta": "La sociedad china antigua estaba profundamente marcada por el confucianismo, que enfatizaba el respeto a los mayores, la piedad filial y una jerarquía social clara: el emperador, los funcionarios-eruditos, los campesinos, los artesanos y, en el nivel más bajo, los comerciantes (vistos con recelo pese a su riqueza, por considerárselos poco productivos). La mayoría de la población eran campesinos que cultivaban mijo y arroz en pequeñas parcelas familiares, viviendo en aldeas agrupadas por clanes. La familia extensa y el culto a los ancestros eran el centro de la vida espiritual y social, y el acceso a la educación —y por tanto a la burocracia estatal— se convirtió, sobre todo desde la dinastía Han, en la principal vía de ascenso social a través de exámenes imperiales.",
     "imagenes": [
       "/images/china/china2_vivia-e6-b1-9d-e7-aa-af-e9-9d-92-e7-93-b7-e8-86-bd-_wikimedia.png"
-    ]
+    ],
+    "contextual": true
   },
   {
     "id": "china-modelo-economico",
@@ -105,7 +178,8 @@
     "descripcion_corta": "La economía se basaba en la agricultura intensiva (mijo en el norte, arroz en el sur), controlada por un Estado que cobraba impuestos en grano, trabajo (corvea) o servicio militar, y que llegó a monopolizar la producción de sal y hierro para financiar el gobierno. Con la dinastía Han se abrió la Ruta de la Seda, una red de rutas comerciales terrestres que conectaba China con India, Persia y el Mediterráneo, exportando seda, porcelana y té a cambio de caballos, vidrio, especias y metales preciosos. La moneda circulaba como monedas de bronce con un agujero cuadrado en el centro, que podían ensartarse en cuerdas para contar grandes cantidades con facilidad.",
     "imagenes": [
       "/images/china/china2_economia-ancientchinesecoins-jpg_wikimedia.jpg"
-    ]
+    ],
+    "contextual": true
   },
   {
     "id": "china-primaveras-otonos",
@@ -117,6 +191,30 @@
     "descripcion_corta": "En 771 a. C. la corte Zhou tuvo que huir hacia el este y, aunque los reyes conservaron el título y la autoridad ritual, el poder real pasó a manos de los señores de los estados vasallos. Ese período, llamado Primaveras y Otoños por la crónica del estado de Lu que lo narra, fue de guerras constantes entre docenas de estados que competían por la hegemonía y por el papel de protectores nominales del rey. Paradójicamente, tanta inestabilidad produjo una explosión intelectual: los gobernantes necesitaban consejeros y estrategas, y eso creó una demanda de pensadores que dio lugar a las llamadas Cien Escuelas de Pensamiento. Confucio, Lao-Tsé y Sun Tzu son hijos de esta época, y todos intentaban responder a la misma pregunta desde ángulos opuestos: cómo devolver el orden a un mundo que se había roto.",
     "imagenes": [
       "/images/china/china2_primaveras-spring-and-autumn-annals-annoted-jpg_wikimedia.jpg"
+    ]
+  },
+  {
+    "id": "china-hierro",
+    "region": "china",
+    "tipo": "evento",
+    "titulo": "El hierro y el arado",
+    "fecha_inicio": -750,
+    "fecha_fin": null,
+    "descripcion_corta": "China empezó a trabajar el hierro más tarde que el Próximo Oriente, pero lo hizo de una forma distinta y llegó más lejos: gracias a sus hornos de fuelle y a la experiencia acumulada con el bronce, alcanzó temperaturas suficientes para obtener hierro fundido y colarlo en moldes casi dos mil años antes que Europa. Eso permitió producir en serie rejas de arado, azadas, hoces y hachas a un coste que ningún campesino podía pagar cuando las herramientas eran de bronce. Combinado con el arado tirado por bueyes, los canales de riego y el abonado, multiplicó las cosechas y la población, y con ello los ejércitos que los estados podían sostener. No es casualidad que la época de mayor expansión del hierro coincida con las guerras de los Reinos Combatientes: la misma tecnología que llenó los graneros llenó también los arsenales.",
+    "imagenes": [
+      "/images/china/china3_hierro-arado-total-jpg_wikimedia.jpg"
+    ]
+  },
+  {
+    "id": "china-libro-odas",
+    "region": "china",
+    "tipo": "evento",
+    "titulo": "El Libro de las Odas",
+    "fecha_inicio": -700,
+    "fecha_fin": null,
+    "descripcion_corta": "El Shijing reúne 305 poemas recopilados entre los siglos XI y VII a. C., y es el libro de poesía más antiguo de China. Lo notable es su mezcla: junto a los himnos solemnes para los sacrificios reales y las odas de banquete cortesano están las 'aires de los estados', canciones populares recogidas —según la tradición— por funcionarios que recorrían el país para que el rey supiera lo que pensaba su pueblo. Ahí hay muchachas que esperan a su amante junto al río, campesinos que se quejan de los impuestos y soldados que echan de menos su casa. La tradición atribuye a Confucio la selección final, y lo convirtió en texto de estudio obligado: citarlo con acierto era la marca del hombre culto, y durante siglos ningún letrado podía permitirse desconocerlo.",
+    "imagenes": [
+      "/images/china/china3_odas-shi-jing-jpg_wikimedia.jpg"
     ]
   },
   {
@@ -141,6 +239,30 @@
     "descripcion_corta": "China descubrió cómo criar el gusano Bombyx mori, alimentarlo con hojas de morera y devanar el hilo continuo de su capullo antes de que la mariposa lo rompiera: un solo capullo da cientos de metros de una fibra ligera, resistente y brillante que ningún otro material igualaba. La leyenda atribuye el hallazgo a la emperatriz Leizu, y los restos arqueológicos de seda se remontan a más de 3 000 años a. C. Durante siglos fue moneda de cambio, símbolo de rango —las leyes regulaban quién podía vestirla— y medio de pago de impuestos y salarios. China guardó celosamente el secreto de su producción bajo pena de muerte, y esa exclusividad convirtió la tela en el producto más codiciado de Eurasia: los romanos la pagaban a peso de oro y le dieron nombre a la ruta comercial que atravesaba el continente.",
     "imagenes": [
       "/images/china/china2_seda-khotan-fabrica-seda-d17-jpg_wikimedia.jpg"
+    ]
+  },
+  {
+    "id": "china-i-ching",
+    "region": "china",
+    "tipo": "evento",
+    "titulo": "El I Ching y la adivinación",
+    "fecha_inicio": -600,
+    "fecha_fin": null,
+    "descripcion_corta": "El Libro de las Mutaciones es el más antiguo de los clásicos chinos y uno de los libros más influyentes jamás escritos. Nació como manual de adivinación: se lanzaban tallos de milenrama o monedas para obtener uno de los 64 hexagramas, figuras de seis líneas continuas o partidas, cada una con un texto que se interpretaba según la pregunta. Pero con los comentarios añadidos durante siglos se convirtió en algo más: una filosofía del cambio, según la cual nada es fijo, todo se transforma en su contrario y la sabiduría consiste en reconocer en qué momento del ciclo se está. De ahí salen conceptos centrales del pensamiento chino como el yin y el yang. Lo leyeron confucianos y taoístas por igual, y en el siglo XX fascinó a Leibniz —que vio en sus líneas un sistema binario— y a Jung.",
+    "imagenes": [
+      "/images/china/china3_iching-i-ching-song-dynasty-print-jpg_wikimedia.jpg"
+    ]
+  },
+  {
+    "id": "china-moneda",
+    "region": "china",
+    "tipo": "evento",
+    "titulo": "La moneda de cuchillo y de pala",
+    "fecha_inicio": -570,
+    "fecha_fin": null,
+    "descripcion_corta": "Antes de las monedas redondas, China acuñó bronce con formas que revelan su origen: cuchillos y palas en miniatura, porque esas eran las herramientas que antes se intercambiaban directamente como valor. Cada estado emitía las suyas, con su peso, su forma y sus inscripciones, lo que da una idea del rompecabezas comercial de la época: cambiar de reino significaba cambiar de moneda. También circularon conchas de cauri, reales y luego imitadas en bronce y hueso —de ahí que muchos caracteres relacionados con el dinero y el comercio lleven el radical de la concha—. La unificación llegó con Qin Shi Huang, que impuso para todo el imperio la moneda redonda con agujero cuadrado, una forma tan práctica —se ensartaban en cuerdas por miles— que se mantuvo en uso durante más de dos mil años, hasta el siglo XX.",
+    "imagenes": [
+      "/images/china/china3_moneda-yan-state-coins-jpg_wikimedia.jpg"
     ]
   },
   {
@@ -180,6 +302,18 @@
     ]
   },
   {
+    "id": "china-goujian",
+    "region": "china",
+    "tipo": "evento",
+    "titulo": "Wu y Yue: la rivalidad del sur",
+    "fecha_inicio": -490,
+    "fecha_fin": null,
+    "descripcion_corta": "En el sur, lejos del corazón Zhou, los estados de Wu y Yue protagonizaron una de las rivalidades más recordadas de la historia china. Derrotado y humillado, el rey Goujian de Yue pasó años sirviendo como esclavo a su vencedor; al ser liberado, según el relato, dormía sobre leña y probaba cada día una vesícula biliar colgada del techo para no olvidar su amargura, hasta que finalmente destruyó a Wu. De ahí viene una expresión que todavía se usa en chino para hablar de la perseverancia en la adversidad. La arqueología ha dado a la historia un objeto extraordinario: la espada de Goujian, hallada en 1965 en una tumba inundada, con una aleación y un recubrimiento que la mantuvieron sin oxidar y afilada tras 2 400 años bajo tierra.",
+    "imagenes": [
+      "/images/china/china3_goujian-20230208-bronze-sword-used-by-king-goujian-of_wikimedia.jpg"
+    ]
+  },
+  {
     "id": "china-reinos-combatientes",
     "region": "china",
     "tipo": "evento",
@@ -192,6 +326,42 @@
     ]
   },
   {
+    "id": "china-mozi",
+    "region": "china",
+    "tipo": "evento",
+    "titulo": "Mozi y el mohismo",
+    "fecha_inicio": -470,
+    "fecha_fin": null,
+    "descripcion_corta": "Mozi fue el gran rival del confucianismo en su momento, y sus ideas resultan sorprendentemente modernas. Predicó el 'amor universal': hay que preocuparse por todos por igual, no más por la propia familia, porque justamente el afecto parcial es la raíz de los conflictos. Criticó los rituales caros, la música cortesana y los funerales fastuosos que defendían los confucianos, por considerarlos un desperdicio que empobrecía al pueblo. Y fue radicalmente antibelicista, aunque de una forma peculiar: sus discípulos formaron cuerpos de ingenieros que acudían a defender ciudades pequeñas amenazadas por estados grandes, y desarrollaron una notable tecnología de fortificación. Los mohistas escribieron además los textos chinos más antiguos sobre lógica, óptica, mecánica y geometría. Su escuela desapareció con el imperio Qin, pero sus preguntas siguieron resonando.",
+    "imagenes": [
+      "/images/china/china3_mozi-d0-a4-d0-b8-d0-bb-d0-be-d1-81-d0-be-d1-84-d0-_wikimedia.jpg"
+    ]
+  },
+  {
+    "id": "china-cien-escuelas",
+    "region": "china",
+    "tipo": "evento",
+    "titulo": "Las Cien Escuelas de Pensamiento",
+    "fecha_inicio": -450,
+    "fecha_fin": -221,
+    "descripcion_corta": "El período más caótico de la historia china fue también el más fértil en ideas. Los estados en guerra necesitaban consejeros, estrategas y administradores, y esa demanda creó una clase de pensadores itinerantes que viajaban de corte en corte ofreciendo su respuesta a la misma pregunta: cómo devolver el orden al mundo. Los confucianos confiaban en la virtud y el ritual; los taoístas, en dejar de intervenir; los legistas, en leyes duras y aplicadas sin excepción; los mohistas, en el amor universal y la utilidad; los estrategas, en el cálculo militar; y había además escuelas de dialécticos, agricultores y adivinos. Se escribía en tiras de bambú atadas con cuerda, el soporte del libro chino durante siglos. De ese debate salió el repertorio completo de la filosofía china: casi todo lo que se pensó después fue una relectura de aquellas posiciones.",
+    "imagenes": [
+      "/images/china/china3_escuelas-warring-states-bamboo-slips-2c-copy-281018583_wikimedia.jpg"
+    ]
+  },
+  {
+    "id": "china-ballesta",
+    "region": "china",
+    "tipo": "evento",
+    "titulo": "La ballesta",
+    "fecha_inicio": -400,
+    "fecha_fin": null,
+    "descripcion_corta": "La ballesta china aparece en los Reinos Combatientes y cambió el equilibrio de las batallas. Su clave era el mecanismo de disparo: una pieza de bronce fundida con precisión, con gatillo y fiador, capaz de retener una cuerda con enorme tensión y liberarla al instante. Eso permitía a un campesino reclutado, tras unas semanas de instrucción, atravesar una armadura a distancia, mientras que formar a un arquero de arco compuesto llevaba años. Los ejércitos desplegaban miles de ballesteros en filas que disparaban por turnos mientras las otras recargaban, un fuego continuo que los textos comparan con la lluvia. Su fabricación exigía piezas intercambiables y control de calidad, y en las armas del ejército de terracota se han encontrado marcas con el nombre del taller y del supervisor responsable, un sistema de trazabilidad notable para el siglo III a. C.",
+    "imagenes": [
+      "/images/china/china3_ballesta-zhugenu-springautumn-jpg_wikimedia.jpg"
+    ]
+  },
+  {
     "id": "china-shang-yang",
     "region": "china",
     "tipo": "evento",
@@ -201,6 +371,42 @@
     "descripcion_corta": "Frente al confucianismo, que confiaba en la virtud del gobernante y en el ejemplo moral, el legismo sostenía lo contrario: las personas actúan por interés y miedo, así que solo leyes claras, públicas, iguales para todos y con premios y castigos muy severos pueden ordenar un Estado. A partir de 356 a. C. el ministro Shang Yang aplicó esas ideas en el estado de Qin con una radicalidad sin precedentes: abolió los privilegios hereditarios de la nobleza y concedió rango según los méritos militares, dividió a la población en grupos responsables colectivamente de los delitos de sus miembros, premió la producción agrícola y penalizó el comercio, y unificó pesos, medidas e impuestos. Qin pasó de ser un estado periférico a la mayor máquina militar de China. El propio Shang Yang acabó ejecutado por sus propias leyes tras la muerte de su protector, pero su modelo permitió la unificación del país.",
     "imagenes": [
       "/images/china/china2_shangyang-statue-of-shang-yang-jpg_wikimedia.jpg"
+    ]
+  },
+  {
+    "id": "china-rey-wuling",
+    "region": "china",
+    "tipo": "evento",
+    "titulo": "El rey Wuling y la caballería",
+    "fecha_inicio": -307,
+    "fecha_fin": null,
+    "descripcion_corta": "En 307 a. C. el rey Wuling del estado de Zhao tomó una decisión que escandalizó a su corte: ordenar a su ejército vestir pantalones y túnica corta como los nómadas del norte, y combatir a caballo con arco en lugar de hacerlo desde carros. Los ministros lo vivieron como una humillación cultural —adoptar las ropas de los 'bárbaros'—, y él respondió que lo que sirve para vencer no tiene patria. El cambio fue decisivo: los carros de guerra, inútiles en terreno quebrado y lentos de maniobrar, dejaron paso a una caballería rápida que Zhao usó para expandirse hacia el norte. Es uno de los primeros casos documentados en que un Estado copia deliberadamente la tecnología militar de su enemigo, y el episodio se citó durante siglos en los debates chinos sobre si conviene o no aprender de fuera.",
+    "imagenes": [
+      "/images/china/china3_wuling-statue-of-king-zhao-wuling-in-congtai-park-jp_wikimedia.jpg"
+    ]
+  },
+  {
+    "id": "china-zhuangzi",
+    "region": "china",
+    "tipo": "evento",
+    "titulo": "Zhuangzi y la libertad taoísta",
+    "fecha_inicio": -300,
+    "fecha_fin": null,
+    "descripcion_corta": "Si el Tao Te King es el libro doctrinal del taoísmo, el Zhuangzi es su obra literaria: una colección de relatos, diálogos absurdos y paradojas que se burlan de la solemnidad confuciana y de la pretensión de tener certezas. Suyo es el pasaje más famoso de la filosofía china: soñó que era una mariposa y, al despertar, no supo si era un hombre que había soñado ser mariposa o una mariposa que ahora soñaba ser hombre. Zhuangzi defiende la relatividad de todos los puntos de vista —lo grande y lo pequeño, lo útil y lo inútil, la vida y la muerte, dependen de dónde se mire—, rechaza los cargos públicos que le ofrecen y propone una libertad que consiste en no dejarse atrapar por las categorías ajenas. Su influencia en la poesía, la pintura de paisaje y más tarde en el budismo chan —el zen— fue enorme.",
+    "imagenes": [
+      "/images/china/china3_zhuangzi-zhuangzi-png_wikimedia.png"
+    ]
+  },
+  {
+    "id": "china-qu-yuan",
+    "region": "china",
+    "tipo": "evento",
+    "titulo": "Qu Yuan y el Festival del Bote del Dragón",
+    "fecha_inicio": -278,
+    "fecha_fin": null,
+    "descripcion_corta": "Qu Yuan fue ministro y poeta del estado de Chu. Se opuso a la alianza con el poderoso Qin, fue desterrado por las intrigas de la corte y, cuando en 278 a. C. supo que la capital de su país había caído, se arrojó al río Miluo con una piedra en los brazos. Según la tradición, los aldeanos salieron en barcas a buscarlo y arrojaron bolas de arroz al agua para que los peces no devoraran su cuerpo: de ahí vienen las carreras de botes del dragón y los zongzi que se comen cada año en el Festival del Bote del Dragón, una de las fiestas más importantes de China. Es además el primer poeta chino con nombre propio: antes de él la poesía era anónima y colectiva. Sus versos, reunidos en los Cantos de Chu, mezclan la queja política con la imaginería chamánica del sur y abrieron una tradición lírica personal que llega hasta hoy.",
+    "imagenes": [
+      "/images/china/china3_quyuan-qu-yuan-chen-hongshou-2-jpg_wikimedia.jpg"
     ]
   },
   {
@@ -300,6 +506,30 @@
     ]
   },
   {
+    "id": "china-sima-qian",
+    "region": "china",
+    "tipo": "evento",
+    "titulo": "Sima Qian y las Memorias históricas",
+    "fecha_inicio": -100,
+    "fecha_fin": null,
+    "descripcion_corta": "Sima Qian heredó de su padre el cargo de gran astrólogo de la corte Han y el encargo de escribir una historia completa de China. A medio camino cometió el error de defender ante el emperador Wu a un general derrotado, y fue condenado a la castración, una pena que normalmente llevaba al suicidio. Eligió vivir para terminar el libro, y lo explicó en una carta estremecedora. Las Memorias históricas abarcan desde los emperadores míticos hasta su propia época en 130 capítulos, y su innovación fue estructural: en lugar de una crónica cronológica, organizó el material en anales, tablas, tratados temáticos y biografías, incluidas las de asesinos, humoristas y comerciantes, no solo de reyes. Contrastó fuentes, señaló contradicciones y no ocultó los defectos de los poderosos. Fue el modelo de toda la historiografía china durante dos mil años.",
+    "imagenes": [
+      "/images/china/china3_simaqian-sima-qian-28painted-portrait-29-jpg_wikimedia.jpg"
+    ]
+  },
+  {
+    "id": "china-papel",
+    "region": "china",
+    "tipo": "evento",
+    "titulo": "El papel",
+    "fecha_inicio": -50,
+    "fecha_fin": null,
+    "descripcion_corta": "Antes del papel, los chinos escribían en tiras de bambú atadas con cuerda —pesadísimas: un solo libro podía necesitar una carreta— o en seda, ligera pero carísima. Los restos de papel más antiguos que se conservan datan del siglo II a. C., hechos con fibras de cáñamo. La tradición atribuye su perfeccionamiento al eunuco de la corte Cai Lun, que hacia el año 105 presentó un método barato y regular usando corteza de morera, redes de pesca viejas y trapos macerados, colados sobre un tamiz y secados en láminas. El resultado cambió la administración de un imperio que funcionaba a base de documentos, y con el tiempo salió de China: pasó al mundo islámico tras el siglo VIII y llegó a Europa a través de al-Ándalus, siglos antes que la imprenta que lo aprovecharía.",
+    "imagenes": [
+      "/images/china/china3_papel-paper-sheet-jpg_wikimedia.jpg"
+    ]
+  },
+  {
     "id": "china-wang-mang",
     "region": "china",
     "tipo": "evento",
@@ -309,6 +539,18 @@
     "descripcion_corta": "En el año 9 d. C., el regente Wang Mang depuso al último emperador Han occidental y fundó su propia dinastía, la Xin. Su programa fue extraordinariamente ambicioso: nacionalizó la tierra para repartirla entre los campesinos y frenar los grandes latifundios, prohibió la compraventa de esclavos, restableció los monopolios estatales, creó préstamos públicos a bajo interés y reformó la moneda varias veces. Justificó todo ello como un retorno a los ideales de la antigüedad confuciana. El resultado fue el caos: las reformas monetarias arruinaron el comercio, la administración no pudo aplicar el reparto de tierras y los terratenientes se le opusieron en bloque. Para colmo, el Río Amarillo cambió de curso, provocando inundaciones y hambrunas que se leyeron como la pérdida del Mandato del Cielo. Murió en la toma de la capital en el 23, y la dinastía Han fue restaurada.",
     "imagenes": [
       "/images/china/china2_wangmang-wul-he21-01467-e6-96-b0-e9-90-ab-e7-b9-aa-e5-_wikimedia.jpg"
+    ]
+  },
+  {
+    "id": "china-budismo",
+    "region": "china",
+    "tipo": "evento",
+    "titulo": "La llegada del budismo",
+    "fecha_inicio": 65,
+    "fecha_fin": null,
+    "descripcion_corta": "El budismo entró en China por la Ruta de la Seda, traído por mercaderes y monjes de Asia central. La tradición fija su llegada oficial en un sueño del emperador Ming de Han, que vio una figura dorada y envió una embajada a Occidente; de vuelta trajeron textos, imágenes y dos monjes, para los que se fundó en Luoyang el Templo del Caballo Blanco, hacia el año 68. La adaptación no fue sencilla: una doctrina que predicaba renunciar a la familia y al mundo chocaba de frente con la piedad filial confuciana, y los primeros traductores tuvieron que recurrir a vocabulario taoísta para explicar conceptos que el chino no tenía. Con el hundimiento del imperio Han y los siglos de división que siguieron, su mensaje sobre el sufrimiento caló hondo, y acabó siendo, junto al confucianismo y al taoísmo, una de las tres enseñanzas que estructuran la cultura china.",
+    "imagenes": [
+      "/images/china/china3_budismo-20231209-daxiong-baodian-2c-guangde-an-2c-nin_wikimedia.jpg"
     ]
   },
   {
