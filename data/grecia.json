@@ -28,6 +28,30 @@
     ]
   },
   {
+    "id": "grecia-polis",
+    "region": "grecia",
+    "tipo": "evento",
+    "titulo": "Nace la polis",
+    "fecha_inicio": -800,
+    "fecha_fin": -500,
+    "descripcion_corta": "Al salir de la Edad Oscura, las aldeas dispersas se reagruparon en un tipo de comunidad nuevo: la polis o ciudad-estado, la unidad política que define a Grecia durante el resto de su historia antigua. Cada polis era independiente y tenía sus propias leyes, calendario, moneda, ejército y dioses protectores, aunque todas compartían lengua, religión y la conciencia de ser helenos. Su estructura física se repetía: la acrópolis (la parte alta y fortificada, con los templos) y el ágora, la plaza pública donde se comerciaba y, sobre todo, donde los ciudadanos discutían los asuntos comunes. Llegó a haber más de mil poleis; ese fraccionamiento explica tanto la enorme creatividad política griega —se ensayaron monarquías, oligarquías, tiranías y democracias casi en paralelo— como su debilidad militar frente a potencias unificadas como Persia o Macedonia.",
+    "imagenes": [
+      "/images/grecia/grecia3_polis-attica-06-13-athens-22-view-from-acropolis-hill-mu_wikimedia.jpg"
+    ]
+  },
+  {
+    "id": "grecia-primeros-juegos-olimpicos",
+    "region": "grecia",
+    "tipo": "evento",
+    "titulo": "Primeros Juegos Olímpicos",
+    "fecha_inicio": -776,
+    "fecha_fin": null,
+    "descripcion_corta": "En 776 a. C. se celebraron en Olimpia los primeros Juegos Olímpicos de los que queda registro, en honor a Zeus. La única prueba de aquella primera edición fue el stadion, una carrera de unos 192 metros que ganó Corebo de Élide, un cocinero. Con el tiempo se sumaron la lucha, el pugilato, el pentatlón, las carreras de carros y el pancracio. Los juegos se repetían cada cuatro años y durante su celebración regía la ekecheiria o tregua sagrada, que permitía a los atletas y espectadores viajar sin ser atacados aunque sus ciudades estuvieran en guerra. El premio era simbólico —una corona de olivo—, pero la gloria para la ciudad de origen era enorme. Fueron tan centrales para la identidad griega común que los propios griegos empezaron a contar el tiempo por olimpiadas, y esta fecha se usa como el arranque convencional de la Época Arcaica.",
+    "imagenes": [
+      "/images/grecia/grecia3_olimpicos-the-discobolus-lancellotti-2c-roman-copy-of-a-5th-centu_wikimedia.jpg"
+    ]
+  },
+  {
     "id": "grecia-epoca-arcaica",
     "region": "grecia",
     "tipo": "evento",
@@ -43,6 +67,54 @@
       "/images/grecia/grecia_trirreme-salamina-la-decisiva-victoria-de-las-ciudades-griegas-ante-el-imperio-persa-n-1_node-91-159.png",
       "/images/grecia/grecia2_chigi-painter-cvpap-32-a-3-battle-of-phalanxes-chariots_wikimedia.jpg",
       "/images/grecia/grecia2_electrum-trite-alyattes-lydia-620-563-bc_wikimedia.jpg"
+    ]
+  },
+  {
+    "id": "grecia-homero",
+    "region": "grecia",
+    "tipo": "evento",
+    "titulo": "Homero: la Ilíada y la Odisea",
+    "fecha_inicio": -750,
+    "fecha_fin": null,
+    "descripcion_corta": "Hacia 750–720 a. C. se fijaron por escrito la Ilíada y la Odisea, atribuidas a Homero. Antes habían circulado durante siglos como poesía oral: los aedos y rapsodas las cantaban de memoria, ayudándose de fórmulas repetidas ('Aquiles, el de los pies ligeros') que facilitaban improvisar y recordar miles de versos. La Ilíada narra unas semanas del último año del asedio de Troya y la cólera de Aquiles; la Odisea, los diez años que tarda Odiseo en volver a Ítaca. Su peso en la cultura griega es difícil de exagerar: fueron la base de la educación, la referencia moral sobre el honor y la hospitalidad, y la fuente común de mitos para el teatro y el arte. Todavía se discute si Homero fue una persona real, varios poetas o el nombre dado a una tradición entera.",
+    "imagenes": [
+      "/images/grecia/grecia3_homero-homer-british-museum-jpg_wikimedia.jpg"
+    ]
+  },
+  {
+    "id": "grecia-alfabeto",
+    "region": "grecia",
+    "tipo": "evento",
+    "titulo": "El alfabeto griego",
+    "fecha_inicio": -730,
+    "fecha_fin": null,
+    "descripcion_corta": "Tras la desaparición del Lineal B micénico, Grecia pasó siglos sin escritura. Hacia el siglo VIII a. C. los griegos tomaron el alfabeto de los fenicios, con quienes comerciaban, y le hicieron un cambio decisivo: reutilizaron algunos signos consonánticos que no necesitaban para anotar las vocales. Así nació el primer alfabeto con vocales y consonantes de la historia, mucho más fácil de aprender que los silabarios anteriores, lo que amplió enormemente el número de personas capaces de leer y escribir. Los testimonios más antiguos que se conservan son grafitos sobre cerámica, como la inscripción del Dipylon de Atenas (hacia 740 a. C.), rayada en una jarra de vino. De este alfabeto derivan el etrusco, el latino que usamos hoy y el cirílico.",
+    "imagenes": [
+      "/images/grecia/grecia3_alfabeto-dipylon-oinochoe_wikimedia.jpg"
+    ]
+  },
+  {
+    "id": "grecia-colonizacion",
+    "region": "grecia",
+    "tipo": "evento",
+    "titulo": "La colonización del Mediterráneo",
+    "fecha_inicio": -700,
+    "fecha_fin": -550,
+    "descripcion_corta": "Entre los siglos VIII y VI a. C. los griegos fundaron colonias por todo el Mediterráneo y el mar Negro. Las causas fueron sobre todo la presión de la tierra: Grecia es montañosa y poco fértil, y el crecimiento de la población dejó a muchas familias sin parcelas, a lo que se sumaron conflictos políticos internos y el afán comercial. Cada expedición partía de una ciudad madre (metrópolis) con un jefe designado y fuego del hogar comunal, pero la colonia nacía como polis independiente, no como posesión. Así surgieron Siracusa, Nápoles (Neápolis), Massalia (Marsella), Bizancio y decenas más; el sur de Italia y Sicilia se helenizaron tanto que los romanos los llamaron Magna Grecia. El resultado fue una red comercial y cultural que difundió el alfabeto, la moneda y la cerámica griega por tres continentes.",
+    "imagenes": [
+      "/images/grecia/grecia3_colonizacion-griechischen-und-ph-nizischen-kolonien-jpg_wikimedia.jpg"
+    ]
+  },
+  {
+    "id": "grecia-falange-hoplita",
+    "region": "grecia",
+    "tipo": "evento",
+    "titulo": "La falange hoplita",
+    "fecha_inicio": -675,
+    "fecha_fin": null,
+    "descripcion_corta": "Entre 700 y 650 a. C. la guerra griega cambió de raíz. En lugar de duelos entre aristócratas al estilo homérico, apareció el hoplita: un soldado de infantería pesada con casco, coraza, grebas, lanza de casi dos metros y, sobre todo, el hoplon, un gran escudo redondo que protegía su costado izquierdo y el derecho del compañero de al lado. De ese detalle nace la falange: una formación cerrada de varias filas donde cada hombre depende literalmente del que tiene al lado, y donde romper la línea significa perder. El equipo lo costeaba cada soldado, así que el hoplita típico era un campesino propietario, no un noble ni un profesional. Eso tuvo consecuencias políticas enormes: quienes sostenían la defensa de la ciudad reclamaron también voz en su gobierno, y la aristocracia guerrera perdió su monopolio.",
+    "imagenes": [
+      "/images/grecia/grecia3_hoplita-corinthian-helmet-denda-staatliche-antikensammlungen-43_wikimedia.jpg"
     ]
   },
   {
@@ -63,6 +135,103 @@
     ]
   },
   {
+    "id": "grecia-safo",
+    "region": "grecia",
+    "tipo": "evento",
+    "titulo": "Safo y la poesía lírica",
+    "fecha_inicio": -600,
+    "fecha_fin": null,
+    "descripcion_corta": "Frente a la épica de Homero, que cantaba hazañas colectivas de héroes, la Época Arcaica trajo la lírica: poemas breves, acompañados de lira, en los que por primera vez alguien habla en primera persona de lo que siente. Safo, nacida en la isla de Lesbos hacia el 630 a. C., es la voz más célebre de esa corriente. Escribió sobre el deseo, los celos, la belleza y la separación con una precisión física que todavía sorprende, y dirigió un círculo de mujeres jóvenes dedicado a la música y la poesía. La Antigüedad la admiró tanto que Platón la llamó 'la décima musa'. De los nueve libros que le atribuían los alejandrinos solo sobreviven un poema completo y decenas de fragmentos, muchos recuperados de papiros hallados en Egipto ya en el siglo XX.",
+    "imagenes": [
+      "/images/grecia/grecia3_safo-carl-agricola-sappho-5105-c3-96sterreichische-galerie-b_wikimedia.jpg"
+    ]
+  },
+  {
+    "id": "grecia-solon",
+    "region": "grecia",
+    "tipo": "evento",
+    "titulo": "Las reformas de Solón",
+    "fecha_inicio": -594,
+    "fecha_fin": null,
+    "descripcion_corta": "A comienzos del siglo VI a. C. Atenas estaba al borde de la guerra civil: muchos campesinos endeudados habían caído en esclavitud por no poder pagar, con su propio cuerpo como garantía del préstamo. Nombrado arconte con poderes extraordinarios hacia 594 a. C., Solón decretó la seisachtheia o 'sacudida de cargas': canceló las deudas, prohibió para siempre la esclavitud por deudas y liberó a los atenienses ya esclavizados. Reorganizó además la ciudadanía en cuatro clases según la renta —no según el nacimiento—, abrió la asamblea a todos los ciudadanos y creó un tribunal popular donde cualquiera podía apelar. No contentó del todo a nadie: los pobres querían un reparto de tierras y los nobles no querían perder nada. Le ofrecieron gobernar como tirano, rechazó el poder y se marchó diez años de viaje. Sus leyes son el cimiento sobre el que después se levantará la democracia ateniense.",
+    "imagenes": [
+      "/images/grecia/grecia3_solon-solon-jpg_wikimedia.jpg"
+    ]
+  },
+  {
+    "id": "grecia-tales-filosofia-jonica",
+    "region": "grecia",
+    "tipo": "evento",
+    "titulo": "Tales de Mileto y la filosofía jónica",
+    "fecha_inicio": -585,
+    "fecha_fin": null,
+    "descripcion_corta": "En Mileto, ciudad griega de la costa de Asia Menor, Tales inauguró una forma nueva de explicar el mundo: buscar sus causas en la propia naturaleza en lugar de atribuirlas a la voluntad de los dioses. Sostuvo que todo procede de un principio único, el agua, y la tradición le atribuye haber predicho el eclipse solar del 585 a. C. y haber medido la altura de las pirámides por la sombra. Sus sucesores milesios siguieron el mismo camino: Anaximandro propuso un principio indefinido (el ápeiron) y dibujó uno de los primeros mapas del mundo; Anaxímenes eligió el aire. Que sus respuestas concretas fueran erróneas importa menos que el cambio de método: preguntar por el porqué de las cosas y admitir que la respuesta puede discutirse. Por eso a esta escuela jónica se la considera el arranque de la filosofía y de la ciencia occidentales.",
+    "imagenes": [
+      "/images/grecia/grecia3_tales-thales-of-miletus-jpg_wikimedia.jpg"
+    ]
+  },
+  {
+    "id": "grecia-pisistrato",
+    "region": "grecia",
+    "tipo": "evento",
+    "titulo": "La tiranía de Pisístrato",
+    "fecha_inicio": -546,
+    "fecha_fin": -527,
+    "descripcion_corta": "Tras dos intentos fallidos, Pisístrato se hizo con el poder en Atenas de forma definitiva en 546 a. C. y gobernó como tirano hasta su muerte en 527 a. C. En la Grecia arcaica 'tirano' no significaba necesariamente gobernante cruel, sino alguien que tomaba el poder al margen de la ley, casi siempre apoyándose en el pueblo contra la aristocracia. Pisístrato mantuvo en pie las leyes de Solón, repartió tierras de nobles exiliados entre campesinos pobres y les dio créditos, impulsó las exportaciones de aceite y cerámica, acuñó moneda con la lechuza de Atenea y financió grandes obras públicas y fiestas religiosas como las Grandes Dionisias, de las que nacería el teatro. Le sucedieron sus hijos Hipias e Hiparco, pero el asesinato de Hiparco en 514 a. C. endureció el régimen, e Hipias fue derrocado en 510 a. C.",
+    "imagenes": [
+      "/images/grecia/grecia3_pisistrato-statue-of-peisistratos-jpg_wikimedia.jpg",
+      "/images/grecia/grecia3_pisistrato-ingres-pisistratus-head-and-left-hand-of-alcibiades-jpg_wikimedia.jpg"
+    ]
+  },
+  {
+    "id": "grecia-pitagoras",
+    "region": "grecia",
+    "tipo": "evento",
+    "titulo": "Pitágoras y su escuela",
+    "fecha_inicio": -530,
+    "fecha_fin": null,
+    "descripcion_corta": "Nacido en la isla de Samos, Pitágoras emigró hacia el 530 a. C. a Crotona, en el sur de Italia, donde fundó una comunidad que era a la vez escuela científica y hermandad religiosa, con normas estrictas de vida, secreto y silencio para los iniciados. Su idea central era que la realidad se explica por números y proporciones: descubrieron que los intervalos musicales corresponden a relaciones numéricas sencillas entre las longitudes de las cuerdas, y de ahí concluyeron que todo el cosmos está ordenado matemáticamente. A esa escuela se atribuye el teorema que lleva su nombre —conocido antes en Mesopotamia y Egipto, pero demostrado aquí de forma general— y el hallazgo, incómodo para su propia doctrina, de los números irracionales. Los pitagóricos admitían mujeres, creían en la transmigración de las almas y llegaron a gobernar varias ciudades de la Magna Grecia.",
+    "imagenes": [
+      "/images/grecia/grecia3_pitagoras-pythagoras-in-the-roman-forum-2c-colosseum-jpg_wikimedia.jpg"
+    ]
+  },
+  {
+    "id": "grecia-clistenes-democracia",
+    "region": "grecia",
+    "tipo": "evento",
+    "titulo": "Clístenes y el nacimiento de la democracia",
+    "fecha_inicio": -508,
+    "fecha_fin": null,
+    "descripcion_corta": "Caída la tiranía, Clístenes impuso en 508–507 a. C. la reforma más radical de la historia ateniense. Rompió el poder de los clanes aristocráticos reorganizando a toda la población: sustituyó las cuatro tribus tradicionales, basadas en el parentesco, por diez tribus artificiales, cada una formada por demos (barrios y aldeas) de tres zonas distintas del Ática —la ciudad, la costa y el interior—, de modo que ninguna familia poderosa pudiera controlar una tribu entera. Creó un Consejo de los Quinientos, cincuenta por tribu, elegidos por sorteo y por un año, que preparaba los asuntos que decidía la Asamblea. A él se atribuye también el ostracismo, la votación anual con que los ciudadanos podían desterrar diez años a quien juzgaran peligroso para la ciudad. Por primera vez el poder no dependía del linaje ni de la riqueza, sino de la condición de ciudadano: es el nacimiento de la demokratía, aunque quedaban fuera mujeres, extranjeros y esclavos.",
+    "imagenes": [
+      "/images/grecia/grecia3_clistenes-cleisthenes-jpg_wikimedia.jpg"
+    ]
+  },
+  {
+    "id": "grecia-heraclito-parmenides",
+    "region": "grecia",
+    "tipo": "evento",
+    "titulo": "Heráclito y Parménides: el cambio y el ser",
+    "fecha_inicio": -505,
+    "fecha_fin": null,
+    "descripcion_corta": "Hacia el 500 a. C. dos pensadores plantearon, desde extremos opuestos, el problema que ocuparía a la filosofía durante siglos. Heráclito de Éfeso sostuvo que todo fluye (panta rhei): nada permanece, la realidad es un proceso continuo de cambio y de tensión entre contrarios, y de ahí su imagen más famosa, la de que nadie se baña dos veces en el mismo río. Para él ese cambio no es caos, sino que lo gobierna un logos, una razón o medida común. Parménides de Elea defendió justo lo contrario: si algo cambia, tendría que pasar del no ser al ser, y el no ser es impensable; por tanto el cambio y la multiplicidad son ilusiones de los sentidos, y solo el razonamiento alcanza lo real, que es uno, eterno e inmóvil. Su discípulo Zenón defendió esta tesis con paradojas célebres, como la de Aquiles y la tortuga. Toda la filosofía posterior, empezando por Platón y Aristóteles, puede leerse como un intento de conciliar ambas posturas.",
+    "imagenes": [
+      "/images/grecia/filo_heraclito-heraclitus-b-4-compressed-jpg_wikimedia.jpg"
+    ]
+  },
+  {
+    "id": "grecia-teatro-griego",
+    "region": "grecia",
+    "tipo": "evento",
+    "titulo": "Teatro griego",
+    "fecha_inicio": -500,
+    "fecha_fin": null,
+    "descripcion_corta": "El teatro griego nació como parte de festivales religiosos dedicados al dios Dioniso, como las Dionisias de Atenas. Los tres grandes trágicos —Esquilo, Sófocles y Eurípides— exploraron temas de destino, justicia divina y la condición humana en obras como la trilogía Orestíada o Edipo Rey, mientras que Aristófanes fue el gran maestro de la comedia, usando la sátira para criticar a políticos y costumbres de su época. De los cientos de obras escritas por estos autores, apenas 33 se conservan completas hasta hoy, pero su influencia moldeó todo el teatro occidental posterior.",
+    "imagenes": [
+      "/images/grecia/grecia2_greek-actor-walters-541067_wikimedia.jpg"
+    ]
+  },
+  {
     "id": "grecia-periodo-clasico",
     "region": "grecia",
     "tipo": "evento",
@@ -77,6 +246,30 @@
       "/images/grecia/grecia_akropol-1_node-91-174.png",
       "/images/grecia/grecia2_red-figure-kylix-symposium-scene-boston-mfa-01-8018_wikimedia.jpg",
       "/images/grecia/grecia2_greece-lavrion-mines-1903_wikimedia.jpg"
+    ]
+  },
+  {
+    "id": "grecia-batalla-maraton",
+    "region": "grecia",
+    "tipo": "evento",
+    "titulo": "La batalla de Maratón",
+    "fecha_inicio": -490,
+    "fecha_fin": null,
+    "descripcion_corta": "En 490 a. C. Darío I envió una expedición de castigo contra Atenas y Eretria por haber apoyado la revuelta de las ciudades jonias. Los persas desembarcaron en la llanura de Maratón, a unos 40 km de Atenas. Los atenienses, unos 10 000 hoplitas con el apoyo de los plateos y sin esperar a los espartanos —que llegaron tarde por una festividad religiosa—, atacaron cuesta abajo con el centro debilitado a propósito y las alas reforzadas, envolviendo al enemigo. Heródoto cifra el resultado en 6 400 persas muertos frente a 192 atenienses. La victoria demostró que la falange hoplita podía con el ejército del mayor imperio del mundo y dio a Atenas una enorme confianza en sí misma. De la leyenda del mensajero que corrió hasta la ciudad para anunciar el triunfo viene el nombre de la carrera de maratón; el túmulo donde se enterró a los caídos sigue en pie.",
+    "imagenes": [
+      "/images/grecia/grecia3_maraton-the-tumulus-tomb-of-the-athenians-at-marathon-jpg_wikimedia.jpg"
+    ]
+  },
+  {
+    "id": "grecia-batalla-salamina",
+    "region": "grecia",
+    "tipo": "evento",
+    "titulo": "La batalla de Salamina",
+    "fecha_inicio": -480,
+    "fecha_fin": null,
+    "descripcion_corta": "Diez años después de Maratón, Jerjes invadió Grecia con un ejército inmenso. Tras el sacrificio espartano en las Termópilas, los persas ocuparon y quemaron Atenas, que había sido evacuada. El ateniense Temístocles, que años antes había convencido a la ciudad de invertir la plata de las minas de Laurión en construir una flota de trirremes, atrajo a la armada persa al estrecho de Salamina. Allí sus naves, más grandes y numerosas, no podían maniobrar ni aprovechar su ventaja, y fueron destrozadas por los trirremes griegos, más ligeros. Jerjes contempló la derrota desde la costa y regresó a Asia con parte del ejército; el resto fue vencido en Platea al año siguiente. Salamina salvó la independencia griega y convirtió a Atenas en la gran potencia naval del Egeo, base del imperio marítimo que construiría enseguida con la Liga de Delos.",
+    "imagenes": [
+      "/images/grecia/grecia3_salamina-kaulbach-2c-wilhelm-von-die-seeschlacht-bei-salamis-186_wikimedia.jpg"
     ]
   },
   {
@@ -98,6 +291,66 @@
     ]
   },
   {
+    "id": "grecia-pericles",
+    "region": "grecia",
+    "tipo": "evento",
+    "titulo": "Pericles y el Siglo de Oro",
+    "fecha_inicio": -461,
+    "fecha_fin": -429,
+    "descripcion_corta": "Entre 461 y 429 a. C. Pericles dominó la política ateniense, reelegido año tras año como estratego. Llevó la democracia a su forma más plena: instauró el pago por ejercer cargos públicos y por participar en los tribunales, de modo que un ciudadano pobre pudiera dedicarse a la política sin arruinarse, y amplió el sorteo para cubrir la mayoría de las magistraturas. Al mismo tiempo trasladó el tesoro de la Liga de Delos a Atenas y usó el tributo de los aliados para reconstruir la Acrópolis arrasada por los persas, lo que sus críticos denunciaron como saqueo. Bajo su gobierno coincidieron en la ciudad Fidias, Sófocles, Eurípides, Heródoto, Anaxágoras y Protágoras. Murió en 429 a. C. víctima de la peste que asoló Atenas durante la Guerra del Peloponeso.",
+    "imagenes": [
+      "/images/grecia/grecia3_pericles-pericles-pio-clementino-inv269-n2-jpg_wikimedia.jpg"
+    ]
+  },
+  {
+    "id": "grecia-herodoto-tucidides",
+    "region": "grecia",
+    "tipo": "evento",
+    "titulo": "Heródoto y Tucídides: nace la historia",
+    "fecha_inicio": -450,
+    "fecha_fin": null,
+    "descripcion_corta": "Antes de ellos, el pasado se contaba en forma de mito o de genealogía divina. Heródoto de Halicarnaso escribió hacia 440 a. C. sus Historias sobre las Guerras Médicas y, aunque recoge leyendas y rumores, inaugura algo nuevo: investigar (historíe significa 'indagación'), contrastar versiones y explicar los hechos por causas humanas. Describió además las costumbres de egipcios, persas y escitas con una curiosidad casi etnográfica, lo que le valió el título de padre de la historia. Una generación después, Tucídides escribió la Guerra del Peloponeso con un criterio mucho más estricto: rechazó lo sobrenatural, distinguió entre las causas alegadas y las causas profundas de un conflicto, y solo aceptó testimonios que pudiera verificar. Su análisis del poder, el miedo y el interés como motores de la política sigue leyéndose hoy en las escuelas de relaciones internacionales.",
+    "imagenes": [
+      "/images/grecia/filo_herodoto-cropped-removebg-herodotus-historian-png_wikimedia.png"
+    ]
+  },
+  {
+    "id": "grecia-partenon",
+    "region": "grecia",
+    "tipo": "evento",
+    "titulo": "La construcción del Partenón",
+    "fecha_inicio": -447,
+    "fecha_fin": -432,
+    "descripcion_corta": "Levantado entre 447 y 432 a. C. sobre la Acrópolis, el Partenón fue el templo dedicado a Atenea Parthenos y el símbolo del programa constructivo de Pericles. Lo diseñaron los arquitectos Ictino y Calícrates bajo la dirección artística del escultor Fidias, con unas 20 000 toneladas de mármol del monte Pentélico. Su aparente sencillez esconde un refinamiento extremo: casi ninguna línea es recta. Las columnas se inclinan levemente hacia dentro y se ensanchan a media altura (éntasis), y el suelo es ligeramente convexo, correcciones ópticas pensadas para que el ojo lo perciba perfectamente regular. En su interior se alzaba una estatua de Atenea de doce metros en oro y marfil, hoy perdida. Después fue iglesia, mezquita y polvorín; una explosión durante el asedio veneciano de 1687 causó los daños que todavía se ven.",
+    "imagenes": [
+      "/images/grecia/grecia3_partenon-the-parthenon-in-athens-jpg_wikimedia.jpg"
+    ]
+  },
+  {
+    "id": "grecia-sofistas",
+    "region": "grecia",
+    "tipo": "evento",
+    "titulo": "Los sofistas y Protágoras",
+    "fecha_inicio": -444,
+    "fecha_fin": null,
+    "descripcion_corta": "En la Atenas democrática del siglo V a. C., donde todo se decidía convenciendo a la asamblea o al jurado, aparecieron los sofistas: maestros ambulantes que, a cambio de un pago, enseñaban retórica y argumentación. Desplazaron el foco de la filosofía desde la naturaleza hacia el ser humano, la sociedad y el lenguaje. Protágoras de Abdera resumió su postura en la frase 'el hombre es la medida de todas las cosas': no hay una verdad absoluta al margen de quien juzga, sino puntos de vista, y por eso presumía de poder defender con igual fuerza una tesis y la contraria. Sostuvo también que sobre los dioses no podemos saber nada, lo que le costó el destierro. Sus críticos —Sócrates y Platón, sobre todo— los acusaron de enseñar a ganar discusiones en vez de a buscar la verdad, y de ahí el sentido peyorativo que todavía tiene la palabra 'sofisma'. Pero fueron los primeros en plantear que muchas normas son convención humana (nomos) y no naturaleza (physis), una idea de enorme alcance político.",
+    "imagenes": [
+      "/images/grecia/filo_sofistas-salvator-rosa-d-c3-a9mocrite-et-protagoras-jp_wikimedia.jpg"
+    ]
+  },
+  {
+    "id": "grecia-democrito-atomo",
+    "region": "grecia",
+    "tipo": "evento",
+    "titulo": "Demócrito y la teoría atómica",
+    "fecha_inicio": -440,
+    "fecha_fin": null,
+    "descripcion_corta": "Leucipo y su discípulo Demócrito de Abdera (c. 460–370 a. C.) propusieron que toda la materia está formada por partículas diminutas, indivisibles y eternas que se mueven en el vacío. Las llamaron átomos, 'lo que no se puede cortar'. Según ellos, las diferencias entre las sustancias no vienen de cualidades ocultas sino de la forma, el tamaño y la disposición de esos átomos, y todo lo que ocurre es resultado de sus choques, sin intervención divina ni finalidad. Llegaron a la idea por puro razonamiento, sin experimento posible en su época, y resolvía de paso el dilema entre Heráclito y Parménides: los átomos son inmutables, pero sus combinaciones cambian. Aristóteles la rechazó y el atomismo quedó marginado durante dos mil años, sobrevivió gracias a Epicuro y al poema de Lucrecio, y solo en el siglo XIX la química le dio finalmente la razón en lo esencial.",
+    "imagenes": [
+      "/images/grecia/filo_democrito-unknown-greek-pushkin-jpg_wikimedia.jpg"
+    ]
+  },
+  {
     "id": "grecia-guerra-del-peloponeso",
     "region": "grecia",
     "tipo": "evento",
@@ -110,15 +363,63 @@
     ]
   },
   {
-    "id": "grecia-teatro-griego",
+    "id": "grecia-hipocrates",
     "region": "grecia",
     "tipo": "evento",
-    "titulo": "Teatro griego",
-    "fecha_inicio": -500,
+    "titulo": "Hipócrates y la medicina racional",
+    "fecha_inicio": -425,
     "fecha_fin": null,
-    "descripcion_corta": "El teatro griego nació como parte de festivales religiosos dedicados al dios Dioniso, como las Dionisias de Atenas. Los tres grandes trágicos —Esquilo, Sófocles y Eurípides— exploraron temas de destino, justicia divina y la condición humana en obras como la trilogía Orestíada o Edipo Rey, mientras que Aristófanes fue el gran maestro de la comedia, usando la sátira para criticar a políticos y costumbres de su época. De los cientos de obras escritas por estos autores, apenas 33 se conservan completas hasta hoy, pero su influencia moldeó todo el teatro occidental posterior.",
+    "descripcion_corta": "Hipócrates de Cos (c. 460–370 a. C.) separó la medicina de la religión y la magia. Frente a la idea de que la enfermedad era castigo divino, sostuvo que toda dolencia tiene causas naturales que pueden observarse: el tratado sobre la epilepsia, llamada entonces 'la enfermedad sagrada', empieza negando que tenga nada de sagrado. Su método consistía en observar al enfermo con detalle, registrar la evolución de los síntomas día a día y predecir el curso de la enfermedad, confiando en la capacidad de curación del propio cuerpo y en la dieta y el reposo antes que en remedios agresivos. El Corpus hipocrático reúne unos sesenta tratados de su escuela. De ella procede el juramento hipocrático, con su compromiso de confidencialidad y de no causar daño, que sigue inspirando la ética médica. Su teoría de los cuatro humores fue errónea, pero dominó la medicina occidental hasta el siglo XIX.",
     "imagenes": [
-      "/images/grecia/grecia2_greek-actor-walters-541067_wikimedia.jpg"
+      "/images/grecia/filo_hipocrates-hippocrates-pushkin02-jpg_wikimedia.jpg"
+    ]
+  },
+  {
+    "id": "grecia-muerte-socrates",
+    "region": "grecia",
+    "tipo": "evento",
+    "titulo": "El juicio y la muerte de Sócrates",
+    "fecha_inicio": -399,
+    "fecha_fin": null,
+    "descripcion_corta": "Sócrates no escribió nada y no cobraba por enseñar: recorría el ágora de Atenas interrogando a quien se creía sabio hasta hacerle ver que no lo era, un método de preguntas encadenadas que llamamos mayéutica. Su lema, 'solo sé que no sé nada', y su insistencia en examinar la propia vida le ganaron discípulos entregados y enemigos poderosos. En 399 a. C., en una Atenas humillada por la derrota ante Esparta y recelosa de todo lo que oliera a crítica, fue acusado de impiedad y de corromper a la juventud. Un jurado popular lo condenó a muerte por una mayoría estrecha. Pudo huir —sus amigos lo tenían todo preparado— pero se negó, por coherencia con su idea de que un ciudadano no debe quebrantar las leyes de su ciudad, y bebió la cicuta. Platón, presente en el círculo, dedicó buena parte de su obra a reconstruir su figura.",
+    "imagenes": [
+      "/images/grecia/grecia3_socrates-socrates-louvre-jpg_wikimedia.jpg"
+    ]
+  },
+  {
+    "id": "grecia-academia-platon",
+    "region": "grecia",
+    "tipo": "evento",
+    "titulo": "La Academia de Platón",
+    "fecha_inicio": -387,
+    "fecha_fin": null,
+    "descripcion_corta": "Hacia 387 a. C., tras la muerte de su maestro Sócrates y varios viajes por Egipto y Sicilia, Platón fundó a las afueras de Atenas, en un bosque consagrado al héroe Academo, una institución dedicada a la investigación y la enseñanza: la Academia, considerada la primera institución de estudios superiores de Occidente. Allí se estudiaba matemática, astronomía y dialéctica; sobre la entrada, según la tradición, se leía que no entrara quien no supiera geometría. Platón expuso su pensamiento en diálogos —donde casi siempre habla Sócrates— y sostuvo que el mundo que percibimos es solo reflejo de las Ideas, realidades perfectas e inmutables que únicamente la razón alcanza, tal como ilustra su alegoría de la caverna. En La República imaginó además una ciudad gobernada por filósofos. La Academia siguió funcionando casi novecientos años.",
+    "imagenes": [
+      "/images/grecia/grecia3_platon-la-scuola-di-atene-jpg_wikimedia.jpg"
+    ]
+  },
+  {
+    "id": "grecia-aristoteles",
+    "region": "grecia",
+    "tipo": "evento",
+    "titulo": "Aristóteles, maestro de Alejandro",
+    "fecha_inicio": -343,
+    "fecha_fin": null,
+    "descripcion_corta": "Aristóteles estudió veinte años en la Academia de Platón, pero acabó apartándose de su maestro: para él las cosas no se explican por un mundo aparte de Ideas, sino observando la naturaleza misma. En 343 a. C. Filipo II lo llamó a Macedonia para educar a su hijo Alejandro, y en 335 a. C. fundó en Atenas su propia escuela, el Liceo, cuyos discípulos discutían paseando (de ahí 'peripatéticos'). Su obra abarca prácticamente todo el saber de su tiempo: fundó la lógica formal con el silogismo, escribió sobre física, biología —clasificó y disecó cientos de especies—, ética, política, retórica y poética. Recopiló además las constituciones de más de 150 ciudades para comparar formas de gobierno. Su influencia sobre la ciencia y la filosofía medieval, tanto cristiana como islámica, fue tal que durante siglos bastó llamarlo 'el Filósofo'.",
+    "imagenes": [
+      "/images/grecia/grecia3_aristoteles-aristotle-altemps-inv8575-jpg_wikimedia.jpg"
+    ]
+  },
+  {
+    "id": "grecia-batalla-queronea",
+    "region": "grecia",
+    "tipo": "evento",
+    "titulo": "La batalla de Queronea",
+    "fecha_inicio": -338,
+    "fecha_fin": null,
+    "descripcion_corta": "En agosto de 338 a. C., en la llanura de Queronea (Beocia), Filipo II de Macedonia derrotó al ejército aliado de Atenas y Tebas. Su hijo Alejandro, con apenas 18 años, mandaba la caballería en el ala izquierda y destrozó al Batallón Sagrado tebano, la unidad de élite que murió casi entera en el campo. La victoria se apoyó en el ejército profesional que Filipo había construido: falange con la sarisa, una pica de más de cinco metros, coordinada con caballería de choque. Queronea terminó de hecho con la independencia de las ciudades griegas, que quedaron integradas en la Liga de Corinto bajo hegemonía macedonia. Dos años después Filipo fue asesinado y Alejandro heredó ese ejército, con el que conquistaría el Imperio persa. Sobre la fosa de los tebanos se levantó un león de piedra que aún hoy señala el lugar.",
+    "imagenes": [
+      "/images/grecia/grecia3_queronea-the-restored-lion-of-chaeronea-in-boeotia-on-10-ap_wikimedia.jpg"
     ]
   },
   {
@@ -148,6 +449,66 @@
     ]
   },
   {
+    "id": "grecia-escuelas-helenisticas",
+    "region": "grecia",
+    "tipo": "evento",
+    "titulo": "Estoicos, epicúreos y cínicos",
+    "fecha_inicio": -310,
+    "fecha_fin": null,
+    "descripcion_corta": "Tras Alejandro, con las ciudades-estado sometidas a grandes reinos, la filosofía dejó de preguntarse sobre todo cómo organizar la polis y pasó a preguntarse cómo vivir bien en un mundo que uno no controla. Zenón de Citio fundó hacia 300 a. C. el estoicismo, que enseñaba a distinguir lo que depende de nosotros —nuestros juicios y decisiones— de lo que no, y a aceptar el destino con serenidad: la virtud basta para ser feliz. Epicuro fundó su escuela, El Jardín, donde defendía que el placer es la ausencia de dolor y de inquietud, alcanzable con amistad, vida sencilla y la pérdida del miedo a los dioses y a la muerte ('cuando yo soy, la muerte no es'). Los cínicos, con Diógenes de Sinope a la cabeza, llevaron la austeridad al extremo y despreciaron las convenciones sociales. Estas escuelas tuvieron enorme influencia en Roma y el estoicismo sigue vivo hoy como filosofía práctica.",
+    "imagenes": [
+      "/images/grecia/filo_estoicismo-paolo-monti-servizio-fotografico-28napoli-2c-_wikimedia.jpg"
+    ]
+  },
+  {
+    "id": "grecia-euclides",
+    "region": "grecia",
+    "tipo": "evento",
+    "titulo": "Euclides y los Elementos",
+    "fecha_inicio": -300,
+    "fecha_fin": null,
+    "descripcion_corta": "Hacia el 300 a. C., en la Alejandría de los Ptolomeos, Euclides escribió los Elementos: trece libros que ordenan toda la geometría y la aritmética conocidas partiendo de unas pocas definiciones, cinco postulados y unas nociones comunes, de los que deduce cada teorema paso a paso. Lo revolucionario no fueron tanto los resultados —muchos ya se conocían— como el método axiomático: demostrar en lugar de afirmar, encadenando todo a partir de supuestos explícitos. Ese modelo de razonamiento se convirtió en el ideal de rigor de toda la ciencia posterior. Los Elementos fueron el libro de texto de matemáticas durante más de dos mil años, el más editado de la historia después de la Biblia. Cuenta la anécdota que, cuando Ptolomeo le preguntó si no había un camino más corto para aprender geometría, Euclides respondió que no existe un camino real hacia ella.",
+    "imagenes": [
+      "/images/grecia/grecia3_euclides-euklid2-jpg_wikimedia.jpg"
+    ]
+  },
+  {
+    "id": "grecia-aristarco",
+    "region": "grecia",
+    "tipo": "evento",
+    "titulo": "Aristarco y el primer modelo heliocéntrico",
+    "fecha_inicio": -280,
+    "fecha_fin": null,
+    "descripcion_corta": "Hacia 280 a. C., dieciocho siglos antes que Copérnico, Aristarco de Samos (c. 310–230 a. C.) propuso que la Tierra gira sobre su eje y da vueltas alrededor del Sol, y que las estrellas están tan lejos que por eso no se aprecia su desplazamiento. Antes había intentado medir con geometría el tamaño y la distancia del Sol y la Luna: su método era correcto, aunque la falta de instrumentos precisos le dio cifras muy cortas; aun así concluyó que el Sol es mucho mayor que la Tierra, lo que hacía más razonable que la pequeña girase en torno al grande. Sus contemporáneos rechazaron la idea porque contradecía la física de Aristóteles y la experiencia cotidiana, y porque no se observaba el paralaje estelar que debería producirse. El modelo geocéntrico se impuso durante 1 700 años; su obra se conoce sobre todo por lo que citan otros autores, entre ellos Arquímedes.",
+    "imagenes": [
+      "/images/grecia/filo_aristarco-aristarchus-van-samos-2c-atlas-of-cellarius-2_wikimedia.jpg"
+    ]
+  },
+  {
+    "id": "grecia-arquimedes",
+    "region": "grecia",
+    "tipo": "evento",
+    "titulo": "Arquímedes de Siracusa",
+    "fecha_inicio": -250,
+    "fecha_fin": null,
+    "descripcion_corta": "Arquímedes (287–212 a. C.), nacido en la colonia griega de Siracusa, fue el mayor matemático e ingeniero de la Antigüedad. Calculó el número π acotándolo entre 3+10/71 y 3+1/7 mediante polígonos inscritos y circunscritos, halló el área y el volumen de la esfera —y pidió que grabaran en su tumba la esfera inscrita en el cilindro, su resultado favorito— y fundó la hidrostática con el principio que lleva su nombre, del que nace la anécdota del '¡Eureka!' en la bañera. Formuló también la ley de la palanca ('dadme un punto de apoyo y moveré el mundo') e ideó el tornillo para elevar agua. Durante el asedio romano de Siracusa sus máquinas de guerra mantuvieron a raya a la flota enemiga durante dos años. Cuando la ciudad cayó en 212 a. C., un soldado lo mató mientras trazaba figuras geométricas en la arena, pese a la orden de respetarle la vida.",
+    "imagenes": [
+      "/images/grecia/grecia3_arquimedes-retrato-de-un-erudito-28-c2-bfarqu-c3-admedes-3f-29-2c-_wikimedia.jpg"
+    ]
+  },
+  {
+    "id": "grecia-eratostenes",
+    "region": "grecia",
+    "tipo": "evento",
+    "titulo": "Eratóstenes mide la Tierra",
+    "fecha_inicio": -240,
+    "fecha_fin": null,
+    "descripcion_corta": "Eratóstenes de Cirene (c. 276–195 a. C.), director de la Biblioteca de Alejandría, calculó el tamaño de la Tierra con una vara y un razonamiento. Sabía que en Siena (hoy Asuán), el día del solsticio de verano, el Sol se reflejaba en el fondo de un pozo: caía perfectamente vertical. Ese mismo día y a la misma hora midió en Alejandría la sombra de un gnomon y obtuvo un ángulo de unos 7,2°, es decir, la cincuentava parte de una circunferencia. Si la distancia entre ambas ciudades era de unos 5 000 estadios, la circunferencia completa debía medir cincuenta veces esa distancia. Le dio unos 252 000 estadios, una cifra a menos de un 2 % del valor real según la equivalencia más aceptada. También midió la inclinación del eje terrestre, dibujó un mapa del mundo conocido con meridianos y paralelos, y creó la criba que lleva su nombre para hallar números primos.",
+    "imagenes": [
+      "/images/grecia/filo_eratostenes-eratosthenes-jpg_wikimedia.jpg"
+    ]
+  },
+  {
     "id": "grecia-conquista-romana",
     "region": "grecia",
     "tipo": "evento",
@@ -157,6 +518,18 @@
     "descripcion_corta": "Apartir del año 200 los Romanos se empiezan a apoderar de todas la zonas colonizadas por los Griegos, tomando alfin el ultimo de los reinos de los sucesores del imperio de Alejandro Magno, el reino de la dinastia de los tolomeos en Egipto, con Cleopatra como su ultima representante, luego de esto los romanos terminarían absorbiendo la herencia de la cultura Griega",
     "imagenes": [
       "/images/grecia/grecia2_bust-of-cleopatra-at-the-royal-ontario-museum_wikimedia.jpg"
+    ]
+  },
+  {
+    "id": "grecia-saqueo-corinto",
+    "region": "grecia",
+    "tipo": "evento",
+    "titulo": "El saqueo de Corinto",
+    "fecha_inicio": -146,
+    "fecha_fin": null,
+    "descripcion_corta": "En 146 a. C. el cónsul Lucio Mumio aplastó a la Liga Aquea y arrasó Corinto, una de las ciudades más ricas de Grecia: mató o vendió como esclavos a sus habitantes, saqueó sus obras de arte y quemó la ciudad, que quedó despoblada un siglo hasta que César la refundó como colonia romana. El castigo fue deliberado y ejemplar —el mismo año en que Roma destruía Cartago— y marcó el final de cualquier independencia política griega: Grecia pasó a estar sometida a Roma y acabaría organizada como la provincia de Acaya. La derrota militar, sin embargo, no fue cultural. Los romanos adoptaron la religión, el arte, la filosofía y la educación griegas hasta el punto de que Horacio escribiría que 'la Grecia conquistada conquistó a su feroz vencedor'.",
+    "imagenes": [
+      "/images/grecia/grecia3_corinto-tempio-di-apollo-e-acrocorinto-jpg_wikimedia.jpg"
     ]
   }
 ]
