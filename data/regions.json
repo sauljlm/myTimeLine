@@ -41,7 +41,7 @@
       "orden_vertical": 0,
       "color": "var(--color-prehistoria)",
       "fecha_inicio": -6000000,
-      "fecha_fin": -3300,
+      "fecha_fin": -800,
       "subperiodos": [
         {
           "nombre": "Primeros homínidos",
@@ -76,7 +76,7 @@
       "orden_vertical": 1,
       "color": "var(--color-mesopotamia)",
       "fecha_inicio": -3500,
-      "fecha_fin": -1750,
+      "fecha_fin": -539,
       "subperiodos": [
         {
           "nombre": "Período de Uruk",
@@ -107,6 +107,21 @@
           "nombre": "Imperio babilónico",
           "fecha_inicio": -1792,
           "fecha_fin": -1750
+        },
+        {
+          "nombre": "Babilonia casita",
+          "fecha_inicio": -1750,
+          "fecha_fin": -1155
+        },
+        {
+          "nombre": "Imperio asirio",
+          "fecha_inicio": -1155,
+          "fecha_fin": -612
+        },
+        {
+          "nombre": "Imperio neobabilónico",
+          "fecha_inicio": -612,
+          "fecha_fin": -539
         }
       ]
     },
@@ -170,7 +185,7 @@
       "nombre": "Imperio persa",
       "orden_vertical": 4,
       "color": "var(--color-persia)",
-      "fecha_inicio": -550,
+      "fecha_inicio": -600,
       "fecha_fin": -331
     },
     {
