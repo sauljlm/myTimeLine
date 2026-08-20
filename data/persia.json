@@ -1,5 +1,17 @@
 [
   {
+    "id": "persia-medos",
+    "region": "persia",
+    "tipo": "evento",
+    "titulo": "Los medos y la caída de Asiria",
+    "fecha_inicio": -625,
+    "fecha_fin": -550,
+    "descripcion_corta": "Antes de los persas mandaron los medos, un pueblo iranio emparentado con ellos que se organizó como reino en el noroeste del actual Irán. Bajo Ciaxares se aliaron con Babilonia para destruir Nínive en 612 a. C. y repartirse el imperio asirio: a los medos les tocó el norte, desde Anatolia hasta la meseta. Su guerra contra Lidia terminó en 585 a. C. de una forma extraordinaria: un eclipse solar en pleno campo de batalla —el que la tradición atribuye a la predicción de Tales de Mileto— asustó a ambos ejércitos, que firmaron la paz en el acto. Persia era entonces un reino vasallo suyo, hasta que en 550 a. C. Ciro derrocó a su propio abuelo Astiages e invirtió la relación.",
+    "imagenes": [
+      "/images/persia/persia3_medos-median-empire-png_wikimedia.png"
+    ]
+  },
+  {
     "id": "persia-zoroastrismo",
     "region": "persia",
     "tipo": "evento",
@@ -90,18 +102,6 @@
     ]
   },
   {
-    "id": "persia-qanat",
-    "region": "persia",
-    "tipo": "evento",
-    "titulo": "Los qanats: ingeniería del agua",
-    "fecha_inicio": -520,
-    "fecha_fin": null,
-    "descripcion_corta": "En una meseta árida donde la evaporación se lleva el agua de cualquier canal abierto, los persas resolvieron el problema bajo tierra. Un qanat es una galería subterránea de kilómetros de longitud, excavada con una pendiente mínima y precisísima, que capta el agua del acuífero al pie de las montañas y la conduce por gravedad hasta los campos y las ciudades, sin bombas y sin apenas pérdidas. A lo largo del trazado se abren pozos verticales cada pocas decenas de metros para extraer la tierra, ventilar y permitir el mantenimiento, y desde el aire dibujan hileras de cráteres características. Su construcción y reparto exigían una organización comunitaria estricta, con reglas de propiedad del agua muy elaboradas. La técnica permitió poblar zonas desérticas, se extendió con el imperio hasta Egipto, Arabia, el norte de África y España, y algunos qanats de más de dos mil años siguen dando agua hoy.",
-    "imagenes": [
-      "/images/persia/filo_qanat-insideqanat-jpg_wikimedia.jpg"
-    ]
-  },
-  {
     "id": "persia-modelo-economico",
     "region": "persia",
     "tipo": "evento",
@@ -135,6 +135,18 @@
     ]
   },
   {
+    "id": "persia-escitia",
+    "region": "persia",
+    "tipo": "evento",
+    "titulo": "La campaña de Escitia",
+    "fecha_inicio": -513,
+    "fecha_fin": null,
+    "descripcion_corta": "Hacia 513 a. C., Darío I cruzó el Bósforo por un puente de barcos y se adentró en las estepas del norte del mar Negro persiguiendo a los escitas, nómadas a caballo que amenazaban la frontera. La campaña fue una lección de guerra asimétrica: los escitas nunca presentaron batalla, se retiraban quemando los pastos y cegando los pozos, y hostigaban a las columnas persas hasta agotarlas. Heródoto cuenta que enviaron a Darío un mensaje simbólico —un pájaro, un ratón, una rana y cinco flechas— cuyo sentido era que huyera o moriría. Darío se retiró sin victoria, pero de camino sometió Tracia y aceptó la vasallaje de Macedonia: por primera vez el imperio ponía pie en Europa, justo enfrente de Grecia.",
+    "imagenes": [
+      "/images/persia/persia3_escitia-darius-exped-fr-png_wikimedia.png"
+    ]
+  },
+  {
     "id": "persia-darico",
     "region": "persia",
     "tipo": "evento",
@@ -144,6 +156,18 @@
     "descripcion_corta": "Darío I creó una moneda de oro de gran pureza, el dárico, y su equivalente en plata, el siclo, con la imagen del rey arquero. Fue una de las primeras monedas de curso verdaderamente internacional: su ley se mantuvo estable durante casi dos siglos, lo que la hizo aceptada mucho más allá de las fronteras del imperio. Solo el Gran Rey podía acuñar en oro; los sátrapas y las ciudades podían hacerlo en plata y bronce. Junto a la moneda, Darío reorganizó la fiscalidad: fijó para cada satrapía un tributo anual determinado, en metal o en especie, en lugar de las exigencias arbitrarias anteriores, y unificó pesos y medidas. Buena parte de ese oro se acumulaba en los tesoros de Susa y Persépolis en forma de lingotes, y allí lo encontró Alejandro doscientos años después: una cantidad tan enorme que, al ponerla en circulación, alteró los precios en todo el Mediterráneo.",
     "imagenes": [
       "/images/persia/persia2_darico-achaemenid-coin-daric-420bc-front-jpg_wikimedia.jpg"
+    ]
+  },
+  {
+    "id": "persia-qanat",
+    "region": "persia",
+    "tipo": "evento",
+    "titulo": "Los qanats: ingeniería del agua",
+    "fecha_inicio": -505,
+    "fecha_fin": null,
+    "descripcion_corta": "En una meseta árida donde la evaporación se lleva el agua de cualquier canal abierto, los persas resolvieron el problema bajo tierra. Un qanat es una galería subterránea de kilómetros de longitud, excavada con una pendiente mínima y precisísima, que capta el agua del acuífero al pie de las montañas y la conduce por gravedad hasta los campos y las ciudades, sin bombas y sin apenas pérdidas. A lo largo del trazado se abren pozos verticales cada pocas decenas de metros para extraer la tierra, ventilar y permitir el mantenimiento, y desde el aire dibujan hileras de cráteres características. Su construcción y reparto exigían una organización comunitaria estricta, con reglas de propiedad del agua muy elaboradas. La técnica permitió poblar zonas desérticas, se extendió con el imperio hasta Egipto, Arabia, el norte de África y España, y algunos qanats de más de dos mil años siguen dando agua hoy.",
+    "imagenes": [
+      "/images/persia/filo_qanat-insideqanat-jpg_wikimedia.jpg"
     ]
   },
   {
@@ -171,6 +195,18 @@
     ]
   },
   {
+    "id": "persia-susa",
+    "region": "persia",
+    "tipo": "evento",
+    "titulo": "Susa y la corte del Gran Rey",
+    "fecha_inicio": -475,
+    "fecha_fin": null,
+    "descripcion_corta": "El imperio tenía varias capitales y el rey se movía entre ellas según la estación: Persépolis para las ceremonias, Ecbatana en verano por su altura, Babilonia en invierno y Susa como centro administrativo. La corte era un mundo cerrado y jerarquizado en el que el acceso al rey se medía en pasos y en velos, con eunucos que controlaban las audiencias, una guardia personal y un ceremonial que exigía la proskynesis, la reverencia que tanto escandalizaba a los griegos. Las tablillas administrativas de Persépolis, decenas de miles, muestran el otro lado: raciones de comida y plata pagadas a trabajadores, incluidas mujeres, con permisos de maternidad y suplementos por especialización.",
+    "imagenes": [
+      "/images/persia/persia3_susa-royal-city-and-acropolis-tepes-jpg_wikimedia.jpg"
+    ]
+  },
+  {
     "id": "persia-artajerjes-i",
     "region": "persia",
     "tipo": "evento",
@@ -180,6 +216,42 @@
     "descripcion_corta": "Tras el fracaso en Grecia, Persia cambió de método: en lugar de invadir, financiar. Artajerjes I gobernó cuarenta años y consolidó esa estrategia. Hubo que sofocar antes una grave rebelión en Egipto apoyada por Atenas, que terminó con la destrucción de la flota ateniense; después, hacia 449 a. C., las fuentes griegas hablan de un acuerdo conocido como Paz de Calias, por el que Persia renunciaba a intervenir en el Egeo y Atenas a hacerlo en Asia Menor y Chipre. A partir de ahí, el oro persa fue mucho más eficaz que sus ejércitos: subvencionando a Esparta contra Atenas durante la Guerra del Peloponeso, y después a Atenas y Tebas contra Esparta, Persia mantuvo a los griegos divididos y debilitados durante casi un siglo sin librar apenas batallas.",
     "imagenes": [
       "/images/persia/persia2_artajerjes-relief-of-artaxerxes-i-2c-from-his-tomb-in-na_wikimedia.jpg"
+    ]
+  },
+  {
+    "id": "persia-nehemias",
+    "region": "persia",
+    "tipo": "evento",
+    "titulo": "Persia y la reconstrucción de Jerusalén",
+    "fecha_inicio": -445,
+    "fecha_fin": null,
+    "descripcion_corta": "La política persa hacia las religiones sometidas fue de tolerancia calculada, y el caso judío es el mejor documentado. Ciro autorizó en 538 a. C. el regreso de los deportados en Babilonia y la reconstrucción del Templo, terminado bajo Darío I. Un siglo después, Artajerjes I envió a Nehemías, su copero, como gobernador de Judea con permiso para levantar de nuevo las murallas de Jerusalén, y a Esdras a reorganizar la ley religiosa. Ese apoyo imperial fue decisivo para que el judaísmo se reconstituyera como comunidad en torno al Templo y a un texto. La Biblia hebrea es, por eso, uno de los pocos lugares donde a un rey extranjero —Ciro— se le llama ungido del Señor.",
+    "imagenes": [
+      "/images/persia/persia3_nehemias-prophet-nehemiah-jpg_wikimedia.jpg"
+    ]
+  },
+  {
+    "id": "persia-oro-peloponeso",
+    "region": "persia",
+    "tipo": "evento",
+    "titulo": "El oro persa en la guerra del Peloponeso",
+    "fecha_inicio": -424,
+    "fecha_fin": -404,
+    "descripcion_corta": "Mientras Atenas y Esparta se desangraban, Persia hizo el mejor negocio de su historia sin librar una batalla. Sus sátrapas de Asia Menor, Tisafernes y Farnabazo, financiaron primero a una y luego a otra, calculando siempre que ninguna venciera del todo: cuando Atenas se debilitaba, llegaba dinero para sus enemigos, y viceversa. El acuerdo final con Esparta fue explícito: oro para construir una flota a cambio de devolver a Persia las ciudades griegas de Asia Menor. Con esos fondos, Lisandro pudo pagar a sus remeros y destruir la flota ateniense en Egospótamos en 405 a. C. Una guerra griega decidida por el tesoro del Gran Rey.",
+    "imagenes": [
+      "/images/persia/persia3_peloponeso_oro-tissaphernes-portrait-jpg_wikimedia.jpg"
+    ]
+  },
+  {
+    "id": "persia-magos",
+    "region": "persia",
+    "tipo": "evento",
+    "titulo": "Los magos y el fuego sagrado",
+    "fecha_inicio": -410,
+    "fecha_fin": null,
+    "descripcion_corta": "La religión del imperio giraba en torno a Ahura Mazda, el 'señor sabio' creador del orden, enfrentado al principio de la mentira y el caos. Los encargados del culto eran los magos, una casta sacerdotal meda que custodiaba el fuego sagrado —nunca adorado en sí mismo, sino como símbolo de la pureza y la verdad—, recitaba los himnos del Avesta y se ocupaba de la adivinación y de la interpretación de los sueños. De su nombre vienen las palabras magia y mago, y también los 'reyes magos' del relato evangélico. El zoroastrismo aportó al pensamiento posterior ideas de enorme recorrido: el conflicto entre el bien y el mal, el juicio individual tras la muerte y un final de los tiempos con victoria de la luz.",
+    "imagenes": [
+      "/images/persia/persia3_magos-gold-statuettes-from-the-oxus-treasure-by-nic_wikimedia.jpg"
     ]
   },
   {
@@ -207,6 +279,18 @@
     ]
   },
   {
+    "id": "persia-revuelta-satrapas",
+    "region": "persia",
+    "tipo": "evento",
+    "titulo": "La gran revuelta de los sátrapas",
+    "fecha_inicio": -372,
+    "fecha_fin": -360,
+    "descripcion_corta": "El sistema de satrapías que había dado solidez al imperio acabó volviéndose contra él. Gobernadores con territorios enormes, ejércitos propios y mercenarios griegos a sueldo empezaron a comportarse como reyes: en la década de 360 a. C., buena parte de Asia Menor y de Siria se sublevó a la vez, con Datames y Ariobarzanes a la cabeza y con apoyo de Egipto, ya independiente, y de Esparta. La revuelta acabó fracasando no tanto por la fuerza del rey como por la desconfianza mutua entre los propios rebeldes, que se traicionaron unos a otros. Pero dejó al descubierto la debilidad estructural del imperio en su último medio siglo, justo cuando en Macedonia crecía un reino que sabría aprovecharla.",
+    "imagenes": [
+      "/images/persia/persia3_satrapas-360s-satrap-revolt-jpg_wikimedia.jpg"
+    ]
+  },
+  {
     "id": "persia-artajerjes-iii",
     "region": "persia",
     "tipo": "evento",
@@ -216,6 +300,18 @@
     "descripcion_corta": "A mediados del siglo IV el imperio parecía deshacerse: satrapías enteras en rebelión, Egipto independiente desde hacía sesenta años y una corte llena de conjuras. Artajerjes III, que llegó al trono en 358 a. C. eliminando a buena parte de su familia, revirtió esa deriva con una dureza extrema. Ordenó a los sátrapas disolver sus ejércitos de mercenarios, aplastó las revueltas de Fenicia —Sidón fue destruida— y en 343 a. C. reconquistó Egipto, poniendo fin a la última dinastía faraónica nativa. Por un momento el imperio volvió a tener la extensión de los tiempos de Darío. Pero el precio fue una corte gobernada por el miedo: el propio Artajerjes murió envenenado por su eunuco Bagoas, que hizo lo mismo con su sucesor. De esa cadena de asesinatos salió al trono Darío III, justo cuando Alejandro cruzaba a Asia.",
     "imagenes": [
       "/images/persia/persia2_artajerjes3-rock-relief-of-artaxerxes-iii-in-persepolis-j_wikimedia.jpg"
+    ]
+  },
+  {
+    "id": "persia-dario-iii",
+    "region": "persia",
+    "tipo": "evento",
+    "titulo": "Darío III y las conspiraciones de palacio",
+    "fecha_inicio": -336,
+    "fecha_fin": null,
+    "descripcion_corta": "Los últimos años del imperio se decidieron en el palacio más que en el campo de batalla. El eunuco Bagoas, jefe de la guardia, envenenó a Artajerjes III y a casi toda su familia, colocó en el trono a su hijo Arses y lo eliminó también cuando quiso gobernar por su cuenta. Entonces buscó a un pariente lejano y aparentemente manejable, Codomano, que reinó como Darío III desde 336 a. C. —el mismo año en que Alejandro heredaba Macedonia—. Su primera decisión fue obligar a Bagoas a beber su propio veneno. Pero heredó un imperio desangrado por dos décadas de purgas, con la élite militar diezmada y los sátrapas desconfiados, y frente a él tenía al ejército mejor entrenado de su tiempo.",
+    "imagenes": [
+      "/images/persia/persia3_dario3-darius-iii-mosaic-jpg_wikimedia.jpg"
     ]
   },
   {
