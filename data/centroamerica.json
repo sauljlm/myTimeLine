@@ -250,5 +250,70 @@
     "imagenes": [
       "/images/centroamerica/ca3_unitedfruit-musa-paradisiaca-blanco1-88-png_wikimedia.png"
     ]
+  },
+  {
+    "id": "ca-ctx-vida-maya",
+    "region": "centroamerica",
+    "tipo": "evento",
+    "titulo": "Cómo vivía la gente maya",
+    "fecha_inicio": 320,
+    "fecha_fin": null,
+    "descripcion_corta": "Bajo las pirámides que hoy vemos vivía una población **campesina y dispersa**.\n\n**La casa**\n\nUna sola pieza ovalada de paredes de bajareque y techo de palma, con hamacas, un fogón de tres piedras y un altar familiar. Los muertos se enterraban **bajo el suelo de la propia casa**, para seguir cerca. Ese mismo tipo de vivienda se sigue construyendo hoy en Yucatán y Guatemala.\n\n**La milpa**\n\nSe tumbaba y quemaba un trozo de selva, se sembraba maíz, frijol y calabaza durante unos años y se dejaba descansar. Cuando la población creció, se añadieron **terrazas y campos elevados** entre pantanos.\n\n**El cuerpo como adorno**\n\nLa belleza pedía **cabeza alargada** —se prensaba el cráneo de los bebés entre tablillas—, ojos bizcos provocados a propósito, dientes limados con incrustaciones de jade y tatuajes.\n\n**El día a día**\n\nLevantarse antes del alba, moler el maíz nixtamalizado, ir a la milpa, el trabajo comunal para el templo y el baño de vapor. La tortilla y el atole sostenían todo lo demás.",
+    "imagenes": [
+      "/images/centroamerica/ctx_ca-ctx-vida-maya-association-culturale-ma-s-haricot-courge-dans-la-_wikimedia.jpg"
+    ],
+    "contextual": true
+  },
+  {
+    "id": "ca-ctx-creencias-maya",
+    "region": "centroamerica",
+    "tipo": "evento",
+    "titulo": "Creencias mayas",
+    "fecha_inicio": 430,
+    "fecha_fin": null,
+    "descripcion_corta": "Para los mayas el tiempo no era una línea sino una **rueda de ciclos** que se repetían, y por eso importaba tanto medirlo.\n\n**El Popol Vuh**\n\nEl libro sagrado k'iche' cuenta que los dioses fracasaron dos veces —hicieron gente de barro y de madera— hasta que lograron formar a los humanos **de masa de maíz**. Por eso el maíz no es un alimento más: es de lo que estamos hechos.\n\n**Xibalbá**\n\nEl inframundo, al que se entraba por cuevas y cenotes. Los héroes gemelos **Hunahpú e Ixbalanqué** bajaron a jugar a la pelota contra sus señores, los vencieron con astucia y subieron convertidos en Sol y Luna.\n\n**Sangre y ofrenda**\n\nLos gobernantes se perforaban la lengua o el prepucio con espinas de raya y quemaban la sangre sobre papel: el humo abría el paso a los antepasados.\n\n**Sacerdotes astrónomos**\n\nPredecían eclipses y seguían a Venus con una precisión de minutos al siglo, porque saber qué día era determinaba cuándo sembrar, casarse o ir a la guerra.",
+    "imagenes": [
+      "/images/centroamerica/ctx_ca-ctx-creencias-maya-popol-vuh-jpg-utm-source-es-wikipedia-org-utm-camp_wikimedia.jpg"
+    ],
+    "contextual": true
+  },
+  {
+    "id": "ca-ctx-economia-maya",
+    "region": "centroamerica",
+    "tipo": "evento",
+    "titulo": "Modelo económico maya",
+    "fecha_inicio": 780,
+    "fecha_fin": null,
+    "descripcion_corta": "No hubo un imperio maya, sino **decenas de ciudades-estado** que competían y comerciaban entre sí.\n\n**Sin moneda, con cacao**\n\nLos **granos de cacao** funcionaban como dinero menudo y las mantas de algodón para lo grande. Se han documentado hasta falsificaciones: cáscaras de cacao rellenas de barro.\n\n**Lo que viajaba**\n\n**Obsidiana** del altiplano guatemalteco para las hojas cortantes, **jade** del río Motagua para los nobles, sal de la costa de Yucatán, plumas de quetzal, conchas y pieles de jaguar. Todo a pie o en **canoas de hasta 25 remeros** que bordeaban la península.\n\n**Los sacbés**\n\nCalzadas blancas elevadas de piedra caliza, algunas de **más de 100 kilómetros**, como la que unía Cobá y Yaxuná. No conocían la rueda de transporte ni tenían animales de carga: todo iba a hombros de cargadores.\n\n**Quién controlaba qué**\n\nEl rey y los nobles concentraban el comercio de lujo; los campesinos entregaban trabajo y parte de la cosecha para sostener templos, plazas y guerras.",
+    "imagenes": [
+      "/images/centroamerica/ctx_ca-ctx-economia-maya-sacbe-dzibilchaltun-jpg-utm-source-es-wikipedia-or_wikimedia.jpg"
+    ],
+    "contextual": true
+  },
+  {
+    "id": "ca-ctx-vida-colonia",
+    "region": "centroamerica",
+    "tipo": "evento",
+    "titulo": "Cómo se vivía en la colonia del istmo",
+    "fecha_inicio": 1620,
+    "fecha_fin": null,
+    "descripcion_corta": "Centroamérica fue una **periferia pobre** del imperio: sin grandes minas de plata, quedó al margen de las rutas principales.\n\n**Los pueblos de indios**\n\nLas autoridades reagruparon a la población dispersa en **reducciones**: pueblos con traza española alrededor de una iglesia, más fáciles de evangelizar y de cobrar. La caída demográfica fue brutal: entre la guerra y las epidemias, **la población indígena se redujo en más del 80 %** durante el primer siglo.\n\n**Las cofradías**\n\nHermandades religiosas que financiaban la fiesta del santo patrono. Se convirtieron en el refugio donde las comunidades **conservaron su lengua, su calendario y su organización** bajo apariencia católica; de ahí vienen las fiestas patronales de hoy.\n\n**Terremotos**\n\nAntigua Guatemala, capital y una de las ciudades más hermosas de América, quedó arruinada por los terremotos de **1717 y 1773**, y la capital tuvo que mudarse.\n\n**Costa y montaña**\n\nEn el Caribe, fuera del control español, se mezclaron miskitos, esclavos fugados y piratas ingleses.",
+    "imagenes": [
+      "/images/centroamerica/ctx_ca-ctx-vida-colonia-antigua-arco-jpg-utm-source-es-wikipedia-org-utm-c_wikimedia.jpg"
+    ],
+    "contextual": true
+  },
+  {
+    "id": "ca-ctx-economia-cafe-banano",
+    "region": "centroamerica",
+    "tipo": "evento",
+    "titulo": "Modelo económico: del añil al banano",
+    "fecha_inicio": 1885,
+    "fecha_fin": null,
+    "descripcion_corta": "En cuatro siglos, el istmo cambió de producto tres veces, pero nunca de modelo: **un solo cultivo de exportación** que decide el destino del país.\n\n**Añil y cochinilla**\n\nEl tinte azul del añil salvadoreño y el rojo de la cochinilla —insectos criados sobre nopales— vestían a Europa. Los **tintes químicos alemanes**, hacia 1870, los arruinaron en pocos años.\n\n**El café**\n\nLas reformas liberales entregaron a los cafetaleros las tierras comunales de los pueblos indígenas y de la Iglesia, y aprobaron **leyes contra la vagancia** que obligaban a los campesinos sin tierra a trabajar en las fincas. Nació la oligarquía cafetalera.\n\n**El banano**\n\n**Desde 1899**, la United Fruit Company recibió concesiones enormes a cambio de construir ferrocarriles. Llegó a controlar la tierra, el tren, los puertos, el telégrafo y la flota, y a decidir quién gobernaba: de ahí la expresión **república bananera**.\n\n**El canal**\n\nPanamá se separó de Colombia en 1903 con apoyo estadounidense, y la Zona del Canal quedó bajo control de Estados Unidos hasta 1999.",
+    "imagenes": [
+      "/images/centroamerica/ctx_ca-ctx-economia-cafe-banano-las-merceditas-18-jpg-utm-source-en-wikipedia-org-_wikimedia.jpg"
+    ],
+    "contextual": true
   }
 ]

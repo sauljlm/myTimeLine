@@ -370,5 +370,83 @@
     "imagenes": [
       "/images/mexico/mx2_porfiriato-porfirio-diaz-jpg_wikimedia.jpg"
     ]
+  },
+  {
+    "id": "mx-ctx-creencias",
+    "region": "mexico",
+    "tipo": "evento",
+    "titulo": "Creencias mesoamericanas",
+    "fecha_inicio": 140,
+    "fecha_fin": null,
+    "descripcion_corta": "Desde los olmecas hasta los aztecas, los pueblos de Mesoamérica compartieron un mismo fondo religioso durante **más de 2 500 años**.\n\n**Un universo en capas**\n\nTrece cielos arriba, nueve inframundos abajo y la tierra en medio, sostenida por cuatro rumbos con su color y su árbol. La **ceiba** unía los tres niveles.\n\n**Los dioses**\n\n**Quetzalcóatl**, la serpiente emplumada, dios del viento, del saber y del calendario; **Tláloc**, señor de la lluvia y del maíz; **Tezcatlipoca**, el espejo humeante, dios del destino y de la noche. Cada uno tenía su doble y su contrario: nada era solo bueno o solo malo.\n\n**El sacrificio**\n\nLos dioses se habían sacrificado para crear el Sol; los humanos debían **devolver energía** para que siguiera saliendo. Iba desde perforarse la lengua o las orejas con espinas de maguey hasta el sacrificio humano, que los aztecas practicaron a gran escala con prisioneros de guerra.\n\n**El juego de pelota**\n\nNo era deporte: representaba la lucha entre el día y la noche, y a veces terminaba en sacrificio.",
+    "imagenes": [
+      "/images/mexico/ctx_mx-ctx-creencias-codex-borgia-page-71-jpg-utm-source-es-wikipedia-o_wikimedia.jpg"
+    ],
+    "contextual": true
+  },
+  {
+    "id": "mx-ctx-vida-azteca",
+    "region": "mexico",
+    "tipo": "evento",
+    "titulo": "Cómo vivía la gente en el mundo azteca",
+    "fecha_inicio": 1460,
+    "fecha_fin": null,
+    "descripcion_corta": "Tenochtitlan tenía **unos 200 000 habitantes** cuando Londres apenas llegaba a 50 000, y estaba construida sobre un lago.\n\n**La casa y el barrio**\n\nLa gente común vivía en casas de adobe de una o dos habitaciones con patio, agrupadas en **calpullis**: barrios de familias emparentadas con su propio templo, su escuela y sus tierras comunales.\n\n**La comida**\n\nMaíz en tortilla y tamal, frijol, chile, calabaza, tomate, aguacate, insectos y espirulina recogida del lago. La carne era escasa: guajolote y perro xoloitzcuintle. El **chocolate**, batido y amargo, era bebida de nobles.\n\n**La escuela, obligatoria**\n\nCaso único en el mundo de entonces: **todos los niños y niñas iban a la escuela**. El *telpochcalli* formaba guerreros y trabajadores; el *calmécac*, reservado a la nobleza, formaba sacerdotes, jueces y escribanos.\n\n**La higiene**\n\nBaño diario en el lago o en el **temazcal**, baño de vapor con hierbas medicinales. La ciudad tenía letrinas públicas, barrenderos y canoas que retiraban los desechos para usarlos como abono.",
+    "imagenes": [
+      "/images/mexico/ctx_mx-ctx-vida-azteca-codex-magliabechiano-folio-77r-jpg-utm-source-es-w_wikimedia.jpg"
+    ],
+    "contextual": true
+  },
+  {
+    "id": "mx-ctx-economia-azteca",
+    "region": "mexico",
+    "tipo": "evento",
+    "titulo": "Modelo económico azteca",
+    "fecha_inicio": 1470,
+    "fecha_fin": null,
+    "descripcion_corta": "El imperio no administraba territorios: **cobraba tributo**. Los pueblos conquistados conservaban a sus señores a cambio de entregas periódicas.\n\n**El tributo**\n\nEl *Códice Mendoza* detalla lo que llegaba cada año a Tenochtitlan: **cientos de miles de mantas de algodón**, cargas de maíz y frijol, plumas de quetzal, jade, cacao, escudos y trajes de guerrero. Un ejército de recaudadores, los *calpixque*, lo vigilaba todo.\n\n**El mercado de Tlatelolco**\n\nLos conquistadores calcularon **60 000 personas** en un solo día de plaza. Tenía jueces que resolvían disputas allí mismo y pasillos ordenados por producto.\n\n**Dinero sin monedas**\n\nSe pagaba con **granos de cacao** para lo pequeño —un conejo costaba unos 30—, con mantas de algodón (*quachtli*) para lo grande y con canutos de oro en polvo.\n\n**Las chinampas**\n\nIslas artificiales de limo y juncos en el lago que daban **hasta siete cosechas al año**. Sin ellas la ciudad no habría podido alimentarse.",
+    "imagenes": [
+      "/images/mexico/ctx_mx-ctx-economia-azteca-camas-chinampas-jpg-utm-source-es-wikipedia-org-ut_wikimedia.jpg"
+    ],
+    "contextual": true
+  },
+  {
+    "id": "mx-ctx-social-azteca",
+    "region": "mexico",
+    "tipo": "evento",
+    "titulo": "Estructura social azteca",
+    "fecha_inicio": 1480,
+    "fecha_fin": null,
+    "descripcion_corta": "Una pirámide rígida, aunque con una escalera abierta: **el mérito en la guerra**.\n\n**Arriba**\n\nEl **tlatoani**, «el que habla», elegido por un consejo entre los miembros de la familia real, no heredero automático. Debajo, los **pipiltin** o nobles, que ocupaban los cargos, y los sacerdotes.\n\n**En medio**\n\nLos **pochtecas**, mercaderes de larga distancia que viajaban armados hasta Guatemala y servían de espías del imperio; tenían tribunales propios y una riqueza que debían ocultar para no ofender a los nobles. Junto a ellos, los artesanos de lujo o *tolteca*: plumajeros, orfebres, lapidarios.\n\n**Abajo**\n\nLos **macehualtin**, gente común que trabajaba la tierra del calpulli, pagaba tributo y servía en el ejército; los *mayeques*, campesinos atados a tierras ajenas; y los **tlacotin** o esclavos, que no lo eran de nacimiento sino por deuda o castigo, podían tener bienes y comprar su libertad, y sus hijos nacían libres.\n\n**Subir de rango**\n\nUn plebeyo que capturara cuatro enemigos vivos podía llegar a **caballero águila o jaguar** y vivir como noble.",
+    "imagenes": [
+      "/images/mexico/ctx_mx-ctx-social-azteca-pochtecas-con-su-carga-jpg-utm-source-es-wikipedia_wikimedia.jpg"
+    ],
+    "contextual": true
+  },
+  {
+    "id": "mx-ctx-vida-colonia",
+    "region": "mexico",
+    "tipo": "evento",
+    "titulo": "Cómo se vivía en Nueva España",
+    "fecha_inicio": 1660,
+    "fecha_fin": null,
+    "descripcion_corta": "Tres siglos en los que se mezclaron dos mundos y nació uno nuevo.\n\n**La ciudad y el campo**\n\nMéxico se reconstruyó con trazado en cuadrícula alrededor de la plaza mayor, la catedral y el palacio virreinal. En el campo, la **hacienda** organizaba la vida: capilla, casa grande, tienda de raya donde el peón se endeudaba y difícilmente salía.\n\n**Las castas**\n\nLa ley clasificaba a la gente por su origen: peninsulares, criollos, mestizos, indios, negros, mulatos... **Los cargos importantes quedaban para los nacidos en España**, agravio que acabaría alimentando la independencia.\n\n**Religión y fiesta**\n\nLa evangelización juntó santos católicos con dioses antiguos: la **Virgen de Guadalupe** se apareció en el cerro donde se veneraba a Tonantzin. Las procesiones, el Día de Muertos y las posadas nacieron de esa mezcla.\n\n**La comida mestiza**\n\nEl maíz, el chile y el cacao se encontraron con el trigo, el cerdo, la vaca, la cebolla y el queso. De ahí salieron el mole, las carnitas y la cocina mexicana que conocemos.",
+    "imagenes": [
+      "/images/mexico/ctx_mx-ctx-vida-colonia-casta-painting-all-jpg-utm-source-es-wikipedia-org_wikimedia.jpg"
+    ],
+    "contextual": true
+  },
+  {
+    "id": "mx-ctx-economia-colonial",
+    "region": "mexico",
+    "tipo": "evento",
+    "titulo": "Modelo económico de Nueva España",
+    "fecha_inicio": 1700,
+    "fecha_fin": null,
+    "descripcion_corta": "El virreinato fue durante siglos **la posesión más rica de España**, y todo giraba alrededor de un metal.\n\n**La plata**\n\nZacatecas, Guanajuato y Taxco llegaron a producir, junto con Potosí, cerca de **el 80 % de la plata del mundo**. El **quinto real** —la quinta parte de todo lo extraído— iba directo a la Corona. El peso de plata mexicano circuló desde Filipinas hasta China: fue la primera moneda verdaderamente global.\n\n**El trabajo forzado**\n\nPrimero la **encomienda**, que entregaba indígenas a un colono a cambio de «cristianizarlos»; luego el **repartimiento**, turnos obligatorios de trabajo; por último el peonaje por deudas de las haciendas.\n\n**El Galeón de Manila**\n\n**Durante 250 años**, un galeón cruzó cada año el Pacífico entre Acapulco y Manila llevando plata y trayendo seda, porcelana y especias. Fue la primera ruta comercial regular entre América y Asia.\n\n**El monopolio**\n\nSolo se podía comerciar con España y por puertos autorizados, lo que disparó el **contrabando** y la piratería.",
+    "imagenes": [
+      "/images/mexico/ctx_mx-ctx-economia-colonial-manilajf9742-16-jpg-utm-source-es-wikipedia-org-ut_wikimedia.jpg"
+    ],
+    "contextual": true
   }
 ]

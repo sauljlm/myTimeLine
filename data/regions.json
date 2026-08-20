@@ -244,7 +244,7 @@
       "orden_vertical": 11,
       "color": "var(--color-costa-rica)",
       "fecha_inicio": -10000,
-      "fecha_fin": 1500,
+      "fecha_fin": 1900,
       "subperiodos": [
         {
           "nombre": "Primeros humanos en CR",
@@ -252,9 +252,19 @@
           "fecha_fin": -7000
         },
         {
-          "nombre": "Primeras sociedades casicales",
+          "nombre": "Primeras sociedades cacicales",
           "fecha_inicio": -300,
           "fecha_fin": 500
+        },
+        {
+          "nombre": "Conquista y colonia",
+          "fecha_inicio": 1502,
+          "fecha_fin": 1821
+        },
+        {
+          "nombre": "República y café",
+          "fecha_inicio": 1821,
+          "fecha_fin": 1900
         }
       ]
     },

@@ -124,5 +124,18 @@
     "imagenes": [
       "/images/era-de-hielo/eradehielo_partin-2015-yd-global-map_wikimedia.jpg"
     ]
+  },
+  {
+    "id": "hielo-ctx-economia",
+    "region": "era-de-hielo",
+    "tipo": "evento",
+    "titulo": "Modelo económico de la Era de Hielo",
+    "fecha_inicio": -22000,
+    "fecha_fin": null,
+    "descripcion_corta": "En la estepa fría no había frutos casi todo el año: la economía dependía de **los grandes animales**.\n\n**Nada se tiraba**\n\nDe un mamut o un reno salía todo: carne y grasa para comer y para las lámparas, piel para ropa y cubiertas, tendones para coser, hueso y marfil para agujas, arpones, azagayas y figuras, y **los huesos grandes como vigas** de las cabañas, porque no había madera.\n\n**Cazar mejor, no más fuerte**\n\nEl **propulsor** multiplicaba el alcance de la lanza, y el arco aparece hacia el final del período. Se cazaba en grupo, empujando manadas hacia desfiladeros o trampas: exigía planificar, comunicarse y repartir.\n\n**El primer almacén**\n\nEn Ucrania y Siberia se han hallado pozos excavados en el **permafrost** que funcionaban como neveras naturales para guardar carne durante meses. Guardar comida es el primer paso hacia el excedente.\n\n**Redes largas**\n\nSílex de calidad, ámbar y conchas marinas viajaban **cientos de kilómetros** tierra adentro. No existía el comercio tal como lo entendemos, pero sí un intercambio constante entre grupos, que servía además de seguro contra el mal año.",
+    "imagenes": [
+      "/images/era-de-hielo/ctx_hielo-ctx-economia-propulseur-hy-ne-rampante-la-madeleine-tursac-mnp-_wikimedia.png"
+    ],
+    "contextual": true
   }
 ]

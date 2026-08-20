@@ -838,5 +838,109 @@
     "imagenes": [
       "/images/norteamerica/us_hispano-cuban-soldiers-2c-1898-jpg_wikimedia.jpg"
     ]
+  },
+  {
+    "id": "na-ctx-economia-precolonial",
+    "region": "norteamerica",
+    "tipo": "evento",
+    "titulo": "Modelo económico de los pueblos originarios",
+    "fecha_inicio": -180,
+    "fecha_fin": null,
+    "descripcion_corta": "No existía el dinero ni la propiedad privada de la tierra: la economía se basaba en la **caza, la recolección y el trueque**, y más tarde en la agricultura.\n\n**Las Tres Hermanas**\n\nMaíz, frijol y calabaza se sembraban juntos en el mismo montículo: el maíz servía de tutor al frijol, el frijol fijaba nitrógeno en el suelo y la calabaza cubría la tierra impidiendo las malas hierbas. Este trío sostuvo a los pueblos agrícolas del este y del suroeste durante siglos.\n\n**Redes de intercambio**\n\nLa cultura Hopewell movía obsidiana de las Rocosas, conchas del Golfo, cobre del lago Superior y dientes de tiburón a **más de 2 000 kilómetros** de su origen. No eran mercaderes profesionales: los objetos viajaban de mano en mano como **regalos entre jefes**, porque dar generosamente daba prestigio.\n\n**El potlatch**\n\nEn la costa noroeste, los jefes celebraban banquetes donde regalaban o destruían mantas, cobre y comida. Cuanto más entregaban, más alto era su rango: la riqueza no se acumulaba, **se repartía**.",
+    "imagenes": [
+      "/images/norteamerica/ctx_na-ctx-economia-precolonial-indian-visitors-attending-potlatch-at-kok-wol-too-_wikimedia.jpg"
+    ],
+    "contextual": true
+  },
+  {
+    "id": "na-ctx-vida-originarios",
+    "region": "norteamerica",
+    "tipo": "evento",
+    "titulo": "Cómo vivían los pueblos originarios",
+    "fecha_inicio": 1310,
+    "fecha_fin": null,
+    "descripcion_corta": "No había un solo modo de vida, sino cientos, adaptados a cada territorio.\n\n**En las llanuras**\n\nSe vivía en **tipis** de piel de bisonte, desmontables en minutos porque se seguía a las manadas. Todo el campamento se movía con perros que arrastraban travois; solo tras la llegada del caballo, **en 1600**, apareció el jinete cazador de las películas.\n\n**En el suroeste**\n\nLos ancestrales pueblo levantaban **poblados de adobe y piedra de varios pisos**, con habitaciones a las que se entraba por el techo mediante escaleras que podían retirarse, y kivas subterráneas para las ceremonias.\n\n**En el este y el noroeste**\n\nLos iroqueses habitaban **casas comunales** de corteza de olmo de hasta 60 metros, donde convivían varias familias emparentadas por vía materna. En la costa noroeste, casas de tablones de cedro y canoas de un solo tronco.\n\n**La familia**\n\nEn muchos pueblos la descendencia era **matrilineal**: la casa y los campos pertenecían a las mujeres, y eran las matronas del clan quienes nombraban y podían destituir a los jefes.",
+    "imagenes": [
+      "/images/norteamerica/ctx_na-ctx-vida-originarios-genova-castello-d-albertis-teepees-jpg-utm-source-_wikimedia.jpg"
+    ],
+    "contextual": true
+  },
+  {
+    "id": "na-ctx-creencias-originarias",
+    "region": "norteamerica",
+    "tipo": "evento",
+    "titulo": "Creencias de los pueblos originarios",
+    "fecha_inicio": 1410,
+    "fecha_fin": null,
+    "descripcion_corta": "Casi todos los pueblos compartían una idea de fondo: el mundo está **vivo y emparentado**. Animales, ríos, montañas y vientos son personas con voluntad, y hay que tratarlos con respeto y pedirles permiso.\n\n**El Gran Espíritu**\n\nMuchas naciones reconocían una fuerza creadora que lo impregna todo —*Wakan Tanka* entre los lakota, *Orenda* entre los iroqueses—, más un poder difuso que un dios con forma humana.\n\n**Chamanes y visiones**\n\nEl **hombre-medicina** curaba, interpretaba sueños y mediaba con los espíritus. Los jóvenes buscaban su camino en la **búsqueda de la visión**: días de ayuno en soledad esperando que un animal-guía se les apareciera.\n\n**Ceremonias**\n\nLa **Danza del Sol** de las llanuras, con ayuno y sacrificio del propio cuerpo, renovaba el mundo cada verano. Los tótems del noroeste no se adoraban: contaban la genealogía y los derechos de una familia. El **calumet** o pipa sagrada sellaba tratados y alianzas: fumar juntos era firmar.",
+    "imagenes": [
+      "/images/norteamerica/ctx_na-ctx-creencias-originarias-peace-pipe-jpg-utm-source-en-wikipedia-org-utm-cam_wikimedia.jpg"
+    ],
+    "contextual": true
+  },
+  {
+    "id": "na-ctx-vida-colonias",
+    "region": "norteamerica",
+    "tipo": "evento",
+    "titulo": "Cómo se vivía en las Trece Colonias",
+    "fecha_inicio": 1630,
+    "fecha_fin": null,
+    "descripcion_corta": "La colonia inglesa era un mundo **rural, joven y muy religioso**. Nueve de cada diez personas vivían de la tierra.\n\n**La casa**\n\nUna sola habitación con chimenea central donde se cocinaba, se comía y se dormía. Sin cristales en las ventanas al principio, sin agua corriente y con velas de sebo. Las familias eran enormes —seis, ocho, diez hijos—, aunque muchos morían antes de los cinco años.\n\n**Nueva Inglaterra frente al Sur**\n\nEn el norte, los **puritanos** organizaban la vida alrededor de la iglesia y la asamblea del pueblo, con granjas pequeñas y familias que trabajaban su propia tierra. En el sur, **plantaciones** de tabaco y arroz trabajadas por sirvientes por contrato y, cada vez más, por africanos esclavizados.\n\n**El domingo**\n\nEn Massachusetts la asistencia al culto era obligatoria y el sermón podía durar tres horas. Trabajar, jugar o viajar en domingo se castigaba con multa o cepo.",
+    "imagenes": [
+      "/images/norteamerica/ctx_na-ctx-vida-colonias-puritangallery-jpg-utm-source-es-wikipedia-org-utm_wikimedia.jpg"
+    ],
+    "contextual": true
+  },
+  {
+    "id": "na-ctx-economia-colonial",
+    "region": "norteamerica",
+    "tipo": "evento",
+    "titulo": "Modelo económico colonial y esclavitud",
+    "fecha_inicio": 1700,
+    "fecha_fin": null,
+    "descripcion_corta": "Las colonias existían, según Londres, para **enriquecer a la metrópoli**: enviar materias primas baratas y comprar manufacturas inglesas caras. Es el **mercantilismo**, y las Leyes de Navegación lo imponían prohibiendo comerciar con otras potencias.\n\n**El comercio triangular**\n\nBarcos de Nueva Inglaterra llevaban ron a África, cambiaban ron por personas esclavizadas, las vendían en el Caribe y en el Sur, y volvían cargados de melaza y azúcar para destilar más ron. En total, cerca de **12 millones de africanos** fueron embarcados hacia América; unos 400 000 llegaron a lo que hoy es Estados Unidos.\n\n**El tabaco y el algodón**\n\nVirginia se construyó sobre el tabaco, tan central que se usaba **como moneda** para pagar deudas e impuestos. Tras la desmotadora de algodón **en 1793**, el Sur ató su economía entera a la esclavitud: de 700 000 esclavizados en 1790 se pasó a casi **4 millones en 1860**.",
+    "imagenes": [
+      "/images/norteamerica/ctx_na-ctx-economia-colonial-mapa-del-comercio-triangular-jpg-utm-source-es-wik_wikimedia.jpg"
+    ],
+    "contextual": true
+  },
+  {
+    "id": "na-ctx-creencias-eeuu",
+    "region": "norteamerica",
+    "tipo": "evento",
+    "titulo": "Creencias y religión en Estados Unidos",
+    "fecha_inicio": 1740,
+    "fecha_fin": null,
+    "descripcion_corta": "El país nació de gente que huía de la persecución religiosa, y eso marcó su carácter: **mucha fe y ninguna iglesia oficial**.\n\n**Los Grandes Despertares**\n\n**Hacia 1740**, predicadores itinerantes como Jonathan Edwards y George Whitefield llenaban campos enteros con sermones emocionales sobre el pecado y la salvación personal. Fue el primer acontecimiento vivido a la vez por todas las colonias, y enseñó a la gente que podía **desobedecer a las autoridades establecidas** en nombre de su conciencia.\n\n**Libertad religiosa**\n\nLa **Primera Enmienda**, de 1791, prohibió al Congreso establecer una religión oficial. El resultado fue lo contrario del vacío: metodistas, baptistas, cuáqueros, mormones y decenas de grupos más compitieron libremente y multiplicaron sus fieles.\n\n**El Destino Manifiesto**\n\nDe esa mezcla de fe y expansión nació la idea de que la nación tenía la **misión divina** de extenderse hasta el Pacífico, argumento con el que se justificaron la guerra con México y el despojo de los pueblos originarios.",
+    "imagenes": [
+      "/images/norteamerica/ctx_na-ctx-creencias-eeuu-sinners-in-the-hands-of-an-angry-god-by-jonathan-e_wikimedia.jpg"
+    ],
+    "contextual": true
+  },
+  {
+    "id": "na-ctx-vida-frontera",
+    "region": "norteamerica",
+    "tipo": "evento",
+    "titulo": "Cómo se vivía en la frontera del Oeste",
+    "fecha_inicio": 1871,
+    "fecha_fin": null,
+    "descripcion_corta": "La vida real del Oeste se parecía poco al cine: **mucho trabajo, poco tiroteo**.\n\n**La casa**\n\nEn las llanuras sin árboles, las familias de la Homestead Act construían **casas de tepe**, ladrillos de tierra con raíces cortados del propio suelo. Eran frescas y baratas, pero goteaban barro cuando llovía y por el techo asomaban serpientes.\n\n**El pueblo**\n\nUna calle de tierra, un almacén general, un saloon, una herrería y, si había suerte, una iglesia y una escuela de una sola aula. El agua se sacaba de un pozo y la letrina estaba fuera.\n\n**El vaquero**\n\nGanaba **unos 30 dólares al mes** por catorce horas diarias a caballo. Casi uno de cada tres era **mexicano o negro**, y del vaquero mexicano vienen el lazo, la silla, el rodeo, las chaparreras y hasta la palabra *ranch*.\n\n**La ley**\n\nEn Dodge City o Deadwood, lo habitual era entregar el arma al sheriff al entrar al pueblo. Los grandes duelos a mediodía son un invento posterior de las novelas baratas y del espectáculo de Buffalo Bill.",
+    "imagenes": [
+      "/images/norteamerica/ctx_na-ctx-vida-frontera-keldur-01-jpg-utm-source-en-wikipedia-org-utm-camp_wikimedia.jpg"
+    ],
+    "contextual": true
+  },
+  {
+    "id": "na-ctx-economia-industrial",
+    "region": "norteamerica",
+    "tipo": "evento",
+    "titulo": "Modelo económico industrial",
+    "fecha_inicio": 1894,
+    "fecha_fin": null,
+    "descripcion_corta": "Entre la Guerra de Secesión y 1900, Estados Unidos pasó de país agrícola a **primera potencia industrial del mundo**, superando a Gran Bretaña.\n\n**Acero, petróleo y ferrocarril**\n\nAndrew Carnegie industrializó el acero y John D. Rockefeller controló con **Standard Oil** cerca del 90 % del refinado. Sus críticos los llamaron *robber barons* —barones ladrones—; ellos se veían como filántropos que devolvían su fortuna en bibliotecas y universidades.\n\n**La Edad Dorada**\n\nMark Twain bautizó la época como *Gilded Age*: dorada por fuera, deslucida por dentro. Mientras unas pocas familias amasaban fortunas nunca vistas, los obreros trabajaban **doce horas al día, seis días a la semana**, sin seguro ni pensión.\n\n**Sindicatos y huelgas**\n\nLa huelga de Pullman de 1894 y la de Homestead de 1892 acabaron con el ejército en la calle. De ahí salieron el **Día del Trabajo**, la jornada de ocho horas como bandera y los primeros sindicatos nacionales.",
+    "imagenes": [
+      "/images/norteamerica/ctx_na-ctx-economia-industrial-andrew-carnegie-three-quarter-length-portrait-seat_wikimedia.jpg"
+    ],
+    "contextual": true
   }
 ]

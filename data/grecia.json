@@ -532,5 +532,57 @@
     "imagenes": [
       "/images/grecia/grecia3_corinto-tempio-di-apollo-e-acrocorinto-jpg_wikimedia.jpg"
     ]
+  },
+  {
+    "id": "gr-ctx-vida",
+    "region": "grecia",
+    "tipo": "evento",
+    "titulo": "Cómo vivía la gente en Grecia",
+    "fecha_inicio": -460,
+    "fecha_fin": null,
+    "descripcion_corta": "La vida griega ocurría **fuera de casa**: en el ágora, en el gimnasio, en el teatro y en la asamblea.\n\n**La casa**\n\nModesta incluso entre los ricos: adobe, tejado de teja y un patio central. Se dividía en el **andrón**, la sala donde el dueño recibía a sus invitados, y el **gineceo**, la parte reservada a las mujeres. El mobiliario era escaso y no había chimenea: se usaban braseros.\n\n**La mesa**\n\nPan de cebada, aceite de oliva, aceitunas, queso, higos, legumbres y pescado. La carne se comía sobre todo en las fiestas, tras un sacrificio. El vino se bebía siempre **rebajado con agua**: beberlo puro era cosa de bárbaros.\n\n**Las mujeres**\n\nEn Atenas, una ciudadana no podía votar, ni comprar por encima de una cantidad mínima, ni salir sin compañía; se casaba hacia los 15 años con un hombre de 30. En Esparta o en Gortina tenían muchos más derechos, y las **hetairas**, cultas y libres, eran la única excepción visible en los banquetes.\n\n**Los esclavos**\n\nEn Atenas eran quizá **un tercio de la población**: en las casas, en los talleres y, los peores destinos, en las minas de plata de Laurión.",
+    "imagenes": [
+      "/images/grecia/ctx_gr-ctx-vida-hidriaconm-nadeys-tiros-jpg-utm-source-es-wikipedi_wikimedia.jpg"
+    ],
+    "contextual": true
+  },
+  {
+    "id": "gr-ctx-creencias",
+    "region": "grecia",
+    "tipo": "evento",
+    "titulo": "Creencias y religión griega",
+    "fecha_inicio": -430,
+    "fecha_fin": null,
+    "descripcion_corta": "Los dioses griegos no eran perfectos: eran **inmortales y poderosos, pero celosos, vengativos y caprichosos**, con las mismas pasiones que los humanos.\n\n**El Olimpo**\n\nZeus, Hera, Atenea, Apolo, Ártemis, Ares, Afrodita, Poseidón, Deméter, Hermes, Hefesto y Dioniso. Cada ciudad tenía además su protector: Atenea en Atenas, Hera en Argos.\n\n**No había fe, había rito**\n\nNo existían dogma ni libro sagrado ni clero profesional: la religión consistía en **hacer bien los sacrificios y las fiestas**. Lo que se ofrecía se comía después: era la única ocasión en que mucha gente probaba carne.\n\n**Los oráculos**\n\nEn **Delfos**, la pitia respondía en trance a preguntas de particulares y de ciudades enteras, con frases tan ambiguas que nunca se equivocaban. Ninguna colonia se fundaba sin consultarla.\n\n**Los misterios**\n\nEn Eleusis se iniciaba a miles de personas en un secreto que **nadie reveló en mil años**, y que prometía una suerte mejor tras la muerte.\n\n**El más allá y la hybris**\n\nEl Hades era un lugar gris para casi todos. Y el peor pecado era la *hybris*: la soberbia de quien se cree por encima de su medida, castigada sin falta por Némesis.",
+    "imagenes": [
+      "/images/grecia/ctx_gr-ctx-creencias-oracle-of-delphi-red-figure-kylix-440-430-bc-kodro_wikimedia.jpg"
+    ],
+    "contextual": true
+  },
+  {
+    "id": "gr-ctx-economia",
+    "region": "grecia",
+    "tipo": "evento",
+    "titulo": "Modelo económico griego",
+    "fecha_inicio": -410,
+    "fecha_fin": null,
+    "descripcion_corta": "Grecia es un país de montañas y poca tierra buena: **la geografía obligó al comercio**.\n\n**La tríada mediterránea**\n\nCereal, **olivo y vid**. El olivo tarda una década en dar fruto pero vive siglos, y su aceite servía de alimento, de jabón, de perfume y de combustible para las lámparas. El aceite y el vino se exportaban en ánforas; el grano había que importarlo, sobre todo del mar Negro.\n\n**Las colonias**\n\nCuando una polis no podía alimentar a más gente, enviaba colonos. Entre **el 750 y el 550 a. C.** se fundaron cientos de ciudades desde España hasta Crimea, y con ellas se extendió el comercio griego.\n\n**La moneda**\n\nAcuñada desde el siglo VI a. C. La **lechuza ateniense**, de plata de Laurión, se aceptaba en todo el Mediterráneo: fue la primera moneda internacional.\n\n**Quién trabajaba**\n\nEl trabajo manual estaba mal visto entre los ciudadanos ricos. Buena parte de los oficios y del comercio estaba en manos de **metecos** —extranjeros residentes, que pagaban impuestos pero no votaban— y de esclavos.\n\n**Impuestos a los ricos**\n\nEn Atenas no había impuesto sobre la renta: se esperaba que los ricos pagaran las **liturgias**, es decir, un barco de guerra o un coro de teatro, y presumieran de ello.",
+    "imagenes": [
+      "/images/grecia/ctx_gr-ctx-economia-amphorae-jpg-utm-source-es-wikipedia-org-utm-campa_wikimedia.jpg"
+    ],
+    "contextual": true
+  },
+  {
+    "id": "gr-ctx-costumbres",
+    "region": "grecia",
+    "tipo": "evento",
+    "titulo": "Costumbres y vida diaria en Grecia",
+    "fecha_inicio": -395,
+    "fecha_fin": null,
+    "descripcion_corta": "**El simposio**\n\nLa reunión masculina por excelencia: recostados en divanes, con vino aguado en la crátera, música, juegos, poesía y conversación filosófica. De uno de ellos salió *El banquete* de Platón.\n\n**El gimnasio**\n\nSe entrenaba **desnudo** —*gymnós* significa precisamente eso— y untado en aceite. Era también escuela: allí enseñaban los filósofos, y de dos gimnasios atenienses toman nombre la **Academia** y el **Liceo**.\n\n**El teatro**\n\nNo era ocio privado sino fiesta cívica: miles de ciudadanos veían tragedias durante días en las Dionisias, con un premio al mejor autor. Todos los papeles, también los femeninos, los hacían hombres con máscara.\n\n**La hospitalidad**\n\nLa *xenia* obligaba a acoger al forastero, darle comida y regalo antes incluso de preguntarle el nombre: quien la violaba ofendía a Zeus. La guerra de Troya empieza, precisamente, con una hospitalidad traicionada.\n\n**La ropa y el cuerpo**\n\nDos piezas de lana o lino sin coser: el **quitón** y el manto o *himatión*, sujetos con broches. Barba en los adultos hasta que Alejandro puso de moda afeitarse.",
+    "imagenes": [
+      "/images/grecia/ctx_gr-ctx-costumbres-kos-western-archaeological-site-gymansion-11esd-jp_wikimedia.jpg"
+    ],
+    "contextual": true
   }
 ]

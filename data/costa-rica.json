@@ -169,5 +169,479 @@
     "imagenes": [
       "/images/costa-rica/cr2_indigenas-bribripa-at-the-bribri-indigenous-community-i_wikimedia.jpg"
     ]
+  },
+  {
+    "id": "cr-ctx-creencias",
+    "region": "costa-rica",
+    "tipo": "evento",
+    "titulo": "Creencias de los pueblos precolombinos",
+    "fecha_inicio": 400,
+    "fecha_fin": null,
+    "descripcion_corta": "En los cacicazgos del istmo, lo religioso y lo político eran la misma cosa: **el cacique era también el intermediario con lo invisible**.\n\n**Los sukias**\n\nChamanes que curaban, adivinaban y dirigían los ritos, y que alcanzaban el trance con tabaco y otras plantas. Entre los bribris y cabécares, el *awá* sigue transmitiendo oralmente cantos que duran horas.\n\n**Animales con poder**\n\nEl **jaguar**, el águila y el cocodrilo aparecen una y otra vez en el jade, el oro y la piedra. La rana dorada, la figura más repetida de la orfebrería, se asocia a la fertilidad y a la lluvia.\n\n**El jade y el oro**\n\nNo eran adornos: eran **objetos de poder** que acompañaban al muerto. Hacia el año 700 el jade fue sustituido por el oro, un cambio que coincide con la llegada de influencias del sur, desde Colombia y Panamá.\n\n**Las esferas**\n\nLas del Diquís aparecen alineadas frente a las viviendas de los jefes, en grupos que parecen marcar alineaciones y jerarquías. Su significado exacto **se perdió con la conquista**.\n\n**Los muertos**\n\nSe enterraba con ajuar bajo cistas de lajas, y en algunos sitios se practicaba un segundo entierro: los huesos se limpiaban y se depositaban de nuevo, años después.",
+    "imagenes": [
+      "/images/costa-rica/ctx_cr-ctx-creencias-parque-de-las-esferas-de-costa-rica-jpg-utm-source_wikimedia.jpg"
+    ],
+    "contextual": true
+  },
+  {
+    "id": "cr-ctx-costumbres",
+    "region": "costa-rica",
+    "tipo": "evento",
+    "titulo": "Costumbres y vida diaria en Costa Rica",
+    "fecha_inicio": 900,
+    "fecha_fin": null,
+    "descripcion_corta": "**La casa**\n\nEl **bohío**: planta circular, postes de madera, techo cónico de paja y suelo de tierra, sin divisiones interiores, con el fogón en el centro y hamacas. En Guayabo se conservan las bases de piedra de estas viviendas junto a calzadas empedradas y acueductos que aún hoy llevan agua.\n\n**La comida**\n\nMaíz molido en **metate** —los de la Región Central, con tres patas y panel colgante, son piezas de arte—, yuca, pejibaye, frijol, cacao, pesca de río y caza con cerbatana y arco. La **chicha** de maíz fermentado acompañaba cualquier reunión importante.\n\n**El cuerpo**\n\nPintura corporal con achiote y jagua, tatuajes, narigueras y orejeras de oro, y en algunas zonas deformación craneal como signo de rango.\n\n**El trabajo y el trueque**\n\nLas mujeres cultivaban, tejían y hacían la cerámica; los hombres desmontaban, cazaban y guerreaban. El intercambio con Nicaragua al norte y con Panamá al sur traía jade, oro, conchas *Spondylus* y cacao, que servía casi como moneda.\n\n**La fiesta**\n\nLos bastones ceremoniales, las flautas de cerámica y los ocarinas encontrados en las tumbas hablan de reuniones con música, canto y baile alrededor del cacique.",
+    "imagenes": [
+      "/images/costa-rica/ctx_cr-ctx-costumbres-cocina-tradicional-san-juan-achiutla-oaxaca-m-xico_wikimedia.jpg"
+    ],
+    "contextual": true
+  },
+  {
+    "id": "cr-colon-cariay",
+    "region": "costa-rica",
+    "tipo": "evento",
+    "titulo": "Colón llega a Cariay",
+    "fecha_inicio": 1502,
+    "fecha_fin": null,
+    "descripcion_corta": "**El 18 de septiembre de 1502**, en su cuarto y último viaje, Cristóbal Colón fondeó frente a la isla Uvita, en la actual Limón, tras una tormenta que casi le cuesta la flota. Permaneció **diecisiete días** entre los indígenas de la región, a la que llamó **Cariay**.\n\nSu hijo Fernando dejó escrito el asombro por los adornos de oro que llevaban al cuello, «espejos de oro», y por unos animales que no habían visto nunca: monos y pecaríes. De aquellos relatos y de la expectativa de riqueza vendría, años después, el nombre de **Costa Rica**, una de las promesas más desmentidas de la historia americana: fue la provincia más pobre de toda la América española.",
+    "imagenes": [
+      "/images/costa-rica/cr19_cr-colon-cariay-portrait-of-a-man-said-to-be-christopher-columbus-_wikimedia.jpg"
+    ]
+  },
+  {
+    "id": "cr-nicuesa-fracaso",
+    "region": "costa-rica",
+    "tipo": "evento",
+    "titulo": "Los intentos fallidos de Veragua",
+    "fecha_inicio": 1506,
+    "fecha_fin": null,
+    "descripcion_corta": "La Corona confió a **Diego de Nicuesa** la gobernación de Veragua, que abarcaba el actual Caribe costarricense. La expedición fue un desastre: naufragios, hambre, enfermedad y ataques indígenas dejaron a los supervivientes reducidos a comer raíces, y de los **700 hombres** que salieron regresó apenas un puñado.\n\nDurante medio siglo, todos los intentos de asentarse en la costa del Caribe fracasaron por la selva, la lluvia constante, la malaria y la resistencia de los pueblos locales. La conquista real de Costa Rica no vendría por el Atlántico, sino décadas después por el Valle Central.",
+    "imagenes": [
+      "/images/costa-rica/cr19_cr-nicuesa-fracaso-castilla-del-oro-jpg-utm-source-es-wikipedia-org-u_wikimedia.jpg"
+    ]
+  },
+  {
+    "id": "cr-gil-gonzalez",
+    "region": "costa-rica",
+    "tipo": "evento",
+    "titulo": "Gil González Dávila y el nombre del país",
+    "fecha_inicio": 1522,
+    "fecha_fin": null,
+    "descripcion_corta": "**En 1522**, Gil González Dávila recorrió a pie la costa del Pacífico desde Panamá hasta Nicaragua. Fue el primer contacto sostenido con los cacicazgos del actual Guanacaste y del Pacífico Central, y reunió una cantidad notable de oro por trueque, además de bautizar a miles de indígenas.\n\nDe la abundancia de ese oro —y de la propaganda que se hizo con ella— surgió el nombre con el que la provincia acabaría quedándose: **Costa Rica**. La expedición también trajo la otra cara: con los europeos llegaron **la viruela y el sarampión**, que en pocas décadas redujeron drásticamente a la población indígena.",
+    "imagenes": [
+      "/images/costa-rica/cr19_cr-gil-gonzalez-gil-gonzalez-davila-jpg-utm-source-es-wikipedia-or_wikimedia.jpg"
+    ]
+  },
+  {
+    "id": "cr-provincia-1540",
+    "region": "costa-rica",
+    "tipo": "evento",
+    "titulo": "Nace la provincia de Costa Rica",
+    "fecha_inicio": 1540,
+    "fecha_fin": null,
+    "descripcion_corta": "Una **real cédula de 1540** creó la provincia de Nueva Cartago y Costa Rica, separándola de Veragua y de Nicaragua. En el papel, el territorio iba de mar a mar; en la práctica, la Corona no controlaba casi nada de él.\n\nLa provincia quedó adscrita a la **Capitanía General de Guatemala**, a semanas de viaje de la capital. Esa lejanía definiría su historia: sin minas de plata, sin grandes poblaciones indígenas que someter y sin puerto importante, Costa Rica fue durante casi tres siglos **la última y la más pobre de las provincias del reino**, y por eso mismo también la más olvidada por las autoridades.",
+    "imagenes": [
+      "/images/costa-rica/cr19_cr-provincia-1540-archivo-de-indias-002-jpg-utm-source-es-wikipedia-_wikimedia.jpg"
+    ]
+  },
+  {
+    "id": "cr-cavallon",
+    "region": "costa-rica",
+    "tipo": "evento",
+    "titulo": "Juan de Cavallón entra al Valle Central",
+    "fecha_inicio": 1561,
+    "fecha_fin": null,
+    "descripcion_corta": "Tras cuarenta años de fracasos en las costas, **Juan de Cavallón** entró por el Pacífico con ganado, semillas y unos noventa hombres, y fundó el **Castillo de Garcimuñoz**, primer asentamiento español estable en el interior.\n\nEra un cambio de estrategia decisivo: en lugar de buscar oro en la costa, ocupar las tierras altas y fértiles del **Valle Central**, con clima templado y suelos volcánicos. Allí se concentraría desde entonces casi toda la población del país. Cavallón abandonó la empresa dos años después, agotado y sin encontrar la riqueza prometida.",
+    "imagenes": [
+      "/images/costa-rica/cr19_cr-cavallon-juan-de-cavall-n-y-arboleda-jpg-utm-source-es-wiki_wikimedia.jpg"
+    ]
+  },
+  {
+    "id": "cr-cartago-1563",
+    "region": "costa-rica",
+    "tipo": "evento",
+    "titulo": "Juan Vázquez de Coronado funda Cartago",
+    "fecha_inicio": 1563,
+    "fecha_fin": null,
+    "descripcion_corta": "**Juan Vázquez de Coronado**, el conquistador mejor recordado por haber preferido la negociación al escarmiento, trasladó el asentamiento al valle del Guarco y fundó **Cartago en 1563**. Sería la capital de la provincia durante **258 años**, hasta la independencia.\n\nVázquez de Coronado recorrió Talamanca y el sur buscando la ruta al Atlántico y describió a los pueblos indígenas con un respeto poco habitual en su tiempo. Murió en un naufragio **en 1565**, cuando volvía de España con el título de adelantado. Cartago siguió siendo, durante siglos, una capital minúscula: en 1600 apenas tenía unas decenas de casas alrededor de la plaza.",
+    "imagenes": [
+      "/images/costa-rica/cr19_cr-cartago-1563-juan-v-zquez-de-coronado-jpg-utm-source-es-wikiped_wikimedia.jpg"
+    ]
+  },
+  {
+    "id": "cr-encomienda-colapso",
+    "region": "costa-rica",
+    "tipo": "evento",
+    "titulo": "La encomienda y el colapso indígena",
+    "fecha_inicio": 1569,
+    "fecha_fin": null,
+    "descripcion_corta": "**En 1569**, el gobernador Perafán de Ribera repartió a la población indígena en **encomiendas** entre los colonos. Sobre el papel, el encomendero recibía tributo y trabajo a cambio de proteger y evangelizar; en la práctica fue trabajo forzado.\n\nEl resultado fue demoledor. A la explotación se sumaron las epidemias: se calcula que la población indígena del territorio pasó de unos **400 000 habitantes** antes del contacto a **menos de 10 000** en el siglo XVII. Muchos huyeron a Talamanca y a las montañas, donde permanecieron fuera del control español hasta el siglo XIX. La consecuencia paradójica fue que los colonos, sin brazos que explotar, **tuvieron que trabajar ellos mismos la tierra**: de ahí el mito del «labriego sencillo».",
+    "imagenes": [
+      "/images/costa-rica/cr19_cr-encomienda-colapso-cristiano-encomendero-de-indios-de-este-reyno-haci_wikimedia.jpg"
+    ]
+  },
+  {
+    "id": "cr-negrita-1635",
+    "region": "costa-rica",
+    "tipo": "evento",
+    "titulo": "La Virgen de los Ángeles",
+    "fecha_inicio": 1635,
+    "fecha_fin": null,
+    "descripcion_corta": "Según la tradición, **el 2 de agosto de 1635** una joven mulata llamada Juana Pereira encontró en el paraje de La Puebla, a las afueras de Cartago, una pequeña imagen de piedra negra de la Virgen. La llevó a su casa dos veces y las dos veces la imagen reapareció en la misma roca, señal que se interpretó como su voluntad de quedarse allí.\n\nLa **Negrita** se convirtió en el símbolo religioso del país y, en un detalle nada menor, en patrona de un barrio de mulatos y negros libres en una sociedad de castas. Fue declarada **patrona de Costa Rica en 1824**, y cada 2 de agosto cientos de miles de personas caminan hasta la basílica de Cartago en la **romería**.",
+    "imagenes": [
+      "/images/costa-rica/cr19_cr-negrita-1635-virgen-de-los-angeles-cri-07-2018-0369-jpg-utm-sou_wikimedia.jpg"
+    ]
+  },
+  {
+    "id": "cr-cacao-matina",
+    "region": "costa-rica",
+    "tipo": "evento",
+    "titulo": "El cacao de Matina",
+    "fecha_inicio": 1660,
+    "fecha_fin": null,
+    "descripcion_corta": "Sin oro ni plata, la provincia encontró su primer producto de exportación en el **cacao del valle de Matina**, en el Caribe. Las haciendas cacaoteras, trabajadas por esclavos africanos y por indígenas, abastecían a Nicaragua, Panamá y Portobelo.\n\nEl cacao llegó a ser tan central que funcionó como **moneda oficial**: en 1709, ante la falta absoluta de circulante, el gobernador decretó que las deudas y los salarios se pagaran en **almendras de cacao**. Un caballo podía costar 100 almendras. Costa Rica fue así uno de los pocos lugares del mundo donde el dinero, literalmente, **crecía en los árboles** —y se lo comían los ratones.",
+    "imagenes": [
+      "/images/costa-rica/cr19_cr-cacao-matina-theobroma-cacao-blanco-clean-jpg-utm-source-es-wik_wikimedia.jpg"
+    ]
+  },
+  {
+    "id": "cr-piratas-matina",
+    "region": "costa-rica",
+    "tipo": "evento",
+    "titulo": "Piratas y zambos-mosquitos en el Caribe",
+    "fecha_inicio": 1666,
+    "fecha_fin": null,
+    "descripcion_corta": "La costa caribeña estuvo fuera de control español durante siglos. **En 1666**, el pirata **Edward Mansvelt** remontó el río Matina y saqueó las haciendas de cacao; después vendrían Morgan y otros. Los ataques se repitieron tanto que las autoridades llegaron a plantearse abandonar la región.\n\nMás constantes aún fueron las incursiones de los **zambos-mosquitos**, aliados de los ingleses desde la Mosquitia nicaragüense, que bajaban en canoas a robar cacao y capturar esclavos. Para defenderse se levantó **en 1742 el fuerte de San Fernando**, en Matina, que resultó inútil: los propios hacendados acabaron pactando con los atacantes y pagándoles en cacao.",
+    "imagenes": [
+      "/images/costa-rica/cr19_cr-piratas-matina-land-piratflagga-color-fix-png-utm-source-es-wikip_wikimedia.png"
+    ]
+  },
+  {
+    "id": "cr-presbere",
+    "region": "costa-rica",
+    "tipo": "evento",
+    "titulo": "La rebelión de Pablo Presbere",
+    "fecha_inicio": 1710,
+    "fecha_fin": null,
+    "descripcion_corta": "**En 1709**, los pueblos de **Talamanca** se levantaron contra las misiones franciscanas y las encomiendas que intentaban someterlos. Dirigidos por **Pablo Presbere**, cacique de Suinse, destruyeron iglesias y expulsaron a los misioneros.\n\nLa represión llegó al año siguiente: una expedición capturó a cientos de personas y a Presbere, que fue juzgado en Cartago. **Se negó a declarar y a pedir clemencia**, y fue fusilado y decapitado **el 4 de julio de 1710**. Talamanca, sin embargo, no fue sometida: siguió siendo territorio indígena libre hasta bien entrado el siglo XIX. En 1997 la Asamblea Legislativa declaró a Presbere **Defensor de la Libertad de los Pueblos Indígenas**, héroe nacional.",
+    "imagenes": [
+      "/images/costa-rica/cr19_cr-presbere-cordilleratalamanca-jpg-utm-source-es-wikipedia-or_wikimedia.jpg"
+    ]
+  },
+  {
+    "id": "cr-irazu-1723",
+    "region": "costa-rica",
+    "tipo": "evento",
+    "titulo": "La erupción del Irazú",
+    "fecha_inicio": 1723,
+    "fecha_fin": null,
+    "descripcion_corta": "**El 17 de febrero de 1723**, el volcán Irazú entró en una erupción que duró meses y cubrió Cartago de ceniza. El gobernador **Diego de la Haya Fernández** lo describió día a día en un informe que es **el primer registro escrito de una erupción volcánica en Costa Rica**; el cráter principal lleva hoy su nombre.\n\nLa provincia estaba rodeada de volcanes activos —Irazú, Poás, Turrialba, Arenal— y de fallas sísmicas. Los terremotos destruyeron Cartago varias veces, sobre todo **en 1841 y 1910**, lo que explica que apenas queden edificios coloniales en pie en un país con casi tres siglos de colonia.",
+    "imagenes": [
+      "/images/costa-rica/cr19_cr-irazu-1723-irazu-volcano-jpg-utm-source-es-wikipedia-org-utm-_wikimedia.jpg"
+    ]
+  },
+  {
+    "id": "cr-san-jose-1737",
+    "region": "costa-rica",
+    "tipo": "evento",
+    "titulo": "La fundación de San José",
+    "fecha_inicio": 1737,
+    "fecha_fin": null,
+    "descripcion_corta": "**En 1737**, las autoridades eclesiásticas ordenaron reunir en un solo lugar a los pobladores dispersos del valle de Aserrí, que vivían en sus tierras y no acudían a misa. Así nació la **Villa Nueva de la Boca del Monte**, más tarde **San José**.\n\nEran los años en que el Valle Central se poblaba de villas nuevas: Heredia (1706), San José (1737) y Alajuela (1782). Las cuatro ciudades —con Cartago— formarían un país de rivalidades locales muy vivas, que estallarían en guerra apenas llegada la independencia. San José, la más nueva y la peor situada, acabaría siendo la capital gracias al **tabaco** y luego al café.",
+    "imagenes": [
+      "/images/costa-rica/cr19_cr-san-jose-1737-la-sabana-costa-rica-2-jpg-utm-source-es-wikipedia_wikimedia.jpg"
+    ]
+  },
+  {
+    "id": "cr-tabaco-estanco",
+    "region": "costa-rica",
+    "tipo": "evento",
+    "titulo": "El estanco del tabaco",
+    "fecha_inicio": 1766,
+    "fecha_fin": null,
+    "descripcion_corta": "**En 1766** la Corona estableció el **monopolio estatal del tabaco**, y poco después concedió a Costa Rica la exclusiva de abastecer a toda Centroamérica. Fue la primera inyección de dinero real que conoció la provincia.\n\nLa **Factoría de Tabacos** se instaló en San José, y allí llegó el circulante, los comerciantes y los primeros capitales. Fue la razón por la que una villa fundada apenas medio siglo antes superó a Cartago en riqueza e influencia. Cuando el monopolio se perdió, a comienzos del siglo XIX, San José ya tenía **la costumbre de mandar**, y con el café la convertiría en capital definitiva.",
+    "imagenes": [
+      "/images/costa-rica/cr19_cr-tabaco-estanco-nicotiana-tabacum-k-hler-s-medizinal-pflanzen-098-_wikimedia.jpg"
+    ]
+  },
+  {
+    "id": "cr-primer-cafe",
+    "region": "costa-rica",
+    "tipo": "evento",
+    "titulo": "Las primeras matas de café",
+    "fecha_inicio": 1808,
+    "fecha_fin": null,
+    "descripcion_corta": "El café llegó al Valle Central a finales del siglo XVIII y hacia **1808** ya se cultivaba en los patios de San José. El gobernador **Tomás de Acosta** lo impulsó como alternativa a una economía que no tenía nada que vender.\n\nEl terreno era inmejorable: **suelo volcánico, altura, sombra y dos estaciones marcadas**. Los ayuntamientos regalaron semillas y tierras a quien las sembrara, y una ley llegó a eximir del diezmo a los cafetales nuevos. En pocas décadas, ese arbusto convertiría a la provincia más pobre de Centroamérica en la primera en exportar café a Europa y **en la más próspera de la región**.",
+    "imagenes": [
+      "/images/costa-rica/cr19_cr-primer-cafe-diagram-of-coffea-arabica-jpg-utm-source-es-wikipe_wikimedia.jpg"
+    ]
+  },
+  {
+    "id": "cr-independencia-1821",
+    "region": "costa-rica",
+    "tipo": "evento",
+    "titulo": "La independencia llega por correo",
+    "fecha_inicio": 1821,
+    "fecha_fin": null,
+    "descripcion_corta": "Costa Rica no luchó por su independencia: **se enteró de ella**. El acta se firmó en Guatemala el 15 de septiembre de 1821, y la noticia llegó a Cartago **el 13 de octubre**, casi un mes después, a lomo de mula.\n\nLa provincia se declaró independiente y, sin guerra ni ejército libertador, tuvo que decidir qué hacer con su libertad. El **Pacto de Concordia**, firmado **el 1 de diciembre de 1821**, fue su primera constitución: un texto notablemente moderado que declaraba la independencia «provisional» hasta ver qué hacía el resto de América, y que dejaba la decisión a la calma. Es un buen retrato de un país que nació sin héroes militares y sin batallas fundacionales.",
+    "imagenes": [
+      "/images/costa-rica/cr19_cr-independencia-1821-proclama-de-libertad-indep-centroam-rica-jpg-utm-s_wikimedia.jpg"
+    ]
+  },
+  {
+    "id": "cr-ochomogo",
+    "region": "costa-rica",
+    "tipo": "evento",
+    "titulo": "La guerra de Ochomogo",
+    "fecha_inicio": 1823,
+    "fecha_fin": null,
+    "descripcion_corta": "La primera guerra civil del país duró **una tarde**. Cartago y Heredia querían unirse al **Imperio mexicano** de Iturbide; San José y Alajuela, ser república independiente. El **5 de abril de 1823** ambos bandos se encontraron en el alto de **Ochomogo**, entre Cartago y San José.\n\nEl combate dejó unas **veinte muertes** y la victoria de los republicanos josefinos. La consecuencia fue duradera: **la capital se trasladó a San José**, donde sigue. Cartago perdió en una tarde los 258 años de primacía que le había dado la colonia, y la rivalidad entre ambas ciudades tardaría décadas en apagarse.",
+    "imagenes": [
+      "/images/costa-rica/cr19_cr-ochomogo-batalla-de-ochomogo-png-utm-source-es-wikipedia-or_wikimedia.png"
+    ]
+  },
+  {
+    "id": "cr-nicoya-1824",
+    "region": "costa-rica",
+    "tipo": "evento",
+    "titulo": "La anexión del Partido de Nicoya",
+    "fecha_inicio": 1824,
+    "fecha_fin": null,
+    "descripcion_corta": "El **Partido de Nicoya** —la actual Guanacaste— había dependido durante toda la colonia de Nicaragua, pero comerciaba con Costa Rica y estaba harto de las guerras civiles nicaragüenses. **El 25 de julio de 1824**, un cabildo abierto en Nicoya votó por unirse a Costa Rica con una fórmula que quedó como lema: **«De la patria por nuestra voluntad»**.\n\nLa decisión fue confirmada por el Congreso Federal centroamericano en 1825 y quedó definitiva en 1858. Con ella, el país sumó las llanuras ganaderas del noroeste, la tradición de la **sabanera**, el guanacaste como árbol nacional y buena parte de su folclore: el punto guanacasteco, la marimba y las corridas de toros a la tica.",
+    "imagenes": [
+      "/images/costa-rica/cr19_cr-nicoya-1824-pampa-guanacasteca-jpg-utm-source-es-wikipedia-org_wikimedia.jpg"
+    ]
+  },
+  {
+    "id": "cr-mora-fernandez",
+    "region": "costa-rica",
+    "tipo": "evento",
+    "titulo": "Juan Mora Fernández, el primer jefe de Estado",
+    "fecha_inicio": 1825,
+    "fecha_fin": null,
+    "descripcion_corta": "Elegido **en 1824** como primer Jefe de Estado, el maestro **Juan Mora Fernández** gobernó nueve años y sentó las bases del país. Repartió tierras baldías a quien sembrara café, abrió caminos hacia el Pacífico, trajo la **primera imprenta** en 1830 y con ella el primer periódico, y fundó escuelas y la Casa de Enseñanza de Santo Tomás.\n\nSu gobierno marcó el estilo de la política costarricense del siglo XIX: reformas administrativas más que epopeyas militares. Bajo su mandato se acuñó la primera moneda propia y se firmó la unión con Nicoya. Dejó el poder **por decisión propia**, tras unas elecciones.",
+    "imagenes": [
+      "/images/costa-rica/cr19_cr-mora-fernandez-juan-mora-fern-ndez-jpg-utm-source-es-wikipedia-or_wikimedia.jpg"
+    ]
+  },
+  {
+    "id": "cr-carrillo-1838",
+    "region": "costa-rica",
+    "tipo": "evento",
+    "titulo": "Braulio Carrillo y la salida de la Federación",
+    "fecha_inicio": 1838,
+    "fecha_fin": null,
+    "descripcion_corta": "**Braulio Carrillo** fue el gobernante más autoritario y más reformista de la primera mitad del siglo. **En 1838** declaró la separación definitiva de la **República Federal de Centroamérica** y proclamó a Costa Rica Estado libre e independiente.\n\nOrganizó el Estado casi de cero: primeros códigos civil y penal, división del territorio en provincias, hacienda pública ordenada, caminos al Pacífico para sacar el café. Su **Ley de Bases y Garantías de 1841** lo convirtió en jefe vitalicio, y eso acabó con él: fue derrocado en 1842 por **Francisco Morazán**, a quien él mismo había dejado desembarcar. Morazán, que quiso reconstruir la Federación por la fuerza, fue fusilado en San José **el 15 de septiembre de 1842**.",
+    "imagenes": [
+      "/images/costa-rica/cr19_cr-carrillo-1838-povedano-braulio-carrillo-jpg-utm-source-es-wikipe_wikimedia.jpg"
+    ]
+  },
+  {
+    "id": "cr-cafe-inglaterra",
+    "region": "costa-rica",
+    "tipo": "evento",
+    "titulo": "El café llega a Inglaterra",
+    "fecha_inicio": 1843,
+    "fecha_fin": null,
+    "descripcion_corta": "**En 1843**, el capitán inglés **William Le Lacheur** cargó su barco, el *Monarch*, con **5 000 quintales de café** costarricense y lo llevó directamente a Londres. Fue el comienzo de la ruta que sacó al país del aislamiento.\n\nEl negocio era gigantesco: el café tico se vendía como uno de los mejores del mundo y los ingleses adelantaban dinero contra la cosecha siguiente. De ahí salieron los **beneficios de café, los grandes exportadores y el crédito**, pero también una dependencia total de un solo producto y de un solo comprador. La ruta iba por el Pacífico y el Cabo de Hornos: **cuatro meses de viaje**, hasta que el ferrocarril al Atlántico acortara el camino medio siglo después.",
+    "imagenes": [
+      "/images/costa-rica/cr19_cr-cafe-inglaterra-william-le-lacheur-jpg-utm-source-es-wikipedia-org_wikimedia.jpg"
+    ]
+  },
+  {
+    "id": "cr-republica-1848",
+    "region": "costa-rica",
+    "tipo": "evento",
+    "titulo": "La República de Costa Rica",
+    "fecha_inicio": 1848,
+    "fecha_fin": null,
+    "descripcion_corta": "**El 31 de agosto de 1848**, el presidente **José María Castro Madriz** proclamó la República de Costa Rica, cortando el último vínculo formal con Centroamérica. Ese mismo año se adoptaron **la bandera y el escudo actuales**: la franja roja, inspirada en la bandera francesa de la revolución de 1848, fue idea de **Pacífica Fernández**, esposa del presidente.\n\nCastro Madriz, apodado el **Fundador de la República**, impulsó también la libertad de prensa, la primera universidad y la educación de las mujeres. Fue derrocado dos años después: en el siglo XIX costarricense, gobernar con los cafetaleros en contra duraba poco.",
+    "imagenes": [
+      "/images/costa-rica/cr19_cr-republica-1848-jos-mar-a-castro-madriz-jpg-utm-source-es-wikipedi_wikimedia.jpg"
+    ]
+  },
+  {
+    "id": "cr-juanito-mora",
+    "region": "costa-rica",
+    "tipo": "evento",
+    "titulo": "Juan Rafael Mora Porras",
+    "fecha_inicio": 1849,
+    "fecha_fin": null,
+    "descripcion_corta": "Comerciante y cafetalero, **Juan Rafael Mora Porras** gobernó de 1849 a 1859 y le tocó el momento más grave del siglo. Bajo su mandato se fundó el **primer banco** del país, se trajo el alumbrado y la cañería a San José y se levantaron el Hospital San Juan de Dios y la primera fábrica de moneda.\n\nSu figura quedó ligada a la **Campaña Nacional de 1856** contra los filibusteros. Paradójicamente, el héroe de la guerra terminó derrocado en 1859 por los mismos cafetaleros a los que había querido poner un banco estatal enfrente, y **fusilado en Puntarenas en 1860** tras intentar recuperar el poder. En 2010 fue declarado héroe nacional.",
+    "imagenes": [
+      "/images/costa-rica/cr19_cr-juanito-mora-juan-rafael-mora-porras-jpg-utm-source-es-wikipedi_wikimedia.jpg"
+    ]
+  },
+  {
+    "id": "cr-campana-nacional",
+    "region": "costa-rica",
+    "tipo": "evento",
+    "titulo": "La Campaña Nacional y Juan Santamaría",
+    "fecha_inicio": 1856,
+    "fecha_fin": 1857,
+    "descripcion_corta": "**En 1856**, el filibustero estadounidense **William Walker** se había apoderado de Nicaragua y proyectaba dominar toda Centroamérica y restablecer la esclavitud. El presidente Mora llamó a las armas: **9 000 hombres** —de una población de 110 000— marcharon al norte con sus propias herramientas.\n\nGanaron en **Santa Rosa el 20 de marzo** en catorce minutos, y el **11 de abril** entraron en **Rivas**. Allí, para desalojar a los filibusteros atrincherados en un mesón, hacía falta alguien que lo incendiara. Según la tradición, el tambor alajuelense **Juan Santamaría** se ofreció, pidió que cuidaran de su madre, prendió fuego al mesón y murió en el intento.\n\nLa victoria tuvo un precio terrible: el **cólera** contraído en Nicaragua mató a **uno de cada diez costarricenses** al regresar el ejército. La campaña es el acontecimiento fundacional de la identidad nacional, y Juan Santamaría, un joven pobre y mulato, su héroe.",
+    "imagenes": [
+      "/images/costa-rica/cr19_cr-campana-nacional-juan-santamar-a-jpg-utm-source-es-wikipedia-org-ut_wikimedia.jpg"
+    ]
+  },
+  {
+    "id": "cr-educacion-1869",
+    "region": "costa-rica",
+    "tipo": "evento",
+    "titulo": "Educación gratuita y obligatoria",
+    "fecha_inicio": 1869,
+    "fecha_fin": null,
+    "descripcion_corta": "La **Constitución de 1869** estableció que la enseñanza primaria de ambos sexos sería **gratuita, obligatoria y costeada por el Estado**. Costa Rica fue uno de los primeros países del mundo en escribirlo en su constitución, antes que buena parte de Europa.\n\nNo era solo un gesto: el país llevaba décadas apostando por la escuela como forma de gobierno. Con el tiempo, esa decisión produjo la **tasa de alfabetización más alta de América Latina** y una clase de maestros con enorme peso político. La frase que resume el siglo XX costarricense —«más maestros que soldados»— empieza aquí.",
+    "imagenes": [
+      "/images/costa-rica/cr19_cr-educacion-1869-edificio-metalico-escuela-buenaventura-corrales-sa_wikimedia.jpg"
+    ]
+  },
+  {
+    "id": "cr-ferrocarril-keith",
+    "region": "costa-rica",
+    "tipo": "evento",
+    "titulo": "El ferrocarril al Atlántico y Minor Keith",
+    "fecha_inicio": 1871,
+    "fecha_fin": 1890,
+    "descripcion_corta": "Sacar el café por el Pacífico y el Cabo de Hornos costaba meses. **En 1871**, el presidente Tomás Guardia contrató la construcción de un **ferrocarril de 160 kilómetros** desde el Valle Central hasta Limón, a través de la selva.\n\nLa obra fue una tragedia y un negocio. Murieron **unos 4 000 trabajadores** de malaria, fiebre amarilla y accidentes, entre ellos los primeros contingentes de irlandeses, italianos, chinos y, sobre todo, **jamaiquinos**. El país se endeudó hasta el cuello con la banca inglesa, y el contratista, el joven estadounidense **Minor Keith**, terminó cobrando en tierras: **320 000 hectáreas** a lo largo de la vía y el arriendo del ferrocarril por 99 años.\n\nEl tren se terminó **en 1890**. Para entonces Keith había sembrado banano a los lados de la línea para tener algo que transportar, y ese negocio secundario acabaría siendo mayor que el ferrocarril.",
+    "imagenes": [
+      "/images/costa-rica/cr19_cr-ferrocarril-keith-minor-keith-jpg-utm-source-es-wikipedia-org-utm-ca_wikimedia.jpg"
+    ]
+  },
+  {
+    "id": "cr-migraciones-limon",
+    "region": "costa-rica",
+    "tipo": "evento",
+    "titulo": "Jamaiquinos, chinos e italianos",
+    "fecha_inicio": 1873,
+    "fecha_fin": null,
+    "descripcion_corta": "La construcción del ferrocarril trajo al país a miles de trabajadores extranjeros. **En 1873** llegaron los primeros **chinos** contratados, y desde 1872 y durante décadas, **más de 10 000 jamaiquinos** de habla inglesa y religión protestante se establecieron en la costa caribeña.\n\nSu situación fue durante mucho tiempo de segunda clase: leyes racistas les prohibieron durante años subir al Valle Central, y no obtuvieron la ciudadanía plena hasta **1949**. De esa comunidad viene buena parte de la cultura limonense —el calipso, el *rice and beans*, el patois—, y de ella salió **Franklin Chang**, el primer astronauta latinoamericano de la NASA.\n\n**En 1888**, los obreros **italianos** del ferrocarril protagonizaron la que se considera la **primera huelga organizada** de la historia del país.",
+    "imagenes": [
+      "/images/costa-rica/cr19_cr-migraciones-limon-maury-geography-079c-bananas-jpg-utm-source-es-wik_wikimedia.jpg"
+    ]
+  },
+  {
+    "id": "cr-reformas-liberales",
+    "region": "costa-rica",
+    "tipo": "evento",
+    "titulo": "Las reformas liberales",
+    "fecha_inicio": 1884,
+    "fecha_fin": null,
+    "descripcion_corta": "Bajo los presidentes Próspero Fernández y **Bernardo Soto**, y con **Mauro Fernández** como ministro, el país aprobó **en 1884** un paquete de leyes que separó de raíz la Iglesia y el Estado: se expulsó al obispo Bernardo Thiel y a los jesuitas, se prohibieron las órdenes monásticas, se secularizaron los cementerios y se establecieron el **matrimonio civil y el divorcio**.\n\nEsta generación —la llamada del **Olimpo**— construyó también el Estado moderno: el Registro Civil, el Archivo Nacional, el Museo Nacional (1887), la Biblioteca Nacional y el alumbrado eléctrico de San José, **en 1884**, el primero de Centroamérica y uno de los primeros del mundo.",
+    "imagenes": [
+      "/images/costa-rica/cr19_cr-reformas-liberales-bernardo-soto-alfaro-jpg-utm-source-es-wikipedia-o_wikimedia.jpg"
+    ]
+  },
+  {
+    "id": "cr-ley-educacion-1886",
+    "region": "costa-rica",
+    "tipo": "evento",
+    "titulo": "La Ley General de Educación Común",
+    "fecha_inicio": 1886,
+    "fecha_fin": null,
+    "descripcion_corta": "La reforma educativa de **Mauro Fernández**, en 1886, organizó todo el sistema escolar: currículos, inspección, formación de maestros y financiación estatal. Convirtió en realidad lo que la Constitución de 1869 había prometido.\n\nSu decisión más discutida fue **cerrar la Universidad de Santo Tomás** para concentrar los recursos en la enseñanza primaria y secundaria, con el argumento de que un país sin escuelas no necesitaba abogados. Costa Rica no volvería a tener universidad hasta **1940**, pero entró en el siglo XX con la población más alfabetizada de la región. En esos mismos años se fundaron el **Liceo de Costa Rica** y el Colegio Superior de Señoritas.",
+    "imagenes": [
+      "/images/costa-rica/cr19_cr-ley-educacion-1886-mauro-fernandez-acuna-jpg-utm-source-es-wikipedia-_wikimedia.jpg"
+    ]
+  },
+  {
+    "id": "cr-7-noviembre-1889",
+    "region": "costa-rica",
+    "tipo": "evento",
+    "titulo": "El 7 de noviembre de 1889",
+    "fecha_inicio": 1889,
+    "fecha_fin": null,
+    "descripcion_corta": "En las elecciones de 1889, el candidato del gobierno perdió y corrió el rumor de que el presidente Bernardo Soto no entregaría el poder. **El 7 de noviembre**, miles de personas llegadas de Alajuela, Heredia y Cartago se concentraron en San José armadas con lo que tenían para exigir que se respetara el resultado.\n\nSoto cedió y entregó la presidencia. La fecha se celebra como el **Día de la Democracia Costarricense** y se considera el punto de partida de la tradición electoral del país. Conviene matizarlo: aquel voto era **público y solo de hombres**; el sufragio secreto llegaría en 1925 y el voto femenino en **1949**.",
+    "imagenes": [
+      "/images/costa-rica/cr19_cr-7-noviembre-1889-jos-joaqu-n-rodr-guez-zeled-n-jpg-utm-source-es-wi_wikimedia.jpg"
+    ]
+  },
+  {
+    "id": "cr-banano-ufco",
+    "region": "costa-rica",
+    "tipo": "evento",
+    "titulo": "El banano y la United Fruit",
+    "fecha_inicio": 1899,
+    "fecha_fin": null,
+    "descripcion_corta": "Lo que Minor Keith había sembrado para dar carga al ferrocarril se convirtió en el segundo pilar de la economía. **En 1899**, la fusión de sus empresas con la Boston Fruit Company creó la **United Fruit Company**, que pasó a controlar plantaciones, ferrocarril, puertos, telégrafo y flota.\n\nEn Limón nacieron las *company towns*: comisariato, hospital y viviendas de la empresa, con salarios pagados en vales. El banano trajo divisas y trabajo, pero también un poder privado capaz de negociar de tú a tú con el gobierno —y con exenciones fiscales que durarían décadas—. La denuncia literaria llegaría **en 1941** con *Mamita Yunai*, de Carlos Luis Fallas.",
+    "imagenes": [
+      "/images/costa-rica/cr19_cr-banano-ufco-fallas-mamita-yunai-ed-popular-cubana-jpg-utm-sour_wikimedia.jpg"
+    ]
+  },
+  {
+    "id": "cr-teatro-nacional",
+    "region": "costa-rica",
+    "tipo": "evento",
+    "titulo": "El Teatro Nacional",
+    "fecha_inicio": 1897,
+    "fecha_fin": null,
+    "descripcion_corta": "Cuenta la tradición que la soprano Adelina Patti no pudo actuar en Costa Rica por falta de un teatro digno, y que los cafetaleros decidieron entonces construir uno. Se financió con un **impuesto sobre cada quintal de café exportado** y se inauguró **el 21 de octubre de 1897** con *Fausto*.\n\nMármoles italianos, arañas de cristal, oro y artistas europeos: el Teatro Nacional es el monumento de la oligarquía cafetalera a sí misma. En su techo, la célebre **alegoría del café y el banano** pintada por el italiano Aleardo Villa —que nunca visitó el país y colocó a los cargadores recogiendo café en la costa— estuvo durante años en el billete de cinco colones.",
+    "imagenes": [
+      "/images/costa-rica/cr19_cr-teatro-nacional-costarica44-8415726720-jpg-utm-source-es-wikipedia_wikimedia.jpg"
+    ]
+  },
+  {
+    "id": "cr-1900",
+    "region": "costa-rica",
+    "tipo": "evento",
+    "titulo": "La Costa Rica de 1900",
+    "fecha_inicio": 1900,
+    "fecha_fin": null,
+    "descripcion_corta": "El país entró en el siglo XX con **unos 300 000 habitantes**, la mitad de ellos en el Valle Central, y con casi todo su ingreso dependiendo de **dos productos**: café y banano.\n\nTenía ferrocarril de mar a mar, luz eléctrica, teatro de ópera, telégrafo y la mayor tasa de alfabetización de América Latina. Y tenía también una desigualdad creciente entre la oligarquía cafetalera y los peones, una deuda externa enorme y un enclave bananero que era casi un Estado dentro del Estado.\n\nLo que vendría después —el Código de Trabajo, las garantías sociales de 1943, la guerra civil de 1948 y la **abolición del ejército en 1949**— nace de las tensiones que este siglo XIX dejó abiertas.",
+    "imagenes": [
+      "/images/costa-rica/cr19_cr-1900-correoscr-jpg-utm-source-es-wikipedia-org-utm-camp_wikimedia.jpg"
+    ]
+  },
+  {
+    "id": "cr-ctx-colonia-vida",
+    "region": "costa-rica",
+    "tipo": "evento",
+    "titulo": "Cómo se vivía en la colonia",
+    "fecha_inicio": 1680,
+    "fecha_fin": null,
+    "descripcion_corta": "Costa Rica fue **la provincia más pobre del imperio español en América**, y eso le dio una forma de vida distinta a la del resto de la región.\n\n**Sin criados y sin señores**\n\nNo hubo grandes minas ni una población indígena numerosa que someter, así que **el colono tuvo que trabajar su propia tierra**. En 1719, el gobernador Diego de la Haya escribió que hasta el propio gobernador tenía que sembrar para comer, y que las señoras principales iban descalzas a misa por no tener zapatos.\n\n**La casa**\n\nAdobe o bahareque, techo de paja o teja, piso de tierra, cocina de leña y poco mobiliario. Cartago, la capital, no pasaba de unas decenas de casas alrededor de la plaza y la iglesia.\n\n**Aislamiento**\n\nUn viaje a Guatemala llevaba semanas; a España, medio año. No había imprenta, ni universidad, ni periódico. La moneda escaseaba tanto que se pagaba en **cacao**, y a veces en mulas o en tejidos.\n\n**Población**\n\nEspañoles pobres, mestizos, mulatos y negros libres o esclavizados en Matina, e indígenas en pueblos de doctrina o refugiados en Talamanca, fuera del control colonial.",
+    "imagenes": [
+      "/images/costa-rica/cr19_cr-ctx-colonia-vida-basilica-virgen-de-los-angeles-cri-07-2018-0316-jp_wikimedia.jpg"
+    ],
+    "contextual": true
+  },
+  {
+    "id": "cr-ctx-colonia-economia",
+    "region": "costa-rica",
+    "tipo": "evento",
+    "titulo": "Modelo económico colonial",
+    "fecha_inicio": 1700,
+    "fecha_fin": null,
+    "descripcion_corta": "Una economía **de subsistencia** que durante casi tres siglos no encontró qué vender.\n\n**Sin moneda**\n\nEl circulante era tan escaso que se pagaba en especie. Las **almendras de cacao** funcionaron como moneda legal —el gobernador lo decretó en 1709— y también sirvieron el tabaco, las mulas y las mantas.\n\n**Lo poco que se exportaba**\n\nCacao de Matina hacia Panamá y Nicaragua; **mulas** criadas en el Valle Central y vendidas en las ferias de Portobelo, donde cargaban la plata del Perú; brea, harina y algún cuero. El contrabando con ingleses y holandeses en el Caribe era, en muchos años, mayor que el comercio legal.\n\n**La tierra**\n\nA falta de mano de obra que explotar, predominó la **pequeña y mediana propiedad** trabajada por la familia. Es el origen histórico de una estructura social menos desigual que la del resto de Centroamérica —aunque el mito del país «sin clases» exagere mucho: hubo esclavitud, encomienda y hacendados.\n\n**El giro**\n\nEl **estanco del tabaco**, en 1766, trajo por fin dinero, y con el café, ya en el siglo XIX, la provincia pobre pasó a ser la próspera.",
+    "imagenes": [
+      "/images/costa-rica/cr19_cr-ctx-colonia-economia-colombia-8-reales-1770-nr-reverso-jpg-utm-source-e_wikimedia.jpg"
+    ],
+    "contextual": true
+  },
+  {
+    "id": "cr-ctx-cafe-sociedad",
+    "region": "costa-rica",
+    "tipo": "evento",
+    "titulo": "El modelo económico del café",
+    "fecha_inicio": 1860,
+    "fecha_fin": null,
+    "descripcion_corta": "El café no solo cambió la economía: **fabricó el país** que existe hoy.\n\n**El grano de oro**\n\nEntre 1840 y 1890 fue prácticamente **la única exportación**. Con él llegaron los caminos, el crédito, los barcos, la moneda, el correo y las ideas europeas.\n\n**Quién sembraba y quién ganaba**\n\nEl cultivo quedó repartido entre **miles de pequeños y medianos productores**, pero el negocio real estaba en el **beneficio** —donde se procesa el grano— y en la exportación, en manos de unas pocas familias. Ellas adelantaban el dinero para la cosecha y se quedaban con el margen: así nació la **oligarquía cafetalera**, que gobernó el país durante un siglo.\n\n**El calendario**\n\nLa **recolecta**, de noviembre a febrero, movía a familias enteras, incluidos los niños; por eso las vacaciones escolares largas coinciden con la cosecha. Después vendrían los recolectores nicaragüenses y, más tarde, los ngäbe de Panamá.\n\n**Un solo producto**\n\nCuando el precio internacional caía, caía el país entero. Esa fragilidad explica buena parte de la política costarricense del siglo XIX.",
+    "imagenes": [
+      "/images/costa-rica/cr19_cr-ctx-cafe-sociedad-la-flor-del-cafe-costa-rica-jpg-utm-source-es-wiki_wikimedia.jpg"
+    ],
+    "contextual": true
+  },
+  {
+    "id": "cr-ctx-vida-siglo19",
+    "region": "costa-rica",
+    "tipo": "evento",
+    "titulo": "Cómo se vivía en el siglo XIX",
+    "fecha_inicio": 1880,
+    "fecha_fin": null,
+    "descripcion_corta": "**La casa y el pueblo**\n\nAdobe encalado, corredor con horcones, patio con cafetal, gallinas y árboles frutales. El pueblo se organizaba alrededor de la **plaza, la iglesia y la escuela**, y el cantón era la unidad de la vida política.\n\n**La mesa**\n\nGallo pinto de arroz y frijoles, tortilla, café colado en **chorreador** de manta, dulce de tapa, picadillos y, en las fiestas, tamal y chicha. La carne era ocasional.\n\n**El trabajo**\n\nJornada de sol a sol en el cafetal o la finca. La familia entera participaba en la cosecha, y las mujeres, además de la casa, escogían el grano en el beneficio.\n\n**La escuela**\n\nDesde 1869 obligatoria y gratuita: es la institución que más marcó la vida cotidiana del país. El maestro rural era la autoridad moral del pueblo, muchas veces por encima del cura.\n\n**Las fiestas**\n\nLas patronales con turno, pólvora, marimba y **topes** de caballos; el 2 de agosto la romería a Cartago; las corridas a la tica, en las que al toro no se le mata. El **boyero** con su carreta pintada llevando café a Puntarenas es la imagen de todo el siglo.",
+    "imagenes": [
+      "/images/costa-rica/cr19_cr-ctx-vida-siglo19-boyero-t-pico-costa-rica-jpg_wikimedia.jpg"
+    ],
+    "contextual": true
   }
 ]

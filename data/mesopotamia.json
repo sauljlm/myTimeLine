@@ -74,7 +74,9 @@
     "fecha_inicio": -3200,
     "fecha_fin": null,
     "descripcion_corta": "La mayoría de la población eran campesinos que vivían en aldeas alrededor de las ciudades, cultivando cebada, trigo, dátiles y hortalizas gracias a los canales de riego del Tigris y el Éufrates. Las casas se construían con ladrillos de adobe secados al sol, con pocas ventanas para protegerse del calor. La sociedad estaba dividida en hombres libres, dependientes de los templos o el palacio, y esclavos (casi siempre prisioneros de guerra o deudores insolventes). Las familias eran patriarcales y el matrimonio se formalizaba con contratos escritos en tablillas de arcilla. La religión politeísta impregnaba la vida diaria: cada ciudad tenía un dios patrono propio, y el zigurat funcionaba a la vez como centro religioso, administrativo y económico.",
-    "imagenes": [],
+    "imagenes": [
+      "/images/mesopotamia/ctx_mesopotamia-vida-cotidiana-denis-bourez-british-museum-london-8747049029-2-jp_wikimedia.jpg"
+    ],
     "contextual": true
   },
   {
@@ -85,7 +87,9 @@
     "fecha_inicio": -3100,
     "fecha_fin": null,
     "descripcion_corta": "La economía se basaba en la agricultura de regadío y en el excedente de grano que esta producía. Templos y palacios administraban gran parte de la tierra y el ganado, y llevaban registros contables en tablillas cuneiformes: de hecho, la escritura cuneiforme nació hacia el 3200 a. C. como un sistema de contabilidad para anotar cosechas, impuestos y transacciones, no como literatura. El comercio a larga distancia (con Anatolia, el Golfo Pérsico y el valle del Indo) intercambiaba grano y textiles por metales, madera y piedras preciosas que Mesopotamia no producía localmente. No existía moneda acuñada: los pagos se hacían en cebada o en plata pesada por peso (el siclo). El Código de Hammurabi también fijaba precios, salarios y reglas para los contratos comerciales.",
-    "imagenes": [],
+    "imagenes": [
+      "/images/mesopotamia/ctx_mesopotamia-modelo-economico-amarna-akkadian-letter-png-utm-source-es-wikipedia_wikimedia.png"
+    ],
     "contextual": true
   },
   {
@@ -413,5 +417,44 @@
     "imagenes": [
       "/images/mesopotamia/meso2_caidababilonia-121-isaiah-27s-vision-of-the-destruction-of-b_wikimedia.jpg"
     ]
+  },
+  {
+    "id": "me-ctx-creencias",
+    "region": "mesopotamia",
+    "tipo": "evento",
+    "titulo": "Creencias y religión en Mesopotamia",
+    "fecha_inicio": -3050,
+    "fecha_fin": null,
+    "descripcion_corta": "Los mesopotámicos creían que los humanos habían sido creados con un fin muy concreto: **trabajar para que los dioses no tuvieran que hacerlo**.\n\n**Los grandes dioses**\n\n**Anu**, el cielo; **Enlil**, el viento y el poder; **Enki**, el agua dulce y la astucia; e **Inanna-Ishtar**, el amor y la guerra a la vez, la más popular de todos.\n\n**La ciudad es del dios**\n\nCada ciudad pertenecía a una divinidad que vivía en su templo, y el zigurat era su escalera. El rey no era dios —a diferencia del faraón—, sino **su administrador**: si la cosecha fallaba, era él quien había fallado.\n\n**Leer el futuro**\n\nSe adivinaba en el hígado de los corderos, en el humo, en el aceite sobre el agua y sobre todo en los astros: de esa obsesión por anotar el cielo nacieron la **astrología y la astronomía**.\n\n**Un más allá triste**\n\nNo había premio ni castigo: todos, buenos y malos, iban a la Tierra sin Retorno, un lugar oscuro donde se come polvo. Por eso importaba tanto vivir bien y ser recordado.\n\n**Gilgamesh y el diluvio**\n\nEl poema más antiguo conservado cuenta la búsqueda desesperada de la inmortalidad de un rey, e incluye un **diluvio universal** con un arca y unas aves enviadas a buscar tierra, mil años antes del relato bíblico.",
+    "imagenes": [
+      "/images/mesopotamia/ctx_me-ctx-creencias-the-ziggurat-at-aqar-quf-jpg-utm-source-es-wikiped_wikimedia.jpg"
+    ],
+    "contextual": true
+  },
+  {
+    "id": "me-ctx-social",
+    "region": "mesopotamia",
+    "tipo": "evento",
+    "titulo": "Estructura social mesopotámica",
+    "fecha_inicio": -2700,
+    "fecha_fin": null,
+    "descripcion_corta": "El **Código de Hammurabi**, hacia 1754 a. C., deja ver la sociedad con una claridad incómoda: la misma ofensa se castigaba distinto según a quién se le hiciera.\n\n**Tres categorías**\n\nEl **awilum**, hombre libre de pleno derecho; el **mushkenum**, dependiente del palacio, protegido pero de rango menor; y el **wardum**, esclavo, que llevaba una marca en el pelo pero podía tener bienes, casarse con una mujer libre y comprar su libertad.\n\n**Ojo por ojo, según el rango**\n\nSi un hombre libre dejaba tuerto a otro hombre libre, perdía un ojo; si la víctima era un dependiente, pagaba **una mina de plata**; si era un esclavo, la mitad de su precio. La justicia existía, pero era proporcional a la posición.\n\n**Arriba**\n\nEl rey, los sacerdotes de los grandes templos y los **escribas**, formados durante años en la *edubba* o «casa de las tablillas», que llevaban los registros de todo.\n\n**Las mujeres**\n\nPodían tener negocios, prestar dinero, ser sacerdotisas y firmar contratos; **Enheduanna**, hija de Sargón y suma sacerdotisa, es la primera autora de la historia con nombre conocido. Aun así, el matrimonio lo pactaban los padres y el adulterio femenino se castigaba con la muerte.",
+    "imagenes": [
+      "/images/mesopotamia/ctx_me-ctx-social-p1050763-louvre-code-hammurabi-face-rwk-jpg-utm-so_wikimedia.jpg"
+    ],
+    "contextual": true
+  },
+  {
+    "id": "me-ctx-costumbres",
+    "region": "mesopotamia",
+    "tipo": "evento",
+    "titulo": "Costumbres y vida diaria en Mesopotamia",
+    "fecha_inicio": -1750,
+    "fecha_fin": null,
+    "descripcion_corta": "**La cerveza**\n\nEspesa y con posos, se bebía **con caña** entre varios de la misma jarra. Formaba parte del sueldo diario —hasta dos litros para un trabajador— y tenía su propia diosa, Ninkasi, cuyo himno es a la vez la receta más antigua conservada.\n\n**Todo por escrito**\n\nVenta de un burro, alquiler de una casa, préstamo con interés, divorcio, adopción, contrato de aprendiz: se escribía en arcilla y se sellaba con un **sello cilíndrico**, la firma personal que cada uno llevaba colgada al cuello. Por eso sabemos tanto de su vida cotidiana.\n\n**La escuela**\n\nEn la *edubba* se copiaban signos desde el amanecer, con castigos físicos incluidos. Un texto escolar de hace 4 000 años narra el día de un alumno al que pegan por hablar, por levantarse sin permiso y por mala letra, y cómo su padre acaba invitando al maestro a cenar para arreglarlo.\n\n**Medicina y calendario**\n\nRecetas con hierbas, cerveza y grasa junto a conjuros contra los demonios. El calendario era **lunar**, con meses de 29 o 30 días, y de aquí vienen la semana de siete días, la hora de 60 minutos y el círculo de 360 grados.",
+    "imagenes": [
+      "/images/mesopotamia/ctx_me-ctx-costumbres-cylinder-seal-king-louvre-ao6620-jpg-utm-source-es_wikimedia.jpg"
+    ],
+    "contextual": true
   }
 ]

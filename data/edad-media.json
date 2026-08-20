@@ -795,5 +795,83 @@
     "imagenes": [
       "/images/edad-media/em2_granada-la-rendici-c3-b3n-de-granada-pradilla-jpg_wikimedia.jpg"
     ]
+  },
+  {
+    "id": "em-ctx-estamentos",
+    "region": "edad-media",
+    "tipo": "evento",
+    "titulo": "Los tres estamentos y el señor feudal",
+    "fecha_inicio": 1005,
+    "fecha_fin": null,
+    "descripcion_corta": "Hacia el año 1000, el obispo Adalberón de Laon resumió la sociedad en una frase: unos **rezan**, otros **combaten** y otros **trabajan**. Los tres estamentos eran de nacimiento y, en principio, no se podía cambiar de uno a otro.\n\n**Los que rezan**\n\nEl clero: obispos y abades con tierras y ejércitos propios, y curas de aldea casi tan pobres como sus feligreses.\n\n**Los que combaten**\n\nLa nobleza. En la cúspide, el rey, que a menudo era **poco más que el primero entre iguales**. Debajo, duques, condes y barones, y por último los caballeros sin tierra.\n\n**Los que trabajan**\n\nEl 90 % de la población. **Siervos de la gleba** atados a la tierra, que se vendía con ellos incluidos, y campesinos libres o *villanos*, que pagaban renta pero podían marcharse.\n\n**El vasallaje**\n\nEl vínculo se sellaba con un rito: el **homenaje** —el vasallo, de rodillas, ponía sus manos entre las del señor— y el juramento de fidelidad sobre reliquias. A cambio recibía el **feudo**, normalmente tierra. Un mismo hombre podía ser señor de unos y vasallo de otros, y de ahí venían casi todas las guerras.\n\n**Las obligaciones del campesino**\n\nLa *corvea* —días de trabajo gratis en las tierras del señor—, el **diezmo** a la Iglesia y pagos por usar el molino, el horno y el lagar del señor, que nadie más podía tener.",
+    "imagenes": [
+      "/images/edad-media/ctx_em-ctx-estamentos-charles-d-orl-ans-png-utm-source-es-wikipedia-org-_wikimedia.png"
+    ],
+    "contextual": true
+  },
+  {
+    "id": "em-ctx-creencias",
+    "region": "edad-media",
+    "tipo": "evento",
+    "titulo": "Creencias y religión medieval",
+    "fecha_inicio": 1030,
+    "fecha_fin": null,
+    "descripcion_corta": "Nadie dudaba de que el mundo estaba gobernado por Dios, el diablo y los santos. La religión no era una parcela de la vida: **era el marco entero**.\n\n**El calendario**\n\nNo se contaban los días por números sino por santos, y el año lo marcaban el Adviento, la Cuaresma —cuarenta días sin carne— y la Pascua. Las campanas de la iglesia decían cuándo levantarse, comer y volver a casa.\n\n**El más allá**\n\nEl infierno y el cielo, y desde el siglo XII el **purgatorio**, una tercera opción donde se purgaban las penas. De ahí salieron las misas por los difuntos y, más tarde, las **indulgencias** que acabarían provocando la Reforma.\n\n**Reliquias y peregrinaciones**\n\nUn hueso de santo curaba, protegía la cosecha y atraía dinero a una ciudad. Miles de personas caminaban a **Santiago de Compostela**, Roma o Jerusalén, a veces como penitencia impuesta por un tribunal.\n\n**Miedo y milagro**\n\nSe creía en dragones, en el mal de ojo y en el fin del mundo inminente. Los eclipses y los cometas eran avisos, y la peste, un castigo.\n\n**Los que no encajaban**\n\nCátaros y valdenses fueron perseguidos como herejes; los judíos, expulsados de Inglaterra en 1290 y de España en 1492, y culpados sin pruebas de la peste negra.",
+    "imagenes": [
+      "/images/edad-media/ctx_em-ctx-creencias-aberdeenbestiaryfolio004vchristinmajesty-jpg-utm-s_wikimedia.jpg"
+    ],
+    "contextual": true
+  },
+  {
+    "id": "em-ctx-castillo-caballeria",
+    "region": "edad-media",
+    "tipo": "evento",
+    "titulo": "El castillo y la caballería",
+    "fecha_inicio": 1110,
+    "fecha_fin": null,
+    "descripcion_corta": "**Cómo era un castillo por dentro**\n\nMenos romántico de lo que parece: húmedo, oscuro y frío, con ventanas estrechas para defenderse mejor. La vida se concentraba en la **gran sala**, donde se comía, se juzgaba y dormían en el suelo criados y soldados. La letrina era un saliente sobre el foso.\n\n**Quién vivía allí**\n\nEl señor, su familia, el capellán, el mayordomo, el herrero, los cocineros y la guarnición: un pueblo entero puertas adentro, del que dependía toda la comarca.\n\n**Ser caballero**\n\nCostaba una fortuna: caballo de guerra, armadura, escudero y armas equivalían a **el valor de una aldea entera**. Se empezaba de paje a los siete años, escudero a los catorce y se recibía el espaldarazo hacia los veintiuno.\n\n**El código**\n\nLa **caballería** exigía proteger a los débiles, cumplir la palabra y respetar al enemigo vencido, pero era más ideal que costumbre: la Iglesia tuvo que imponer la **Paz de Dios** y la Tregua de Dios para prohibir atacar a campesinos y clérigos, o combatir en domingo.\n\n**Los torneos**\n\nEmpezaron como batallas simuladas con heridos y muertos reales, y acabaron convertidos en espectáculo con justas, colores y damas en el palco.",
+    "imagenes": [
+      "/images/edad-media/ctx_em-ctx-castillo-caballeria-panor-mica-oto-o-alc-zar-de-segovia-jpg-utm-source_wikimedia.jpg"
+    ],
+    "contextual": true
+  },
+  {
+    "id": "em-ctx-ciudad-gremios",
+    "region": "edad-media",
+    "tipo": "evento",
+    "titulo": "La ciudad, los gremios y los burgueses",
+    "fecha_inicio": 1160,
+    "fecha_fin": null,
+    "descripcion_corta": "A partir del siglo XI, con más comida y menos invasiones, la población creció y las ciudades resucitaron. Nació una clase que no rezaba ni combatía ni labraba: los **burgueses**, los habitantes del burgo.\n\n**«El aire de la ciudad hace libre»**\n\nUn siervo que lograra vivir **un año y un día** en una ciudad quedaba libre de su señor. Las ciudades compraban o arrancaban a los reyes cartas de privilegio (*fueros*) que les daban gobierno propio, mercado y tribunal.\n\n**Los gremios**\n\nCada oficio tenía el suyo, y controlaba todo: quién podía ejercer, cuántas horas, con qué calidad y a qué precio. Se ascendía de **aprendiz** —un niño que vivía en casa del maestro— a **oficial** con sueldo, y solo se llegaba a **maestro** presentando una **obra maestra** ante el gremio... y teniendo dinero para abrir taller.\n\n**Solidaridad y cierre**\n\nEl gremio pagaba el entierro de sus miembros, socorría a la viuda y financiaba la capilla y la fiesta del santo patrón. También impedía competir a quien no era de los suyos.\n\n**Ferias y bancos**\n\nLas ferias de Champaña reunían a mercaderes de toda Europa, y allí se inventaron la letra de cambio y la contabilidad por partida doble, para mover dinero **sin transportar oro por caminos llenos de bandidos**.",
+    "imagenes": [
+      "/images/edad-media/ctx_em-ctx-ciudad-gremios-gremios-azulejos-jpg-utm-source-es-wikipedia-org-u_wikimedia.jpg"
+    ],
+    "contextual": true
+  },
+  {
+    "id": "em-ctx-costumbres",
+    "region": "edad-media",
+    "tipo": "evento",
+    "titulo": "Costumbres y vida diaria en la Edad Media",
+    "fecha_inicio": 1250,
+    "fecha_fin": null,
+    "descripcion_corta": "**La mesa**\n\nPan negro, sopa, potaje de coles y legumbres, cerveza o vino aguado. La carne era cosa de fiestas y de señores, y la caza, un privilegio noble castigado con dureza. Se comía con las manos y con cuchillo propio sobre una rebanada de pan dura que hacía de plato. **Las especias** valían tanto como la plata.\n\n**La higiene**\n\nContra el tópico, en las ciudades había **casas de baños públicos** muy concurridas, hasta que la peste y la moral las cerraron. Jabón sí había; cepillo de dientes no: se frotaban con paño y hierbas.\n\n**La ropa**\n\nLana y lino; el color decía quién eras, y las **leyes suntuarias** prohibían a un campesino vestir seda o al burgués rico llevar armiño.\n\n**La fiesta**\n\nEl **carnaval** invertía el mundo durante unos días —el bufón coronado, el pobre haciendo de obispo— antes de la Cuaresma. Ferias, mercados, juglares, ferias de reliquias y ejecuciones públicas eran el espectáculo.\n\n**La luz y el tiempo**\n\nSe vivía con el sol y se dormía en **dos turnos**, con una vigilia en mitad de la noche para rezar, hablar o trabajar. El reloj mecánico, ya en el siglo XIV, empezó a imponer un tiempo medido en horas iguales.",
+    "imagenes": [
+      "/images/edad-media/ctx_em-ctx-costumbres-peasants-breaking-bread-jpg-utm-source-en-wikipedi_wikimedia.jpg"
+    ],
+    "contextual": true
+  },
+  {
+    "id": "em-ctx-mujeres",
+    "region": "edad-media",
+    "tipo": "evento",
+    "titulo": "Las mujeres en la Edad Media",
+    "fecha_inicio": 1290,
+    "fecha_fin": null,
+    "descripcion_corta": "La ley las consideraba menores de edad permanentes, bajo tutela del padre o del marido, pero la realidad diaria era más variada de lo que sugiere esa norma.\n\n**En el campo**\n\nLa campesina trabajaba tanto como su marido: segaba, ordeñaba, hilaba, hacía la cerveza y llevaba los productos al mercado. La palabra inglesa *spinster*, «soltera», viene de **hilar**, el trabajo con el que una mujer sin marido podía mantenerse.\n\n**En la ciudad**\n\nHabía panaderas, cerveceras, tejedoras y parteras. Algunas viudas **heredaban el taller** de su marido y entraban en el gremio, único camino para dirigir un negocio propio.\n\n**En el convento**\n\nEl monasterio fue el gran espacio de libertad intelectual: una abadesa administraba tierras y rentas, y **Hildegarda de Bingen** escribió sobre medicina, teología y música y aconsejó a papas y emperadores.\n\n**Reinas y señoras**\n\nLeonor de Aquitania gobernó dos reinos y financió a los trovadores; Juana de Arco cambió el curso de una guerra y fue quemada por ello a los 19 años.\n\n**Caza de brujas**\n\nLa persecución masiva no es medieval: estalló **entre 1450 y 1750**, ya en la Edad Moderna.",
+    "imagenes": [
+      "/images/edad-media/ctx_em-ctx-mujeres-hildegard-von-bingen-jpg-utm-source-es-wikipedia-o_wikimedia.jpg"
+    ],
+    "contextual": true
   }
 ]

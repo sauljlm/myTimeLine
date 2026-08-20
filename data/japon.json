@@ -346,5 +346,70 @@
     "imagenes": [
       "/images/japon/jp_satsuma-saigowithofficers-jpg_wikimedia.jpg"
     ]
+  },
+  {
+    "id": "jp-ctx-creencias",
+    "region": "japon",
+    "tipo": "evento",
+    "titulo": "Creencias: sintoísmo y budismo",
+    "fecha_inicio": 560,
+    "fecha_fin": null,
+    "descripcion_corta": "Japón resolvió el choque entre su religión antigua y la importada **quedándose con las dos**.\n\n**El sintoísmo**\n\n*Shintō* significa «el camino de los **kami**»: espíritus que habitan cascadas, árboles, rocas, animales y también a los antepasados ilustres. No tiene fundador, ni libro sagrado, ni mandamientos. Lo que importa no es el pecado sino la **pureza**: por eso se enjuaga la boca y las manos antes de entrar a un santuario, y por eso el **torii** rojo marca dónde empieza lo sagrado.\n\n**Ise y su renovación**\n\nEl santuario más importante se derriba y se reconstruye idéntico **cada 20 años**, desde hace trece siglos: lo eterno no es el edificio, es el gesto de rehacerlo.\n\n**La llegada del budismo**\n\nEntró desde Corea **en 538** y, tras un fuerte choque en la corte, se fusionó con el sintoísmo: los kami pasaron a considerarse manifestaciones de los budas. Aún hoy, la mayoría de los japoneses se casa por el rito sintoísta y se entierra por el budista.\n\n**El zen**\n\nLlegó en el siglo XII y encajó con los samuráis: disciplina, meditación y atención al presente.",
+    "imagenes": [
+      "/images/japon/ctx_jp-ctx-creencias-itsukushimatorii7379-jpg-utm-source-es-wikipedia-o_wikimedia.jpg"
+    ],
+    "contextual": true
+  },
+  {
+    "id": "jp-ctx-vida",
+    "region": "japon",
+    "tipo": "evento",
+    "titulo": "Cómo vivía la gente en Japón",
+    "fecha_inicio": 830,
+    "fecha_fin": null,
+    "descripcion_corta": "Un país montañoso donde solo se puede cultivar una parte pequeña del territorio, con terremotos y tifones constantes: la vida se organizó alrededor de esa fragilidad.\n\n**La casa**\n\nEstructura de madera sin clavos, suelo elevado, paredes correderas de papel (*shōji*) y esteras de **tatami**. Ligera y desmontable, es lo más sensato donde tiembla la tierra y hay que reconstruir a menudo. Se entra descalzo, se duerme sobre futón que se guarda de día y se come sentado en el suelo.\n\n**El arroz**\n\nCultivarlo en terrazas inundadas exige coordinar el agua entre todos los vecinos, así que la aldea funcionaba como una unidad: **el trabajo comunal y el consenso** vienen de ahí.\n\n**La mesa**\n\nArroz, pescado, algas, verduras encurtidas, miso. La carne de cuatro patas estuvo **prohibida durante más de mil años** por influencia budista, hasta la era Meiji.\n\n**El baño**\n\nLavarse fuera de la bañera y luego entrar a remojo en agua muy caliente, en familia y con la misma agua: el baño no sirve para limpiarse, sino para descansar.",
+    "imagenes": [
+      "/images/japon/ctx_jp-ctx-vida-japanese-room-with-tatami-mats-jpg-utm-source-es-w_wikimedia.jpg"
+    ],
+    "contextual": true
+  },
+  {
+    "id": "jp-ctx-economia",
+    "region": "japon",
+    "tipo": "evento",
+    "titulo": "Modelo económico japonés",
+    "fecha_inicio": 1230,
+    "fecha_fin": null,
+    "descripcion_corta": "Durante siglos, la riqueza en Japón no se midió en monedas sino en **arroz**.\n\n**El koku**\n\nUn *koku* era el arroz necesario para alimentar a una persona un año, unos 180 litros. El poder de un señor se expresaba en koku: un daimyō de 100 000 koku era diez veces más importante que uno de 10 000, y **los samuráis cobraban su sueldo en arroz**, no en dinero.\n\n**El shōen**\n\nEntre los siglos VIII y XV, la tierra se organizó en fincas privadas exentas de impuestos, propiedad de templos y nobles de la corte, trabajadas por campesinos y protegidas por guerreros: de esa fórmula nacieron los samuráis.\n\n**Los mercaderes de Edo**\n\nCon la paz Tokugawa creció un comercio enorme. En Osaka funcionó el **primer mercado de futuros de arroz del mundo**, el de Dōjima, ya en 1730. Las casas de cambio prestaban dinero a los mismos señores que oficialmente las despreciaban.\n\n**El país cerrado**\n\nDurante el *sakoku*, todo el comercio exterior pasó por una isla artificial en Nagasaki, **Dejima**, con holandeses y chinos como únicos socios.",
+    "imagenes": [
+      "/images/japon/ctx_jp-ctx-economia-desima-by-cw-mieling-jpg-utm-source-es-wikipedia-o_wikimedia.jpg"
+    ],
+    "contextual": true
+  },
+  {
+    "id": "jp-ctx-costumbres",
+    "region": "japon",
+    "tipo": "evento",
+    "titulo": "Costumbres y vida diaria en Japón",
+    "fecha_inicio": 1420,
+    "fecha_fin": null,
+    "descripcion_corta": "**La ceremonia del té**\n\nMás que beber té: una coreografía de gestos exactos en una sala pequeña, con una flor y una caligrafía. Su ideal es el **wabi-sabi**, la belleza de lo imperfecto, lo usado y lo pasajero. Un cuenco roto se repara con oro (*kintsugi*) para que la grieta se vea.\n\n**El saludo**\n\nLa reverencia sustituye al contacto físico, y su profundidad depende del rango. En el idioma hay niveles distintos de cortesía según con quién se hable.\n\n**Dentro y fuera**\n\nDos ideas gobiernan el trato social: el **honne** —lo que uno piensa de verdad— y el **tatemae** —lo que corresponde decir en público—. Evitar el conflicto abierto es una forma de respeto, no de hipocresía.\n\n**El calendario**\n\nEl **hanami**, contemplar los cerezos precisamente porque duran una semana; el **obon** de agosto, cuando los muertos vuelven a casa y se les guía con farolillos; los festivales de barrio con sus carrozas.\n\n**Las artes**\n\nEl nō y luego el kabuki, el haiku de **17 sílabas**, los grabados ukiyo-e, los jardines de piedra y el ikebana.",
+    "imagenes": [
+      "/images/japon/ctx_jp-ctx-costumbres-tea-ceremony-performing-2-jpg-utm-source-es-wikipe_wikimedia.jpg"
+    ],
+    "contextual": true
+  },
+  {
+    "id": "jp-ctx-social",
+    "region": "japon",
+    "tipo": "evento",
+    "titulo": "Estructura social: samuráis, campesinos, artesanos y mercaderes",
+    "fecha_inicio": 1650,
+    "fecha_fin": null,
+    "descripcion_corta": "Los Tokugawa congelaron la sociedad en cuatro clases hereditarias, el **shi-nō-kō-shō**, copiado del modelo confuciano chino. Cambiar de clase, o incluso de oficio, quedó prohibido.\n\n**Los samuráis**\n\nUn **6 % de la población** con derecho a llevar dos espadas y a matar en el acto a un plebeyo que los ofendiera. Con dos siglos de paz se convirtieron en funcionarios con sueldo de arroz, muchos endeudados con los mercaderes. Su código, el **bushidō**, exigía lealtad absoluta al señor: un samurái sin señor era un *rōnin*.\n\n**Los campesinos**\n\nSegundos en teoría por ser quienes producían el arroz, pero eran los que pagaban todo: entregaban entre **el 40 % y el 50 % de la cosecha** y no podían dejar su aldea.\n\n**Artesanos y mercaderes**\n\nAbajo del todo los comerciantes, por no producir nada. Pero en Edo y Osaka amasaron el dinero real y crearon la cultura urbana del kabuki, el ukiyo-e y los barrios de placer.\n\n**Fuera del sistema**\n\nLos *eta* y *hinin*, que hacían los trabajos considerados impuros, quedaban excluidos de las cuatro clases.",
+    "imagenes": [
+      "/images/japon/ctx_jp-ctx-social-satsuma-samurai-during-boshin-war-period-jpg-utm-s_wikimedia.jpg"
+    ],
+    "contextual": true
   }
 ]

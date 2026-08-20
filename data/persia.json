@@ -86,7 +86,9 @@
     "fecha_inicio": -520,
     "fecha_fin": null,
     "descripcion_corta": "El Imperio Persa fue notablemente tolerante con los pueblos conquistados: respetaba sus religiones, idiomas y costumbres locales a cambio de lealtad y tributo. La religión oficial era el zoroastrismo, centrado en el dios Ahura Mazda y la lucha entre el bien y el mal, aunque convivía con otras religiones del imperio, como el judaísmo (Ciro el Grande permitió el regreso de los judíos de su cautiverio en Babilonia y la reconstrucción del Templo de Jerusalén). La sociedad giraba en torno a la corte real, la nobleza guerrera y una amplia burocracia de escribas, con el arameo como lengua administrativa común entre pueblos que hablaban decenas de idiomas distintos.",
-    "imagenes": [],
+    "imagenes": [
+      "/images/persia/ctx_persia-vida-cotidiana-chehel-sotun-garden-isfahan-iran-2005-jpg-utm-sour_wikimedia.jpg"
+    ],
     "contextual": true
   },
   {
@@ -109,7 +111,9 @@
     "fecha_inicio": -520,
     "fecha_fin": null,
     "descripcion_corta": "El imperio se dividía en provincias llamadas satrapías, cada una gobernada por un sátrapa que recaudaba tributos fijos en oro, plata o productos locales para la corona. Darío I estandarizó el sistema fiscal y acuñó el dárico, una moneda de oro que facilitó el comercio a larga distancia. Una extensa red de caminos, entre ellos el Camino Real de **más de 2400 km** entre Susa y Sardes, conectaba el imperio y permitía un servicio de correo rápido (los mensajeros del sistema angarium, antecesor de las postas), además de facilitar el movimiento de tropas y mercancías entre Egipto, Mesopotamia, Anatolia y el valle del Indo.",
-    "imagenes": [],
+    "imagenes": [
+      "/images/persia/ctx_persia-modelo-economico-achaemenid-coin-daric-420bc-front-jpg-utm-source-e_wikimedia.jpg"
+    ],
     "contextual": true
   },
   {
@@ -337,5 +341,31 @@
     "imagenes": [
       "/images/persia/persia2_gaugamela-battle-of-gaugamela-jpg_wikimedia.jpg"
     ]
+  },
+  {
+    "id": "persia-ctx-social",
+    "region": "persia",
+    "tipo": "evento",
+    "titulo": "Estructura social persa",
+    "fecha_inicio": -480,
+    "fecha_fin": null,
+    "descripcion_corta": "El imperio más grande visto hasta entonces se sostuvo sobre una idea sencilla: **dejar que cada pueblo siga siendo lo que es**, a cambio de tributo y soldados.\n\n**El Gran Rey**\n\n*Shahanshah*, «rey de reyes». Gobernaba por voluntad de **Ahura Mazda** y se presentaba como garante de la verdad frente a la mentira. Nadie se dirigía a él sin postrarse, gesto que a los griegos les pareció servil y a los persas simple cortesía.\n\n**Los sátrapas**\n\nGobernadores de las **veinte satrapías**, casi siempre nobles persas, con enorme autonomía. Para vigilarlos, Darío creó inspectores itinerantes llamados **«los ojos y los oídos del rey»**.\n\n**Las siete familias**\n\nLa alta nobleza persa, descendiente de los que ayudaron a Darío a tomar el trono, tenía acceso directo al rey y monopolizaba los mandos militares.\n\n**Los demás pueblos**\n\nBabilonios, egipcios, jonios o judíos conservaban su lengua, sus leyes y sus dioses. Los relieves de Persépolis no muestran prisioneros encadenados, sino **delegaciones de 23 pueblos** llevando regalos: así quería el imperio verse a sí mismo.",
+    "imagenes": [
+      "/images/persia/ctx_persia-ctx-social-jpg-utm-source-es-wikipedia-org-utm-campaign-api-u_wikimedia.jpg"
+    ],
+    "contextual": true
+  },
+  {
+    "id": "persia-ctx-creencias",
+    "region": "persia",
+    "tipo": "evento",
+    "titulo": "Creencias y costumbres persas",
+    "fecha_inicio": -455,
+    "fecha_fin": null,
+    "descripcion_corta": "**Zoroastrismo**\n\nUna de las primeras religiones en plantear el mundo como una **lucha moral entre el bien y el mal**: **Ahura Mazda**, la luz y la verdad, contra **Angra Mainyu**, la mentira. Y algo más nuevo todavía: cada persona **elige libremente** de qué lado está, y será juzgada por ello al morir.\n\n**Lo que dejó a otras religiones**\n\nEl juicio individual, el paraíso y el infierno, los ángeles, el fin del mundo y un salvador futuro pasaron de aquí al judaísmo durante el exilio en Babilonia, y de ahí al cristianismo y al islam.\n\n**El fuego y las torres del silencio**\n\nEl fuego es el símbolo de la pureza y arde permanentemente en los templos. Como cadáveres, tierra, agua y fuego no deben mezclarse, los muertos se dejaban en las **torres del silencio** para que las aves los descarnaran.\n\n**Nowruz**\n\nEl año nuevo en el equinoccio de primavera, con limpieza de la casa, fuego y mesa de siete elementos. Se celebra **desde hace más de 2 500 años** y sigue siendo la fiesta mayor de Irán.\n\n**La palabra dada**\n\nSegún Heródoto, a los niños persas se les enseñaba a montar, a disparar con arco y a **no mentir jamás**.",
+    "imagenes": [
+      "/images/persia/ctx_persia-ctx-creencias-bombaytempleofsilenceengraving-jpg-utm-source-es-w_wikimedia.jpg"
+    ],
+    "contextual": true
   }
 ]

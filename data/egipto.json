@@ -115,7 +115,10 @@
       "Esclavos (minoría, sobre todo prisioneros de guerra)"
     ],
     "contextual": true,
-    "descripcion_corta": "La sociedad egipcia se representaba a sí misma como una pirámide, y no por casualidad. En la cúspide, el faraón, que no era solo un rey sino un dios en la tierra, garante del maat: el orden justo del cosmos. Debajo, un puñado de familias nobles, los altos sacerdotes —cuyos templos acumulaban tierras y graneros hasta rivalizar con el palacio— y los escribas, la clave del sistema: saber leer y escribir libraba del trabajo físico y abría el acceso a la administración, y por eso las 'sátiras de los oficios' que se copiaban en las escuelas insisten en lo miserable que es cualquier otra profesión. Más abajo, artesanos y soldados, y en la base la inmensa mayoría campesina, que pagaba impuestos en grano y trabajaba en las obras públicas durante la crecida. La esclavitud existía, pero fue mucho menos central de lo que suele imaginarse: las pirámides las levantaron trabajadores alojados y alimentados por el Estado."
+    "descripcion_corta": "La sociedad egipcia se representaba a sí misma como una pirámide, y no por casualidad. En la cúspide, el faraón, que no era solo un rey sino un dios en la tierra, garante del maat: el orden justo del cosmos. Debajo, un puñado de familias nobles, los altos sacerdotes —cuyos templos acumulaban tierras y graneros hasta rivalizar con el palacio— y los escribas, la clave del sistema: saber leer y escribir libraba del trabajo físico y abría el acceso a la administración, y por eso las 'sátiras de los oficios' que se copiaban en las escuelas insisten en lo miserable que es cualquier otra profesión. Más abajo, artesanos y soldados, y en la base la inmensa mayoría campesina, que pagaba impuestos en grano y trabajaba en las obras públicas durante la crecida. La esclavitud existía, pero fue mucho menos central de lo que suele imaginarse: las pirámides las levantaron trabajadores alojados y alimentados por el Estado.",
+    "imagenes": [
+      "/images/egipto/ctx_egipto-estructura-social-le-scribe-accroupi-mus-e-du-louvre-antiquit-s-gypt_wikimedia.jpg"
+    ]
   },
   {
     "id": "egipto-momificacion",
@@ -454,7 +457,7 @@
     "titulo": "Antiguo Egipto — más imágenes",
     "fecha_inicio": -500,
     "fecha_fin": null,
-    "descripcion_corta": "",
+    "descripcion_corta": "**Galería de imágenes del Antiguo Egipto**\n\nUna selección visual de lo que fue esta civilización: las **pirámides de Giza**, los **papiros** y la escritura jeroglífica, la organización política y social en forma de pirámide, las **momias** y el cuidado del cuerpo para el más allá, y hasta los **gatos**, animales sagrados protegidos por ley cuya muerte accidental podía costar cara.\n\nPara el detalle de cada tema, ver los bloques de **cómo vivía la gente**, **modelo económico**, **costumbres**, **estructura social** y **mitología** de este mismo carril.",
     "imagenes": [
       "/images/egipto/egipto_shutterstock-1694205181-1_node-55-17.png",
       "/images/egipto/egipto_papiro-egipcio-670x285-1_node-55-18.png",
@@ -601,5 +604,44 @@
     "imagenes": [
       "/images/egipto/egipto_e7d4261c8786c84648d7f9efdab1ca15-1_node-57-29.png"
     ]
+  },
+  {
+    "id": "eg-ctx-vida",
+    "region": "egipto",
+    "tipo": "evento",
+    "titulo": "Cómo vivía la gente en Egipto",
+    "fecha_inicio": -2500,
+    "fecha_fin": null,
+    "descripcion_corta": "Egipto es **el Nilo**: una franja verde de unos pocos kilómetros entre dos desiertos. Todo dependía de la crecida anual.\n\n**El calendario del río**\n\nTres estaciones: *akhet*, la inundación, cuando el campo estaba bajo el agua y los campesinos trabajaban para el Estado en las obras públicas; *peret*, la siembra; y *shemu*, la cosecha. Las pirámides no las levantaron esclavos, sino **campesinos contratados durante la crecida**, alojados y alimentados por el Estado.\n\n**La casa**\n\nAdobe de barro del Nilo, techo plano donde se dormía en verano, pocas ventanas y suelo de tierra apisonada. En **Deir el-Medina**, el poblado de los obreros que excavaban las tumbas reales, se conservan calles enteras: casas de cuatro habitaciones, con altar, cocina y sótano.\n\n**La mesa**\n\n**Pan y cerveza**, la base de la dieta y también la forma de pagar los sueldos. Además cebollas, ajo, pescado del río, dátiles e higos.\n\n**La primera huelga conocida**\n\nEn el año 29 de Ramsés III, hacia **1155 a. C.**, los obreros de Deir el-Medina dejaron de trabajar porque llevaban semanas sin recibir su ración de grano. Está documentada en papiro: es la huelga más antigua de la historia.",
+    "imagenes": [
+      "/images/egipto/ctx_eg-ctx-vida-deir-el-medina-luxor-egipto-2022-04-03-dd-18-jpg-u_wikimedia.jpg"
+    ],
+    "contextual": true
+  },
+  {
+    "id": "eg-ctx-economia",
+    "region": "egipto",
+    "tipo": "evento",
+    "titulo": "Modelo económico egipcio",
+    "fecha_inicio": -2450,
+    "fecha_fin": null,
+    "descripcion_corta": "Durante casi tres mil años, Egipto funcionó **sin monedas**: era una economía de graneros, raciones y trueque medido.\n\n**El grano como sueldo**\n\nEl Estado recaudaba en especie y pagaba en especie. Los sueldos se contaban en sacos de grano y jarras de cerveza, y los graneros del templo y del palacio funcionaban como bancos: se podía depositar, retirar y hasta transferir grano de una cuenta a otra.\n\n**El deben**\n\nPara comparar precios se usaba una unidad de peso, el **deben** (unos 91 gramos de cobre). Una vaca podía valer 120 deben y una jarra de aceite 5: nadie entregaba metal, pero todos sabían cuánto valía cada cosa.\n\n**El catastro y la crecida**\n\nLos **nilómetros** medían la altura de la inundación y con ese dato se fijaba el impuesto del año: una crecida alta prometía buena cosecha y más impuestos; una baja, hambre. Después de cada inundación había que volver a medir los campos, y de ahí nació la geometría.\n\n**Las expediciones**\n\nOro y granito de Nubia, turquesa y cobre del Sinaí, cedro de Biblos para los barcos, e incienso, ébano y monos del misterioso **país de Punt**, adonde Hatshepsut envió una flota que dejó grabado todo el viaje en su templo.",
+    "imagenes": [
+      "/images/egipto/ctx_eg-ctx-economia-egypt-aswan-elephantineisland-nilometer-01-jpg-utm_wikimedia.jpg"
+    ],
+    "contextual": true
+  },
+  {
+    "id": "eg-ctx-costumbres",
+    "region": "egipto",
+    "tipo": "evento",
+    "titulo": "Costumbres y vida diaria en Egipto",
+    "fecha_inicio": -1460,
+    "fecha_fin": null,
+    "descripcion_corta": "**El cuerpo**\n\nLa limpieza era una obligación religiosa: baños diarios, depilación y **cabeza rapada** por higiene y contra los piojos, cubierta con peluca en las ocasiones formales. Hombres y mujeres se pintaban los ojos con **kohl**, que además reducía el reflejo del sol y protegía de infecciones.\n\n**La ropa**\n\nLino blanco, ligero y fresco: faldellín para ellos, vestido ajustado para ellas. Las sandalias eran un lujo que a menudo se llevaba en la mano y solo se calzaba al llegar.\n\n**Las mujeres**\n\nCon más derechos que en Grecia o Roma: podían **poseer bienes, comerciar, ir a juicio, divorciarse y heredar** en igualdad. Los contratos matrimoniales fijaban qué se llevaba cada uno si el matrimonio acababa.\n\n**Los juegos**\n\nEl **senet**, un juego de tablero de treinta casillas que representaba el viaje al más allá; se enterraba con los muertos para que lo jugaran en el camino.\n\n**Las fiestas**\n\nLa **fiesta de Opet**, en Tebas, sacaba a los dioses en procesión durante semanas con música, cerveza y comida repartida. Y la del Valle, en la que las familias comían junto a las tumbas de sus muertos.",
+    "imagenes": [
+      "/images/egipto/ctx_eg-ctx-costumbres-gaming-board-inscribed-for-amenhotep-iii-with-sepa_wikimedia.jpg"
+    ],
+    "contextual": true
   }
 ]

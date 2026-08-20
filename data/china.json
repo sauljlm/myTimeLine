@@ -576,5 +576,44 @@
     "imagenes": [
       "/images/china/filo_zhangheng-20251004-tomb-of-zhang-heng-03-jpg_wikimedia.jpg"
     ]
+  },
+  {
+    "id": "china-ctx-creencias",
+    "region": "china",
+    "tipo": "evento",
+    "titulo": "Creencias y religión en China",
+    "fecha_inicio": -620,
+    "fecha_fin": null,
+    "descripcion_corta": "En China nunca se eligió una sola religión: se practicaban varias a la vez sin ver contradicción. A eso se le llama las **tres enseñanzas**.\n\n**El Cielo y los antepasados**\n\nLo más antiguo y lo más duradero. **Tian**, el Cielo, es un orden impersonal que concede y retira el **Mandato del Cielo** a los gobernantes. Y los antepasados siguen presentes: cada familia tiene su altar con tablillas, y se les ofrece comida, incienso y noticias, porque un muerto desatendido se vuelve un fantasma hambriento.\n\n**Confucianismo**\n\nMás una ética que una religión: rectitud (*yi*), humanidad (*ren*), respeto a los mayores (*xiao*) y ritual (*li*). Ordena la sociedad desde la familia hacia arriba.\n\n**Taoísmo**\n\nSu contrario complementario: dejar de forzar las cosas, seguir el curso natural (*wu wei*), buscar la longevidad y la armonía entre **yin y yang**.\n\n**Budismo**\n\nLlegó por la Ruta de la Seda **en el siglo I** y arraigó adaptándose: el nirvana se explicó con palabras taoístas y Buda se sentó junto a los antepasados en el mismo altar.",
+    "imagenes": [
+      "/images/china/ctx_china-ctx-creencias-taoismsymbol-png-utm-source-es-wikipedia-org-utm-c_wikimedia.png"
+    ],
+    "contextual": true
+  },
+  {
+    "id": "china-ctx-social",
+    "region": "china",
+    "tipo": "evento",
+    "titulo": "Estructura social china",
+    "fecha_inicio": -560,
+    "fecha_fin": null,
+    "descripcion_corta": "La sociedad se ordenaba en **cuatro oficios**, y el orden no era por dinero sino por utilidad moral.\n\n**Shi, nong, gong, shang**\n\nPrimero los **shi**, letrados y funcionarios; después los **nong**, campesinos, respetados porque alimentaban al mundo; luego los **gong**, artesanos; y en último lugar los **shang**, comerciantes, despreciados oficialmente por vivir del trabajo ajeno aunque acabaran siendo los más ricos.\n\n**El examen imperial**\n\nA partir de los Han, y de forma plena con los Tang, se accedía al cargo **aprobando un examen** sobre los clásicos confucianos, no por nacimiento. El hijo de un campesino podía llegar a ministro si su aldea le pagaba los estudios: es el primer sistema de mérito administrativo del mundo, mil quinientos años antes que en Europa.\n\n**La familia**\n\nVarias generaciones bajo un mismo techo, con el varón de más edad al mando. La **piedad filial** obligaba a obedecer, cuidar y honrar a los padres incluso después de muertos, y el luto por un padre podía durar tres años.",
+    "imagenes": [
+      "/images/china/ctx_china-ctx-social-ming-beamtenpr-fungen1-jpg-utm-source-en-wikipedia_wikimedia.jpg"
+    ],
+    "contextual": true
+  },
+  {
+    "id": "china-ctx-costumbres",
+    "region": "china",
+    "tipo": "evento",
+    "titulo": "Costumbres y vida diaria en China",
+    "fecha_inicio": -430,
+    "fecha_fin": null,
+    "descripcion_corta": "**La mesa**\n\nMijo en el norte y arroz en el sur, cocidos al vapor. Los **palillos** se generalizaron porque la comida se troceaba antes de cocinarla: ahorraba leña, escasa y cara. Confucio añadió un argumento moral: el cuchillo es un arma y no debe aparecer en la mesa.\n\n**El té**\n\nEmpezó como medicina y acabó siendo la bebida de todos; hervir el agua evitó, sin que nadie lo supiera, incontables enfermedades.\n\n**La ropa**\n\nTúnica cruzada siempre hacia la derecha —cruzarla a la izquierda era de bárbaros o de muertos— y el color como señal de rango: **el amarillo quedó reservado al emperador**.\n\n**El pelo y el cuerpo**\n\nCortarse el pelo era una ofensa: el cuerpo es un regalo de los padres y no se estropea. Los hombres lo llevaban recogido en moño bajo un gorro.\n\n**Las fiestas**\n\nEl **Año Nuevo**, con la casa limpia, deudas saldadas y petardos para espantar a la bestia Nian; el Festival del Bote del Dragón; y el Qingming, el día de barrer las tumbas de los antepasados.",
+    "imagenes": [
+      "/images/china/ctx_china-ctx-costumbres-bronze-chopsticks-goryeo-dynasty-3-jpg-utm-source-_wikimedia.jpg"
+    ],
+    "contextual": true
   }
 ]

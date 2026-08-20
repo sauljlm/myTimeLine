@@ -182,7 +182,9 @@
     "fecha_inicio": -50000,
     "fecha_fin": null,
     "descripcion_corta": "Durante la mayor parte de la Prehistoria, los humanos vivieron en pequeñas bandas nómadas de entre 20 y **50 personas**, generalmente emparentadas entre sí, que se desplazaban según la disponibilidad de caza y recolección. La organización social era igualitaria: no existía una jerarquía formal ni acumulación de riqueza, y las decisiones solían tomarse por consenso o bajo el liderazgo informal de los miembros más experimentados. Había división del trabajo por sexo (los hombres solían dedicarse más a la caza mayor y las mujeres a la recolección y el cuidado de los niños, aunque con bastante variación entre grupos), pero no existía todavía la especialización de oficios que traería después la revolución agrícola. Con el Neolítico y la vida sedentaria, esta organización igualitaria dio paso a sociedades jerárquicas con jefes, sacerdotes y diferencias de estatus heredables.",
-    "imagenes": [],
+    "imagenes": [
+      "/images/prehistoria/ctx_prehistoria-vida-cotidiana-overview-of-skara-brae-showing-building-walls-and-_wikimedia.jpg"
+    ],
     "contextual": true
   },
   {
@@ -260,7 +262,9 @@
     "fecha_inicio": -10000,
     "fecha_fin": null,
     "descripcion_corta": "La economía paleolítica era de subsistencia inmediata: se cazaba, pescaba y recolectaba solo lo necesario para sobrevivir, sin acumular excedentes ni propiedad privada de la tierra; los bienes se compartían dentro del grupo por reciprocidad, más que por intercambio comercial. La revolución neolítica (a partir de aproximadamente el **10 000 a. C.**) cambió esto radicalmente: la domesticación de plantas y animales permitió generar, por primera vez, excedentes de alimento almacenables, lo que hizo posible el crecimiento de la población y la aparición de especialistas que ya no cultivaban la tierra (artesanos, sacerdotes, gobernantes). Ese excedente dio origen a la propiedad privada, la diferenciación social y, finalmente, a los primeros sistemas de administración y contabilidad que llevarían a la invención de la escritura hacia el 3200 a. C.",
-    "imagenes": [],
+    "imagenes": [
+      "/images/prehistoria/ctx_prehistoria-modelo-economico-asikli-hoyuk-sarah-c-murray-6176-jpg-utm-source-en_wikimedia.jpg"
+    ],
     "contextual": true
   },
   {
@@ -392,5 +396,31 @@
     "fecha_fin": null,
     "descripcion_corta": "**Edad de Hierro**\n\nDurante esta etapa aparecieron los primeros Estados, se generalizó la utilización del hierro para la fabricación de armas y herramientas, y se dio la transición a la época histórica, con la aparición de la escritura. A medida que se incrementó la densidad de población en los diversos territorios, aumentaron los enfrentamientos bélicos, que le dieron al hierro un lugar preferencial en el desarrollo de las técnicas metalúrgicas.",
     "imagenes": []
+  },
+  {
+    "id": "pre-ctx-creencias",
+    "region": "prehistoria",
+    "tipo": "evento",
+    "titulo": "Creencias y ritos en la Prehistoria",
+    "fecha_inicio": -30000,
+    "fecha_fin": null,
+    "descripcion_corta": "No hay textos, pero los gestos se conservan: **enterrar, pintar y tallar** son las primeras huellas de un pensamiento simbólico.\n\n**Enterrar a los muertos**\n\nYa los neandertales depositaban a sus muertos en fosas, y desde hace unos 30 000 años aparecen tumbas con **ajuar**: en Sunguir (Rusia), dos niños fueron enterrados con **más de 10 000 cuentas de marfil** que representan miles de horas de trabajo. Nadie invierte eso en un cadáver si no cree que sigue habiendo algo después.\n\n**El ocre rojo**\n\nEl color de la sangre y de la vida, esparcido sobre los cuerpos en enterramientos de todos los continentes.\n\n**El arte de las cuevas**\n\nBisontes y caballos pintados en galerías profundas, a las que no se iba a vivir. Muchos investigadores los relacionan con el **chamanismo**: figuras mitad hombre mitad animal, manos en negativo y sonidos que resuenan justo donde están las pinturas.\n\n**Las venus**\n\nPequeñas figuras femeninas de caderas anchas, halladas desde Francia hasta Siberia con un estilo sorprendentemente parecido: la primera imagen compartida por medio continente.\n\n**Los primeros templos**\n\nEn **Göbekli Tepe**, hace 11 500 años, cazadores todavía sin agricultura levantaron círculos de pilares de piedra de 5 metros: el santuario es anterior a la aldea.",
+    "imagenes": [
+      "/images/prehistoria/ctx_pre-ctx-creencias-venus-of-willendorf-frontview-retouched-2-jpg-utm-_wikimedia.jpg"
+    ],
+    "contextual": true
+  },
+  {
+    "id": "pre-ctx-costumbres",
+    "region": "prehistoria",
+    "tipo": "evento",
+    "titulo": "Costumbres y vida en grupo",
+    "fecha_inicio": -12000,
+    "fecha_fin": null,
+    "descripcion_corta": "**Compartir era la regla**\n\nEn una banda de cazadores no se acumula: la carne se reparte porque mañana el que hoy tuvo suerte no la tendrá. Ese seguro mutuo, más que la fuerza, es lo que mantuvo vivos a los humanos durante cientos de miles de años.\n\n**Cuidar a los que no producen**\n\nEsqueletos con fracturas curadas, con artrosis avanzada o **sin dientes**, que sobrevivieron años: alguien los alimentó y los transportó. El cuidado de los débiles es una de las conductas humanas más antiguas que pueden demostrarse.\n\n**Adornarse**\n\nConchas perforadas de hace **más de 100 000 años**, y cuentas fabricadas a cientos de kilómetros de donde aparecen. El adorno personal indica identidad, pertenencia a un grupo y, además, prueba que existían redes de intercambio a larga distancia.\n\n**Reunirse**\n\nLos grandes yacimientos con miles de herramientas sugieren **encuentros estacionales** entre bandas para intercambiar, buscar pareja y contar historias alrededor del fuego. Estudios sobre pueblos cazadores actuales muestran que las conversaciones nocturnas junto al fuego son las que transmiten los mitos y las reglas.\n\n**El cambio del Neolítico**\n\nCon la aldea llegaron la propiedad, el almacén, la herencia y, por primera vez, **las diferencias de riqueza visibles en las tumbas**.",
+    "imagenes": [
+      "/images/prehistoria/ctx_pre-ctx-costumbres-loewenmensch1-jpg-utm-source-en-wikipedia-org-utm-_wikimedia.jpg"
+    ],
+    "contextual": true
   }
 ]

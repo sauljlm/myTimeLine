@@ -158,5 +158,44 @@
     "imagenes": [
       "/images/esparta/esparta_pelopidas-leading-the-thebans-at-the-battle-of-leuctra_wikimedia.jpg"
     ]
+  },
+  {
+    "id": "sp-ctx-vida",
+    "region": "esparta",
+    "tipo": "evento",
+    "titulo": "Cómo vivía la gente en Esparta",
+    "fecha_inicio": -670,
+    "fecha_fin": null,
+    "descripcion_corta": "Esparta fue un experimento sin igual: **un Estado entero organizado como un cuartel**.\n\n**La agogé**\n\nA los **7 años** el niño dejaba a su familia y entraba en la educación estatal: dormía en barracón sobre juncos que él mismo cortaba, comía poco a propósito y era animado a robar comida —el castigo no era por robar, sino por dejarse pillar—. Iba descalzo y con una sola túnica al año para endurecerse.\n\n**Los banquetes comunes**\n\nHasta los 30 años el espartiata vivía en el cuartel, y toda su vida cenaba con su **sisitía**, un grupo de quince hombres al que debía aportar comida cada mes. Quien no podía aportarla perdía la ciudadanía.\n\n**Las mujeres espartanas**\n\nLas únicas de Grecia que hacían deporte al aire libre, heredaban y administraban tierras —**llegaron a poseer dos quintas partes del territorio**— y hablaban en público. Se casaban hacia los 18, no a los 15, y educaban a sus hijos para la guerra.\n\n**La kripteia**\n\nLos jóvenes destacados pasaban una temporada escondidos en el campo con licencia para matar ilotas: terror organizado sobre la población sometida.",
+    "imagenes": [
+      "/images/esparta/ctx_sp-ctx-vida-couple-staatliche-antikensammlungen-384-jpg-utm-so_wikimedia.jpg"
+    ],
+    "contextual": true
+  },
+  {
+    "id": "sp-ctx-economia",
+    "region": "esparta",
+    "tipo": "evento",
+    "titulo": "Modelo económico espartano",
+    "fecha_inicio": -620,
+    "fecha_fin": null,
+    "descripcion_corta": "Esparta resolvió el problema de tener que trabajar de la manera más brutal posible: **haciendo que trabajaran otros**.\n\n**Los ilotas**\n\nLa población de Mesenia, conquistada en el siglo VIII a. C., quedó reducida a siervos del Estado. Trabajaban la tierra y entregaban parte de la cosecha, y eran **varias veces más numerosos** que sus amos. Cada año, los éforos les declaraban formalmente la guerra para que matarlos no fuese un crimen religioso.\n\n**El kleros**\n\nCada espartiata recibía un lote de tierra trabajado por ilotas, que le permitía dedicarse solo a entrenar y combatir. **Trabajar por dinero le estaba prohibido**.\n\n**Los periecos**\n\n«Los que viven alrededor»: hombres libres pero sin ciudadanía, que llevaban el comercio y la artesanía, incluida la fabricación de armas.\n\n**La moneda de hierro**\n\nEsparta rechazó el oro y la plata y usaba barras de hierro deliberadamente pesadas e inútiles fuera de su territorio, para **impedir el lujo, el ahorro y la corrupción**.\n\n**El fallo del sistema**\n\nLa tierra se fue concentrando en pocas manos y el número de ciudadanos de pleno derecho se desplomó: de unos 8 000 a **menos de mil** en dos siglos. Esparta murió por falta de espartanos.",
+    "imagenes": [
+      "/images/esparta/ctx_sp-ctx-economia-sparta-territory-jpg-utm-source-es-wikipedia-org-u_wikimedia.jpg"
+    ],
+    "contextual": true
+  },
+  {
+    "id": "sp-ctx-creencias",
+    "region": "esparta",
+    "tipo": "evento",
+    "titulo": "Creencias y costumbres espartanas",
+    "fecha_inicio": -560,
+    "fecha_fin": null,
+    "descripcion_corta": "Los espartanos eran, según los propios griegos, **los más religiosos de todos**, y eso tenía consecuencias militares.\n\n**Primero los dioses, luego la guerra**\n\nNo salían de campaña sin sacrificios favorables, y no interrumpían una fiesta por una batalla: por celebrar las **Carneas** llegaron tarde a Maratón, y por las Jacintias enviaron a Leónidas a las Termópilas con solo 300 hombres.\n\n**Ártemis Ortia**\n\nEn su santuario, los muchachos competían por robar quesos del altar mientras otros los azotaban; el que aguantaba más era honrado. Con el tiempo se convirtió en una prueba pública de resistencia al dolor.\n\n**Los reyes**\n\nEsparta tenía **dos reyes a la vez**, de dos familias distintas, que eran también sacerdotes de Zeus. Su muerte se lloraba con luto obligatorio en toda Laconia.\n\n**Enterrar dentro de la ciudad**\n\nAl contrario que el resto de los griegos, enterraban a sus muertos entre las casas, para que los niños perdieran el miedo a la muerte. Solo dos clases de personas tenían derecho a una lápida con su nombre: **los caídos en combate y las mujeres muertas en el parto**.\n\n**Hablar poco**\n\nDe Laconia viene *lacónico*: se admiraba la respuesta breve y cortante. Cuando Filipo II amenazó con arrasar la ciudad «si entro en Laconia», los éforos contestaron una sola palabra: **«Si»**.",
+    "imagenes": [
+      "/images/esparta/ctx_sp-ctx-creencias-the-remains-of-the-temple-of-artemis-orthia-in-spa_wikimedia.jpg"
+    ],
+    "contextual": true
   }
 ]

@@ -526,5 +526,96 @@
     "imagenes": [
       "/images/suramerica/sa3_abolicion_br-isabel-2c-princesa-do-brasil-2c-1846-1921-28c_wikimedia.jpg"
     ]
+  },
+  {
+    "id": "sa-ctx-vida-amazonia",
+    "region": "suramerica",
+    "tipo": "evento",
+    "titulo": "Cómo se vivía en la Amazonía",
+    "fecha_inicio": -450,
+    "fecha_fin": null,
+    "descripcion_corta": "Durante mucho tiempo se creyó que la selva estaba casi vacía. Hoy sabemos que hubo **millones de personas** y sociedades complejas.\n\n**La maloca**\n\nUna gran casa comunal de madera y palma donde vivían varias familias del mismo clan, con hamacas colgadas por grupos y un espacio central para las ceremonias.\n\n**La yuca amarga**\n\nEl alimento básico es venenoso en crudo: hay que rallarlo, exprimirlo en un **tipití** —una prensa tejida en forma de tubo— para sacarle el ácido cianhídrico y luego tostarlo como casabe. Es una tecnología alimentaria de miles de años.\n\n**La terra preta**\n\nSuelos negros artificiales, creados durante siglos con carbón, restos de cerámica y desechos orgánicos, que convirtieron la tierra pobre de la selva en **tierra fértil que sigue siendo productiva hoy**.\n\n**Una selva cultivada**\n\nLos claros, los caminos y las concentraciones de palmeras, castaños y cacao no son casualidad: buena parte de la Amazonía es un **huerto viejo de miles de años**.",
+    "imagenes": [
+      "/images/suramerica/ctx_sa-ctx-vida-amazonia-terra-preta-hc1-jpg-utm-source-en-wikipedia-org-ut_wikimedia.jpg"
+    ],
+    "contextual": true
+  },
+  {
+    "id": "sa-ctx-vida-andina",
+    "region": "suramerica",
+    "tipo": "evento",
+    "titulo": "Cómo vivía la gente en los Andes",
+    "fecha_inicio": 1445,
+    "fecha_fin": null,
+    "descripcion_corta": "Vivir a **4 000 metros** obliga a inventar soluciones que no existen en ningún otro sitio.\n\n**El ayllu**\n\nLa comunidad de familias emparentadas que compartía tierras, agua y trabajo. No era el individuo quien poseía, sino el ayllu, que repartía las parcelas cada temporada.\n\n**Los pisos ecológicos**\n\nUna misma comunidad mantenía parcelas a distintas alturas: maíz abajo, papa en medio, pastos de llama arriba, y colonos en la costa o la selva para el ají y la coca. Así ninguna helada podía acabar con todo: es el **archipiélago vertical**.\n\n**Las terrazas y el chuño**\n\nAndenes de piedra que ganaban tierra a la montaña y evitaban la erosión. Y una manera genial de conservar: la papa se congela de noche, se pisa de día y se seca al sol hasta obtener **chuño, que dura años**.\n\n**La casa**\n\nUna habitación de adobe o piedra con techo de paja, sin ventanas, compartida con los cuyes que criaban bajo el fogón. La ropa de lana de alpaca, tejida en telar de cintura, era la posesión más valiosa de una familia.",
+    "imagenes": [
+      "/images/suramerica/ctx_sa-ctx-vida-andina-pisac-cuzco-per-2015-07-31-dd-99-jpg-utm-source-es_wikimedia.jpg"
+    ],
+    "contextual": true
+  },
+  {
+    "id": "sa-ctx-creencias-andinas",
+    "region": "suramerica",
+    "tipo": "evento",
+    "titulo": "Creencias andinas",
+    "fecha_inicio": 1455,
+    "fecha_fin": null,
+    "descripcion_corta": "En los Andes lo sagrado no está en un templo lejano: **está en el paisaje**.\n\n**Las huacas**\n\nCualquier cosa con poder —un cerro, un manantial, una piedra rara, una momia— era una *huaca* y recibía ofrendas. Desde el Cuzco salían **41 líneas imaginarias, los ceques**, que enlazaban más de 300 huacas y organizaban el calendario de rituales.\n\n**Inti y la Pachamama**\n\n**Inti**, el Sol, padre del linaje inca; la **Pachamama**, la madre tierra, a la que aún hoy se le «paga» derramando chicha antes de beber; **Viracocha**, el creador; y los **apus**, espíritus de las montañas.\n\n**Los antepasados presentes**\n\nLas momias de los gobernantes no se enterraban: seguían en sus palacios, con criados, tierras propias y voz en las decisiones. Se las sacaba en procesión, se les servía comida y se les pedía consejo.\n\n**La capacocha**\n\nEn ocasiones excepcionales se ofrendaban niños en las cumbres, tras un largo viaje ritual desde el Cuzco. El frío los ha conservado intactos **más de 500 años**, como la doncella de Llullaillaco.",
+    "imagenes": [
+      "/images/suramerica/ctx_sa-ctx-creencias-andinas-borgarello-monumento-a-la-pachamama-jpg-utm-source_wikimedia.jpg"
+    ],
+    "contextual": true
+  },
+  {
+    "id": "sa-ctx-economia-inca",
+    "region": "suramerica",
+    "tipo": "evento",
+    "titulo": "Modelo económico inca",
+    "fecha_inicio": 1465,
+    "fecha_fin": null,
+    "descripcion_corta": "El Tahuantinsuyo es el gran caso de un imperio que funcionó **sin dinero, sin mercados y sin comerciantes**.\n\n**Reciprocidad y redistribución**\n\nLa gente no pagaba impuestos en bienes, sino en **trabajo**: la *mita*, turnos obligatorios para construir caminos, cultivar las tierras del Estado o servir en el ejército. A cambio, el Estado alimentaba, vestía y daba fiesta con chicha a quien trabajaba, y socorría a las comunidades en años malos.\n\n**Los tambos y las colcas**\n\nA lo largo del Qhapaq Ñan, **miles de almacenes** guardaban maíz, chuño, lana y armas. Los españoles los encontraron llenos y quedaron asombrados: había reservas para años.\n\n**El quipu**\n\nCuerdas con nudos donde se registraban censos, cosechas y almacenes en un sistema decimal. Los *quipucamayocs* llevaban la contabilidad de todo el imperio **sin escritura alfabética**.\n\n**Sin propiedad privada**\n\nLa tierra se dividía en tres partes: la del Sol para el culto, la del Inca para el Estado y la del ayllu para la comunidad.",
+    "imagenes": [
+      "/images/suramerica/ctx_sa-ctx-economia-inca-quipu-mkl-bd-13-1890-128905524-jpg-utm-source-es-w_wikimedia.jpg"
+    ],
+    "contextual": true
+  },
+  {
+    "id": "sa-ctx-social-inca",
+    "region": "suramerica",
+    "tipo": "evento",
+    "titulo": "Estructura social inca",
+    "fecha_inicio": 1475,
+    "fecha_fin": null,
+    "descripcion_corta": "Un Estado organizado con precisión **decimal**, de arriba abajo.\n\n**El Sapa Inca**\n\n«El único Inca», hijo del Sol. Nadie podía mirarlo a la cara; su ropa se quemaba tras un solo uso y viajaba en andas. Al morir, su momia conservaba su palacio y sus tierras, así que **cada nuevo Inca tenía que conquistar para tener con qué mantenerse**.\n\n**Nobles y curacas**\n\nLas *panacas* eran los linajes reales. Los **curacas**, jefes locales de los pueblos conquistados, conservaban su autoridad si eran leales, y sus hijos se educaban en el Cuzco: rehenes y funcionarios a la vez.\n\n**La gente común**\n\nEl *hatun runa* —el hombre común— estaba censado en grupos de 10, 100, 1 000 y 10 000 familias, cada uno con su jefe. Los **yanaconas** servían de por vida a la nobleza y las **acllas**, mujeres escogidas, tejían la ropa fina y preparaban la chicha del culto.\n\n**Los mitimaes**\n\nA los pueblos rebeldes se les trasladaba en masa a otra región del imperio, y en su lugar se instalaban comunidades leales: así se deshacían las rebeliones **sin necesidad de guarniciones**.",
+    "imagenes": [
+      "/images/suramerica/ctx_sa-ctx-social-inca-brooklyn-museum-huascar-thirteenth-inca-1-of-14-po_wikimedia.jpg"
+    ],
+    "contextual": true
+  },
+  {
+    "id": "sa-ctx-vida-colonia",
+    "region": "suramerica",
+    "tipo": "evento",
+    "titulo": "Cómo se vivía en la colonia suramericana",
+    "fecha_inicio": 1620,
+    "fecha_fin": null,
+    "descripcion_corta": "Tres siglos en los que convivieron, sin mezclarse del todo, **la república de españoles y la república de indios**.\n\n**La mita minera**\n\nPotosí devoraba gente: cada año, los pueblos del altiplano debían enviar **un séptimo de sus hombres** a la mina. Bajaban por escalas de cuero durante semanas sin salir, respirando polvo y mercurio. Muchas comunidades preferían huir o pagar para librarse.\n\n**Las castas**\n\nCriollos —españoles nacidos en América, ricos pero excluidos de los altos cargos—, mestizos, indios tributarios, negros esclavizados, mulatos y zambos. La ropa que podías vestir y hasta la calle por la que podías caminar dependían de tu clasificación.\n\n**Las misiones**\n\nEn el Paraguay, las **reducciones jesuíticas** guaraníes funcionaron como pueblos autónomos con imprenta, orquestas y talleres, hasta la expulsión de los jesuitas en 1767.\n\n**Resistencia**\n\nLos **quilombos** de esclavos fugados en Brasil —Palmares llegó a tener miles de habitantes— y los mapuches al sur del Biobío mantuvieron territorios libres durante siglos.",
+    "imagenes": [
+      "/images/suramerica/ctx_sa-ctx-vida-colonia-cerro-de-potos-grabado-en-madera-del-libro-cr-nica_wikimedia.jpg"
+    ],
+    "contextual": true
+  },
+  {
+    "id": "sa-ctx-economia-colonial",
+    "region": "suramerica",
+    "tipo": "evento",
+    "titulo": "Modelo económico colonial",
+    "fecha_inicio": 1650,
+    "fecha_fin": null,
+    "descripcion_corta": "Suramérica se organizó para **sacar riqueza y enviarla a Europa**, con dos motores: la plata y el azúcar.\n\n**La plata de Potosí**\n\nEl Cerro Rico produjo cerca de **40 000 toneladas de plata**. La expresión «vale un potosí» viene de ahí. Esa plata financió las guerras de los Habsburgo, alimentó la inflación europea y terminó en China a cambio de seda y porcelana.\n\n**El azúcar de Brasil**\n\nLos *engenhos* del nordeste hicieron de Brasil el primer productor mundial. Fue el destino de **casi la mitad de todos los africanos esclavizados** llevados a América: unos 5 millones, diez veces más que a Norteamérica.\n\n**El monopolio y la flota**\n\nSolo Sevilla, y luego Cádiz, podían comerciar con las colonias, y solo mediante convoyes anuales. El resultado fue precio alto, escasez y **contrabando por el Río de la Plata**.\n\n**Lo que quedó**\n\nUna economía de exportación de materias primas, tierra concentrada en pocas manos y ciudades vueltas hacia el puerto, no hacia el interior.",
+    "imagenes": [
+      "/images/suramerica/ctx_sa-ctx-economia-colonial-cerro-ricco-jpg-utm-source-es-wikipedia-org-utm-ca_wikimedia.jpg"
+    ],
+    "contextual": true
   }
 ]

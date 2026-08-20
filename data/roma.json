@@ -464,7 +464,10 @@
       "Esclavos"
     ],
     "contextual": true,
-    "descripcion_corta": "Roma fue durante toda su historia una sociedad obsesionada con el rango. La división originaria entre patricios —las familias fundadoras— y plebeyos se fue diluyendo tras siglos de conflicto, pero la sustituyó otra basada en la riqueza: el orden senatorial en la cima, el ecuestre de los grandes negociantes debajo, y el resto de ciudadanos libres. Fuera de la ciudadanía quedaban los libertos —esclavos manumitidos, que conservaban obligaciones hacia su antiguo dueño pero cuyos hijos nacían libres— y los esclavos, que podían ser desde trabajadores agotados en las minas hasta médicos, contables o preceptores griegos. Todo lo articulaba la clientela: cada mañana, los clientes acudían a saludar a su patrono, que les daba dinero, comida o apoyo legal a cambio de votos y presencia. Y por encima de todo, la patria potestas: el cabeza de familia tenía autoridad legal sobre hijos y nietos mientras viviera."
+    "descripcion_corta": "Roma fue durante toda su historia una sociedad obsesionada con el rango. La división originaria entre patricios —las familias fundadoras— y plebeyos se fue diluyendo tras siglos de conflicto, pero la sustituyó otra basada en la riqueza: el orden senatorial en la cima, el ecuestre de los grandes negociantes debajo, y el resto de ciudadanos libres. Fuera de la ciudadanía quedaban los libertos —esclavos manumitidos, que conservaban obligaciones hacia su antiguo dueño pero cuyos hijos nacían libres— y los esclavos, que podían ser desde trabajadores agotados en las minas hasta médicos, contables o preceptores griegos. Todo lo articulaba la clientela: cada mañana, los clientes acudían a saludar a su patrono, que les daba dinero, comida o apoyo legal a cambio de votos y presencia. Y por encima de todo, la patria potestas: el cabeza de familia tenía autoridad legal sobre hijos y nietos mientras viviera.",
+    "imagenes": [
+      "/images/roma/ctx_roma-estructura-social-cicero-denounces-catiline-in-the-roman-senate-by-c_wikimedia.png"
+    ]
   },
   {
     "id": "roma-trajano",
@@ -671,5 +674,31 @@
       "/images/roma/roma_screen-shot-2024-09-25-at-22-56-53-1_node-141-11.png",
       "/images/roma/roma_f-cole-thomas-the-course-of-empire-destruction-1836-apert-1_node-141-17.png"
     ]
+  },
+  {
+    "id": "roma-ctx-creencias",
+    "region": "roma",
+    "tipo": "evento",
+    "titulo": "Creencias y religión romana",
+    "fecha_inicio": 110,
+    "fecha_fin": null,
+    "descripcion_corta": "La religión romana era un **contrato**: se cumplía el rito con exactitud y el dios cumplía su parte. No importaba lo que uno sintiera, sino que la fórmula fuera correcta.\n\n**Los dioses de casa**\n\nCada hogar tenía su altar a los **lares y penates** y al *genius* del padre de familia. Antes que los templos, la religión era doméstica y cotidiana.\n\n**Los sacerdotes eran políticos**\n\nEl **pontífice máximo** era un cargo público, no una vocación; Julio César lo fue. Los **augures** interpretaban el vuelo de las aves y el hígado de las víctimas, y podían suspender una elección o una batalla alegando malos presagios.\n\n**Dioses de todas partes**\n\nRoma incorporaba a los dioses de los pueblos que conquistaba. Se difundieron los cultos de **Isis**, de Cibeles y sobre todo de **Mitra**, popular entre los soldados, con sus grados de iniciación y su banquete ritual.\n\n**El culto al emperador**\n\nJurar por el genio del emperador era una prueba de lealtad política. Por negarse a hacerlo —no por creer en otro dios— fueron perseguidos los cristianos.\n\n**El giro**\n\n**En 313**, el Edicto de Milán legalizó el cristianismo; en 380 se convirtió en religión oficial y, poco después, los cultos antiguos quedaron prohibidos.",
+    "imagenes": [
+      "/images/roma/ctx_roma-ctx-creencias-mitra-sacrificando-un-toro-17086039068-jpg-utm-sou_wikimedia.jpg"
+    ],
+    "contextual": true
+  },
+  {
+    "id": "roma-ctx-costumbres",
+    "region": "roma",
+    "tipo": "evento",
+    "titulo": "Costumbres y vida diaria en Roma",
+    "fecha_inicio": 160,
+    "fecha_fin": null,
+    "descripcion_corta": "**El día**\n\nEmpezaba al amanecer con la **salutatio**: los clientes acudían a saludar a su patrón, que les daba comida o dinero a cambio de apoyo político. Se trabajaba hasta el mediodía y la tarde era para las **termas**, que eran gimnasio, biblioteca, peluquería y club social por el precio de una moneda pequeña.\n\n**La mesa**\n\nGachas de trigo, pan, aceitunas, queso, verduras y mucho **garum**, una salsa de pescado fermentado que se echaba a casi todo. En las insulae no había cocina y se comía en tabernas de comida caliente. Los ricos cenaban recostados en el **triclinio** durante horas.\n\n**La ropa**\n\nLa **toga**, incómoda y cara, era el uniforme del ciudadano: llevarla estaba prohibido a los extranjeros. La túnica con franja ancha de púrpura indicaba rango senatorial.\n\n**El nombre**\n\nTres partes: nombre propio, familia y rama —Cayo Julio César—. A las mujeres se les daba el nombre de la familia en femenino, y si había varias hermanas se distinguían por número.\n\n**El calendario**\n\nHasta **135 días festivos al año** con juegos: carreras de carros en el Circo Máximo, con aficiones enfrentadas por colores, y espectáculos de gladiadores, que no siempre acababan en muerte porque un gladiador entrenado costaba caro.",
+    "imagenes": [
+      "/images/roma/ctx_roma-ctx-costumbres-roman-baths-in-bath-spa-england-july-2006-jpg-utm-_wikimedia.jpg"
+    ],
+    "contextual": true
   }
 ]
