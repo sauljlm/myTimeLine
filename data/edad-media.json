@@ -90,7 +90,7 @@
     "titulo": "Invasiones Viquingas",
     "fecha_inicio": 793,
     "fecha_fin": null,
-    "descripcion_corta": "Viquingos 793",
+    "descripcion_corta": "El 8 de junio de 793, unos barcos desconocidos atacaron el monasterio de Lindisfarne, en la costa de Northumbria, saquearon su iglesia y mataron o esclavizaron a los monjes. El hecho conmocionó a la Europa cristiana —Alcuino de York escribió a su rey que nunca se había visto semejante terror— y suele tomarse como el inicio de la era vikinga. Durante casi tres siglos, grupos procedentes de Noruega, Dinamarca y Suecia recorrieron media Europa: saquearon monasterios y ciudades sin murallas, remontaron el Sena hasta París y el Guadalquivir hasta Sevilla, y acabaron pasando del saqueo estacional a la conquista y el asentamiento, con el Danelaw en Inglaterra y ducados propios en Francia. No eran solo guerreros: fueron también comerciantes, colonos y mercenarios, y su alcance real —de Terranova a Bagdad— no lo igualó nadie en su tiempo.",
     "imagenes": [
       "/images/edad-media/edadmedia_osebergskipet-2016_wikimedia.jpg"
     ]
@@ -134,6 +134,18 @@
     ]
   },
   {
+    "id": "em-drakkar",
+    "region": "edad-media",
+    "tipo": "evento",
+    "titulo": "El drakkar y la navegación nórdica",
+    "fecha_inicio": 830,
+    "fecha_fin": null,
+    "descripcion_corta": "Todo lo que hicieron los vikingos dependió de su barco. El drakkar tenía casco de tingladillo —tablas solapadas y remachadas— que le daba una flexibilidad enorme frente a las olas, quilla poco profunda que le permitía remontar ríos y varar directamente en una playa sin puerto, y vela cuadrada combinada con remos para no depender del viento. Era ligero: una tripulación podía arrastrarlo por tierra entre dos ríos. Navegaban sin brújula, orientándose por el sol, las estrellas, el vuelo de las aves y el color del agua, y quizá con cristales de espato de Islandia para localizar el sol con cielo cubierto. Los barcos de Oseberg y Gokstad, conservados casi enteros en túmulos funerarios noruegos, permiten hoy verlos y reconstruirlos.",
+    "imagenes": [
+      "/images/edad-media/em3_drakkar-osebergskipet-2016-jpg_wikimedia.jpg"
+    ]
+  },
+  {
     "id": "edadmedia-vida-cotidiana",
     "region": "edad-media",
     "tipo": "evento",
@@ -172,6 +184,54 @@
     "contextual": true
   },
   {
+    "id": "em-rus-kiev",
+    "region": "edad-media",
+    "tipo": "evento",
+    "titulo": "Los varegos y la Rus de Kiev",
+    "fecha_inicio": 862,
+    "fecha_fin": 1054,
+    "descripcion_corta": "Mientras unos vikingos iban hacia el oeste, los suecos —llamados varegos o rus— bajaron por los ríos del este. Remontando el Volga y el Dniéper llegaron al mar Negro y al Caspio, comerciaron con Bizancio y el califato abasí, y sirvieron como guardia personal de los emperadores bizantinos. La crónica de Néstor cuenta que las tribus eslavas los llamaron para que gobernaran y pusieron fin a sus disputas: así se formó la Rus de Kiev, de donde arrancan las historias de Rusia, Ucrania y Bielorrusia. En 988, el príncipe Vladimiro adoptó el cristianismo ortodoxo de Constantinopla, decisión que orientó culturalmente a toda la región durante mil años. En sus tumbas aparecen decenas de miles de monedas de plata árabes.",
+    "imagenes": [
+      "/images/edad-media/em3_rus-location-of-kyivan-rus-png_wikimedia.png"
+    ]
+  },
+  {
+    "id": "em-islandia",
+    "region": "edad-media",
+    "tipo": "evento",
+    "titulo": "La colonización de Islandia y el Althing",
+    "fecha_inicio": 874,
+    "fecha_fin": 930,
+    "descripcion_corta": "Hacia 874 empezó el asentamiento de Islandia, una isla deshabitada salvo por unos pocos ermitaños irlandeses. Llegaron familias noruegas que huían del poder creciente del rey Harald el de los Cabellos Hermosos, con esclavos y siervos capturados en Irlanda y Escocia —la genética islandesa actual todavía lo refleja—. En 930 fundaron el Althing, una asamblea anual al aire libre en Thingvellir donde se proclamaban las leyes de memoria y se resolvían los pleitos: se considera uno de los parlamentos más antiguos del mundo y sigue existiendo. Aquella sociedad sin rey ni ejército produjo además las sagas, escritas en los siglos XIII y XIV, que son la mejor fuente literaria sobre el mundo nórdico.",
+    "imagenes": [
+      "/images/edad-media/em3_islandia-roca-de-la-ley-2c-parque-nacional-de-c3-9eing_wikimedia.jpg"
+    ]
+  },
+  {
+    "id": "em-runas",
+    "region": "edad-media",
+    "tipo": "evento",
+    "titulo": "Las runas y las sagas",
+    "fecha_inicio": 900,
+    "fecha_fin": null,
+    "descripcion_corta": "El alfabeto rúnico se usó en Escandinavia mucho antes de la era vikinga y siguió vivo durante ella: sus trazos rectos y angulosos están pensados para tallarse en madera, hueso o piedra a favor de la veta. Se han encontrado miles de piedras rúnicas, la mayoría erigidas por familias para recordar a un pariente muerto, a veces lejos —'murió en el este', 'cayó en Inglaterra'—, y también inscripciones cotidianas y hasta groseras en objetos de madera de los puertos comerciales. La literatura llegó después: las sagas islandesas, la Edda poética y la Edda prosaica de Snorri Sturluson se escribieron ya en el siglo XIII, cristianizados y con siglos de distancia, y son a la vez la fuente principal sobre su mitología y una reconstrucción tardía de ella.",
+    "imagenes": [
+      "/images/edad-media/em3_runas-ostergotland224n-jpg_wikimedia.jpg"
+    ]
+  },
+  {
+    "id": "em-normandia",
+    "region": "edad-media",
+    "tipo": "evento",
+    "titulo": "Rollón y el nacimiento de Normandía",
+    "fecha_inicio": 911,
+    "fecha_fin": null,
+    "descripcion_corta": "Cansado de pagar rescates y de ver el Sena remontado una y otra vez, el rey franco Carlos el Simple probó otra solución en 911: entregó al jefe vikingo Rollón las tierras del bajo Sena a cambio de que defendiera la costa de otros nórdicos y se bautizara. El acuerdo funcionó. En dos o tres generaciones aquellos escandinavos habían adoptado el francés, el cristianismo y la organización feudal, conservando la energía militar: son los normandos, 'hombres del norte'. De ese ducado saldrían Guillermo el Conquistador, que tomó Inglaterra en 1066; los normandos que crearon un reino en Sicilia y el sur de Italia; y una parte importante de los cruzados que fundaron los estados latinos de Oriente.",
+    "imagenes": [
+      "/images/edad-media/em3_normandia-rollon-falaise-28calvados-29-jpg_wikimedia.jpg"
+    ]
+  },
+  {
     "id": "em-califato-cordoba",
     "region": "edad-media",
     "tipo": "evento",
@@ -196,6 +256,18 @@
     ]
   },
   {
+    "id": "em-erik-rojo",
+    "region": "edad-media",
+    "tipo": "evento",
+    "titulo": "Erik el Rojo y Groenlandia",
+    "fecha_inicio": 985,
+    "fecha_fin": null,
+    "descripcion_corta": "Desterrado de Islandia por homicidio, Erik el Rojo navegó al oeste y encontró una tierra enorme y helada a la que llamó Groenlandia, 'tierra verde', según las sagas para hacerla atractiva a los colonos: probablemente la operación de marketing más antigua documentada. Funcionó, y hacia 985 fundó dos asentamientos que llegaron a reunir unos 2 000 o 3 000 habitantes, con granjas, iglesias y hasta un obispado. Sobrevivieron casi 500 años criando ganado y comerciando marfil de morsa con Europa. Se extinguieron en el siglo XV por una combinación de enfriamiento climático, aislamiento comercial cuando el marfil africano abarató el mercado y la negativa a adoptar las técnicas de caza de los inuit, que prosperaban a su lado.",
+    "imagenes": [
+      "/images/edad-media/em3_groenlandia-eric-the-red-png_wikimedia.png"
+    ]
+  },
+  {
     "id": "edadmedia-innovaciones-agricolas",
     "region": "edad-media",
     "tipo": "evento",
@@ -208,11 +280,23 @@
     ]
   },
   {
+    "id": "em-canuto",
+    "region": "edad-media",
+    "tipo": "evento",
+    "titulo": "Canuto el Grande y el imperio del mar del Norte",
+    "fecha_inicio": 1016,
+    "fecha_fin": 1035,
+    "descripcion_corta": "El danés Canuto conquistó Inglaterra en 1016 y heredó después Dinamarca y Noruega, gobernando un imperio marítimo que unía las tres orillas del mar del Norte. Lejos de gobernar como un conquistador, se apoyó en la Iglesia inglesa, mantuvo las leyes locales, peregrinó a Roma y se presentó como rey cristiano; su reinado fue de los más estables y prósperos de la Inglaterra anterior a la conquista normanda. De él viene la anécdota más repetida y peor entendida: mandó colocar su trono frente a la marea y le ordenó detenerse. No lo hacía por soberbia, sino justo por lo contrario, para demostrar a sus cortesanos aduladores que el poder de un rey tiene límites. Su imperio se deshizo pocos años después de su muerte.",
+    "imagenes": [
+      "/images/edad-media/em3_canuto-cnut-the-great-ms-royal-14-b-vi-jpg_wikimedia.jpg"
+    ]
+  },
+  {
     "id": "em-leif-erikson",
     "region": "edad-media",
     "tipo": "evento",
     "titulo": "Los vikingos llegan a América",
-    "fecha_inicio": 1000,
+    "fecha_inicio": 1021,
     "fecha_fin": null,
     "descripcion_corta": "Casi cinco siglos antes que Colón, los nórdicos cruzaron el Atlántico saltando de isla en isla: Islandia, Groenlandia y, hacia el año 1000, una tierra al oeste que las sagas llaman Vinlandia. La expedición se atribuye a Leif Erikson, hijo de Erik el Rojo. Durante siglos se tomó por leyenda, hasta que en los años sesenta la excavación de L'Anse aux Meadows, en Terranova, sacó a la luz casas de turba, una fragua y objetos inequívocamente escandinavos; la datación de unos anillos de crecimiento en madera cortada allí sitúa la ocupación en el año 1021 con precisión asombrosa. El asentamiento fue pequeño y breve: demasiado lejos, demasiado pocos colonos y conflictos con los pueblos indígenas, a los que llamaron skrælings. Por eso, a diferencia del viaje de 1492, aquel contacto no cambió la historia de los dos continentes.",
     "imagenes": [
@@ -253,6 +337,18 @@
     "descripcion_corta": "El 14 de octubre de 1066, Guillermo, duque de Normandía, derrotó y mató al rey anglosajón Harold Godwinson en la batalla de Hastings, en el sur de Inglaterra, tras cruzar el canal de la Mancha con una flota de invasión. Guillermo fue coronado \"el Conquistador\" el día de Navidad de ese mismo año en la Abadía de Westminster, dando inicio a la dinastía normanda y transformando radicalmente Inglaterra: reemplazó a casi toda la aristocracia anglosajona por nobles normandos, introdujo el francés como lengua de la corte y la administración (que se mezclaría con el inglés antiguo dando origen al inglés medio), impuso un sistema feudal centralizado y ordenó el célebre \"Libro del Día del Juicio\" (Domesday Book, 1086), un exhaustivo censo de tierras y propiedades de todo el reino usado para fines fiscales.",
     "imagenes": [
       "/images/edad-media/edadmedia_bayeux-tapestry-scene57-harold-death_wikimedia.jpg"
+    ]
+  },
+  {
+    "id": "em-stamford-bridge",
+    "region": "edad-media",
+    "tipo": "evento",
+    "titulo": "Stamford Bridge y el fin de la era vikinga",
+    "fecha_inicio": 1066,
+    "fecha_fin": null,
+    "descripcion_corta": "En septiembre de 1066, el rey noruego Harald Hardrada —que se había hecho famoso sirviendo en la guardia varega de Constantinopla— desembarcó en el norte de Inglaterra para reclamar el trono. El rey inglés Harold Godwinson marchó desde el sur en cuatro días y lo sorprendió en Stamford Bridge, donde el ejército noruego fue aniquilado y Hardrada murió de un flechazo en la garganta. Fue una victoria completa y también una ruina: tres días después, Guillermo de Normandía desembarcaba en el sur, y Harold tuvo que rehacer el camino con las tropas agotadas para morir en Hastings. Stamford Bridge suele tomarse como el punto final de la era vikinga, dos siglos y medio después de Lindisfarne.",
+    "imagenes": [
+      "/images/edad-media/em3_stamford-arbo-battle-of-stamford-bridge-281870-29-jpg_wikimedia.jpg"
     ]
   },
   {
@@ -551,7 +647,7 @@
     "titulo": "Peste negra",
     "fecha_inicio": 1346,
     "fecha_fin": 1351,
-    "descripcion_corta": "el dia que, la peste negra",
+    "descripcion_corta": "Entre 1346 y 1353, la peste negra mató a entre un tercio y la mitad de la población europea: unos veinticinco millones de personas. Llegó por las rutas comerciales desde Asia central, transportada por las pulgas de las ratas de los barcos genoveses, y se cebó en ciudades hacinadas y sin saneamiento. Nadie entendía su causa: se culpó a los astros, al aire corrompido, a los leprosos y sobre todo a los judíos, acusados de envenenar los pozos y masacrados en comunidades enteras de Alemania y Francia. Sus consecuencias fueron enormes y ambivalentes: con tan pocos brazos, los salarios de los supervivientes subieron y la servidumbre se debilitó, los señores intentaron congelar los sueldos por ley y de ahí salieron las grandes revueltas campesinas. Cambió también la mentalidad, con esa obsesión por la muerte que llena el arte del siglo XIV.",
     "imagenes": [
       "/images/edad-media/edadmedia_burying-plague-victims-of-tournai_wikimedia.jpg"
     ]
@@ -632,10 +728,10 @@
     "id": "edadmedia-imprenta-y-renacimiento",
     "region": "edad-media",
     "tipo": "evento",
-    "titulo": "Invenciónd de la Imprenta Gutemberg",
+    "titulo": "La imprenta de Gutenberg",
     "fecha_inicio": 1440,
     "fecha_fin": null,
-    "descripcion_corta": "Renacimiento",
+    "descripcion_corta": "Hacia 1440, el orfebre de Maguncia Johannes Gutenberg combinó varios elementos que ya existían por separado —la prensa de tornillo de los viticultores, una tinta grasa a base de aceite que se agarraba al metal, y sobre todo los tipos móviles fundidos uno a uno en una matriz reutilizable— en un sistema que permitía componer una página, imprimir cientos de copias idénticas y desmontarla para volver a usar las letras. China conocía la impresión desde hacía siglos, pero con miles de caracteres el tipo móvil era poco práctico; con un alfabeto de veintitantas letras lo cambió todo. Su Biblia de 42 líneas, de 1455, es la primera gran obra impresa en Europa. En medio siglo había imprentas en más de 250 ciudades y circulaban millones de libros: la Reforma, la revolución científica y la difusión de las lenguas vernáculas son impensables sin ella.",
     "imagenes": [
       "/images/edad-media/edadmedia_screen-shot-2024-09-27-at-20-15-34-1_node-146-56.png"
     ]

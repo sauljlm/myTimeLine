@@ -6,7 +6,7 @@
     "titulo": "Primeros humanos en CR",
     "fecha_inicio": -10000,
     "fecha_fin": -7000,
-    "descripcion_corta": "Primeros humanos en CR entre el 10 000 y 7000 AC. Eran Nomadas, recolectores...",
+    "descripcion_corta": "Los primeros pobladores del territorio costarricense llegaron hace unos 12 000 años, dentro del gran movimiento humano que descendía por el continente. Eran grupos pequeños y nómadas que cazaban, pescaban y recolectaban, y que se movían siguiendo las estaciones y los recursos. Sus huellas más claras están en el valle de Turrialba, donde aparecieron puntas de proyectil de las dos grandes tradiciones del poblamiento americano —Clovis y de 'cola de pescado'—, una coincidencia poco frecuente que convierte al sitio en una referencia para toda Centroamérica. En Guanacaste y en la zona atlántica se han documentado también campamentos y talleres de piedra de esa época. Convivieron con una fauna que después desapareció: mastodontes, perezosos gigantes y gliptodontes.",
     "imagenes": [
       "/images/costa-rica/cr2_paleoindio-clovis-point-2c-11500-9000-bc-2c-sevier-count_wikimedia.jpg"
     ]
@@ -75,10 +75,10 @@
     "id": "costarica-sociedades-cacicales",
     "region": "costa-rica",
     "tipo": "evento",
-    "titulo": "Primeras sociedades casicales",
+    "titulo": "Las primeras sociedades cacicales",
     "fecha_inicio": -300,
     "fecha_fin": 500,
-    "descripcion_corta": "Humanos dejan de ser nomadas, empiezan a crear primeras construcciones y a sembrar, empieza a aparecer las vacijas de cerámica",
+    "descripcion_corta": "Hacia el 300 a. C., las aldeas costarricenses dejaron de ser comunidades igualitarias de unas pocas familias. Crecieron, se hicieron permanentes y empezaron a mostrar diferencias claras de rango: unas tumbas con jade, oro y cerámica fina frente a otras casi vacías, y asentamientos principales rodeados de aldeas menores. Es el paso a los cacicazgos, encabezados por un jefe hereditario que concentraba autoridad política, militar y religiosa y que redistribuía bienes y organizaba el trabajo colectivo. La agricultura de maíz, frijol y tubérculos sostenía a esa población, y con ella aparecen los grandes metates ceremoniales, la cerámica policroma y las primeras obras que exigen muchos brazos: montículos, calzadas empedradas y las esferas de piedra del Diquís.",
     "imagenes": [
       "/images/costa-rica/cr2_ceramica-costa-rican-ceremonial-metate-walters-2009202_wikimedia.jpg"
     ]

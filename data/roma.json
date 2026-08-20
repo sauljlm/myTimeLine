@@ -463,7 +463,8 @@
       "Libertos (esclavos liberados)",
       "Esclavos"
     ],
-    "contextual": true
+    "contextual": true,
+    "descripcion_corta": "Roma fue durante toda su historia una sociedad obsesionada con el rango. La división originaria entre patricios —las familias fundadoras— y plebeyos se fue diluyendo tras siglos de conflicto, pero la sustituyó otra basada en la riqueza: el orden senatorial en la cima, el ecuestre de los grandes negociantes debajo, y el resto de ciudadanos libres. Fuera de la ciudadanía quedaban los libertos —esclavos manumitidos, que conservaban obligaciones hacia su antiguo dueño pero cuyos hijos nacían libres— y los esclavos, que podían ser desde trabajadores agotados en las minas hasta médicos, contables o preceptores griegos. Todo lo articulaba la clientela: cada mañana, los clientes acudían a saludar a su patrono, que les daba dinero, comida o apoyo legal a cambio de votos y presencia. Y por encima de todo, la patria potestas: el cabeza de familia tenía autoridad legal sobre hijos y nietos mientras viviera."
   },
   {
     "id": "roma-trajano",
