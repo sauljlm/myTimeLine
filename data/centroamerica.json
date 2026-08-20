@@ -36,6 +36,18 @@
     ]
   },
   {
+    "id": "ca-el-mirador",
+    "region": "centroamerica",
+    "tipo": "evento",
+    "titulo": "El Mirador y el Preclásico maya",
+    "fecha_inicio": -600,
+    "fecha_fin": 150,
+    "descripcion_corta": "Mucho antes del período Clásico, en el norte del Petén, El Mirador llegó a ser una ciudad enorme con decenas de miles de habitantes. Su pirámide de La Danta, con unos 70 metros de altura sobre una plataforma descomunal, está entre las estructuras de mayor volumen construidas en la Antigüedad. La conectaban con otras ciudades calzadas elevadas de estuco blanco —sacbés— de hasta cuarenta kilómetros, visibles todavía desde el aire y reveladas en detalle por los escaneos lidar recientes, que han encontrado bajo la selva miles de estructuras. El Mirador demuestra que la complejidad maya no empieza en el Clásico: ya estaba aquí, y colapsó por primera vez hacia el año 150.",
+    "imagenes": [
+      "/images/centroamerica/ca2_elmirador-pir-c3-a1mide-de-la-danta-2c-pet-c3-a9n-jpg_wikimedia.jpg"
+    ]
+  },
+  {
     "id": "ca-monte-alban",
     "region": "centroamerica",
     "tipo": "evento",
@@ -52,11 +64,35 @@
     "region": "centroamerica",
     "tipo": "evento",
     "titulo": "La escritura y el calendario mesoamericano",
-    "fecha_inicio": -400,
+    "fecha_inicio": -450,
     "fecha_fin": null,
     "descripcion_corta": "Mesoamérica es una de las poquísimas regiones del mundo donde la escritura se inventó de forma independiente. Los primeros textos aparecen entre olmecas y zapotecas hacia el 500 a. C., y con ellos un sistema de cómputo del tiempo que compartirían todos los pueblos de la región: dos calendarios simultáneos, uno ritual de 260 días y otro solar de 365, que al engranarse producen un ciclo de 52 años, la llamada rueda calendárica. Cada final de ciclo era un momento de angustia colectiva —había que renovar el fuego para que el mundo continuara—. Usaban además un sistema numérico vigesimal con puntos y barras que incluía un símbolo para el cero, siglos antes de que la idea llegara a Europa desde la India.",
     "imagenes": [
       "/images/centroamerica/ca_escritura_zapoteca-zapotecan-languages-png_wikimedia.png"
+    ]
+  },
+  {
+    "id": "ca-cuicuilco",
+    "region": "centroamerica",
+    "tipo": "evento",
+    "titulo": "Cuicuilco y el volcán",
+    "fecha_inicio": -400,
+    "fecha_fin": -100,
+    "descripcion_corta": "En el sur del valle de México, Cuicuilco fue el primer gran centro urbano de la región, con una pirámide circular escalonada poco común y varias decenas de miles de habitantes. Competía con una Teotihuacán todavía pequeña. Entre el 400 y el 100 a. C., la erupción del volcán Xitle cubrió la ciudad y sus campos con una capa de lava de varios metros —el pedregal que aún se ve al sur de Ciudad de México— y la despobló por completo. Sus habitantes se dispersaron, muchos hacia el noreste. La catástrofe dejó el valle libre para que Teotihuacán creciera sin rival: la historia de Mesoamérica cambió por un volcán.",
+    "imagenes": [
+      "/images/centroamerica/ca2_cuicuilco-pir-c3-a1mide-de-cuicuilco-al-sur-del-distrit_wikimedia.jpg"
+    ]
+  },
+  {
+    "id": "ca-kaminaljuyu",
+    "region": "centroamerica",
+    "tipo": "evento",
+    "titulo": "Kaminaljuyú y el altiplano",
+    "fecha_inicio": -350,
+    "fecha_fin": 900,
+    "descripcion_corta": "Bajo la actual Ciudad de Guatemala se extiende Kaminaljuyú, un centro clave que controló durante siglos el comercio de la obsidiana de El Chayal y de Ixtepeque, la materia prima de las herramientas cortantes de toda Mesoamérica. Allí aparecen algunas de las inscripciones y estelas más antiguas de la región, con un sistema de escritura anterior al maya clásico y todavía mal descifrado. Hacia el siglo IV, su arquitectura y su cerámica cambian bruscamente hacia formas teotihuacanas, señal de una presencia o de una alianza fuerte con la gran ciudad del altiplano mexicano, a 1 200 km. Buena parte del yacimiento está hoy bajo la ciudad moderna.",
+    "imagenes": [
+      "/images/centroamerica/ca2_kaminaljuyu-kaminaljuy-c3-ba-2c-guatemala-jpg_wikimedia.jpg"
     ]
   },
   {
@@ -69,6 +105,18 @@
     "descripcion_corta": "Se han encontrado más de 1 500 canchas de juego de pelota por toda Mesoamérica, desde Honduras hasta Arizona. Se jugaba con una pelota de hule macizo que podía pesar varios kilos, golpeándola con las caderas, los codos y las rodillas —nunca con las manos ni los pies— y protegiéndose con cinturones de cuero, rodilleras y guantes. Pero no era solo un deporte: el recorrido de la pelota representaba el movimiento del sol y la lucha entre el día y la noche, y el Popol Vuh maya narra cómo los héroes gemelos se enfrentan jugando a los señores del inframundo. Algunos partidos terminaban con el sacrificio de jugadores, aunque se discute si morían los perdedores o, como sugieren varios relieves, los vencedores, en un honor terrible.",
     "imagenes": [
       "/images/centroamerica/ca_juegopelota-tepantitla-mural-2c-ballplayer-b-cropped-jpg_wikimedia.jpg"
+    ]
+  },
+  {
+    "id": "ca-cholula",
+    "region": "centroamerica",
+    "tipo": "evento",
+    "titulo": "Cholula, la pirámide más grande del mundo",
+    "fecha_inicio": -200,
+    "fecha_fin": 800,
+    "descripcion_corta": "La Gran Pirámide de Cholula no parece una pirámide: es un cerro cubierto de hierba con una iglesia colonial en la cima. Y sin embargo, con unos 400 metros de lado y 66 de altura, tiene el mayor volumen de cualquier monumento construido en la historia, más del doble que la Gran Pirámide de Guiza. Se levantó por superposición durante más de mil años: cada etapa envolvía la anterior, como capas de cebolla, y en su interior hay kilómetros de túneles excavados por los arqueólogos. Cholula fue además un centro religioso y comercial de primer orden, dedicado a Quetzalcóatl, y siguió siéndolo hasta que Cortés ordenó allí una matanza en 1519.",
+    "imagenes": [
+      "/images/centroamerica/ca2_cholula-gran-pir-c3-a1mide-de-cholula-2c-puebla-2c-m-_wikimedia.jpg"
     ]
   },
   {
@@ -120,6 +168,18 @@
     ]
   },
   {
+    "id": "ca-el-tajin",
+    "region": "centroamerica",
+    "tipo": "evento",
+    "titulo": "El Tajín y los totonacas",
+    "fecha_inicio": 600,
+    "fecha_fin": 1200,
+    "descripcion_corta": "En la costa del Golfo, El Tajín floreció cuando Teotihuacán ya había caído. Su edificio más célebre, la Pirámide de los Nichos, tiene 365 huecos cuadrados en sus siete cuerpos, uno por cada día del año solar. Pero lo que más destaca del sitio son sus canchas: se han identificado diecisiete juegos de pelota, más que en ningún otro lugar de Mesoamérica, con relieves que muestran con crudeza el sacrificio de un jugador. De esta cultura proceden también las 'palmas', 'hachas' y 'yugos' de piedra, réplicas ceremoniales del equipo protector que llevaban los jugadores. Los totonacas de la región serían los primeros aliados de Cortés contra los mexicas.",
+    "imagenes": [
+      "/images/centroamerica/ca2_eltajin-el-tajin2-jpg_wikimedia.jpg"
+    ]
+  },
+  {
     "id": "ca-palenque",
     "region": "centroamerica",
     "tipo": "evento",
@@ -132,6 +192,30 @@
     ]
   },
   {
+    "id": "ca-sitio-conte",
+    "region": "centroamerica",
+    "tipo": "evento",
+    "titulo": "Sitio Conte y la orfebrería del istmo",
+    "fecha_inicio": 700,
+    "fecha_fin": 1100,
+    "descripcion_corta": "En Coclé, en el actual Panamá, las excavaciones de los años treinta encontraron un cementerio de élite con tumbas cargadas de oro: pectorales repujados con figuras de cocodrilo, brazaletes, orejeras y cascos, junto a cerámica policroma y a decenas de individuos sacrificados que acompañaban al personaje principal. La orfebrería del istmo —Coclé, Veraguas, Chiriquí y el Diquís costarricense— formó una tradición común que trabajaba la tumbaga con la técnica de la cera perdida y que se extendía hacia Colombia. Cuando los españoles llegaron al Darién, esas piezas alimentaron directamente el mito de El Dorado y la búsqueda desesperada de sus yacimientos.",
+    "imagenes": [
+      "/images/centroamerica/ca2_sitioconte-cocl-c3-a9-penn-04-jpg_wikimedia.jpg"
+    ]
+  },
+  {
+    "id": "ca-uxmal",
+    "region": "centroamerica",
+    "tipo": "evento",
+    "titulo": "Uxmal y el Puuc",
+    "fecha_inicio": 720,
+    "fecha_fin": 1000,
+    "descripcion_corta": "Mientras las ciudades del sur maya se hundían, el norte de Yucatán vivía su mejor momento. En la región Puuc, Uxmal, Kabah, Sayil y Labná desarrollaron un estilo arquitectónico propio y muy reconocible: fachadas lisas en la parte baja y frisos superiores cubiertos de mosaicos de piedra con grecas, celosías y máscaras del dios de la lluvia Chaac, repetidas hasta la obsesión. No es casualidad: en una tierra caliza sin ríos ni lagos, el agua lo era todo, y estas ciudades dependían de chultunes, cisternas excavadas para recoger la lluvia. La Pirámide del Adivino de Uxmal, de esquinas redondeadas, es única en el mundo maya.",
+    "imagenes": [
+      "/images/centroamerica/ca2_uxmal-templo-del-adivino-jpg_wikimedia.jpg"
+    ]
+  },
+  {
     "id": "ca-copan",
     "region": "centroamerica",
     "tipo": "evento",
@@ -141,6 +225,18 @@
     "descripcion_corta": "En el extremo sureste del mundo maya, en la actual Honduras, Copán destacó por la calidad de su escultura: estelas talladas casi en bulto redondo, con retratos de sus reyes cubiertos de símbolos, y una Escalinata de los Jeroglíficos de sesenta y tres peldaños con más de 2 200 glifos, el texto maya más largo que se conserva. Su decimotercer rey, Dieciocho Conejo, gran mecenas de esas obras, fue capturado y decapitado en 738 por el gobernante de Quiriguá, una ciudad vasalla mucho menor: un desastre del que Copán tardó décadas en recuperarse. Los estudios de los esqueletos de sus últimos siglos muestran desnutrición y enfermedad crecientes, una de las pistas sobre lo que vendría después.",
     "imagenes": [
       "/images/centroamerica/ca_copan-copan-sculpture-jpg_wikimedia.jpg"
+    ]
+  },
+  {
+    "id": "ca-nicoya",
+    "region": "centroamerica",
+    "tipo": "evento",
+    "titulo": "La Gran Nicoya",
+    "fecha_inicio": 800,
+    "fecha_fin": 1520,
+    "descripcion_corta": "El Pacífico de Nicaragua y el noroeste de Costa Rica formaron una región cultural propia, la Gran Nicoya, donde confluyeron pueblos llegados de Mesoamérica —chorotegas y nicaraos, que hablaban lenguas emparentadas con el náhuatl— con las tradiciones del sur. Su cerámica policroma, con jaguares, serpientes emplumadas y monos pintados en rojo, negro y naranja sobre fondo crema, es de las más vistosas de América y se comerciaba a cientos de kilómetros. Trabajaron también el jade y usaron granos de cacao como moneda, otro rasgo mesoamericano. Es el punto donde las dos grandes áreas culturales del continente, Mesoamérica y el área intermedia, se tocaban y se mezclaban.",
+    "imagenes": [
+      "/images/centroamerica/ca2_nicoya-gran-nicoya-jpg_wikimedia.jpg"
     ]
   },
   {
@@ -177,6 +273,30 @@
     "descripcion_corta": "Tras la caída de Teotihuacán, los toltecas dominaron el altiplano central desde Tula, con un poder mucho más militarizado: sus monumentos más famosos son los atlantes, columnas de cuatro metros con forma de guerreros armados con lanzadardos. Para los pueblos posteriores, y sobre todo para los aztecas, los toltecas fueron el modelo de civilización y de refinamiento: la palabra tolteca acabó significando 'artista' o 'maestro artesano', y las dinastías nobles se inventaban genealogías que las conectaran con ellos. De esa época procede el relato de Quetzalcóatl, el rey-sacerdote que se opuso a los sacrificios humanos, fue expulsado y partió hacia el este prometiendo volver, una leyenda que casi cinco siglos después complicaría la lectura de la llegada de los españoles.",
     "imagenes": [
       "/images/centroamerica/ca_tula-kiosktula-jpg_wikimedia.jpg"
+    ]
+  },
+  {
+    "id": "ca-mixtecos",
+    "region": "centroamerica",
+    "tipo": "evento",
+    "titulo": "Los mixtecos y los códices",
+    "fecha_inicio": 1000,
+    "fecha_fin": 1520,
+    "descripcion_corta": "En las montañas de Oaxaca, los mixtecos —'el pueblo de la lluvia'— sucedieron a los zapotecas como potencia regional, organizados en pequeños señoríos unidos por matrimonios y guerras. Fueron los mejores orfebres de Mesoamérica: la tumba 7 de Monte Albán, que reutilizaron, entregó pectorales, anillos y máscaras de oro, turquesa y jade de una delicadeza extraordinaria. Y dejaron algo aún más valioso: los códices, tiras de piel de venado plegadas como biombo y pintadas con una escritura pictográfica que narra la genealogía y las hazañas de sus dinastías durante siglos, con personajes como el señor Ocho Venado Garra de Jaguar. Media docena sobrevivió a la conquista, y por ellos conocemos historia mesoamericana anterior a la llegada europea.",
+    "imagenes": [
+      "/images/centroamerica/ca2_mixtecos-mixtec-carved-stone-jpg_wikimedia.jpg"
+    ]
+  },
+  {
+    "id": "ca-mayapan",
+    "region": "centroamerica",
+    "tipo": "evento",
+    "titulo": "Mayapán, la última capital maya",
+    "fecha_inicio": 1220,
+    "fecha_fin": 1450,
+    "descripcion_corta": "Tras el ocaso de Chichén Itzá, Mayapán dominó el norte de Yucatán durante más de dos siglos. Fue una ciudad distinta: amurallada, densa, con más de cuatro mil estructuras apretadas en pocos kilómetros cuadrados y una copia en miniatura del castillo de Chichén en el centro. Según las crónicas coloniales, la gobernaba una liga de linajes —los Cocom, los Xiu y otros— que mantenían en la capital a los señores de las provincias, medio aliados y medio rehenes. Ese equilibrio se rompió hacia 1450 en una guerra civil que acabó con la ciudad quemada y Yucatán fragmentado en dieciséis cacicazgos rivales: así lo encontraron los españoles, lo que hizo su conquista larga y difícil.",
+    "imagenes": [
+      "/images/centroamerica/ca2_mayapan-mayapan-272010-16-jpg_wikimedia.jpg"
     ]
   },
   {
@@ -261,6 +381,30 @@
     "descripcion_corta": "Desde México, Pedro de Alvarado marchó en 1524 hacia el sur con tropas españolas y miles de aliados tlaxcaltecas y mexicas. Venció a los quichés en Quetzaltenango —donde según la tradición murió su jefe Tecún Umán—, quemó su capital Q'umarkaj y sometió después a los cakchiqueles, sus antiguos aliados. Otras expediciones avanzaron desde Panamá hacia el norte, y el istmo quedó repartido entre capitanías y audiencias. La conquista de Centroamérica fue más lenta y fragmentada que la de México, porque no había un poder único que derribar sino decenas de señoríos. Como en todas partes, la mayor mortandad no la causaron las armas: viruela, sarampión y tifus redujeron la población indígena en porcentajes que los historiadores sitúan entre el 70 y el 90 % en un siglo.",
     "imagenes": [
       "/images/centroamerica/ca_alvarado-pedro-de-alvarado-28tom-c3-a1s-povedano-29-jp_wikimedia.jpg"
+    ]
+  },
+  {
+    "id": "ca-antigua",
+    "region": "centroamerica",
+    "tipo": "evento",
+    "titulo": "Antigua Guatemala y la colonia",
+    "fecha_inicio": 1543,
+    "fecha_fin": 1773,
+    "descripcion_corta": "Santiago de los Caballeros, la actual Antigua, fue durante más de dos siglos la capital de la Capitanía General de Guatemala, que gobernaba desde Chiapas hasta Costa Rica. Llegó a ser una de las ciudades más ricas de la América española, con universidad desde 1676, imprenta, conventos enormes y una arquitectura barroca adaptada a los terremotos, de muros bajos y gruesos. La economía colonial del istmo se basó en el añil y la cochinilla —tintes muy valorados en Europa— trabajados en haciendas con mano de obra indígena bajo repartimiento. Los terremotos de Santa Marta, en 1773, la destruyeron y obligaron a trasladar la capital al valle donde hoy está Ciudad de Guatemala.",
+    "imagenes": [
+      "/images/centroamerica/ca2_antigua-antigua-arco-jpg_wikimedia.jpg"
+    ]
+  },
+  {
+    "id": "ca-piratas",
+    "region": "centroamerica",
+    "tipo": "evento",
+    "titulo": "Piratas en el Caribe",
+    "fecha_inicio": 1600,
+    "fecha_fin": 1740,
+    "descripcion_corta": "La costa caribeña centroamericana quedó durante siglos al margen del control español, y esa debilidad la aprovecharon corsarios y piratas ingleses, franceses y holandeses. Henry Morgan saqueó Portobelo en 1668 y cruzó el istmo para arrasar Panamá la Vieja en 1671, una de las mayores operaciones de la historia de la piratería. Los ingleses se asentaron en Belice para cortar el palo de tinte y aliaron con los misquitos de la costa de Nicaragua y Honduras, a los que armaron y reconocieron como reino. Esa presencia dejó huellas que duran hasta hoy: la existencia misma de Belice, el inglés criollo de la costa caribeña y una división cultural entre el Pacífico y el Atlántico centroamericanos.",
+    "imagenes": [
+      "/images/centroamerica/ca2_piratas-morgan-2chenry-jpg_wikimedia.jpg"
     ]
   },
   {

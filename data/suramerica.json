@@ -1,5 +1,53 @@
 [
   {
+    "id": "sa-papa",
+    "region": "suramerica",
+    "tipo": "evento",
+    "titulo": "La domesticación de la papa",
+    "fecha_inicio": -8000,
+    "fecha_fin": -5000,
+    "descripcion_corta": "En el altiplano entre Perú y Bolivia, alrededor del lago Titicaca, se domesticó la papa hace unos 8 000 o 10 000 años a partir de especies silvestres amargas y tóxicas. Los agricultores andinos seleccionaron miles de variedades adaptadas a cada altitud, suelo y microclima —todavía hoy se cultivan más de cuatro mil— e inventaron además el chuño: exponer los tubérculos a las heladas nocturnas y al sol del día, pisarlos y secarlos, obteniendo un alimento que se conserva años y pesa poco. Ese invento permitió almacenar excedentes en una tierra sin cereales viables a esa altura, y sostuvo después a los ejércitos y a las obras públicas incas. Llevada a Europa en el siglo XVI, la papa cambiaría la demografía del mundo.",
+    "imagenes": [
+      "/images/suramerica/sa2_papa-s-tuberosum-5-jpg_wikimedia.jpg"
+    ]
+  },
+  {
+    "id": "sa-llama",
+    "region": "suramerica",
+    "tipo": "evento",
+    "titulo": "La llama y la alpaca",
+    "fecha_inicio": -4000,
+    "fecha_fin": null,
+    "descripcion_corta": "América tuvo muy pocos animales domesticables, y los Andes fueron la excepción: de la vicuña salió la alpaca, criada por su lana finísima, y del guanaco la llama, el único animal de carga del continente. Una llama transporta unos 30 kg durante veinte kilómetros diarios y se alimenta de pastos de altura que ningún otro ganado aprovecha; en caravanas de cientos de animales movieron sal, maíz, pescado seco, coca y lana por todo el mundo andino. No sirven para tirar de un arado ni para montarlas, y esa diferencia explica en parte por qué los Andes no desarrollaron la rueda ni la tracción animal. Aportaban además carne, cuero, estiércol como combustible y fertilizante, y eran la ofrenda de sacrificio más habitual.",
+    "imagenes": [
+      "/images/suramerica/sa2_llama-llamas-2c-vernagt-stausee-2c-italy-jpg_wikimedia.jpg"
+    ]
+  },
+  {
+    "id": "sa-sechin",
+    "region": "suramerica",
+    "tipo": "evento",
+    "titulo": "Sechín y los primeros templos",
+    "fecha_inicio": -3500,
+    "fecha_fin": -1500,
+    "descripcion_corta": "En el valle de Casma, en la costa peruana, Sechín Bajo conserva una plaza circular hundida datada hacia 3500 a. C., una de las construcciones monumentales más antiguas de América. Cerca, Cerro Sechín exhibe un muro con más de trescientas losas grabadas con una procesión de guerreros y de cuerpos mutilados: cabezas cortadas, vértebras, ojos y extremidades sueltas, un friso brutal cuyo significado se discute entre la conmemoración de una victoria y un mensaje ritual. Junto con Caral y Áspero, estos sitios muestran que en la costa central del Perú se levantaban templos y se organizaba trabajo colectivo milenios antes de Chavín, sin cerámica y sin agricultura de maíz.",
+    "imagenes": [
+      "/images/suramerica/sa2_sechin-sechinbajo-oeste-jpg_wikimedia.jpg"
+    ]
+  },
+  {
+    "id": "sa-valdivia",
+    "region": "suramerica",
+    "tipo": "evento",
+    "titulo": "Valdivia y la cerámica más antigua",
+    "fecha_inicio": -3400,
+    "fecha_fin": -1800,
+    "descripcion_corta": "En la costa de Ecuador, la cultura Valdivia produjo hacia 3500 a. C. una de las cerámicas más antiguas de América, con vasijas de formas complejas y las célebres 'venus': figurillas femeninas de piedra y barro con peinados elaborados, seguramente ligadas a ritos de fertilidad. Vivían en poblados con casas alrededor de una plaza, cultivaban maíz y algodón y explotaban intensamente la concha spondylus, el molusco rojo del Pacífico cálido que en todo el mundo andino se consideró más valioso que el oro y se ofrendaba a los dioses del agua. Su comercio llegó muy lejos, y la semejanza de su cerámica con la japonesa Jōmon llegó a alimentar hipótesis de contacto transpacífico, hoy descartadas.",
+    "imagenes": [
+      "/images/suramerica/sa2_valdivia-valdivia-ancestor-statue-with-six-faces-jpg_wikimedia.jpg"
+    ]
+  },
+  {
     "id": "sa-caral",
     "region": "suramerica",
     "tipo": "evento",
@@ -24,6 +72,18 @@
     ]
   },
   {
+    "id": "sa-amazonia",
+    "region": "suramerica",
+    "tipo": "evento",
+    "titulo": "La Amazonía habitada",
+    "fecha_inicio": -500,
+    "fecha_fin": 1500,
+    "descripcion_corta": "Durante décadas se creyó que la Amazonía era un desierto verde incapaz de sostener poblaciones grandes por la pobreza de sus suelos. Hoy se sabe lo contrario. Hay miles de hectáreas de terra preta, un suelo negro y fertilísimo creado por acumulación deliberada de carbón vegetal, cerámica rota y residuos orgánicos durante siglos, que sigue siendo productivo. La deforestación y el lidar han revelado además cientos de geoglifos geométricos en Acre, aldeas circulares conectadas por calzadas en el Alto Xingú y montículos artificiales en los llanos de Mojos. Buena parte de la selva actual es en realidad un bosque cultivado: la concentración de palmas, castaños y cacao sigue el rastro de quienes los plantaron.",
+    "imagenes": [
+      "/images/suramerica/sa2_amazonia-terra-preta-hc1-jpg_wikimedia.jpg"
+    ]
+  },
+  {
     "id": "sa-paracas-nazca",
     "region": "suramerica",
     "tipo": "evento",
@@ -33,6 +93,18 @@
     "descripcion_corta": "En la costa desértica del sur del Perú, la cultura Paracas produjo los tejidos más extraordinarios de la América antigua: mantos funerarios de varios metros bordados con cientos de figuras y hasta 190 tonos distintos, conservados intactos por la sequedad del desierto, que envolvían fardos con momias en posición fetal. También practicó trepanaciones craneanas con supervivencia comprobada. Sus herederos, los nazca, trazaron en la pampa las célebres líneas: figuras de colibrí, mono, araña y ballena de hasta trescientos metros, hechas retirando las piedras oscuras de la superficie para descubrir el suelo claro. Solo se aprecian desde el aire o desde las colinas, y hoy se relacionan sobre todo con rituales del agua, recorridos en procesión en una de las regiones más áridas del planeta.",
     "imagenes": [
       "/images/suramerica/sa_nazca-l-c3-adneas-de-nazca-2c-nazca-2c-per-c3-ba-2c_wikimedia.jpg"
+    ]
+  },
+  {
+    "id": "sa-pukara",
+    "region": "suramerica",
+    "tipo": "evento",
+    "titulo": "Pukará y el altiplano",
+    "fecha_inicio": -200,
+    "fecha_fin": 400,
+    "descripcion_corta": "Al norte del lago Titicaca, la cultura Pukará precedió a Tiahuanaco y sentó buena parte de sus bases: templos con patios hundidos rodeados de recintos, escultura en piedra con figuras de 'degolladores' que sostienen cabezas trofeo, y una iconografía —el personaje frontal con báculos, los felinos, las serpientes— que Tiahuanaco y luego Wari heredarían casi sin cambios. Su gran logro fue adaptar la agricultura a 3 800 metros mediante camellones y terrazas, y combinarla con enormes rebaños de camélidos. Pukará controlaba además el paso entre el altiplano, la costa y la selva, tres pisos ecológicos cuya complementariedad es la clave de toda la civilización andina.",
+    "imagenes": [
+      "/images/suramerica/sa2_pukara-mapa-cultura-pucara-png_wikimedia.png"
     ]
   },
   {
@@ -60,6 +132,18 @@
     ]
   },
   {
+    "id": "sa-marajo",
+    "region": "suramerica",
+    "tipo": "evento",
+    "titulo": "Marajó y los ceramistas del Amazonas",
+    "fecha_inicio": 400,
+    "fecha_fin": 1350,
+    "descripcion_corta": "En la isla de Marajó, en la desembocadura del Amazonas —del tamaño de Suiza—, se desarrolló durante casi mil años una sociedad compleja que construyó montículos artificiales de varios metros para elevar sus aldeas por encima de las inundaciones estacionales, con sistemas de estanques para retener peces. Su cerámica funeraria es excepcional: urnas de gran tamaño pintadas y grabadas con diseños geométricos y figuras humanas estilizadas, en las que enterraban los huesos de sus muertos tras un proceso de descarnado. Los primeros cronistas europeos que bajaron el río describieron riberas densamente pobladas durante kilómetros; las epidemias las vaciaron antes de que nadie volviera a comprobarlo, y de ahí nació el mito de la selva virgen.",
+    "imagenes": [
+      "/images/suramerica/sa2_marajo-burian-urn-2c-ad-1000-1250-2c-marajoara-cultu_wikimedia.jpg"
+    ]
+  },
+  {
     "id": "sa-tiahuanaco",
     "region": "suramerica",
     "tipo": "evento",
@@ -84,6 +168,18 @@
     ]
   },
   {
+    "id": "sa-sican",
+    "region": "suramerica",
+    "tipo": "evento",
+    "titulo": "Sicán y el oro de Lambayeque",
+    "fecha_inicio": 750,
+    "fecha_fin": 1375,
+    "descripcion_corta": "Heredera de los moche en la costa norte, la cultura Sicán o Lambayeque llevó la metalurgia americana a su punto más alto: producía cobre arsenical a escala casi industrial en hornos de tiro forzado y trabajaba el oro en láminas finísimas mediante martillado, repujado y dorado por oxidación. De aquí procede el tumi, el cuchillo ceremonial semicircular rematado por una figura con tocado y ojos alados que se ha convertido en símbolo del Perú. En las tumbas de Batán Grande se hallaron toneladas de objetos metálicos junto a personajes enterrados boca abajo y en posición invertida. La sequía prolongada del siglo XI y las inundaciones de El Niño precipitaron su declive, y acabaron absorbidos por los chimú.",
+    "imagenes": [
+      "/images/suramerica/sa2_sican-ceremonial-knife-28tumi-29-met-dp214165-jpg_wikimedia.jpg"
+    ]
+  },
+  {
     "id": "sa-chimu",
     "region": "suramerica",
     "tipo": "evento",
@@ -93,6 +189,18 @@
     "descripcion_corta": "El reino chimú heredó la costa norte de los moche y construyó Chan Chan, la mayor ciudad de adobe del mundo: veinte kilómetros cuadrados con diez grandes ciudadelas amuralladas, cada una construida por un rey y convertida en su mausoleo al morir, ya que el sucesor debía levantar la suya propia. Sus muros conservan frisos de peces, aves y redes en relieve. Los chimú fueron excelentes orfebres y llevaron el riego al extremo, con canales de decenas de kilómetros que unían valles enteros. En 1470 fueron conquistados por los incas, que se llevaron a sus artesanos al Cusco para que trabajaran allí el metal: buena parte de la orfebrería que los españoles fundieron después procedía de esa tradición costeña.",
     "imagenes": [
       "/images/suramerica/sa_chimu-photomontagechanchan-jpg_wikimedia.jpg"
+    ]
+  },
+  {
+    "id": "sa-chachapoyas",
+    "region": "suramerica",
+    "tipo": "evento",
+    "titulo": "Los chachapoyas y Kuélap",
+    "fecha_inicio": 920,
+    "fecha_fin": 1470,
+    "descripcion_corta": "En la ceja de selva del norte del Perú, entre nubes permanentes, los chachapoyas levantaron Kuélap: una fortaleza alargada sobre una cresta a 3 000 metros, con murallas de hasta veinte metros de altura, más de cuatrocientas construcciones circulares en su interior y solo tres entradas en embudo, tan estrechas que obligan a pasar de uno en uno. Contiene más volumen de piedra que la Gran Pirámide de Guiza. Enterraban a sus muertos en sarcófagos de arcilla con forma humana colocados en repisas de acantilados inaccesibles, como los de Karajía, y en mausoleos colgantes. Resistieron a los incas hasta finales del siglo XV y después se aliaron con los españoles contra ellos.",
+    "imagenes": [
+      "/images/suramerica/sa2_chachapoyas-arquitectura-de-kuelap-jpg_wikimedia.jpg"
     ]
   },
   {
@@ -156,6 +264,18 @@
     ]
   },
   {
+    "id": "sa-cabral",
+    "region": "suramerica",
+    "tipo": "evento",
+    "titulo": "Cabral y el Brasil portugués",
+    "fecha_inicio": 1500,
+    "fecha_fin": null,
+    "descripcion_corta": "En abril de 1500, la flota de Pedro Álvares Cabral, que iba camino de la India, avistó la costa de la actual Bahía. Se ha discutido siglos si fue casualidad al abrirse demasiado en el Atlántico o una desviación deliberada: el Tratado de Tordesillas, firmado seis años antes, ya había asignado a Portugal las tierras al este de un meridiano que pasa por ahí, lo que sugiere que algo se sabía. La colonización fue lenta y costera, basada primero en el palo brasil que dio nombre al país y después en los ingenios de azúcar del nordeste, que importaron mano de obra esclavizada a una escala sin comparación: Brasil recibió cerca del 40 % de todos los africanos deportados a América.",
+    "imagenes": [
+      "/images/suramerica/sa2_cabral-pedro-c3-81lvares-cabral-steel-engraving-by-a_wikimedia.jpg"
+    ]
+  },
+  {
     "id": "sa-guerra-civil-inca",
     "region": "suramerica",
     "tipo": "evento",
@@ -192,6 +312,18 @@
     ]
   },
   {
+    "id": "sa-orellana",
+    "region": "suramerica",
+    "tipo": "evento",
+    "titulo": "Orellana y el Amazonas",
+    "fecha_inicio": 1542,
+    "fecha_fin": null,
+    "descripcion_corta": "Francisco de Orellana salió de Quito en 1541 con Gonzalo Pizarro buscando el País de la Canela. Enviado río abajo con un bergantín a buscar comida, la corriente le impidió volver y acabó descendiendo el Napo y luego el gran río hasta el Atlántico: ocho meses y unos 4 800 kilómetros, la primera navegación completa del Amazonas. El cronista de la expedición, fray Gaspar de Carvajal, describió orillas continuamente pobladas, con aldeas grandes y caminos hacia el interior, y un combate contra guerreras que llamaron amazonas por el mito griego: de ahí el nombre del río. Sus descripciones se tuvieron por fantasía durante siglos, hasta que la arqueología reciente les dio la razón en lo esencial.",
+    "imagenes": [
+      "/images/suramerica/sa2_orellana-francisco-de-orellana-portrait-jpg_wikimedia.jpg"
+    ]
+  },
+  {
     "id": "sa-potosi",
     "region": "suramerica",
     "tipo": "evento",
@@ -204,6 +336,18 @@
     ]
   },
   {
+    "id": "sa-mapuches",
+    "region": "suramerica",
+    "tipo": "evento",
+    "titulo": "Los mapuches y la guerra de Arauco",
+    "fecha_inicio": 1550,
+    "fecha_fin": 1641,
+    "descripcion_corta": "Al sur del río Biobío, los mapuches hicieron lo que ningún otro pueblo americano logró frente al imperio español: detenerlo durante tres siglos. No tenían Estado ni ejército permanente —esa descentralización los hacía imposibles de decapitar—, y aprendieron rápido: en pocas décadas incorporaron el caballo, adaptaron sus tácticas y capturaron y mataron a dos gobernadores, entre ellos Pedro de Valdivia. Tras el desastre de Curalaba en 1598 destruyeron todas las ciudades al sur del Biobío. En 1641, la corona firmó el parlamento de Quillín, reconociendo de hecho la frontera y su independencia. Chile no incorporó esos territorios hasta la década de 1880, ya como república.",
+    "imagenes": [
+      "/images/suramerica/sa2_mapuches-mapa-chile-espa-c3-b1oles-y-araucanos-jpg_wikimedia.jpg"
+    ]
+  },
+  {
     "id": "sa-vilcabamba",
     "region": "suramerica",
     "tipo": "evento",
@@ -213,6 +357,18 @@
     "descripcion_corta": "Tras el fracaso del cerco del Cusco, Manco Inca y sus sucesores mantuvieron durante treinta y seis años un Estado inca independiente en Vilcabamba, en la ceja de selva al noroeste del Cusco: con su propio ejército, sus templos y su corte, hostigando a los españoles desde las montañas. El virrey Toledo terminó con él en 1572: capturó al último inca, Túpac Amaru I, lo llevó al Cusco y lo decapitó en la plaza pública ante una multitud indígena que, según los cronistas, gimió de tal modo que hubo que ordenar silencio. Su ejecución cerró la resistencia organizada, pero abrió otra cosa: la creencia del Inkarrí, según la cual el cuerpo del inca se está recomponiendo bajo tierra y volverá algún día a restaurar el orden.",
     "imagenes": [
       "/images/suramerica/sa_vilcabamba-tupacamarui-jpg_wikimedia.jpg"
+    ]
+  },
+  {
+    "id": "sa-misiones",
+    "region": "suramerica",
+    "tipo": "evento",
+    "titulo": "Las misiones jesuíticas",
+    "fecha_inicio": 1609,
+    "fecha_fin": 1767,
+    "descripcion_corta": "En la cuenca del Paraná, los jesuitas organizaron desde 1609 unas treinta reducciones donde llegaron a vivir más de cien mil guaraníes. Eran pueblos con plaza, iglesia, talleres, escuela e imprenta, con trabajo comunal y propiedad en buena parte colectiva, gobernados por cabildos indígenas bajo tutela de los padres. Se les enseñó música europea —fabricaban violines y órganos, y hay partituras barrocas escritas allí— y se les permitió armarse para defenderse de los bandeirantes paulistas que los cazaban para esclavizarlos, formando milicias que llegaron a derrotarlos. Ese poder y esa autonomía incomodaron a las coronas: en 1767 Carlos III expulsó a los jesuitas y las misiones se desmantelaron en pocos años.",
+    "imagenes": [
+      "/images/suramerica/sa2_misiones-misiones-san-ignacio-ruinas-de-la-antigua-igl_wikimedia.jpg"
     ]
   },
   {
@@ -249,6 +405,18 @@
     "descripcion_corta": "Simón Bolívar dirigió la independencia del norte de Suramérica con una mezcla de audacia militar y proyecto político. En 1819 cruzó los Andes por el páramo de Pisba en plena estación de lluvias, con tropas llaneras y una legión británica, y sorprendió a los realistas en Boyacá, liberando Nueva Granada en una campaña de once semanas. Ese mismo año proclamó la Gran Colombia, que unía las actuales Colombia, Venezuela, Ecuador y Panamá, y después vinieron Carabobo y Pichincha. Su sueño de una confederación hispanoamericana chocó con los caudillos regionales y las rivalidades locales: la Gran Colombia se disolvió en 1830, el año de su muerte, cuando escribió amargamente que quien sirve una revolución ara en el mar.",
     "imagenes": [
       "/images/suramerica/sa_bolivar-sim-c3-b3n-bol-c3-advar-toro-moreno-2c-luis-1_wikimedia.png"
+    ]
+  },
+  {
+    "id": "sa-brasil",
+    "region": "suramerica",
+    "tipo": "evento",
+    "titulo": "La independencia de Brasil",
+    "fecha_inicio": 1822,
+    "fecha_fin": null,
+    "descripcion_corta": "La independencia brasileña siguió un camino único en América. Cuando Napoleón invadió Portugal en 1807, la corte entera —unas diez mil personas con el rey a la cabeza— cruzó el Atlántico y se instaló en Río de Janeiro, que pasó de colonia a capital del imperio. Al regresar el rey a Lisboa en 1821, dejó a su hijo Pedro como regente, y cuando las cortes portuguesas quisieron devolver a Brasil su estatus subordinado, este proclamó la independencia a orillas del Ipiranga en septiembre de 1822 y se hizo coronar emperador. Fue un proceso casi sin guerra, que conservó la monarquía, la unidad territorial de un país continental y también la esclavitud, que Brasil sería el último país de América en abolir, en 1888.",
+    "imagenes": [
+      "/images/suramerica/sa2_brasil-pedro-am-c3-a9rico-independ-c3-aancia-ou-mort_wikimedia.jpg"
     ]
   },
   {

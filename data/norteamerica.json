@@ -12,6 +12,54 @@
     ]
   },
   {
+    "id": "na-arcaico",
+    "region": "norteamerica",
+    "tipo": "evento",
+    "titulo": "El período Arcaico",
+    "fecha_inicio": -8000,
+    "fecha_fin": -1000,
+    "descripcion_corta": "Extinguida la megafauna y estabilizado el clima, durante siete mil años los pueblos de Norteamérica se adaptaron a cada región con una precisión asombrosa: pescadores en la costa noroeste, recolectores de bellotas en California, cazadores de bisonte en las llanuras, marisqueros en el Atlántico. Aparecen los primeros cementerios organizados, el comercio a media distancia y las primeras redes de parentesco extensas. De este período son hallazgos como el yacimiento de Windover, en Florida, donde el fondo de una turbera conservó cestería, tejidos y hasta tejido cerebral de hace 7 000 años, o el llamado hombre de Kennewick, cuyo estudio y repatriación abrió un largo debate legal y ético sobre a quién pertenecen los restos ancestrales.",
+    "imagenes": [
+      "/images/norteamerica/na2_arcaico_na-kennewick-man-jpg_wikimedia.jpg"
+    ]
+  },
+  {
+    "id": "na-cobre",
+    "region": "norteamerica",
+    "tipo": "evento",
+    "titulo": "El cobre del lago Superior",
+    "fecha_inicio": -4000,
+    "fecha_fin": -1000,
+    "descripcion_corta": "Alrededor del lago Superior aflora cobre nativo casi puro, y hacia el 4000 a. C. los pueblos de la zona empezaron a extraerlo de vetas y guijarros y a trabajarlo a martillo y recocido para hacer puntas, anzuelos, cuchillos, punzones y brazaletes. Es una de las tradiciones metalúrgicas más antiguas del mundo, anterior a la de buena parte de Eurasia, aunque siguió un camino distinto: nunca pasó a la fundición ni a la aleación, y el metal se usó tanto por su utilidad como por su valor de prestigio. Esos objetos aparecen después a miles de kilómetros, en tumbas del Misisipi y del sureste, lo que demuestra redes de intercambio continentales milenios antes de Cahokia.",
+    "imagenes": [
+      "/images/norteamerica/na2_cobre-copper-knife-2c-spearpoints-2c-awls-2c-and-sp_wikimedia.jpg"
+    ]
+  },
+  {
+    "id": "na-poverty-point",
+    "region": "norteamerica",
+    "tipo": "evento",
+    "titulo": "Poverty Point",
+    "fecha_inicio": -1700,
+    "fecha_fin": -1100,
+    "descripcion_corta": "En la actual Luisiana, hacia 1700 a. C., un pueblo que aún vivía de la caza, la pesca y la recolección levantó un conjunto monumental: seis hileras concéntricas de terraplenes en semicírculo de más de un kilómetro de diámetro, y varios montículos, uno de ellos con forma de ave de veintidós metros de altura. Se calcula que movieron cerca de 750 000 metros cúbicos de tierra en cestas, sin animales de tiro ni ruedas, y que buena parte se hizo en pocos meses. Rompe la idea de que solo las sociedades agrícolas construyen monumentos. Allí llegaban piedra y minerales de hasta 1 500 km de distancia, y hoy es Patrimonio de la Humanidad.",
+    "imagenes": [
+      "/images/norteamerica/na2_poverty-bird-mound-at-poverty-point-jpg_wikimedia.jpg"
+    ]
+  },
+  {
+    "id": "na-agricultura-este",
+    "region": "norteamerica",
+    "tipo": "evento",
+    "titulo": "La agricultura del este",
+    "fecha_inicio": -1100,
+    "fecha_fin": 900,
+    "descripcion_corta": "El este de Norteamérica es uno de los pocos focos independientes de domesticación de plantas del mundo. Antes de que llegara el maíz desde México, sus habitantes ya cultivaban un conjunto propio de especies locales: girasol, calabaza, chenopodio, erecthites, cebada silvestre y otras semillas oleaginosas, seleccionadas durante siglos hasta agrandar sus granos. Esa base agrícola sostuvo a las sociedades de los montículos. Cuando el maíz se generalizó, hacia el año 900, casi todos esos cultivos fueron abandonados y muchos se conocen solo por los restos carbonizados de los yacimientos: una agricultura entera inventada y después olvidada.",
+    "imagenes": [
+      "/images/norteamerica/na2_agricultura_este-a-sunflower-jpg_wikimedia.jpg"
+    ]
+  },
+  {
     "id": "na-adena",
     "region": "norteamerica",
     "tipo": "evento",
@@ -21,6 +69,18 @@
     "descripcion_corta": "En los valles del Ohio y el Misisipi, la cultura Adena empezó hacia el 1000 a. C. a levantar túmulos de tierra para enterrar a sus muertos, algunos de más de veinte metros de altura, construidos cesta a cesta durante generaciones. Vivían en aldeas pequeñas, cultivaban calabaza y plantas locales antes de que llegara el maíz, y cazaban y recolectaban el resto. Sus tumbas contienen pipas de piedra finamente talladas, láminas de mica y objetos de cobre nativo del lago Superior, señal de intercambios a larga distancia. Cuando los colonos europeos encontraron esos montículos siglos después se negaron a creer que los hubieran hecho los indígenas y los atribuyeron a fenicios, vikingos o a una 'raza perdida', un prejuicio que la arqueología tardó en desmontar.",
     "imagenes": [
       "/images/norteamerica/na_adena-adena-house-jpg_wikimedia.jpg"
+    ]
+  },
+  {
+    "id": "na-hohokam",
+    "region": "norteamerica",
+    "tipo": "evento",
+    "titulo": "Los hohokam y sus canales",
+    "fecha_inicio": -300,
+    "fecha_fin": 1450,
+    "descripcion_corta": "En el desierto de Sonora, donde hoy está Phoenix, los hohokam construyeron el mayor sistema de riego prehispánico de Norteamérica: cientos de kilómetros de canales excavados a mano en el valle del río Salado y del Gila, algunos de más de veinte kilómetros de largo y tres metros de profundidad, con compuertas para repartir el agua. Regaban maíz, frijol, calabaza, algodón y agave en una tierra que recibe menos de 200 mm de lluvia al año. Tenían canchas de juego de pelota y plataformas ceremoniales, señal de contacto con Mesoamérica. Su nombre viene del término o'odham huhugam, 'los que se fueron'; los canales modernos de Phoenix siguen en parte sus trazados.",
+    "imagenes": [
+      "/images/norteamerica/na2_hohokam-oasisam-c3-a9rica-hohokam-png_wikimedia.png"
     ]
   },
   {
@@ -36,6 +96,30 @@
     ]
   },
   {
+    "id": "na-mogollon",
+    "region": "norteamerica",
+    "tipo": "evento",
+    "titulo": "Los mogollón y Casas Grandes",
+    "fecha_inicio": -150,
+    "fecha_fin": 1450,
+    "descripcion_corta": "Entre las montañas de Nuevo México, Arizona y el norte de Chihuahua, los mogollón combinaron caza, recolección y agricultura de temporal, viviendo primero en casas foso y después en pueblos de adobe. Su rama Mimbres produjo una de las cerámicas más reconocibles de América: cuencos blancos con dibujos negros de peces, insectos, conejos y figuras humanas, casi siempre hallados sobre el rostro de un difunto y perforados ritualmente para 'matar' la pieza. Más al sur, Paquimé (Casas Grandes) fue un gran centro comercial con edificios de varios pisos, canalizaciones de agua y corrales para criar guacamayos traídos de Mesoamérica, cuyas plumas se intercambiaban hacia el norte.",
+    "imagenes": [
+      "/images/norteamerica/na2_mogollon-paquime1-jpg_wikimedia.jpg"
+    ]
+  },
+  {
+    "id": "na-arco",
+    "region": "norteamerica",
+    "tipo": "evento",
+    "titulo": "El arco y la flecha",
+    "fecha_inicio": 500,
+    "fecha_fin": null,
+    "descripcion_corta": "Durante milenios se cazó en Norteamérica con lanza y propulsor (atlatl). El arco llegó desde el Ártico y se generalizó por el continente alrededor del año 500, y su efecto fue mayor de lo que parece: permitía disparar más rápido, desde más lejos y agazapado, y podía usarlo cualquiera con entrenamiento, no solo un cazador experto. Los arqueólogos lo detectan por el cambio brusco en el tamaño de las puntas de proyectil, que se vuelven mucho más pequeñas. Coincide en varias regiones con un aumento de las fortificaciones y de los esqueletos con heridas de guerra, así que su adopción parece haber alterado también el equilibrio militar entre grupos.",
+    "imagenes": [
+      "/images/norteamerica/na2_arco-fleche-cartailhac-mhnt-pre-2009-0-232-2-simpl_wikimedia.jpg"
+    ]
+  },
+  {
     "id": "na-anasazi",
     "region": "norteamerica",
     "tipo": "evento",
@@ -45,6 +129,30 @@
     "descripcion_corta": "En la meseta del Colorado, donde hoy se juntan cuatro estados, los ancestrales pueblo —llamados también anasazi— construyeron pueblos de piedra y adobe de varios pisos. En el Cañón del Chaco levantaron 'grandes casas' como Pueblo Bonito, con cientos de habitaciones y kivas circulares para el ritual, conectadas por caminos rectilíneos de decenas de kilómetros y por un sistema de señales visuales entre cumbres; varias estructuras están alineadas con los solsticios y con los ciclos lunares. Más tarde edificaron aldeas encajadas bajo salientes rocosos, como el Cliff Palace de Mesa Verde. A finales del siglo XIII abandonaron la región, en coincidencia con una sequía de décadas documentada en los anillos de los árboles, y se desplazaron al sur: sus descendientes son los hopi, zuñi y los pueblos del río Grande.",
     "imagenes": [
       "/images/norteamerica/na_anasazi-cliff-palace-2c-mesa-verde-park-2c-colorado-2_wikimedia.jpg"
+    ]
+  },
+  {
+    "id": "na-chaco",
+    "region": "norteamerica",
+    "tipo": "evento",
+    "titulo": "El Cañón del Chaco",
+    "fecha_inicio": 850,
+    "fecha_fin": 1150,
+    "descripcion_corta": "En un cañón árido de Nuevo México, los ancestrales pueblo levantaron entre 850 y 1150 un conjunto que sigue desconcertando: quince 'grandes casas' de varios pisos y cientos de habitaciones, como Pueblo Bonito, construidas con muros de mampostería fina y vigas de pino traídas a hombros desde más de setenta kilómetros —se calculan 200 000 troncos—. Salen de allí caminos rectilíneos de decenas de kilómetros que no rodean los obstáculos sino que los atraviesan con escalinatas talladas. Varias construcciones marcan los solsticios y el ciclo lunar de 18,6 años. Lo llamativo es que se ha encontrado poca basura doméstica: quizá no fue tanto una ciudad como un centro ceremonial de peregrinación.",
+    "imagenes": [
+      "/images/norteamerica/na2_chaco-casarinconada-jpg_wikimedia.jpg"
+    ]
+  },
+  {
+    "id": "na-thule",
+    "region": "norteamerica",
+    "tipo": "evento",
+    "titulo": "Los thule y el Ártico",
+    "fecha_inicio": 900,
+    "fecha_fin": 1400,
+    "descripcion_corta": "Hacia el año 900, desde el norte de Alaska, la cultura thule se expandió por todo el Ártico americano hasta Groenlandia en apenas unas generaciones. Su ventaja fue tecnológica: el umiak y el kayak, el arpón con cabeza desmontable y flotador de piel de foca, el trineo de perros y la lámpara de aceite de esteatita, que permitían cazar ballena de Groenlandia y sobrevivir el invierno en casas semisubterráneas de piedra, hueso de ballena y turba. Desplazaron a la cultura dorset que los precedía, coincidieron con los nórdicos de Groenlandia —hay objetos de hierro y bronce europeos en sus yacimientos— y son los antepasados directos de los inuit actuales.",
+    "imagenes": [
+      "/images/norteamerica/na2_thule-cambridge-bay-thule-site-1998-06-28-jpg_wikimedia.jpg"
     ]
   },
   {
@@ -60,6 +168,42 @@
     ]
   },
   {
+    "id": "na-mesa-verde",
+    "region": "norteamerica",
+    "tipo": "evento",
+    "titulo": "Mesa Verde",
+    "fecha_inicio": 1190,
+    "fecha_fin": 1300,
+    "descripcion_corta": "Después de Chaco, y en un clima que empeoraba, los ancestrales pueblo del suroeste de Colorado dejaron las mesetas abiertas y construyeron sus poblados encajados bajo los salientes de los cañones: el Cliff Palace, con unas 150 habitaciones y veintitrés kivas, es el mayor de América del Norte. Se accedía trepando por muescas talladas en la roca vertical, y los campos quedaban arriba, en la meseta, a la que había que subir cada día. La elección tiene la lectura evidente: defensa. En pocas décadas, hacia 1300, la región entera fue abandonada, coincidiendo con una sequía prolongada documentada en los anillos de los árboles y con señales de violencia entre comunidades.",
+    "imagenes": [
+      "/images/norteamerica/na2_mesaverde-cliff-palace-colorado-mesa-verde-np-jpg_wikimedia.jpg"
+    ]
+  },
+  {
+    "id": "na-llanuras",
+    "region": "norteamerica",
+    "tipo": "evento",
+    "titulo": "Los pueblos de las llanuras",
+    "fecha_inicio": 1300,
+    "fecha_fin": 1700,
+    "descripcion_corta": "Antes del caballo, cazar bisonte a pie exigía una coordinación extraordinaria: se los conducía durante días hacia despeñaderos como Head-Smashed-In, en Alberta, usado durante casi 6 000 años, donde caían por decenas y se aprovechaba todo —carne secada en pemmican, pieles para tipis y ropa, tendones para cuerdas, huesos para herramientas, estómagos como recipientes—. Convivían pueblos nómadas cazadores con otros sedentarios que cultivaban maíz en las riberas del Misuri, como los mandan y los hidatsa, y comerciaban entre sí. Ese equilibrio se transformó por completo cuando llegaron los caballos escapados de las colonias españolas.",
+    "imagenes": [
+      "/images/norteamerica/na2_llanuras-george-catlin-buffalo-bulls-back-fat-smithson_wikimedia.jpg"
+    ]
+  },
+  {
+    "id": "na-totem",
+    "region": "norteamerica",
+    "tipo": "evento",
+    "titulo": "La costa noroeste",
+    "fecha_inicio": 1400,
+    "fecha_fin": null,
+    "descripcion_corta": "Entre el sur de Alaska y el norte de California, la abundancia extraordinaria del salmón y del mar permitió algo poco común: sociedades complejas, jerarquizadas y con arte monumental sin agricultura. Los tlingit, haida, kwakiutl y otros pueblos construían grandes casas comunales de cedro para varias familias, tallaban canoas de un solo tronco para navegar en alta mar y levantaban postes tallados —los tótems— que no eran objetos de culto sino registros heráldicos: contaban la genealogía y los derechos de un linaje. Su institución más conocida es el potlatch, una fiesta en la que el anfitrión ganaba prestigio regalando o destruyendo sus bienes, y que los gobiernos de Canadá y Estados Unidos llegaron a prohibir por considerarla un despilfarro.",
+    "imagenes": [
+      "/images/norteamerica/na2_totem-kwakiutl1-jpg_wikimedia.jpg"
+    ]
+  },
+  {
     "id": "na-iroqueses",
     "region": "norteamerica",
     "tipo": "evento",
@@ -72,6 +216,54 @@
     ]
   },
   {
+    "id": "na-ponce-de-leon",
+    "region": "norteamerica",
+    "tipo": "evento",
+    "titulo": "Ponce de León y La Florida",
+    "fecha_inicio": 1513,
+    "fecha_fin": null,
+    "descripcion_corta": "En 1513, Juan Ponce de León desembarcó en la península que bautizó La Florida por la Pascua Florida, en el primer contacto europeo documentado con el actual territorio continental de Estados Unidos. La leyenda de que buscaba la fuente de la eterna juventud es un añadido posterior de sus cronistas; iba tras tierras, oro y mano de obra. Los calusa lo recibieron a flechazos y murió en 1521 por una herida en un segundo intento de colonización. Aquellos contactos, breves y fracasados, tuvieron sin embargo un efecto devastador que nadie vio: las enfermedades introducidas se adelantaron a los colonos y diezmaron sociedades enteras del sureste antes de que ningún europeo volviera a verlas.",
+    "imagenes": [
+      "/images/norteamerica/na2_poncedeleon-juan-ponce-de-le-c3-b3n-jpg_wikimedia.jpg"
+    ]
+  },
+  {
+    "id": "na-de-soto",
+    "region": "norteamerica",
+    "tipo": "evento",
+    "titulo": "Las entradas de De Soto y Coronado",
+    "fecha_inicio": 1539,
+    "fecha_fin": 1543,
+    "descripcion_corta": "Entre 1539 y 1543, dos expediciones españolas recorrieron el interior del continente buscando otro Perú. Hernando de Soto atravesó el sureste con más de seiscientos hombres, cruzó el Misisipi, saqueó y quemó los grandes poblados con montículos que aún funcionaban y murió a orillas del río. Francisco Vázquez de Coronado llegó desde el sur hasta Kansas persiguiendo las ciudades doradas de Cíbola, que resultaron ser los pueblos zuñi. No encontraron oro y ambas se consideraron fracasos, pero sus crónicas son la única descripción de aquellas sociedades del Misisipi en pie. Los cerdos, los caballos y sobre todo las epidemias que dejaron atrás las desmantelaron: cuando los franceses llegaron un siglo después, ya no quedaba casi nada.",
+    "imagenes": [
+      "/images/norteamerica/na2_desoto-hernando-de-soto-jpg_wikimedia.jpg"
+    ]
+  },
+  {
+    "id": "na-san-agustin",
+    "region": "norteamerica",
+    "tipo": "evento",
+    "titulo": "San Agustín",
+    "fecha_inicio": 1565,
+    "fecha_fin": null,
+    "descripcion_corta": "Pedro Menéndez de Avilés fundó San Agustín en septiembre de 1565, cuarenta y dos años antes que Jamestown y cincuenta y cinco antes de que llegara el Mayflower. Es el asentamiento europeo continuamente habitado más antiguo del territorio continental estadounidense. Nació con una función militar: proteger la ruta de la Flota de Indias frente a los corsarios franceses, cuyo fuerte cercano acababa de arrasar. Fue quemada por Francis Drake en 1586 y por los ingleses en 1702, y siempre se reconstruyó; su fortaleza de piedra coquina, el Castillo de San Marcos, nunca cayó por asalto. La ciudad conserva un trazado y una toponimia que recuerdan que el pasado colonial de Estados Unidos no empieza en inglés.",
+    "imagenes": [
+      "/images/norteamerica/na2_sanagustin-staugustinec12-png_wikimedia.png"
+    ]
+  },
+  {
+    "id": "na-caballo",
+    "region": "norteamerica",
+    "tipo": "evento",
+    "titulo": "El regreso del caballo",
+    "fecha_inicio": 1600,
+    "fecha_fin": 1750,
+    "descripcion_corta": "El caballo había evolucionado en América y se extinguió allí al final de la glaciación. Volvió con los españoles, y a partir de los que escaparon o fueron capturados —sobre todo tras la rebelión Pueblo de 1680, que dejó miles de animales sueltos— se difundió hacia el norte de pueblo en pueblo. En dos o tres generaciones transformó las llanuras: comanches, sioux, cheyenes y otros pasaron a una vida ecuestre, podían seguir a las manadas de bisontes, transportar tipis más grandes y golpear a cientos de kilómetros. Los comanches construyeron con ello un dominio que frenó la expansión española hacia el norte durante un siglo. Esa cultura ecuestre tan asociada al indio de las llanuras duró apenas siglo y medio.",
+    "imagenes": [
+      "/images/norteamerica/na2_caballo-mustanggelding-jpg_wikimedia.jpg"
+    ]
+  },
+  {
     "id": "na-jamestown",
     "region": "norteamerica",
     "tipo": "evento",
@@ -81,6 +273,18 @@
     "descripcion_corta": "En 1607, unos cien colonos enviados por una compañía por acciones fundaron Jamestown, el primer asentamiento inglés permanente en América. Fue un desastre inicial: buscaban oro en vez de sembrar, eligieron un terreno pantanoso con agua salobre y llegaron en plena sequía. En el invierno de 1609, el 'tiempo del hambre', murieron cuatro de cada cinco colonos y hubo casos documentados de canibalismo. Sobrevivió gracias al tabaco, que John Rolfe empezó a cultivar en 1612 y se convirtió en la exportación que sostuvo Virginia. Ese cultivo, muy intensivo en mano de obra, definió el rumbo de la colonia: primero sirvientes por contrato llegados de Inglaterra, y con el tiempo, esclavitud africana hereditaria fijada en las leyes.",
     "imagenes": [
       "/images/norteamerica/na_jamestown-jamestownzuniga-jpg_wikimedia.jpg"
+    ]
+  },
+  {
+    "id": "na-santa-fe",
+    "region": "norteamerica",
+    "tipo": "evento",
+    "titulo": "Santa Fe y Nuevo México",
+    "fecha_inicio": 1610,
+    "fecha_fin": null,
+    "descripcion_corta": "Fundada en 1610 como capital de la provincia de Nuevo México, Santa Fe es la capital estatal más antigua de Estados Unidos. La colonia era pobre, remota —el camino a Ciudad de México llevaba meses— y se sostenía sobre dos pilares: las misiones franciscanas, que buscaban erradicar la religión de los pueblo, y la encomienda, que exigía tributo y trabajo a las comunidades indígenas. Esa doble presión, sumada a una sequía prolongada y a las incursiones de apaches y navajos, fue creando una tensión que estallaría setenta años después. El Palacio de los Gobernadores, construido entonces, sigue en pie y es el edificio público más antiguo del país.",
+    "imagenes": [
+      "/images/norteamerica/na2_santafe-santa-fe-2c-new-mexico-montage-1-png_wikimedia.png"
     ]
   },
   {
@@ -105,6 +309,42 @@
     "descripcion_corta": "En noviembre de 1620 llegó a Cabo Cod el Mayflower con un centenar de pasajeros, la mitad de ellos separatistas religiosos que huían de la Iglesia de Inglaterra. Como habían arribado fuera de la jurisdicción de su patente, firmaron a bordo el Pacto del Mayflower, un acuerdo de gobierno por consentimiento mutuo que suele citarse como precedente del autogobierno estadounidense. Sobrevivieron al primer invierno —murió la mitad— con la ayuda de los wampanoag y de Tisquantum, que hablaba inglés porque años antes había sido secuestrado y llevado a Europa. La convivencia inicial no duró: la presión de la colonización desembocó en la guerra del rey Felipe (1675-1678), proporcionalmente uno de los conflictos más mortíferos de la historia norteamericana.",
     "imagenes": [
       "/images/norteamerica/na_mayflower-mayflower-in-plymouth-harbor-2c-by-william-ha_wikimedia.jpg"
+    ]
+  },
+  {
+    "id": "na-revuelta-pueblo",
+    "region": "norteamerica",
+    "tipo": "evento",
+    "titulo": "La rebelión Pueblo",
+    "fecha_inicio": 1680,
+    "fecha_fin": 1692,
+    "descripcion_corta": "El 10 de agosto de 1680, más de veinte comunidades pueblo que hablaban lenguas distintas y llevaban generaciones enfrentadas se coordinaron para levantarse a la vez. El plan lo articuló Popé, un líder religioso de Ohkay Owingeh azotado públicamente años antes por practicar su religión; se enviaron cuerdas con nudos a cada pueblo para contar los días que faltaban. Mataron a unos cuatrocientos colonos y a veintiún de los treinta y tres franciscanos, y expulsaron a los dos mil supervivientes hasta El Paso. Nuevo México quedó libre doce años, el caso más rotundo de expulsión de una potencia colonial europea en Norteamérica. España volvió en 1692, pero ya sin encomienda y tolerando en gran medida las ceremonias tradicionales.",
+    "imagenes": [
+      "/images/norteamerica/na2_revuelta_pueblo-u-s-capitol-po-e2-80-99pay-statue-jpg_wikimedia.jpg"
+    ]
+  },
+  {
+    "id": "na-guerra-franco-india",
+    "region": "norteamerica",
+    "tipo": "evento",
+    "titulo": "La guerra franco-india",
+    "fecha_inicio": 1754,
+    "fecha_fin": 1763,
+    "descripcion_corta": "El choque entre Francia y Gran Bretaña por el valle del Ohio se convirtió en la fase americana de la Guerra de los Siete Años, considerada por muchos el primer conflicto verdaderamente mundial. Empezó con una escaramuza dirigida por un joven oficial de la milicia de Virginia llamado George Washington. Las naciones indígenas —hurones, algonquinos y abenaki con los franceses; la mayoría de los iroqueses con los británicos— no fueron comparsas, sino que jugaron sus propias cartas entre dos imperios. Gran Bretaña ganó y se quedó con Canadá y todo al este del Misisipi, pero con una deuda enorme que intentó cubrir con impuestos a las colonias: de ahí salió, una década después, la independencia.",
+    "imagenes": [
+      "/images/norteamerica/na2_francoindia-fortduquesne-jpg_wikimedia.jpg"
+    ]
+  },
+  {
+    "id": "na-motin-del-te",
+    "region": "norteamerica",
+    "tipo": "evento",
+    "titulo": "El motín del té",
+    "fecha_inicio": 1773,
+    "fecha_fin": null,
+    "descripcion_corta": "La noche del 16 de diciembre de 1773, un grupo de bostonianos disfrazados de mohawk abordó tres barcos de la Compañía de las Indias Orientales y arrojó al puerto 342 cajas de té, unas 45 toneladas. La protesta no era por un impuesto nuevo: la Ley del Té abarataba el producto, pero concedía el monopolio a una compañía y daba por sentado el derecho del Parlamento a gravar a las colonias sin representación. Londres respondió con las Leyes Intolerables, que cerraron el puerto de Boston y suspendieron el autogobierno de Massachusetts, y esa dureza terminó de unir a colonias que hasta entonces se miraban con recelo. Al año siguiente se reunía el Primer Congreso Continental.",
+    "imagenes": [
+      "/images/norteamerica/na2_motinte-boston-tea-party-currier-colored-jpg_wikimedia.jpg"
     ]
   },
   {
