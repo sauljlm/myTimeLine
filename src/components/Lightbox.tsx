@@ -1,6 +1,7 @@
 "use client";
 
 import { BloqueEvento } from "@/types/timeline";
+import { TextoConNegritas } from "./TextoConNegritas";
 
 interface LightboxProps {
   evento: BloqueEvento;
@@ -48,7 +49,7 @@ export function Lightbox({ evento, imagenIndex, onClose }: LightboxProps) {
           {evento.titulo}
         </h2>
         <p style={{ fontSize: 12, color: "var(--color-texto-secundario)" }}>
-          {evento.descripcion_corta}
+          <TextoConNegritas texto={evento.descripcion_corta} />
         </p>
         {evento.links && evento.links.length > 0 && (
           <div style={{ marginTop: 8, display: "flex", flexDirection: "column", gap: 4 }}>

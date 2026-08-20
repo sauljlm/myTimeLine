@@ -221,7 +221,7 @@
     {
       "id": "edad-media",
       "nombre": "Edad Media",
-      "orden_vertical": 6,
+      "orden_vertical": 4.5,
       "color": "var(--color-edad-media)",
       "fecha_inicio": 476,
       "fecha_fin": 1492,
@@ -241,7 +241,7 @@
     {
       "id": "costa-rica",
       "nombre": "Costa Rica",
-      "orden_vertical": 7,
+      "orden_vertical": 11,
       "color": "var(--color-costa-rica)",
       "fecha_inicio": -10000,
       "fecha_fin": 1500,
@@ -340,30 +340,30 @@
     },
     {
       "id": "centroamerica",
-      "nombre": "Centroamérica y Mesoamérica",
+      "nombre": "Centroamérica",
       "orden_vertical": 9,
       "color": "var(--color-centroamerica)",
-      "fecha_inicio": -1600,
+      "fecha_inicio": -600,
       "fecha_fin": 1900,
       "subperiodos": [
         {
-          "nombre": "Preclásico (olmecas)",
-          "fecha_inicio": -1600,
-          "fecha_fin": -200
+          "nombre": "Preclásico maya",
+          "fecha_inicio": -600,
+          "fecha_fin": 250
         },
         {
-          "nombre": "Clásico (mayas, Teotihuacán)",
-          "fecha_inicio": -200,
+          "nombre": "Clásico maya",
+          "fecha_inicio": 250,
           "fecha_fin": 900
         },
         {
-          "nombre": "Posclásico (toltecas, aztecas)",
+          "nombre": "Posclásico",
           "fecha_inicio": 900,
-          "fecha_fin": 1521
+          "fecha_fin": 1524
         },
         {
           "nombre": "Colonia e independencia",
-          "fecha_inicio": 1521,
+          "fecha_inicio": 1524,
           "fecha_fin": 1900
         }
       ]
@@ -440,6 +440,41 @@
           "nombre": "Meiji",
           "fecha_inicio": 1868,
           "fecha_fin": 1912
+        }
+      ]
+    },
+    {
+      "id": "mexico",
+      "nombre": "México y Mesoamérica",
+      "orden_vertical": 8.5,
+      "color": "var(--color-mexico)",
+      "fecha_inicio": -1600,
+      "fecha_fin": 1900,
+      "subperiodos": [
+        {
+          "nombre": "Preclásico (olmecas)",
+          "fecha_inicio": -1600,
+          "fecha_fin": -200
+        },
+        {
+          "nombre": "Clásico (Teotihuacán, mayas)",
+          "fecha_inicio": -200,
+          "fecha_fin": 900
+        },
+        {
+          "nombre": "Posclásico (toltecas, aztecas)",
+          "fecha_inicio": 900,
+          "fecha_fin": 1521
+        },
+        {
+          "nombre": "Nueva España",
+          "fecha_inicio": 1521,
+          "fecha_fin": 1821
+        },
+        {
+          "nombre": "México independiente",
+          "fecha_inicio": 1821,
+          "fecha_fin": 1900
         }
       ]
     }

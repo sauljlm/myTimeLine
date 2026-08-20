@@ -24,7 +24,7 @@ export function TimelineCanvas({
   regionsFile,
   bloquesPorRegion,
 }: TimelineCanvasProps) {
-  const { viewportRef, canvasRef, rulerTrackRef, scale, zoomIn, zoomOut, resetView, minScale, maxScale } =
+  const { viewportRef, canvasRef, rulerTrackRef, etiquetasRef, scale, zoomIn, zoomOut, resetView, minScale, maxScale } =
     useCanvasPanZoom();
 
   const [lightbox, setLightbox] = useState<{
@@ -177,6 +177,60 @@ export function TimelineCanvas({
                   setLightbox({ evento, imagenIndex })
                 }
               />
+            </div>
+          ))}
+        </div>
+
+        {/* Nombre de cada carril, anclado a la izquierda de la pantalla. Va
+            fuera del canvas para no desplazarse ni escalar con él:
+            `useCanvasPanZoom` le aplica en cada frame solo el movimiento
+            vertical, de modo que cada etiqueta sigue a su carril al hacer
+            scroll pero no se va nunca del borde izquierdo. */}
+        <div
+          ref={etiquetasRef}
+          style={{
+            position: "absolute",
+            left: 0,
+            top: 0,
+            width: 0,
+            height: 0,
+            pointerEvents: "none",
+            zIndex: 5,
+            visibility: "hidden",
+          }}
+        >
+          {regionesOrdenadas.map((region) => (
+            <div
+              key={region.id}
+              data-top={topsPorRegion[region.id] ?? 0}
+              style={{
+                position: "absolute",
+                left: 12,
+                top: 0,
+                whiteSpace: "nowrap",
+                display: "flex",
+                alignItems: "center",
+                gap: 6,
+                padding: "3px 10px 3px 6px",
+                background: "rgba(244, 243, 240, 0.92)",
+                border: "1px solid var(--color-borde-tabla)",
+                borderRadius: 2,
+                fontSize: 11,
+                fontWeight: 700,
+                textTransform: "uppercase",
+                letterSpacing: 0.4,
+                color: "var(--color-texto-principal)",
+              }}
+            >
+              <span
+                style={{
+                  width: 8,
+                  height: 14,
+                  background: region.color,
+                  flexShrink: 0,
+                }}
+              />
+              {region.nombre}
             </div>
           ))}
         </div>

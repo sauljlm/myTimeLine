@@ -2,6 +2,7 @@
 
 import { useState } from "react";
 import { BloqueEvento } from "@/types/timeline";
+import { TextoConNegritas } from "./TextoConNegritas";
 import { formatearAnio } from "@/lib/timeScale";
 
 interface EventCardProps {
@@ -94,7 +95,7 @@ export function EventCard({ evento, onOpenLightbox }: EventCardProps) {
               }),
         }}
       >
-        {evento.descripcion_corta}
+        <TextoConNegritas texto={evento.descripcion_corta} />
       </p>
       {/* ~180 caracteres es una estimación de cuánto entra en 4 líneas a
           este ancho/tamaño de fuente — no hace falta medir el DOM para

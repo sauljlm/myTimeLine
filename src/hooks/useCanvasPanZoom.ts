@@ -27,6 +27,10 @@ export interface BoundingBox {
 // forma del conjunto y decidir a dónde acercarse.
 const MIN_SCALE = 0.01;
 const MAX_SCALE = 4;
+// A partir de este zoom se muestran las etiquetas fijas con el nombre de
+// cada carril. Por debajo se ven tantos carriles a la vez que se
+// amontonarían unas sobre otras.
+const ZOOM_MINIMO_ETIQUETAS = 0.05;
 const SCALE_STATE_DEBOUNCE_MS = 60;
 const ZOOM_STEP = 1.2;
 
@@ -50,6 +54,7 @@ export function useCanvasPanZoom() {
   // La pista de la regla de tiempo (solo se traslada/escala en X, ya que
   // verticalmente queda fija con `position: sticky`).
   const rulerTrackRef = useRef<HTMLDivElement | null>(null);
+  const etiquetasRef = useRef<HTMLDivElement | null>(null);
   const view = useRef<ViewState>({ x: 0, y: 0, scale: 1 });
 
   const [scale, setScale] = useState(1);
@@ -87,6 +92,32 @@ export function useCanvasPanZoom() {
       el.style.transform = `translate(${x}px, ${y}px) scale(${s})`;
       el.style.transformOrigin = "0 0";
     }
+    // Etiquetas fijas del nombre de cada carril: no viven dentro del canvas
+    // (si no, se irían con el desplazamiento horizontal y se escalarían),
+    // así que se les aplica a mano solo la parte vertical del transform.
+    // Se hace aquí, en cada frame, y no con el estado `scale` de React, que
+    // llega con debounce: durante el gesto quedarían descolgadas del carril.
+    const etiquetas = etiquetasRef.current;
+    if (etiquetas) {
+      const visibles = s >= ZOOM_MINIMO_ETIQUETAS;
+      etiquetas.style.visibility = visibles ? "visible" : "hidden";
+      if (visibles) {
+        for (const hijo of Array.from(etiquetas.children) as HTMLElement[]) {
+          const topMundo = Number(hijo.dataset.top ?? 0);
+          // La etiqueta se apoya SOBRE la línea: su borde inferior coincide
+          // con el inicio del carril, en lugar de empezar ahí y taparlo. La
+          // altura se mide una sola vez y se guarda, para no forzar un
+          // reflujo de layout en cada frame.
+          let alto = Number(hijo.dataset.alto ?? 0);
+          if (!alto) {
+            alto = hijo.offsetHeight;
+            if (alto) hijo.dataset.alto = String(alto);
+          }
+          hijo.style.transform = `translateY(${y + topMundo * s - alto}px)`;
+        }
+      }
+    }
+
     const ruler = rulerTrackRef.current;
     if (ruler) {
       // Misma X que el canvas, pero `scaleX` (NO `scale` parejo) y sin
@@ -356,6 +387,7 @@ export function useCanvasPanZoom() {
     viewportRef,
     canvasRef,
     rulerTrackRef,
+    etiquetasRef,
     scale,
     zoomIn: () => zoomAtCenter(ZOOM_STEP),
     zoomOut: () => zoomAtCenter(1 / ZOOM_STEP),
