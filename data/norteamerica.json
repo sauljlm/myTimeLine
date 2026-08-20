@@ -942,5 +942,353 @@
       "/images/norteamerica/ctx_na-ctx-economia-industrial-andrew-carnegie-three-quarter-length-portrait-seat_wikimedia.jpg"
     ],
     "contextual": true
+  },
+  {
+    "id": "us-harvard-williams",
+    "region": "norteamerica",
+    "tipo": "evento",
+    "titulo": "Harvard y la libertad religiosa",
+    "fecha_inicio": 1636,
+    "fecha_fin": null,
+    "descripcion_corta": "**En 1636**, los puritanos de Massachusetts fundaron **Harvard**, la primera universidad de las colonias, para formar pastores: la educación fue una obsesión desde el principio, y en 1647 una ley obligó a cada pueblo de más de 50 familias a tener escuela.\n\nEse mismo año, el predicador **Roger Williams**, expulsado por defender que el Estado no debe imponer religión, fundó **Rhode Island**, la primera colonia con **separación entre Iglesia y Estado** y libertad de culto plena, donde se acogieron baptistas, cuáqueros y judíos.\n\nLa paradoja de Nueva Inglaterra está ahí: gente que huyó de la persecución religiosa y que perseguía a su vez a los disidentes, hasta que uno de los suyos inventó la tolerancia que acabaría en la Primera Enmienda.",
+    "imagenes": [
+      "/images/norteamerica/us2_us-harvard-williams-religious-denominations-of-the-world-comprising-a-_wikimedia.jpg"
+    ]
+  },
+  {
+    "id": "us-nueva-york",
+    "region": "norteamerica",
+    "tipo": "evento",
+    "titulo": "Nueva Ámsterdam pasa a ser Nueva York",
+    "fecha_inicio": 1664,
+    "fecha_fin": null,
+    "descripcion_corta": "**En 1664**, cuatro fragatas inglesas se plantaron frente a **Nueva Ámsterdam** y el gobernador holandés Peter Stuyvesant se rindió sin disparar. La colonia pasó a llamarse **Nueva York**, en honor al duque de York.\n\nLos holandeses habían comprado Manhattan a los lenape en 1626 por mercancías valoradas en 60 florines, y habían creado un puerto **políglota y comercial**: se hablaban dieciocho lenguas y convivían protestantes, católicos y la primera comunidad judía de Norteamérica.\n\nEse carácter abierto —negocio antes que doctrina— sobrevivió al cambio de bandera y define la ciudad hasta hoy. De la época holandesa quedan Brooklyn, Harlem, Wall Street —que era una muralla— y Santa Claus.",
+    "imagenes": [
+      "/images/norteamerica/us2_us-nueva-york-1671newamsterdam-jpg-utm-source-es-wikipedia-org-u_wikimedia.jpg"
+    ]
+  },
+  {
+    "id": "us-penn",
+    "region": "norteamerica",
+    "tipo": "evento",
+    "titulo": "William Penn y Pensilvania",
+    "fecha_inicio": 1682,
+    "fecha_fin": null,
+    "descripcion_corta": "**En 1682**, el cuáquero **William Penn** recibió del rey, en pago de una deuda, un territorio enorme donde fundó **Pensilvania** y trazó **Filadelfia**, la «ciudad del amor fraterno», con calles en cuadrícula y parques: el primer urbanismo planificado de las colonias.\n\nSu «experimento sagrado» incluía libertad religiosa total, juicio con jurado, prisiones pensadas para reformar y no solo castigar, y **tratados pagados y respetados con los lenape**, algo tan insólito que la paz duró setenta años.\n\nLos cuáqueros fueron además los primeros en condenar la esclavitud por escrito, en **1688**, y el motor del abolicionismo un siglo después. Filadelfia sería la ciudad donde se firmaron la Declaración de Independencia y la Constitución.",
+    "imagenes": [
+      "/images/norteamerica/us2_us-penn-william-penn-png-utm-source-es-wikipedia-org-utm-c_wikimedia.png"
+    ]
+  },
+  {
+    "id": "us-prensa-zenger",
+    "region": "norteamerica",
+    "tipo": "evento",
+    "titulo": "El juicio de Zenger y la prensa libre",
+    "fecha_inicio": 1735,
+    "fecha_fin": null,
+    "descripcion_corta": "**En 1735**, el impresor neoyorquino **John Peter Zenger** fue juzgado por difamar al gobernador real en su periódico. Según la ley inglesa, la verdad no era defensa: bastaba con haberlo publicado.\n\nSu abogado convenció al jurado de que **si lo publicado es cierto no hay delito**, y el jurado lo absolvió contra las instrucciones del juez. El caso no cambió la ley, pero sí la práctica: los gobernadores dejaron de perseguir a los impresores.\n\nLa prensa colonial creció desde el *Boston News-Letter* de **1704** hasta decenas de cabeceras que fueron el sistema nervioso de la revolución. De ese juicio y de esa costumbre sale la **Primera Enmienda**, y la idea de que la libertad de prensa es la garantía de las demás.",
+    "imagenes": [
+      "/images/norteamerica/us2_us-prensa-zenger-john-peter-zenger-trial-jpg-utm-source-es-wikipedi_wikimedia.jpg"
+    ]
+  },
+  {
+    "id": "us-ley-timbre",
+    "region": "norteamerica",
+    "tipo": "evento",
+    "titulo": "La Ley del Timbre",
+    "fecha_inicio": 1765,
+    "fecha_fin": null,
+    "descripcion_corta": "Para pagar la Guerra de los Siete Años, Londres impuso **en 1765** un impuesto sobre todo papel impreso en las colonias: periódicos, contratos, licencias, naipes. Afectaba precisamente a quienes más ruido podían hacer —abogados, comerciantes e impresores.\n\nLa respuesta fue el boicot a las mercancías británicas, los **Hijos de la Libertad** en la calle y un lema que resumió el conflicto: **«ningún impuesto sin representación»**. No discutían la cantidad, sino quién tenía derecho a decidirla.\n\nLondres derogó la ley al año siguiente, pero aprobó a la vez una declaración afirmando su autoridad absoluta sobre las colonias. La discusión de fondo quedó abierta y volvería, más caliente, con el té.",
+    "imagenes": [
+      "/images/norteamerica/us2_us-ley-timbre-sons-of-liberty-jpg-utm-source-es-wikipedia-org-ut_wikimedia.jpg"
+    ]
+  },
+  {
+    "id": "us-masacre-boston",
+    "region": "norteamerica",
+    "tipo": "evento",
+    "titulo": "La masacre de Boston",
+    "fecha_inicio": 1770,
+    "fecha_fin": null,
+    "descripcion_corta": "**La noche del 5 de marzo de 1770**, un grupo de vecinos hostigó con bolas de nieve, hielo y palos a un centinela británico frente a la aduana de Boston. Llegaron refuerzos, alguien gritó «fuego» y los soldados dispararon: **cinco muertos**, el primero de ellos **Crispus Attucks**, un marinero mulato que sería recordado como el primer caído de la revolución.\n\n**Paul Revere** difundió un grabado que mostraba a los soldados disparando en formación contra civiles pacíficos: propaganda eficacísima y bastante inexacta.\n\nEl detalle notable es lo que vino después: **John Adams**, futuro presidente, defendió a los soldados en el juicio y consiguió absolver a seis de los ocho, porque creía que hasta el enemigo merece un juicio justo.",
+    "imagenes": [
+      "/images/norteamerica/us2_us-masacre-boston-boston-massacre-high-res-jpg-utm-source-es-wikiped_wikimedia.jpg"
+    ]
+  },
+  {
+    "id": "us-saratoga",
+    "region": "norteamerica",
+    "tipo": "evento",
+    "titulo": "Saratoga y la alianza francesa",
+    "fecha_inicio": 1777,
+    "fecha_fin": null,
+    "descripcion_corta": "**En octubre de 1777**, en **Saratoga**, un ejército británico completo de casi 6 000 hombres se rindió a los americanos. Fue la primera victoria de verdad de la guerra y el momento en que dejó de parecer una rebelión condenada.\n\nEl efecto llegó por vía diplomática: **Francia**, convencida por fin de que los rebeldes podían ganar, firmó **en 1778** una alianza y entró en la guerra, seguida de **España** y de Holanda. Franklin, embajador en París con su gorro de piel, había hecho el resto del trabajo.\n\nSin la flota, el dinero y las tropas francesas —y sin la ayuda española desde Luisiana— la independencia habría sido muy improbable. El invierno siguiente, el ejército de Washington sobrevivió a duras penas en **Valley Forge** y salió de allí, por fin, instruido como un ejército regular.",
+    "imagenes": [
+      "/images/norteamerica/us2_us-saratoga-surrender-of-general-burgoyne-jpg-utm-source-es-wi_wikimedia.jpg"
+    ]
+  },
+  {
+    "id": "us-yorktown",
+    "region": "norteamerica",
+    "tipo": "evento",
+    "titulo": "Yorktown y el fin de la guerra",
+    "fecha_inicio": 1781,
+    "fecha_fin": null,
+    "descripcion_corta": "**En octubre de 1781**, el ejército de **Washington** y el francés de Rochambeau sitiaron por tierra a Cornwallis en **Yorktown**, mientras la flota del almirante **De Grasse** le cerraba la salida por mar tras vencer a los británicos en la bahía de Chesapeake.\n\nSin refuerzos ni escape, Cornwallis se rindió con **8 000 hombres**. Cuenta la tradición que su banda tocó *El mundo al revés* mientras entregaban las armas.\n\nLa guerra continuó formalmente dos años más, hasta el **Tratado de París de 1783**, por el que Gran Bretaña reconoció la independencia y cedió el territorio hasta el Misisipi. España recuperó Florida y Menorca. Estados Unidos nacía como el primer país americano independiente.",
+    "imagenes": [
+      "/images/norteamerica/us2_us-yorktown-surrender-of-lord-cornwallis-jpg-utm-source-en-wik_wikimedia.jpg"
+    ]
+  },
+  {
+    "id": "us-washington-presidente",
+    "region": "norteamerica",
+    "tipo": "evento",
+    "titulo": "Washington, primer presidente",
+    "fecha_inicio": 1789,
+    "fecha_fin": null,
+    "descripcion_corta": "**El 30 de abril de 1789**, **George Washington** juró como primer presidente en Nueva York. Había ganado la guerra y, en un gesto que asombró a Europa —incluido Jorge III—, **había devuelto el mando militar al Congreso** en lugar de quedarse con el poder.\n\nComo presidente creó casi todo desde cero: el gabinete, el Tesoro con Hamilton, la neutralidad exterior, el precedente de tratar al presidente como «señor presidente» y no como una majestad.\n\nSu decisión más importante fue irse: **se retiró tras dos mandatos** pudiendo seguir, fijando un límite que se respetó durante 150 años. En su discurso de despedida advirtió contra dos peligros: las **facciones de partido** y las **alianzas permanentes** con potencias extranjeras.",
+    "imagenes": [
+      "/images/norteamerica/us2_us-washington-presidente-gilbert-stuart-williamstown-portrait-of-george-was_wikimedia.jpg"
+    ]
+  },
+  {
+    "id": "us-1800",
+    "region": "norteamerica",
+    "tipo": "evento",
+    "titulo": "La revolución de 1800",
+    "fecha_inicio": 1800,
+    "fecha_fin": null,
+    "descripcion_corta": "Las elecciones de **1800** enfrentaron con enorme dureza a los federalistas de Adams y a los republicanos de **Jefferson**: hubo acusaciones de ateísmo, de monarquismo y un empate en el colegio electoral que el Congreso tardó **36 votaciones** en desempatar.\n\nLo importante ocurrió después: Adams entregó el poder y se fue a su casa. Fue **la primera transferencia pacífica del poder entre partidos rivales** de la historia moderna, algo que en Europa se resolvía a cañonazos. Jefferson la llamó «la revolución de 1800».\n\nEse año el gobierno se trasladó a la nueva capital, **Washington**, todavía un pueblo con barro y edificios a medio hacer, diseñada por L'Enfant en un terreno cedido por Maryland y Virginia.",
+    "imagenes": [
+      "/images/norteamerica/us2_us-1800-official-presidential-portrait-of-thomas-jefferson_wikimedia.jpg"
+    ]
+  },
+  {
+    "id": "us-fulton",
+    "region": "norteamerica",
+    "tipo": "evento",
+    "titulo": "El barco de vapor",
+    "fecha_inicio": 1807,
+    "fecha_fin": null,
+    "descripcion_corta": "**En agosto de 1807**, el *Clermont* de **Robert Fulton** remontó el río Hudson de Nueva York a Albany, 240 kilómetros contra corriente, en 32 horas. Los escépticos lo llamaban «la locura de Fulton» hasta que lo vieron pasar.\n\nEn un país de ríos enormes fue una transformación total: en **1811** el primer vapor bajó el Misisipi, y en 1830 había cientos remontando corrientes que antes solo se navegaban río abajo. El transporte de mercancías se abarató en un 90 % y ciudades como Cincinnati, San Luis y Nueva Orleans se hicieron grandes.\n\nJunto con el **canal de Erie** y luego el ferrocarril, el vapor fluvial abrió el interior del continente a la colonización y creó el mundo de Mark Twain.",
+    "imagenes": [
+      "/images/norteamerica/us2_us-fulton-robert-fulton-circle-of-thomas-sully-jpg-utm-sourc_wikimedia.jpg"
+    ]
+  },
+  {
+    "id": "us-compromiso-missouri",
+    "region": "norteamerica",
+    "tipo": "evento",
+    "titulo": "El Compromiso de Missouri",
+    "fecha_inicio": 1820,
+    "fecha_fin": null,
+    "descripcion_corta": "Cada nuevo estado que entraba en la Unión planteaba la misma pregunta explosiva: ¿con esclavitud o sin ella? En **1820** se pactó un equilibrio: Missouri entraría como estado esclavista y **Maine** como libre, y se trazó una línea en el paralelo **36°30'** al norte de la cual la esclavitud quedaba prohibida en el territorio de Luisiana.\n\nJefferson, ya anciano, escribió que la noticia lo había despertado como **«una campana de fuego en la noche»**, porque anunciaba la ruptura del país.\n\nEl compromiso aguantó treinta y cuatro años, hasta que la ley de Kansas-Nebraska lo derogó en 1854. Cada arreglo posterior duró menos que el anterior, y todos aplazaban el mismo conflicto.",
+    "imagenes": [
+      "/images/norteamerica/us2_us-compromiso-missouri-usa-territorial-growth-1820-jpg-utm-source-es-wiki_wikimedia.jpg"
+    ]
+  },
+  {
+    "id": "us-canal-erie",
+    "region": "norteamerica",
+    "tipo": "evento",
+    "titulo": "El canal de Erie",
+    "fecha_inicio": 1825,
+    "fecha_fin": null,
+    "descripcion_corta": "**En 1825** se inauguró el **canal de Erie**: 584 kilómetros y 83 esclusas excavados en ocho años para unir el lago Erie con el río Hudson y, por tanto, los Grandes Lagos con el puerto de Nueva York.\n\nLo llamaban «la zanja de Clinton» por el gobernador que lo impulsó, y se pagó solo en menos de una década. El coste de mover una tonelada de trigo del Medio Oeste a la costa cayó **de 100 a 10 dólares**.\n\nSus consecuencias fueron enormes: convirtió a **Nueva York** en el primer puerto del país por delante de Filadelfia y Boston, abrió el Oeste agrícola a los mercados del este y de Europa, y creó ciudades enteras —Buffalo, Rochester, Syracuse— a lo largo de su trazado.",
+    "imagenes": [
+      "/images/norteamerica/us2_us-canal-erie-eriecanalmap-jpg-utm-source-es-wikipedia-org-utm-c_wikimedia.jpg"
+    ]
+  },
+  {
+    "id": "us-nat-turner",
+    "region": "norteamerica",
+    "tipo": "evento",
+    "titulo": "La rebelión de Nat Turner",
+    "fecha_inicio": 1831,
+    "fecha_fin": null,
+    "descripcion_corta": "**En agosto de 1831**, el predicador esclavizado **Nat Turner** encabezó en Virginia la sublevación de esclavos más sangrienta de la historia estadounidense: unos setenta hombres mataron a unas 55 personas blancas antes de ser aplastados. Turner estuvo dos meses escondido y fue ahorcado.\n\nLa represalia fue brutal: más de cien personas negras asesinadas sin juicio. Y las consecuencias legales, duraderas: los estados del Sur **prohibieron enseñar a leer a los esclavizados**, restringieron las reuniones religiosas sin supervisión blanca y endurecieron las patrullas.\n\nEse mismo año, William Lloyd Garrison fundaba en Boston *The Liberator*, el periódico abolicionista más radical. Las dos Américas se alejaban.",
+    "imagenes": [
+      "/images/norteamerica/us2_us-nat-turner-nat-turner-captured-jpg-utm-source-en-wikipedia-or_wikimedia.jpg"
+    ]
+  },
+  {
+    "id": "us-texas-destino",
+    "region": "norteamerica",
+    "tipo": "evento",
+    "titulo": "La anexión de Texas y el Destino Manifiesto",
+    "fecha_inicio": 1845,
+    "fecha_fin": null,
+    "descripcion_corta": "**En 1845**, Estados Unidos anexionó la república de **Texas**, independiente de México desde 1836. Ese mismo año, el periodista John O'Sullivan escribió que era el **«destino manifiesto»** de la nación extenderse por todo el continente, una frase que se convirtió en programa político y en justificación moral de todo lo que vino después.\n\nEn tres años, el país sumó Texas, Oregón —pactado con Gran Bretaña— y, tras la guerra con México, California y todo el suroeste: **casi la mitad del territorio mexicano**.\n\nEl mapa quedó completo de océano a océano, y con él quedaron dos problemas: qué hacer con los pueblos indígenas de esas tierras y si los nuevos estados serían esclavistas o libres.",
+    "imagenes": [
+      "/images/norteamerica/us2_us-texas-destino-american-progress-john-gast-painting-jpg-utm-sourc_wikimedia.jpg"
+    ]
+  },
+  {
+    "id": "us-guerra-mexico",
+    "region": "norteamerica",
+    "tipo": "evento",
+    "titulo": "La guerra con México",
+    "fecha_inicio": 1846,
+    "fecha_fin": 1848,
+    "descripcion_corta": "**Entre 1846 y 1848**, tras un incidente fronterizo provocado en el río Bravo, Estados Unidos invadió México, desembarcó en Veracruz y **ocupó la capital**. En Chapultepec murieron los cadetes recordados como los Niños Héroes.\n\nEl **Tratado de Guadalupe Hidalgo**, de 1848, entregó a Estados Unidos California, Nevada, Utah, Arizona, Nuevo México y partes de Colorado y Wyoming a cambio de 15 millones de dólares: **más de dos millones de kilómetros cuadrados**.\n\nNo fue una guerra popular: un joven diputado llamado **Abraham Lincoln** exigió pruebas de que la sangre se hubiera derramado en suelo estadounidense, y **Thoreau** fue a la cárcel por negarse a pagar impuestos para financiarla, lo que le llevó a escribir *Desobediencia civil*.",
+    "imagenes": [
+      "/images/norteamerica/us2_us-guerra-mexico-mexican-american-war-collage-png-utm-source-es-wik_wikimedia.png"
+    ]
+  },
+  {
+    "id": "us-cabana-tio-tom",
+    "region": "norteamerica",
+    "tipo": "evento",
+    "titulo": "La cabaña del tío Tom",
+    "fecha_inicio": 1852,
+    "fecha_fin": null,
+    "descripcion_corta": "**En 1852**, **Harriet Beecher Stowe** publicó *La cabaña del tío Tom*, una novela sobre la esclavitud que vendió **300 000 ejemplares en un año** en Estados Unidos y un millón en Gran Bretaña: el mayor éxito editorial del siglo después de la Biblia.\n\nSu efecto fue político. Puso rostro y nombre a lo que hasta entonces era una cifra o un debate constitucional, y convirtió el abolicionismo en un sentimiento de masas en el Norte. En el Sur se prohibió, y se publicaron decenas de novelas de respuesta.\n\nCuenta la anécdota —seguramente adornada— que al conocerla, Lincoln le dijo: «así que usted es la mujercita que escribió el libro que empezó esta gran guerra».",
+    "imagenes": [
+      "/images/norteamerica/us2_us-cabana-tio-tom-uncletomscabincover-jpg-utm-source-es-wikipedia-or_wikimedia.jpg"
+    ]
+  },
+  {
+    "id": "us-kansas-dred-scott",
+    "region": "norteamerica",
+    "tipo": "evento",
+    "titulo": "Kansas sangrante y Dred Scott",
+    "fecha_inicio": 1854,
+    "fecha_fin": null,
+    "descripcion_corta": "La ley de **Kansas-Nebraska de 1854** dejó que fueran los colonos quienes decidieran por voto si su territorio sería esclavista. El resultado fue una avalancha de partidarios de ambos bandos y una guerra civil en miniatura, con **elecciones fraudulentas, saqueos y matanzas**, que se conoció como *Bleeding Kansas*.\n\nTres años después, el Tribunal Supremo remató el conflicto con la sentencia **Dred Scott**: un esclavo no era ciudadano, no podía demandar y el Congreso **no tenía autoridad para prohibir la esclavitud** en ningún territorio.\n\nLa vía política quedó cerrada: si ni el voto ni los tribunales podían frenar la expansión esclavista, solo quedaba la fuerza. De esa crisis nació el **Partido Republicano** y, con él, la candidatura de Lincoln.",
+    "imagenes": [
+      "/images/norteamerica/us2_us-kansas-dred-scott-reynolds-s-political-map-of-the-united-states-1856_wikimedia.jpg"
+    ]
+  },
+  {
+    "id": "us-john-brown",
+    "region": "norteamerica",
+    "tipo": "evento",
+    "titulo": "John Brown y Harpers Ferry",
+    "fecha_inicio": 1859,
+    "fecha_fin": null,
+    "descripcion_corta": "**En octubre de 1859**, el abolicionista **John Brown** asaltó con dieciocho hombres el arsenal federal de **Harpers Ferry** con la intención de armar una insurrección de esclavos. Fracasó en dos días, fue capturado por el coronel Robert E. Lee, juzgado y ahorcado.\n\nEn el juicio dijo que estaba dispuesto a mezclar su sangre con la de millones de esclavos, y el Norte lo convirtió en mártir mientras el Sur veía confirmado su peor temor: que los abolicionistas querían degollarlos.\n\nLos soldados de la Unión marcharían a la guerra cantando *John Brown's Body*, con la melodía que después llevaría la letra del *Himno de batalla de la República*. Menos de dos años después empezaba la guerra.",
+    "imagenes": [
+      "/images/norteamerica/us2_us-john-brown-1846-47-john-brown-by-augustus-washington-without-_wikimedia.jpg"
+    ]
+  },
+  {
+    "id": "us-sherman",
+    "region": "norteamerica",
+    "tipo": "evento",
+    "titulo": "Sherman y la marcha hacia el mar",
+    "fecha_inicio": 1864,
+    "fecha_fin": null,
+    "descripcion_corta": "**En noviembre y diciembre de 1864**, el general **William Sherman** marchó con 60 000 hombres desde Atlanta hasta Savannah destruyendo sistemáticamente vías férreas, cosechas, fábricas y almacenes en una franja de 100 kilómetros de ancho.\n\nEra una doctrina nueva, la **guerra total**: si la capacidad de un pueblo para sostener a su ejército es un objetivo militar, la retaguardia deja de estar a salvo. «La guerra es el infierno», resumió él mismo.\n\nAceleró el final —Lee se rindió en **Appomattox en abril de 1865**— y dejó al Sur arruinado durante una generación y con un rencor que alimentó el mito de la «causa perdida». La Guerra de Secesión, con **unos 750 000 muertos**, sigue siendo la más mortífera de la historia estadounidense.",
+    "imagenes": [
+      "/images/norteamerica/us2_us-sherman-f-o-c-darley-and-alexander-hay-ritchie-sherman-s-m_wikimedia.jpg"
+    ]
+  },
+  {
+    "id": "us-enmiendas",
+    "region": "norteamerica",
+    "tipo": "evento",
+    "titulo": "Las enmiendas de la Reconstrucción",
+    "fecha_inicio": 1870,
+    "fecha_fin": null,
+    "descripcion_corta": "Tras la guerra se aprobaron tres enmiendas que reescribieron la Constitución: la **13ª (1865)** abolió la esclavitud; la **14ª (1868)** concedió la ciudadanía y la igual protección de las leyes a todos los nacidos en el país; y la **15ª (1870)** prohibió negar el voto por raza.\n\nDurante unos años funcionaron: hubo **dieciséis congresistas negros**, cientos de cargos locales y las primeras escuelas públicas del Sur. Y hubo también la respuesta violenta del **Ku Klux Klan**, fundado en 1865.\n\nLa 14ª enmienda se convertiría en el fundamento jurídico de casi todos los avances posteriores en derechos civiles, un siglo después. Pero su promesa quedó en suspenso en cuanto el Norte perdió interés.",
+    "imagenes": [
+      "/images/norteamerica/us2_us-enmiendas-reconstructioneracoll-png-utm-source-es-wikipedia-_wikimedia.png"
+    ]
+  },
+  {
+    "id": "us-alaska",
+    "region": "norteamerica",
+    "tipo": "evento",
+    "titulo": "La compra de Alaska",
+    "fecha_inicio": 1867,
+    "fecha_fin": null,
+    "descripcion_corta": "**En 1867**, el secretario de Estado **William Seward** compró Alaska a Rusia por **7,2 millones de dólares**, unos dos centavos por hectárea. La prensa lo llamó «la locura de Seward» y «la nevera de Seward»: parecía absurdo pagar por un territorio helado y vacío.\n\nRusia vendía porque no podía defenderlo y prefería que no acabara en manos británicas. Estados Unidos ganaba **1,7 millones de kilómetros cuadrados**, un quinto de su superficie actual.\n\nTreinta años después llegó la **fiebre del oro del Klondike**, y más tarde el petróleo, el gas y una posición estratégica frente a Asia que resultaría decisiva en el siglo XX. Fue probablemente la mejor compra inmobiliaria de la historia, después de Luisiana.",
+    "imagenes": [
+      "/images/norteamerica/us2_us-alaska-alaska-purchase-hi-res-jpg-utm-source-es-wikipedia_wikimedia.jpg"
+    ]
+  },
+  {
+    "id": "us-chicago",
+    "region": "norteamerica",
+    "tipo": "evento",
+    "titulo": "El gran incendio de Chicago",
+    "fecha_inicio": 1871,
+    "fecha_fin": null,
+    "descripcion_corta": "**En octubre de 1871**, un incendio arrasó el centro de **Chicago** durante dos días: **300 muertos**, 100 000 personas sin casa y 17 000 edificios destruidos en una ciudad construida casi enteramente en madera. La leyenda culpó a la vaca de la señora O'Leary, sin ninguna prueba.\n\nLa reconstrucción hizo de Chicago el laboratorio de la arquitectura moderna. Con estructura de **acero**, ascensor y cimientos flotantes sobre el suelo pantanoso, allí se levantó **en 1885 el primer rascacielos** del mundo, el Home Insurance Building, de diez pisos.\n\nDe la escuela de Chicago —Sullivan, y después Frank Lloyd Wright— salió la idea de que la forma sigue a la función y la silueta de todas las ciudades del siglo XX.",
+    "imagenes": [
+      "/images/norteamerica/us2_us-chicago-1893-looking-west-from-peristyle-court-of-honor-and-gra_wikimedia.jpg"
+    ]
+  },
+  {
+    "id": "us-jim-crow",
+    "region": "norteamerica",
+    "tipo": "evento",
+    "titulo": "El fin de la Reconstrucción y Jim Crow",
+    "fecha_inicio": 1877,
+    "fecha_fin": null,
+    "descripcion_corta": "**En 1877**, a cambio de la presidencia en unas elecciones disputadas, los republicanos aceptaron **retirar las tropas federales del Sur**. La Reconstrucción terminó y con ella la protección de los derechos conquistados.\n\nLos estados sureños levantaron entonces el sistema **Jim Crow**: segregación en escuelas, trenes, hospitales y cementerios, y mecanismos para impedir el voto negro sin nombrar la raza —impuestos electorales, pruebas de lectura y la «cláusula del abuelo»—. El Tribunal Supremo lo bendijo **en 1896** con la doctrina *Plessy contra Ferguson*: **«iguales pero separados»**.\n\nEn paralelo creció el terror de los linchamientos, más de 4 000 documentados. El sistema duró hasta los años sesenta del siglo XX.",
+    "imagenes": [
+      "/images/norteamerica/us2_us-jim-crow-segregated-cinema-entrance-jpg-utm-source-es-wikip_wikimedia.jpg"
+    ]
+  },
+  {
+    "id": "us-exclusion-china",
+    "region": "norteamerica",
+    "tipo": "evento",
+    "titulo": "La ley de exclusión china",
+    "fecha_inicio": 1882,
+    "fecha_fin": null,
+    "descripcion_corta": "Los trabajadores chinos habían construido buena parte del **ferrocarril transcontinental** —hasta 15 000 hombres en los tramos más peligrosos de Sierra Nevada, con salarios menores que los blancos y sin alojamiento pagado—. Cuando llegó la crisis económica, se les culpó de quitar empleos.\n\n**En 1882**, el Congreso aprobó la **Chinese Exclusion Act**: la primera ley estadounidense que **prohibía la inmigración de un grupo nacional entero**. Se renovó y endureció hasta 1943.\n\nEs el contrapunto necesario a la imagen de Ellis Island y la Estatua de la Libertad: la puerta estaba abierta para unos y cerrada por ley para otros. Los barrios chinos nacieron en buena medida de esa exclusión.",
+    "imagenes": [
+      "/images/norteamerica/us2_us-exclusion-china-the-chinese-must-go-magic-washer-1886-anti-chinese_wikimedia.jpg"
+    ]
+  },
+  {
+    "id": "us-haymarket",
+    "region": "norteamerica",
+    "tipo": "evento",
+    "titulo": "Haymarket y la jornada de ocho horas",
+    "fecha_inicio": 1887,
+    "fecha_fin": null,
+    "descripcion_corta": "**El 1 de mayo de 1886**, unos 340 000 trabajadores hicieron huelga en todo el país por la **jornada de ocho horas**. Tres días después, en la plaza **Haymarket** de Chicago, alguien lanzó una bomba contra la policía durante un mitin: murieron siete agentes y varios civiles.\n\nNunca se supo quién la tiró. Se juzgó igualmente a ocho dirigentes anarquistas por sus ideas más que por pruebas, y **cuatro fueron ahorcados en 1887**. Años después, el gobernador de Illinois indultó a los supervivientes admitiendo que el juicio había sido una farsa.\n\nEn su memoria, el movimiento obrero internacional fijó el **1 de mayo** como Día del Trabajo, que se celebra en casi todo el mundo excepto, paradójicamente, en Estados Unidos.",
+    "imagenes": [
+      "/images/norteamerica/us2_us-haymarket-haymarketriot-harpers-jpg-utm-source-es-wikipedia-_wikimedia.jpg"
+    ]
+  },
+  {
+    "id": "us-dawes",
+    "region": "norteamerica",
+    "tipo": "evento",
+    "titulo": "La Ley Dawes y el reparto de las reservas",
+    "fecha_inicio": 1888,
+    "fecha_fin": null,
+    "descripcion_corta": "**En 1887**, la **Ley Dawes** dividió las tierras comunales de las reservas indígenas en parcelas individuales de unas 65 hectáreas por familia, con el argumento de convertir a los nativos en granjeros propietarios y «civilizarlos».\n\nLo que sobraba tras el reparto —la mayor parte— se vendió a colonos blancos. Entre 1887 y 1934, los pueblos originarios perdieron **unos 36 millones de hectáreas**, dos tercios de lo que aún les quedaba.\n\nA la vez funcionaban los **internados** como el de Carlisle, cuyo lema era «matar al indio, salvar al hombre»: se llevaba a los niños lejos de sus familias, se les cortaba el pelo y se les prohibía hablar su lengua. Fue una política de asimilación forzosa cuyas consecuencias aún duran.",
+    "imagenes": [
+      "/images/norteamerica/us2_us-dawes-carlisle-indian-school-logo-png-utm-source-en-wiki_wikimedia.png"
+    ]
+  },
+  {
+    "id": "us-chicago-1893",
+    "region": "norteamerica",
+    "tipo": "evento",
+    "titulo": "La Exposición de Chicago y el pánico de 1893",
+    "fecha_inicio": 1893,
+    "fecha_fin": null,
+    "descripcion_corta": "**En 1893**, Chicago celebró la **Exposición Colombina** por el cuarto centenario de la llegada de Colón: una «ciudad blanca» de palacios neoclásicos iluminada con **electricidad de Westinghouse y Tesla**, la primera noria gigante y 27 millones de visitantes, casi la mitad de la población del país.\n\nEse mismo año estalló el **pánico de 1893**, la peor crisis económica del siglo XIX estadounidense: quebraron 500 bancos y 15 000 empresas, y el paro llegó al 18 %. De ahí salieron la marcha de desempleados sobre Washington y la huelga de Pullman, aplastada por el ejército en 1894.\n\nLas dos caras del mismo año resumen la Edad Dorada: la vitrina del progreso y la fragilidad de una economía sin red.",
+    "imagenes": [
+      "/images/norteamerica/us2_us-chicago-1893-looking-west-from-peristyle-court-of-honor-and-gra_wikimedia.jpg"
+    ]
+  },
+  {
+    "id": "us-1900",
+    "region": "norteamerica",
+    "tipo": "evento",
+    "titulo": "Estados Unidos en 1900",
+    "fecha_inicio": 1900,
+    "fecha_fin": null,
+    "descripcion_corta": "El país entra en el siglo XX con **76 millones de habitantes**, 45 estados y la mayor producción industrial del mundo: más acero que Gran Bretaña y Alemania juntas.\n\nLa **frontera** se había declarado oficialmente cerrada en 1890; ya no quedaba tierra libre que colonizar. Casi la mitad de la población seguía siendo rural, pero Nueva York y Chicago eran ciudades de rascacielos, metro y tranvía eléctrico, y por Ellis Island entraban un millón de personas al año.\n\nTras la guerra de 1898, Estados Unidos administraba Puerto Rico, Guam y Filipinas: había dejado de ser una república continental para convertirse en potencia imperial. Faltaban dos años para el primer vuelo de los hermanos Wright.",
+    "imagenes": [
+      "/images/norteamerica/us2_us-1900-cropped-u-s-great-seal-from-the-theodore-roosevelt_wikimedia.png"
+    ]
   }
 ]

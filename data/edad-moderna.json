@@ -1,0 +1,1340 @@
+[
+  {
+    "id": "mod-tordesillas",
+    "region": "edad-moderna",
+    "tipo": "evento",
+    "titulo": "El Tratado de Tordesillas",
+    "fecha_inicio": 1494,
+    "fecha_fin": null,
+    "descripcion_corta": "**El 7 de junio de 1494**, Castilla y Portugal se repartieron el mundo por descubrir trazando una **raya de polo a polo** a 370 leguas al oeste de Cabo Verde: lo que quedara al este sería portugués y lo del oeste, castellano.\n\nNadie sabía todavía qué había allí. Por esa línea, Brasil acabó siendo portugués y el resto de América, español, y por eso hoy se habla portugués en Brasil. Fue el primer reparto del planeta hecho sobre un mapa, con la bendición del papa y sin contar con nadie más: Francia e Inglaterra lo ignoraron, y su rey Francisco I preguntó irónicamente por «la cláusula del testamento de Adán» que dejaba fuera a los demás.",
+    "imagenes": [
+      "/images/edad-moderna/mod_mod-tordesillas-spaintordesillacasasdeltratado01-jpg-utm-source-es_wikimedia.jpg"
+    ]
+  },
+  {
+    "id": "mod-gama-india",
+    "region": "edad-moderna",
+    "tipo": "evento",
+    "titulo": "Vasco da Gama llega a la India",
+    "fecha_inicio": 1498,
+    "fecha_fin": null,
+    "descripcion_corta": "**En mayo de 1498**, tras diez meses de navegación y bordear África, **Vasco da Gama** fondeó en Calicut. Era lo que Portugal llevaba ochenta años buscando: **la ruta marítima a las especias** sin pasar por los intermediarios musulmanes y venecianos.\n\nEl viaje inaugural fue un desastre diplomático y un éxito comercial: volvió con dos tercios de la tripulación muerta de escorbuto y con una carga que se vendió por **sesenta veces el coste** de la expedición. En veinte años, Portugal montó una red de fortalezas de Mozambique a Malaca y desvió hacia Lisboa el comercio que había hecho rica a Venecia. Empieza la era de los imperios marítimos europeos.",
+    "imagenes": [
+      "/images/edad-moderna/mod_mod-gama-india-lisboa-museu-nacional-de-arte-antiga-retrato-dito-_wikimedia.jpg"
+    ]
+  },
+  {
+    "id": "mod-renacimiento",
+    "region": "edad-moderna",
+    "tipo": "evento",
+    "titulo": "El Renacimiento",
+    "fecha_inicio": 1503,
+    "fecha_fin": null,
+    "descripcion_corta": "En la Italia de las ciudades ricas —Florencia, Venecia, Roma— cambió la manera de mirar el mundo: el ser humano pasó al centro y la Antigüedad clásica volvió a ser el modelo. Es el **humanismo**.\n\n**Leonardo da Vinci** empezó **hacia 1503** la *Gioconda* y llenó sus cuadernos de máquinas voladoras y estudios de anatomía; **Miguel Ángel**, **Rafael**, **Botticelli** y **Brunelleschi** —que levantó la cúpula de Florencia sin cimbra— convivieron en dos generaciones irrepetibles, pagados por banqueros como los **Medici** y por papas que querían fama.\n\nSe inventó la **perspectiva**, se firmaron las obras y el artista dejó de ser un artesano anónimo para convertirse en un genio con nombre propio.",
+    "imagenes": [
+      "/images/edad-moderna/mod_mod-renacimiento-leonardo-da-vinci-mona-lisa-louvre-paris-jpg-utm-s_wikimedia.jpg"
+    ]
+  },
+  {
+    "id": "mod-sixtina",
+    "region": "edad-moderna",
+    "tipo": "evento",
+    "titulo": "La Capilla Sixtina",
+    "fecha_inicio": 1508,
+    "fecha_fin": null,
+    "descripcion_corta": "**Entre 1508 y 1512**, **Miguel Ángel** pintó los 500 metros cuadrados de la bóveda de la Capilla Sixtina prácticamente solo, de pie sobre un andamio y con el cuello doblado hacia atrás durante cuatro años. Se consideraba escultor, no pintor, y aceptó el encargo del papa Julio II a regañadientes.\n\nEl resultado —la **Creación de Adán**, los profetas, las sibilas— es el manifiesto del arte renacentista: cuerpos humanos monumentales, desnudos y llenos de fuerza en el techo de la capilla más sagrada del cristianismo. Veinte años después volvió para pintar el *Juicio Final*, y una generación más tarde otro pintor tuvo que **cubrir los desnudos con paños** por orden del concilio.",
+    "imagenes": [
+      "/images/edad-moderna/mod_mod-sixtina-sistina-interno-jpg-utm-source-es-wikipedia-org-ut_wikimedia.jpg"
+    ]
+  },
+  {
+    "id": "mod-maquiavelo",
+    "region": "edad-moderna",
+    "tipo": "evento",
+    "titulo": "Maquiavelo y El Príncipe",
+    "fecha_inicio": 1513,
+    "fecha_fin": null,
+    "descripcion_corta": "**En 1513**, apartado de la política florentina y desterrado a su granja, **Nicolás Maquiavelo** escribió en unos meses *El Príncipe*, un manual sobre cómo se conquista y se conserva el poder.\n\nSu novedad no fue recomendar la crueldad, sino **separar la política de la moral**: describir cómo actúan de verdad los gobernantes, no cómo deberían actuar. De ahí frases como que es más seguro ser temido que amado, o que un príncipe debe saber no ser bueno cuando hace falta. La Iglesia lo puso en el Índice de libros prohibidos y su apellido se convirtió en un insulto, pero con él nace la **ciencia política moderna**.",
+    "imagenes": [
+      "/images/edad-moderna/mod_mod-maquiavelo-portrait-of-niccol-machiavelli-by-santi-di-tito-jp_wikimedia.jpg"
+    ]
+  },
+  {
+    "id": "mod-lutero",
+    "region": "edad-moderna",
+    "tipo": "evento",
+    "titulo": "Lutero y la Reforma protestante",
+    "fecha_inicio": 1517,
+    "fecha_fin": null,
+    "descripcion_corta": "**El 31 de octubre de 1517**, el fraile agustino **Martín Lutero** hizo públicas **95 tesis** contra la venta de indulgencias: la Iglesia cobraba por reducir las penas del purgatorio y con ese dinero se estaba construyendo San Pedro.\n\nLa disputa teológica se volvió imparable gracias a la **imprenta**: en dos meses sus tesis circulaban por toda Alemania. Lutero fue excomulgado, quemó la bula papal, tradujo la Biblia al alemán —fijando de paso el idioma— y sostuvo que la salvación viene solo de la fe y que cada creyente puede leer la Escritura sin intermediarios.\n\nEuropa se partió en dos. De la Reforma salieron luteranos, calvinistas y anglicanos, **siglo y medio de guerras de religión** y, según muchos historiadores, buena parte de la mentalidad moderna.",
+    "imagenes": [
+      "/images/edad-moderna/mod_mod-lutero-lucas-cranach-d-martin-luther-1528-veste-coburg-jp_wikimedia.jpg"
+    ]
+  },
+  {
+    "id": "mod-elcano",
+    "region": "edad-moderna",
+    "tipo": "evento",
+    "titulo": "La primera vuelta al mundo",
+    "fecha_inicio": 1519,
+    "fecha_fin": 1522,
+    "descripcion_corta": "**El 20 de septiembre de 1519** salieron de Sanlúcar cinco naves y **239 hombres** al mando del portugués **Fernando de Magallanes**, buscando llegar a las Molucas navegando hacia el oeste. Encontraron el paso al sur de América —el estrecho que lleva su nombre—, cruzaron un océano que bautizaron **Pacífico** y tardaron tres meses y veinte días sin ver tierra, comiendo cuero y ratas.\n\nMagallanes murió en Filipinas. **El 6 de septiembre de 1522** regresó una sola nave, la *Victoria*, con **18 supervivientes** al mando de **Juan Sebastián Elcano**. Habían demostrado con los pies que la Tierra es redonda y que se puede circunnavegar, y descubierto además que al volver **les faltaba un día** en el calendario: la primera prueba práctica de los husos horarios.",
+    "imagenes": [
+      "/images/edad-moderna/mod_mod-elcano-las-glorias-nacionales-1852-juan-sebastian-elcano-_wikimedia.jpg"
+    ]
+  },
+  {
+    "id": "mod-carlos-v",
+    "region": "edad-moderna",
+    "tipo": "evento",
+    "titulo": "Carlos V y el imperio donde no se pone el sol",
+    "fecha_inicio": 1521,
+    "fecha_fin": null,
+    "descripcion_corta": "Nieto de los Reyes Católicos y de los Habsburgo, **Carlos V** heredó por matrimonios y muertes tempranas el mayor conjunto de territorios que había tenido un solo monarca en Europa: Castilla, Aragón, Nápoles, los Países Bajos, Austria, América... y en 1519 la corona imperial del Sacro Imperio.\n\nSe pasó cuarenta años en guerra: contra Francia por Italia, contra los turcos de Solimán en el Mediterráneo y en Viena, contra los príncipes protestantes en Alemania, y contra los **comuneros de Castilla**, derrotados en Villalar **en 1521**. La plata de América financiaba todo y aun así siempre faltaba dinero: se endeudó con los banqueros Fugger hasta arruinar la hacienda.\n\nAgotado, hizo algo insólito: **abdicó en 1556**, repartió el imperio entre su hijo y su hermano y se retiró a un monasterio en Yuste.",
+    "imagenes": [
+      "/images/edad-moderna/mod_mod-carlos-v-portrait-of-charles-v-holy-roman-emperor-seated-15_wikimedia.jpg"
+    ]
+  },
+  {
+    "id": "mod-enrique-viii",
+    "region": "edad-moderna",
+    "tipo": "evento",
+    "titulo": "Enrique VIII rompe con Roma",
+    "fecha_inicio": 1534,
+    "fecha_fin": null,
+    "descripcion_corta": "El papa se negó a anular el matrimonio de **Enrique VIII** con Catalina de Aragón, que no le había dado un heredero varón. La respuesta del rey fue el **Acta de Supremacía de 1534**: se declaró **cabeza suprema de la Iglesia de Inglaterra**.\n\nNo fue una reforma teológica sino política, pero tuvo consecuencias enormes: disolvió los monasterios y repartió sus tierras entre la nobleza —que quedó así atada al cambio—, ejecutó a quien se opuso, incluido Tomás Moro, y creó la **Iglesia anglicana**. Se casó seis veces y mandó decapitar a dos de sus esposas.\n\nDe ese lío dinástico salió, paradójicamente, **Isabel I**, la hija de Ana Bolena, que gobernaría 45 años y convertiría a Inglaterra en potencia naval.",
+    "imagenes": [
+      "/images/edad-moderna/mod_mod-enrique-viii-hans-holbein-the-younger-around-1497-1543-portrait_wikimedia.jpg"
+    ]
+  },
+  {
+    "id": "mod-copernico",
+    "region": "edad-moderna",
+    "tipo": "evento",
+    "titulo": "Copérnico y el heliocentrismo",
+    "fecha_inicio": 1543,
+    "fecha_fin": null,
+    "descripcion_corta": "**En 1543**, ya moribundo, el canónigo polaco **Nicolás Copérnico** publicó *Sobre las revoluciones de las esferas celestes*: la Tierra no está quieta en el centro del universo, **gira alrededor del Sol** y sobre sí misma.\n\nLlevaba treinta años sin atreverse a publicarlo. La idea contradecía a Aristóteles, a Ptolomeo, al sentido común —no se siente que la Tierra se mueva— y a la lectura literal de la Biblia. Tardó un siglo en imponerse, con Kepler describiendo las órbitas elípticas, Galileo mirándolas con el telescopio y Newton explicando por fin **por qué** se mueven así.\n\nEs el comienzo de la **revolución científica** y del mayor cambio de perspectiva de la historia: dejar de estar en el centro.",
+    "imagenes": [
+      "/images/edad-moderna/mod_mod-copernico-nikolaus-kopernikus-jpg-utm-source-es-wikipedia-or_wikimedia.jpg"
+    ]
+  },
+  {
+    "id": "mod-trento",
+    "region": "edad-moderna",
+    "tipo": "evento",
+    "titulo": "El Concilio de Trento y la Contrarreforma",
+    "fecha_inicio": 1545,
+    "fecha_fin": null,
+    "descripcion_corta": "Frente al avance protestante, la Iglesia católica se reformó por dentro sin ceder en la doctrina. El **Concilio de Trento**, reunido de forma intermitente **entre 1545 y 1563**, fijó el dogma, obligó a los obispos a residir en sus diócesis, creó los **seminarios** para formar curas y estandarizó la misa.\n\nTambién apretó el control: el **Índice de libros prohibidos**, la Inquisición romana y una nueva orden, la **Compañía de Jesús** de Ignacio de Loyola, disciplinada como un ejército y dedicada a la educación y a las misiones, de Japón al Paraguay.\n\nEn el arte, la respuesta fue el **Barroco**: iglesias teatrales, luces y sombras, emoción y movimiento para conmover a un fiel que los protestantes querían convencer solo con la palabra.",
+    "imagenes": [
+      "/images/edad-moderna/mod_mod-trento-tridentinum-jpg-utm-source-es-wikipedia-org-utm-ca_wikimedia.jpg"
+    ]
+  },
+  {
+    "id": "mod-augsburgo",
+    "region": "edad-moderna",
+    "tipo": "evento",
+    "titulo": "La paz de Augsburgo",
+    "fecha_inicio": 1555,
+    "fecha_fin": null,
+    "descripcion_corta": "Tras décadas de guerra entre el emperador y los príncipes protestantes alemanes, la **paz de Augsburgo de 1555** cerró en falso el conflicto con una fórmula que resume la época: ***cuius regio, eius religio***, «la religión del príncipe es la del territorio».\n\nCada gobernante elegía entre catolicismo y luteranismo, y sus súbditos debían seguirlo o emigrar. No era tolerancia religiosa —nadie podía elegir su fe— sino un reparto territorial. Dejó fuera además a los **calvinistas**, cada vez más numerosos.\n\nEsa exclusión y la ambigüedad sobre los bienes de la Iglesia fueron dos de las mechas que estallarían **sesenta años después** en la Guerra de los Treinta Años.",
+    "imagenes": [
+      "/images/edad-moderna/mod_mod-augsburgo-druck-augsburger-reichsfrieden-jpg-utm-source-es-w_wikimedia.jpg"
+    ]
+  },
+  {
+    "id": "mod-felipe-ii",
+    "region": "edad-moderna",
+    "tipo": "evento",
+    "titulo": "Felipe II y el Siglo de Oro español",
+    "fecha_inicio": 1556,
+    "fecha_fin": null,
+    "descripcion_corta": "**Felipe II** heredó de su padre España, América, Italia y los Países Bajos, y en 1580 sumó Portugal con su imperio asiático: por primera vez, un rey podía decir que **en sus dominios no se ponía el sol**.\n\nGobernó desde un escritorio en **El Escorial**, leyendo y anotando personalmente miles de documentos: el primer gran burócrata de la historia moderna. Fue el campeón del catolicismo —Lepanto, la Armada, la Inquisición— y también el rey que **se declaró en bancarrota cuatro veces** pese a recibir la plata de Potosí.\n\nMientras la hacienda se hundía, Castilla vivía su **Siglo de Oro**: Cervantes, Lope, Quevedo, Góngora, El Greco y después Velázquez. Una lección incómoda de la época: el esplendor cultural y la ruina económica pueden convivir.",
+    "imagenes": [
+      "/images/edad-moderna/mod_mod-felipe-ii-portrait-of-philip-ii-of-spain-by-sofonisba-anguis_wikimedia.jpg"
+    ]
+  },
+  {
+    "id": "mod-lepanto",
+    "region": "edad-moderna",
+    "tipo": "evento",
+    "titulo": "Lepanto",
+    "fecha_inicio": 1571,
+    "fecha_fin": null,
+    "descripcion_corta": "**El 7 de octubre de 1571**, la flota de la Liga Santa —España, Venecia y los Estados Pontificios— derrotó a la armada otomana en el golfo de Lepanto. Fue **la última gran batalla naval librada a remo**, con más de 400 galeras y unos 150 000 hombres.\n\nLos otomanos perdieron casi toda su flota y unos 30 000 hombres; se liberaron **12 000 remeros cristianos esclavizados**. Entre los heridos estaba un soldado llamado **Miguel de Cervantes**, que perdió el uso de la mano izquierda y siempre presumió de haber estado allí.\n\nSu efecto real se discute —los turcos reconstruyeron la flota en un año—, pero rompió el mito de su invencibilidad naval y frenó su expansión en el Mediterráneo occidental.",
+    "imagenes": [
+      "/images/edad-moderna/mod_mod-lepanto-spanish-school-battle-of-lepanto-victorious-ships-_wikimedia.jpg"
+    ]
+  },
+  {
+    "id": "mod-armada-invencible",
+    "region": "edad-moderna",
+    "tipo": "evento",
+    "titulo": "La Armada Invencible",
+    "fecha_inicio": 1588,
+    "fecha_fin": null,
+    "descripcion_corta": "**En 1588**, Felipe II envió contra Inglaterra **130 barcos y 30 000 hombres** para acabar con Isabel I, con el apoyo a los rebeldes holandeses y con los corsarios que asaltaban sus galeones. La llamaron la Grande y Felicísima Armada.\n\nEl plan dependía de recoger al ejército de Flandes, y nunca encajó. Los brulotes ingleses rompieron la formación frente a Calais, y después **el clima hizo el resto**: la flota tuvo que rodear Escocia e Irlanda y las tormentas destrozaron un tercio de los barcos. Volvieron unas 60 naves.\n\nEspaña siguió siendo la primera potencia durante medio siglo más —y una segunda armada inglesa fracasó al año siguiente contra La Coruña—, pero el desastre marcó el comienzo del **dominio naval inglés**.",
+    "imagenes": [
+      "/images/edad-moderna/mod_mod-armada-invencible-darnley-stage-3-jpg-utm-source-es-wikipedia-org-ut_wikimedia.jpg"
+    ]
+  },
+  {
+    "id": "mod-companias-indias",
+    "region": "edad-moderna",
+    "tipo": "evento",
+    "titulo": "Las compañías de las Indias",
+    "fecha_inicio": 1602,
+    "fecha_fin": null,
+    "descripcion_corta": "**En 1602**, varios comerciantes holandeses fundaron la **VOC**, la Compañía Neerlandesa de las Indias Orientales: la primera empresa de la historia que **vendió acciones al público** y repartió dividendos, y para negociarlas nació la Bolsa de Ámsterdam.\n\nNo era solo una empresa: el Estado le dio poder para **firmar tratados, acuñar moneda, tener ejército y declarar la guerra**. Llegó a tener 40 barcos de guerra y 10 000 soldados, monopolizó las especias con métodos brutales en Indonesia y fue durante casi dos siglos la compañía más valiosa jamás existida.\n\nLa inglesa, fundada en 1600, acabaría gobernando la India entera. Con ellas empieza el **capitalismo financiero** y también la idea de una corporación privada con poderes de Estado.",
+    "imagenes": [
+      "/images/edad-moderna/mod_mod-companias-indias-voc-huis-jpg-utm-source-commons-wikimedia-org-utm-_wikimedia.jpg"
+    ]
+  },
+  {
+    "id": "mod-quijote",
+    "region": "edad-moderna",
+    "tipo": "evento",
+    "titulo": "El Quijote y la novela moderna",
+    "fecha_inicio": 1605,
+    "fecha_fin": null,
+    "descripcion_corta": "**En 1605**, un veterano de Lepanto de 57 años, con la mano tullida, cinco de cautiverio en Argel y varias temporadas en la cárcel, publicó *El ingenioso hidalgo don Quijote de la Mancha*. **Miguel de Cervantes** murió pobre once años después.\n\nEl libro empezó como una burla de las novelas de caballerías y acabó siendo otra cosa: el primer relato donde los personajes **cambian, dudan y hablan como la gente**, donde conviven la risa y la melancolía, y donde el propio libro aparece dentro de la historia. Por eso se le considera la **primera novela moderna**.\n\nEs el libro más traducido después de la Biblia. Cervantes murió el mismo mes que Shakespeare, en **1616**, en un mundo que ya había cambiado de forma de contar.",
+    "imagenes": [
+      "/images/edad-moderna/mod_mod-quijote-title-page-first-edition-don-quijote-jpg-utm-sourc_wikimedia.jpg"
+    ]
+  },
+  {
+    "id": "mod-galileo",
+    "region": "edad-moderna",
+    "tipo": "evento",
+    "titulo": "Galileo y el telescopio",
+    "fecha_inicio": 1609,
+    "fecha_fin": null,
+    "descripcion_corta": "**En 1609**, **Galileo Galilei** construyó su propio telescopio y lo apuntó al cielo. En pocos meses vio **montañas en la Luna** —el cielo no era perfecto—, **cuatro lunas girando alrededor de Júpiter** —no todo gira en torno a la Tierra—, las fases de Venus y que la Vía Láctea son estrellas.\n\nPublicó los hallazgos en *El mensajero sideral* y se hizo famoso en toda Europa. También se hizo enemigos: en **1633**, la Inquisición lo condenó por defender el heliocentrismo y lo obligó a abjurar de rodillas. Pasó sus últimos años bajo arresto domiciliario, ciego, escribiendo el libro que fundaría la física moderna.\n\nSu aportación mayor no fue mirar, sino **medir**: el método de experimentar, cuantificar y expresar las leyes en lenguaje matemático.",
+    "imagenes": [
+      "/images/edad-moderna/mod_mod-galileo-justus-sustermans-portrait-of-galileo-galilei-1636_wikimedia.jpg"
+    ]
+  },
+  {
+    "id": "mod-treinta-anos",
+    "region": "edad-moderna",
+    "tipo": "evento",
+    "titulo": "La Guerra de los Treinta Años",
+    "fecha_inicio": 1618,
+    "fecha_fin": 1648,
+    "descripcion_corta": "Empezó **el 23 de mayo de 1618** con la **defenestración de Praga**: unos nobles protestantes tiraron por la ventana del castillo a dos representantes del emperador católico. Terminó **treinta años después** con Europa central devastada.\n\nFue a la vez una guerra de religión —católicos contra protestantes— y una guerra de poder: la **Francia católica de Richelieu acabó financiando a los protestantes** para debilitar a los Habsburgo de Austria y de España. Entraron Dinamarca, Suecia con el rey Gustavo Adolfo, los príncipes alemanes, España, Francia y los Países Bajos.\n\nSe libró sobre todo en **Alemania y Bohemia**, no en España, aunque España fue uno de los principales beligerantes. Los ejércitos vivían de saquear a la población civil: se calcula que Alemania perdió entre **un quinto y un tercio de sus habitantes**, y algunas regiones más de la mitad, por la guerra, el hambre y la peste. Es, en proporción, una de las guerras más destructivas de la historia europea.",
+    "imagenes": [
+      "/images/edad-moderna/mod_mod-treinta-anos-batalla-de-n-rdlingen-iii-peter-snayers-jpg-utm-so_wikimedia.jpg"
+    ]
+  },
+  {
+    "id": "mod-rocroi",
+    "region": "edad-moderna",
+    "tipo": "evento",
+    "titulo": "Rocroi y el fin de los tercios",
+    "fecha_inicio": 1643,
+    "fecha_fin": null,
+    "descripcion_corta": "**El 19 de mayo de 1643**, en Rocroi, cerca de la frontera francesa, el ejército español al mando de Francisco de Melo se enfrentó al francés dirigido por un joven de 21 años, el duque de Enghien, el futuro **Gran Condé**.\n\nLa caballería española fue barrida y quedaron solos los cuadros de infantería, los **tercios**, que durante siglo y medio habían sido considerados invencibles. Resistieron varias cargas antes de rendirse con honores. La leyenda del respeto de Condé ante su valor está adornada, pero la derrota fue real.\n\nRocroi se recuerda como el símbolo del **fin de la hegemonía militar española** en Europa, aunque España siguió combatiendo quince años más y no firmó la paz con Francia hasta el **Tratado de los Pirineos, en 1659**.",
+    "imagenes": [
+      "/images/edad-moderna/mod_mod-rocroi-rocroi-el-ltimo-tercio-por-augusto-ferrer-dalmau-j_wikimedia.jpg"
+    ]
+  },
+  {
+    "id": "mod-westfalia",
+    "region": "edad-moderna",
+    "tipo": "evento",
+    "titulo": "La Paz de Westfalia",
+    "fecha_inicio": 1648,
+    "fecha_fin": null,
+    "descripcion_corta": "**En 1648**, tras cuatro años de negociación simultánea en dos ciudades —los católicos en Münster, los protestantes en Osnabrück, porque no querían sentarse juntos—, se firmó la paz que cerró la Guerra de los Treinta Años.\n\nSus consecuencias fueron enormes. Reconoció la independencia de los **Países Bajos** y de Suiza, dejó a Alemania fragmentada en más de 300 territorios prácticamente soberanos, hundió el poder de los Habsburgo y encumbró a **Francia** como primera potencia continental.\n\nSobre todo, fijó un principio que sigue vigente: la **soberanía territorial del Estado**, con fronteras reconocidas y no injerencia en los asuntos internos ajenos. Los historiadores llaman *sistema westfaliano* al orden internacional que nació aquí, y del que salen las relaciones internacionales modernas.",
+    "imagenes": [
+      "/images/edad-moderna/mod_mod-westfalia-westfaelischer-friede-in-muenster-gerard-terborch-_wikimedia.jpg"
+    ]
+  },
+  {
+    "id": "mod-revolucion-inglesa",
+    "region": "edad-moderna",
+    "tipo": "evento",
+    "titulo": "La revolución inglesa",
+    "fecha_inicio": 1649,
+    "fecha_fin": null,
+    "descripcion_corta": "**El 30 de enero de 1649**, **Carlos I** fue decapitado en Londres tras un juicio público. Era la primera vez que un rey europeo era **juzgado y ejecutado por sus propios súbditos** en nombre de la ley.\n\nLa guerra civil había enfrentado al Parlamento con un rey que quería gobernar sin él y cobrar impuestos por su cuenta. Ganó el Parlamento gracias al ejército de **Oliver Cromwell**, que instauró una república y gobernó como dictador puritano hasta su muerte.\n\nLa monarquía volvió en 1660, pero cambiada para siempre: la **Revolución Gloriosa de 1688** y la Declaración de Derechos establecieron que el rey no puede legislar ni cobrar impuestos sin el Parlamento. Es el nacimiento de la **monarquía parlamentaria** y el precedente directo de las revoluciones americana y francesa.",
+    "imagenes": [
+      "/images/edad-moderna/mod_mod-revolucion-inglesa-battle-of-naseby-jpg-utm-source-es-wikipedia-org-u_wikimedia.jpg"
+    ]
+  },
+  {
+    "id": "mod-piratas-caribe",
+    "region": "edad-moderna",
+    "tipo": "evento",
+    "titulo": "La edad de oro de la piratería",
+    "fecha_inicio": 1660,
+    "fecha_fin": 1730,
+    "descripcion_corta": "Entre **1650 y 1730**, el Caribe fue el escenario de la piratería más famosa de la historia. Nació de las guerras europeas: las potencias entregaban **patentes de corso** a marinos privados para atacar barcos españoles, y cuando llegaba la paz muchos seguían por su cuenta.\n\nTortuga y **Port Royal** fueron sus bases; **Henry Morgan** saqueó Portobelo y Panamá con permiso inglés y acabó nombrado gobernador de Jamaica; **Barbanegra** aterrorizó las Carolinas con mechas encendidas en la barba; y **Anne Bonny** y **Mary Read** navegaron y combatieron vestidas de hombre.\n\nLa realidad se parecía poco a la leyenda: los barcos piratas funcionaban con **contratos firmados**, reparto pactado del botín, votación del capitán y hasta indemnización por miembro perdido. Una curiosa democracia armada en pleno siglo de las monarquías absolutas.",
+    "imagenes": [
+      "/images/edad-moderna/mod_mod-piratas-caribe-capture-of-blackbeard-jpg-utm-source-es-wikipedia-_wikimedia.jpg"
+    ]
+  },
+  {
+    "id": "mod-luis-xiv",
+    "region": "edad-moderna",
+    "tipo": "evento",
+    "titulo": "Luis XIV y el absolutismo",
+    "fecha_inicio": 1661,
+    "fecha_fin": null,
+    "descripcion_corta": "Al morir su ministro Mazarino **en 1661**, **Luis XIV** anunció que gobernaría solo. Reinó **72 años**, el reinado más largo de Europa, y convirtió a Francia en el modelo de **monarquía absoluta**: un solo rey, una sola ley, una sola fe.\n\nConstruyó **Versalles** y llevó allí a la nobleza, convertida en cortesanos que se disputaban el honor de asistirlo al despertar. Con Colbert impulsó el mercantilismo, las manufacturas reales y una flota; con Vauban, las fortalezas; y con cuatro guerras largas, la ruina de la hacienda.\n\n**En 1685** revocó el Edicto de Nantes y expulsó a los hugonotes: 200 000 protestantes, muchos artesanos y comerciantes, se llevaron su talento a Holanda, Inglaterra y Prusia. La frase «el Estado soy yo» probablemente nunca la dijo, pero resume bien el siglo.",
+    "imagenes": [
+      "/images/edad-moderna/mod_mod-luis-xiv-portrait-of-louis-xiv-of-france-in-coronation-robe_wikimedia.jpg"
+    ]
+  },
+  {
+    "id": "mod-newton",
+    "region": "edad-moderna",
+    "tipo": "evento",
+    "titulo": "Newton y los Principia",
+    "fecha_inicio": 1687,
+    "fecha_fin": null,
+    "descripcion_corta": "**En 1687**, **Isaac Newton** publicó los *Principios matemáticos de la filosofía natural*. En ese libro están las **tres leyes del movimiento** y la **ley de gravitación universal**: la misma fuerza que hace caer una manzana mantiene a la Luna en órbita.\n\nEra la unificación que faltaba. El cielo y la Tierra, que desde Aristóteles se creían mundos distintos, pasaban a obedecer **las mismas leyes**, escritas en matemáticas y capaces de predecir. Newton además inventó el cálculo, descompuso la luz blanca con un prisma y construyó el primer telescopio reflector.\n\nDurante **dos siglos** su física explicó el universo sin fallar, hasta que Einstein mostró sus límites. Su modelo de un cosmos ordenado y comprensible es la base intelectual de la Ilustración.",
+    "imagenes": [
+      "/images/edad-moderna/mod_mod-newton-portrait-of-sir-isaac-newton-1689-jpg-utm-source-e_wikimedia.jpg"
+    ]
+  },
+  {
+    "id": "mod-sucesion-espanola",
+    "region": "edad-moderna",
+    "tipo": "evento",
+    "titulo": "La Guerra de Sucesión española",
+    "fecha_inicio": 1701,
+    "fecha_fin": 1714,
+    "descripcion_corta": "Carlos II murió sin hijos **en 1700** y dejó el trono a un nieto de Luis XIV. La perspectiva de que Francia y España acabaran unidas puso en guerra a media Europa: Inglaterra, Austria, Holanda y Portugal contra los Borbones.\n\nDurante **trece años** se combatió en España, Italia, Flandes y América. El resultado, sellado en el **Tratado de Utrecht de 1713**, fue un reparto: Felipe V se quedó con España y América renunciando a Francia; Austria se llevó Flandes y Nápoles; e Inglaterra, **Gibraltar y Menorca** más el *asiento de negros*, el permiso para vender esclavos en las colonias españolas.\n\nEn el interior, los **Decretos de Nueva Planta** abolieron los fueros de Aragón, Valencia y Cataluña y crearon un Estado centralizado a la francesa. Utrecht inauguró además el principio del **equilibrio europeo**: que ninguna potencia domine a las demás.",
+    "imagenes": [
+      "/images/edad-moderna/mod_mod-sucesion-espanola-villars-a-denain1-jpg-utm-source-es-wikipedia-org-_wikimedia.jpg"
+    ]
+  },
+  {
+    "id": "mod-maquina-vapor",
+    "region": "edad-moderna",
+    "tipo": "evento",
+    "titulo": "La máquina de vapor",
+    "fecha_inicio": 1712,
+    "fecha_fin": null,
+    "descripcion_corta": "**En 1712**, el herrero inglés **Thomas Newcomen** instaló la primera máquina de vapor que funcionó de verdad: servía para **sacar agua de las minas de carbón**, que se inundaban en cuanto se cavaba hondo. Era enorme e ineficiente, pero trabajaba sin descanso.\n\n**En 1769**, **James Watt** le añadió un condensador separado que cuadruplicó su rendimiento, y después el movimiento rotatorio: ya no solo bombeaba, podía **mover máquinas, telares, barcos y trenes**.\n\nPor primera vez en la historia, la energía dejó de depender de músculos, agua o viento. Todo lo que viene después —fábricas, ferrocarril, ciudades industriales— cuelga de esta invención.",
+    "imagenes": [
+      "/images/edad-moderna/mod_mod-maquina-vapor-james-watt-by-henry-howard-jpg-utm-source-es-wikip_wikimedia.jpg"
+    ]
+  },
+  {
+    "id": "mod-ilustracion",
+    "region": "edad-moderna",
+    "tipo": "evento",
+    "titulo": "La Ilustración y la Enciclopedia",
+    "fecha_inicio": 1751,
+    "fecha_fin": null,
+    "descripcion_corta": "**En 1751** empezó a publicarse la ***Encyclopédie*** de **Diderot** y **D'Alembert**: 28 volúmenes, 71 000 artículos y 150 colaboradores para reunir todo el conocimiento humano y ponerlo al alcance de cualquiera que supiera leer. Fue prohibida dos veces y se terminó igual.\n\nEs el símbolo de la **Ilustración**: la confianza en la razón frente a la tradición y la superstición. **Voltaire** atacó el fanatismo religioso; **Montesquieu** propuso la **separación de poderes**; **Rousseau** sostuvo que la soberanía reside en el pueblo; **Kant** la resumió en dos palabras: *sapere aude*, atrévete a saber.\n\nSus ideas circulaban en cafés, salones y logias, y se convirtieron en el programa político de las revoluciones que venían: derechos, constitución, tolerancia y ciudadanos en lugar de súbditos.",
+    "imagenes": [
+      "/images/edad-moderna/mod_mod-ilustracion-salon-de-madame-geoffrin-jpg-utm-source-es-wikiped_wikimedia.jpg"
+    ]
+  },
+  {
+    "id": "mod-siete-anos",
+    "region": "edad-moderna",
+    "tipo": "evento",
+    "titulo": "La Guerra de los Siete Años",
+    "fecha_inicio": 1756,
+    "fecha_fin": 1763,
+    "descripcion_corta": "**Entre 1756 y 1763** se libró lo que Winston Churchill llamó la primera guerra mundial: Gran Bretaña y Prusia contra Francia, Austria, Rusia y España, con frentes en Europa, América del Norte, el Caribe, África, la India y Filipinas.\n\nGanó Gran Bretaña. Por la **Paz de París de 1763**, Francia perdió Canadá y la India, y España cedió Florida a cambio de recuperar La Habana y Manila, ocupadas por los ingleses. Nació el **imperio británico** tal como se conocería en el siglo XIX.\n\nTuvo además dos efectos inesperados: para pagar la guerra, Londres subió los impuestos a sus colonias americanas —lo que llevó a la independencia de Estados Unidos—, y Francia se endeudó tanto que su crisis fiscal desembocaría, veinticinco años después, en la **Revolución Francesa**.",
+    "imagenes": [
+      "/images/edad-moderna/mod_mod-siete-anos-seven-years-war-collage-jpg-utm-source-es-wikipedi_wikimedia.jpg"
+    ]
+  },
+  {
+    "id": "mod-revolucion-industrial",
+    "region": "edad-moderna",
+    "tipo": "evento",
+    "titulo": "La Revolución Industrial",
+    "fecha_inicio": 1769,
+    "fecha_fin": null,
+    "descripcion_corta": "En la Inglaterra de finales del siglo XVIII coincidieron carbón barato, hierro, capital colonial, campesinos expulsados de las tierras comunales y una serie de inventos textiles —la *spinning jenny*, la *water frame*, la *mule*— que multiplicaron por cien la producción de hilo.\n\nEl trabajo se trasladó de la casa a la **fábrica**, con horarios de reloj, disciplina y máquinas que marcaban el ritmo. Manchester pasó de 25 000 habitantes en 1770 a **300 000 en 1850**, con barrios sin alcantarillado donde la esperanza de vida rondaba los treinta años.\n\nFue el cambio económico más profundo desde el Neolítico: por primera vez, **la producción creció más deprisa que la población**, y con ella la riqueza, la desigualdad, el proletariado, los sindicatos y el humo.",
+    "imagenes": [
+      "/images/edad-moderna/mod_mod-revolucion-industrial-philipp-jakob-loutherbourg-d-j-002-jpg-utm-source-_wikimedia.jpg"
+    ]
+  },
+  {
+    "id": "mod-adam-smith",
+    "region": "edad-moderna",
+    "tipo": "evento",
+    "titulo": "Adam Smith y la economía",
+    "fecha_inicio": 1776,
+    "fecha_fin": null,
+    "descripcion_corta": "**En 1776**, el filósofo escocés **Adam Smith** publicó *La riqueza de las naciones*, el libro que fundó la economía como disciplina. Contra el mercantilismo dominante, sostuvo que la riqueza de un país no es el oro que acumula, sino **lo que produce y comercia**.\n\nDe ahí salen sus ideas más citadas: la **división del trabajo** —su famoso ejemplo de la fábrica de alfileres—, el libre comercio y la **mano invisible**, según la cual la búsqueda del interés propio puede producir un beneficio colectivo no buscado.\n\nSe le suele citar a medias: Smith era profesor de filosofía moral, desconfiaba de los comerciantes que se ponen de acuerdo para subir precios y defendía la educación pública. El mismo año en que se publicó, Estados Unidos declaraba su independencia.",
+    "imagenes": [
+      "/images/edad-moderna/mod_mod-adam-smith-adam-smith-muir-portrait-jpg-utm-source-es-wikiped_wikimedia.jpg"
+    ]
+  },
+  {
+    "id": "mod-revolucion-francesa",
+    "region": "edad-moderna",
+    "tipo": "evento",
+    "titulo": "La Revolución Francesa",
+    "fecha_inicio": 1789,
+    "fecha_fin": null,
+    "descripcion_corta": "Francia estaba en bancarrota y el rey tuvo que convocar los **Estados Generales**, no reunidos desde 1614. El tercer estado —el 97 % de la población, que pagaba casi todos los impuestos— exigió votar por cabeza y no por estamento, se proclamó **Asamblea Nacional** y juró no separarse sin dar una constitución.\n\n**El 14 de julio de 1789**, el pueblo de París tomó **la Bastilla**. En agosto se abolieron los privilegios feudales y se aprobó la **Declaración de los Derechos del Hombre y del Ciudadano**: los hombres nacen libres e iguales en derechos, la soberanía reside en la nación, la ley es igual para todos.\n\nEs la ruptura que separa el Antiguo Régimen del mundo contemporáneo. De ahí vienen la idea de ciudadanía, las constituciones, la bandera tricolor, el sistema métrico y hasta la palabra *izquierda* y *derecha*, por dónde se sentaban los diputados.",
+    "imagenes": [
+      "/images/edad-moderna/mod_mod-revolucion-francesa-prise-de-la-bastille-jpg-utm-source-es-wikipedia-o_wikimedia.jpg"
+    ]
+  },
+  {
+    "id": "mod-terror",
+    "region": "edad-moderna",
+    "tipo": "evento",
+    "titulo": "El Terror y la guillotina",
+    "fecha_inicio": 1793,
+    "fecha_fin": null,
+    "descripcion_corta": "**El 21 de enero de 1793**, **Luis XVI** fue guillotinado en la plaza de la Revolución. Francia estaba en guerra con media Europa y en guerra civil por dentro, y el gobierno respondió con el **Terror**: tribunales revolucionarios, sospecha permanente y **cerca de 17 000 ejecuciones** en poco más de un año.\n\n**Robespierre**, que lo dirigió en nombre de la virtud, acabó también en la guillotina en julio de 1794, y con él terminó la fase más radical. En medio quedaron la abolición de la esclavitud en las colonias (1794), el calendario republicano y la ejecución de Lavoisier, el padre de la química moderna, del que el juez dijo que «la República no necesita sabios».\n\nEl Terror dejó una advertencia que la política moderna ha repetido muchas veces: una revolución hecha en nombre de la libertad puede **devorar a sus propios hijos**.",
+    "imagenes": [
+      "/images/edad-moderna/mod_mod-terror-ex-cution-de-marie-antoinette-le-16-octobre-1793-j_wikimedia.jpg"
+    ]
+  },
+  {
+    "id": "mod-napoleon",
+    "region": "edad-moderna",
+    "tipo": "evento",
+    "titulo": "Napoleón",
+    "fecha_inicio": 1799,
+    "fecha_fin": 1815,
+    "descripcion_corta": "**El 9 de noviembre de 1799**, un general corso de 30 años dio un golpe de Estado y acabó con la Revolución para heredarla. **Napoleón Bonaparte** se coronó emperador en 1804 —tomando él mismo la corona de manos del papa— y dominó Europa durante quince años.\n\nGanó Austerlitz, Jena y Wagram, y colocó a sus hermanos en los tronos de media Europa. Pero su obra más duradera no fue militar: el **Código Civil**, que consagró la igualdad ante la ley, la propiedad privada y el matrimonio civil, sigue siendo la base del derecho en decenas de países. También creó el Banco de Francia, los liceos y la administración moderna.\n\nY exportó, sin querer, las ideas revolucionarias: allí donde entraron sus ejércitos se derrumbó el Antiguo Régimen y **nació el nacionalismo** que acabaría venciéndolo.",
+    "imagenes": [
+      "/images/edad-moderna/mod_mod-napoleon-jacques-louis-david-the-emperor-napoleon-in-his-st_wikimedia.jpg"
+    ]
+  },
+  {
+    "id": "mod-trafalgar",
+    "region": "edad-moderna",
+    "tipo": "evento",
+    "titulo": "Trafalgar",
+    "fecha_inicio": 1805,
+    "fecha_fin": null,
+    "descripcion_corta": "**El 21 de octubre de 1805**, frente al cabo de Trafalgar, la flota británica de **Nelson** deshizo a la escuadra franco-española rompiendo la línea enemiga en dos columnas, una táctica arriesgada que le costó la vida y le dio la victoria.\n\nEspaña perdió buena parte de su marina y, con ella, la capacidad de mantener unido su imperio: sin barcos, las comunicaciones con América quedaron a merced de los ingleses, y quince años después casi toda Hispanoamérica era independiente.\n\nPara Gran Bretaña, Trafalgar significó **un siglo de dominio absoluto de los mares**, la *Pax Britannica*, y para Napoleón, la renuncia definitiva a invadir Inglaterra: cambió de estrategia y ordenó el bloqueo continental, la decisión que lo llevaría a España y a Rusia.",
+    "imagenes": [
+      "/images/edad-moderna/mod_mod-trafalgar-trafalgar-auguste-mayer-jpg-utm-source-es-wikipedi_wikimedia.jpg"
+    ]
+  },
+  {
+    "id": "mod-guerra-independencia",
+    "region": "edad-moderna",
+    "tipo": "evento",
+    "titulo": "La Guerra de la Independencia española",
+    "fecha_inicio": 1808,
+    "fecha_fin": null,
+    "descripcion_corta": "Napoleón entró en España como aliado camino de Portugal y acabó poniendo a su hermano José en el trono. **El 2 de mayo de 1808**, el pueblo de Madrid se levantó; los fusilamientos de la madrugada siguiente los pintó **Goya** en uno de los cuadros más duros de la historia del arte.\n\nSiguieron seis años de una guerra nueva: ejércitos regulares derrotados una y otra vez, pero partidas de campesinos hostigando sin descanso. De aquí viene la palabra **guerrilla**, que el español prestó a todos los idiomas. Zaragoza resistió dos asedios y en **Bailén** un ejército napoleónico se rindió por primera vez en campo abierto.\n\nMientras tanto, en Cádiz sitiada, unas Cortes aprobaron **en 1812 la primera Constitución española**, «la Pepa»: soberanía nacional, división de poderes y libertad de imprenta.",
+    "imagenes": [
+      "/images/edad-moderna/mod_mod-guerra-independencia-el-dos-de-mayo-de-1808-en-madrid-jpg-utm-source-es_wikimedia.jpg"
+    ]
+  },
+  {
+    "id": "mod-rusia-1812",
+    "region": "edad-moderna",
+    "tipo": "evento",
+    "titulo": "La campaña de Rusia",
+    "fecha_inicio": 1812,
+    "fecha_fin": null,
+    "descripcion_corta": "**En junio de 1812**, Napoleón cruzó el Niemen con la **Grande Armée**: unos 600 000 hombres, el mayor ejército visto en Europa. Los rusos evitaron la batalla decisiva, se retiraron quemando todo a su paso e incendiaron Moscú cuando él llegó a ella.\n\nSin víveres, sin rendición enemiga y con el invierno encima, ordenó la retirada. Fue una matanza: el frío de **-30 °C**, el hambre, el tifus y los cosacos deshicieron al ejército. Regresaron **menos de 100 000 hombres**.\n\nEl mapa que Charles Minard dibujó en 1869 de aquella campaña —el grosor de la línea es el número de soldados que van quedando— se considera el mejor gráfico estadístico jamás hecho. Rusia marcó el principio del fin: dos años después, Napoleón abdicaba.",
+    "imagenes": [
+      "/images/edad-moderna/mod_mod-rusia-1812-french-invasion-of-russia-collage-jpg-utm-source-e_wikimedia.jpg"
+    ]
+  },
+  {
+    "id": "mod-waterloo-viena",
+    "region": "edad-moderna",
+    "tipo": "evento",
+    "titulo": "Waterloo y el Congreso de Viena",
+    "fecha_inicio": 1815,
+    "fecha_fin": null,
+    "descripcion_corta": "Napoleón volvió del destierro de Elba y gobernó cien días más. **El 18 de junio de 1815**, en **Waterloo**, cerca de Bruselas, fue derrotado definitivamente por británicos y prusianos. Murió seis años después en Santa Elena, una isla en mitad del Atlántico.\n\nMientras tanto, las potencias vencedoras rediseñaban Europa en el **Congreso de Viena**: restaurar a los reyes, restablecer fronteras y crear un equilibrio que impidiera otra guerra general. Lo consiguieron en parte —no hubo un conflicto europeo generalizado hasta 1914— al precio de sofocar durante décadas las ideas liberales y nacionales.\n\nDe esa tensión entre restauración y revolución salen las oleadas de **1820, 1830 y 1848**, y buena parte de la política del siglo XIX.",
+    "imagenes": [
+      "/images/edad-moderna/mod_mod-waterloo-viena-battle-of-waterloo-1815-png-utm-source-es-wikipedi_wikimedia.png"
+    ]
+  },
+  {
+    "id": "mod-ferrocarril",
+    "region": "edad-moderna",
+    "tipo": "evento",
+    "titulo": "El ferrocarril",
+    "fecha_inicio": 1825,
+    "fecha_fin": null,
+    "descripcion_corta": "**El 27 de septiembre de 1825**, la locomotora *Locomotion* de **George Stephenson** arrastró el primer tren de pasajeros y mercancías entre Stockton y Darlington. Cinco años después, la línea Liverpool-Manchester demostró que el negocio era enorme.\n\nEl efecto fue vertiginoso: en 1850 Gran Bretaña tenía **10 000 kilómetros de vía**, y en 1900 el mundo estaba cosido por raíles. El tren abarató el transporte, llevó el carbón y el grano lejos, creó el turismo, vació y llenó ciudades... y obligó a inventar la **hora oficial**: hasta entonces cada pueblo tenía la suya según el sol, y los horarios de tren exigieron ponerse de acuerdo.\n\nPor primera vez, un ser humano podía moverse más rápido que un caballo.",
+    "imagenes": [
+      "/images/edad-moderna/mod_mod-ferrocarril-the-rocket-locomotive-engine-stephenson-2577840242_wikimedia.jpg"
+    ]
+  },
+  {
+    "id": "mod-1830",
+    "region": "edad-moderna",
+    "tipo": "evento",
+    "titulo": "Las revoluciones liberales",
+    "fecha_inicio": 1830,
+    "fecha_fin": null,
+    "descripcion_corta": "**En julio de 1830**, tres días de barricadas en París tumbaron a Carlos X, que quería gobernar como antes de 1789. Lo sustituyó Luis Felipe, «el rey burgués», y la revuelta se contagió: Bélgica se independizó de Holanda, hubo levantamientos en Polonia, Italia y Alemania.\n\nEs el momento del **liberalismo**: constituciones, parlamentos elegidos por los que pagan impuestos, libertad de prensa y de industria. También el del **romanticismo**, que llenó la época de héroes, pasiones y naciones —Delacroix pintó *La Libertad guiando al pueblo* con esta revolución.\n\nEl sufragio seguía siendo censitario: en Francia votaban unos 200 000 hombres de 32 millones. Esa exclusión sería la mecha de 1848.",
+    "imagenes": [
+      "/images/edad-moderna/mod_mod-1830-la-libert-guidant-le-peuple-eug-ne-delacroix-mus-e_wikimedia.jpg"
+    ]
+  },
+  {
+    "id": "mod-hambruna-irlandesa",
+    "region": "edad-moderna",
+    "tipo": "evento",
+    "titulo": "La Gran Hambruna irlandesa",
+    "fecha_inicio": 1845,
+    "fecha_fin": null,
+    "descripcion_corta": "**En 1845**, un hongo llegado de América arrasó la cosecha de patata en Irlanda, el alimento casi único de una población campesina que trabajaba tierras ajenas. La plaga se repitió cinco años seguidos.\n\nMurió **un millón de personas** y otro millón emigró, sobre todo a Estados Unidos: Irlanda perdió **una cuarta parte de su población** y aún hoy tiene menos habitantes que en 1841. Mientras la gente moría, el país seguía **exportando trigo, carne y mantequilla** a Inglaterra, porque el gobierno se negó a intervenir el mercado por principio liberal.\n\nLa hambruna es el caso más citado de cómo un desastre natural se convierte en catástrofe por decisiones políticas, y está en el origen de la enorme diáspora irlandesa y del nacionalismo que llevaría a la independencia.",
+    "imagenes": [
+      "/images/edad-moderna/mod_mod-hambruna-irlandesa-irish-potato-famine-bridget-o-donnel-jpg-utm-sourc_wikimedia.jpg"
+    ]
+  },
+  {
+    "id": "mod-1848",
+    "region": "edad-moderna",
+    "tipo": "evento",
+    "titulo": "La primavera de los pueblos",
+    "fecha_inicio": 1848,
+    "fecha_fin": null,
+    "descripcion_corta": "**En 1848**, en menos de un año, hubo revoluciones en **más de cincuenta países** europeos: Francia, los estados alemanes, el imperio austríaco, Italia, Hungría. Se pedía sufragio universal masculino, constituciones, libertad de prensa y unidad nacional.\n\nCasi todas fracasaron en pocos meses, pero dejaron huella: Francia proclamó la Segunda República con **sufragio universal masculino** y abolió la esclavitud en sus colonias; Austria suprimió la servidumbre campesina.\n\nEse mismo año, dos alemanes exiliados publicaron en Londres un folleto que empezaba diciendo que un fantasma recorría Europa: el **Manifiesto Comunista** de **Marx y Engels**. La cuestión social —los obreros de las fábricas— entraba en la política para no salir.",
+    "imagenes": [
+      "/images/edad-moderna/mod_mod-1848-philippoteaux-lamartine-in-front-of-the-town-hall-_wikimedia.jpg"
+    ]
+  },
+  {
+    "id": "mod-darwin",
+    "region": "edad-moderna",
+    "tipo": "evento",
+    "titulo": "Darwin y El origen de las especies",
+    "fecha_inicio": 1859,
+    "fecha_fin": null,
+    "descripcion_corta": "**El 24 de noviembre de 1859**, **Charles Darwin** publicó *El origen de las especies*. Se agotó el primer día. Llevaba **veinte años** posponiéndolo, consciente de la tormenta que iba a provocar.\n\nSu idea es sencilla y demoledora: dentro de cada especie hay variación; sobreviven y se reproducen mejor los individuos con rasgos más ventajosos en su ambiente; repetido durante millones de generaciones, ese filtro —la **selección natural**— produce especies nuevas. No hacía falta un diseño previo.\n\nLa había concebido observando pinzones, tortugas y percebes durante el viaje del *Beagle*. Situó al ser humano dentro del árbol de la vida, junto a los demás animales, y transformó la biología en una ciencia con una teoría unificadora, como la de Newton en física.",
+    "imagenes": [
+      "/images/edad-moderna/mod_mod-darwin-origin-of-species-title-page-jpg-utm-source-es-wik_wikimedia.jpg"
+    ]
+  },
+  {
+    "id": "mod-italia",
+    "region": "edad-moderna",
+    "tipo": "evento",
+    "titulo": "La unificación de Italia",
+    "fecha_inicio": 1861,
+    "fecha_fin": null,
+    "descripcion_corta": "Italia llevaba mil trescientos años dividida en reinos, ducados y estados papales. **En 1861** se proclamó el **Reino de Italia**, obra de tres hombres muy distintos: el político **Cavour**, que maniobró con Francia; el militar **Garibaldi**, que conquistó el sur con mil voluntarios de camisa roja; y el rey Víctor Manuel II.\n\nRoma, defendida por el papa y una guarnición francesa, no se incorporó hasta **1870**, y el papa se declaró «prisionero en el Vaticano» durante casi sesenta años.\n\nLa unidad política no borró las diferencias: al proclamarse el reino, apenas un 10 % de la población hablaba italiano en lugar de su dialecto. De ahí la frase atribuida a Massimo d'Azeglio: **«Hecha Italia, hay que hacer a los italianos»**.",
+    "imagenes": [
+      "/images/edad-moderna/mod_mod-italia-giuseppe-garibaldi-1861-jpg-utm-source-es-wikipedi_wikimedia.jpg"
+    ]
+  },
+  {
+    "id": "mod-alemania",
+    "region": "edad-moderna",
+    "tipo": "evento",
+    "titulo": "La unificación de Alemania y la Comuna",
+    "fecha_inicio": 1871,
+    "fecha_fin": null,
+    "descripcion_corta": "**El 18 de enero de 1871**, en la Galería de los Espejos de **Versalles** —humillación calculada—, el rey de Prusia fue proclamado emperador de Alemania. Era la obra de **Otto von Bismarck**, que había unificado el país con tres guerras cuidadosamente provocadas: contra Dinamarca, Austria y Francia.\n\nNacía en el centro de Europa una potencia industrial y militar de primer orden que alteró el equilibrio del continente y llevó, en dos generaciones, a las guerras mundiales. Bismarck, para quitarle banderas al socialismo, creó además **el primer sistema de seguros sociales del mundo**: enfermedad, accidentes y pensiones.\n\nEn el bando derrotado, París se sublevó y proclamó la **Comuna**, un gobierno obrero que duró 72 días y terminó con miles de fusilados.",
+    "imagenes": [
+      "/images/edad-moderna/mod_mod-alemania-a-v-werner-kaiserproklamation-am-18-januar-1871-3-_wikimedia.jpg"
+    ]
+  },
+  {
+    "id": "mod-telefono",
+    "region": "edad-moderna",
+    "tipo": "evento",
+    "titulo": "El teléfono",
+    "fecha_inicio": 1876,
+    "fecha_fin": null,
+    "descripcion_corta": "**El 10 de marzo de 1876**, **Alexander Graham Bell** transmitió por un cable la primera frase inteligible: una llamada a su ayudante en la habitación de al lado. Patentó el invento **horas antes** que Elisha Gray, en una de las carreras más disputadas de la historia de la técnica; hoy se reconoce que el italiano **Antonio Meucci** lo había construido antes sin poder pagar la patente.\n\nEn veinte años había redes telefónicas en las grandes ciudades del mundo. Junto con el **telégrafo** (1844) y luego la **radio** de Marconi (1895), acabó con algo que había durado toda la historia: que una noticia no pudiera viajar más rápido que un mensajero.\n\nEl siglo XIX se cierra con el mundo comunicado casi en tiempo real por cables submarinos.",
+    "imagenes": [
+      "/images/edad-moderna/mod_mod-telefono-alexander-graham-bell-jpg-utm-source-es-wikipedia-_wikimedia.jpg"
+    ]
+  },
+  {
+    "id": "mod-berlin-africa",
+    "region": "edad-moderna",
+    "tipo": "evento",
+    "titulo": "El reparto de África",
+    "fecha_inicio": 1884,
+    "fecha_fin": null,
+    "descripcion_corta": "**Entre noviembre de 1884 y febrero de 1885**, catorce países se reunieron en Berlín, convocados por Bismarck, para acordar las reglas del reparto de África. **No había un solo africano** en la sala.\n\nEn 1870, los europeos controlaban el 10 % del continente; en 1914, el **90 %**, todo salvo Etiopía y Liberia. Se trazaron fronteras con regla sobre mapas incompletos, partiendo pueblos y juntando enemigos: muchos conflictos africanos actuales vienen de aquellas líneas.\n\nEl caso extremo fue el **Estado Libre del Congo**, propiedad personal del rey Leopoldo II de Bélgica, donde la explotación del caucho con trabajo forzado, mutilaciones y matanzas causó millones de muertes y provocó la primera gran campaña internacional de derechos humanos.",
+    "imagenes": [
+      "/images/edad-moderna/mod_mod-berlin-africa-kongokonferenz-jpg-utm-source-es-wikipedia-org-utm_wikimedia.jpg"
+    ]
+  },
+  {
+    "id": "mod-automovil",
+    "region": "edad-moderna",
+    "tipo": "evento",
+    "titulo": "El automóvil",
+    "fecha_inicio": 1886,
+    "fecha_fin": null,
+    "descripcion_corta": "**En enero de 1886**, **Carl Benz** patentó en Alemania un triciclo motorizado con motor de gasolina: el primer automóvil práctico de la historia. Dos años después, su esposa **Bertha Benz** hizo sin permiso el primer viaje largo —106 kilómetros con sus dos hijos, comprando combustible en una farmacia y arreglando averías con una horquilla— para demostrar que el invento servía.\n\nEl coche fue durante veinte años un juguete de ricos, hasta que **Henry Ford** aplicó **en 1913** la cadena de montaje y bajó el precio del Modelo T a lo que costaba el sueldo de unos meses.\n\nEn una generación cambió las ciudades, el trabajo, el paisaje y la idea misma de distancia. Y con él llegaron el petróleo como recurso estratégico y, mucho después, la factura ambiental.",
+    "imagenes": [
+      "/images/edad-moderna/mod_mod-automovil-carl-benz-c-1889-jpg-utm-source-es-wikipedia-org-u_wikimedia.jpg"
+    ]
+  },
+  {
+    "id": "mod-lumiere",
+    "region": "edad-moderna",
+    "tipo": "evento",
+    "titulo": "El cine y los rayos X",
+    "fecha_inicio": 1895,
+    "fecha_fin": null,
+    "descripcion_corta": "**1895** fue un año extraordinario. **El 28 de diciembre**, los hermanos **Lumière** proyectaron en un café de París diez películas de menos de un minuto ante un público que pagó entrada: había nacido el **cine**. La leyenda dice que los espectadores se apartaron al ver llegar un tren de frente.\n\nUnas semanas antes, en Alemania, **Wilhelm Röntgen** había descubierto por accidente unos rayos capaces de atravesar la carne pero no el hueso. La primera radiografía fue la mano de su mujer, que al verla dijo: «he visto mi muerte». Recibió el **primer Premio Nobel de Física** en 1901.\n\nEn pocos años se pudo mirar dentro del cuerpo humano y guardar el movimiento en una película: dos formas nuevas de ver el mundo.",
+    "imagenes": [
+      "/images/edad-moderna/mod_mod-lumiere-fratelli-lumiere-jpg-utm-source-es-wikipedia-org-u_wikimedia.jpg"
+    ]
+  },
+  {
+    "id": "mod-curie",
+    "region": "edad-moderna",
+    "tipo": "evento",
+    "titulo": "Marie Curie y la radiactividad",
+    "fecha_inicio": 1898,
+    "fecha_fin": null,
+    "descripcion_corta": "**En 1898**, **Marie Curie** y su marido Pierre anunciaron el descubrimiento de dos elementos nuevos, el **polonio** —bautizado por su Polonia natal— y el **radio**, aislados a partir de toneladas de mineral tratado a mano en un cobertizo sin calefacción.\n\nMarie acuñó el término **radiactividad** y demostró que era una propiedad del átomo, no una reacción química: la materia no era indivisible ni inmutable. Fue la **primera mujer con un Premio Nobel**, la primera catedrática de la Sorbona y **la única persona con dos Nobel en ciencias distintas**, Física en 1903 y Química en 1911.\n\nEn la Primera Guerra Mundial montó unidades móviles de rayos X que atendieron a un millón de heridos. Murió en 1934 de una enfermedad provocada por la radiación que había descubierto.",
+    "imagenes": [
+      "/images/edad-moderna/mod_mod-curie-marie-curie-1900-jpg-utm-source-es-wikipedia-org-u_wikimedia.jpg"
+    ]
+  },
+  {
+    "id": "mod-1900",
+    "region": "edad-moderna",
+    "tipo": "evento",
+    "titulo": "El mundo en 1900",
+    "fecha_inicio": 1900,
+    "fecha_fin": null,
+    "descripcion_corta": "El siglo se cierra con Europa gobernando buena parte del planeta: el **Imperio británico** abarca una cuarta parte de la superficie terrestre y de la población mundial. París celebra una Exposición Universal con electricidad, cine, escaleras mecánicas y el metro recién inaugurado.\n\nHay luz eléctrica, teléfono, automóviles, aspirina, vacunas y una fe casi religiosa en el progreso indefinido. También hay **catorce horas de jornada** en muchas fábricas, sufragio femenino en casi ningún sitio, colonias explotadas y una carrera de armamentos entre potencias.\n\nEn 1900 **Max Planck** propuso los cuantos y **Freud** publicó *La interpretación de los sueños*: la física y la mente estaban a punto de dejar de ser lo que parecían. Catorce años después, ese mundo confiado se suicidaría en las trincheras.",
+    "imagenes": [
+      "/images/edad-moderna/mod_mod-1900-vue-panoramique-de-l-exposition-universelle-de-190_wikimedia.jpg"
+    ]
+  },
+  {
+    "id": "mod-ctx-vida",
+    "region": "edad-moderna",
+    "tipo": "evento",
+    "titulo": "Cómo vivía la gente en la Edad Moderna",
+    "fecha_inicio": 1600,
+    "fecha_fin": null,
+    "descripcion_corta": "**El campo**\n\nNueve de cada diez europeos seguían siendo campesinos, con una vida no muy distinta a la medieval: casa de una o dos piezas, animales dentro en invierno, pan negro, sopa y cerveza. La diferencia la trajo América: **la patata y el maíz**, que alimentaron a más gente con menos tierra, y el tomate, el pimiento, el cacao y el tabaco.\n\n**La ciudad**\n\nCrecieron mucho —Londres pasó de 50 000 a 500 000 habitantes en dos siglos— y eran mortales: sin alcantarillado, con la peste volviendo cada generación. En 1665 la peste mató a un quinto de los londinenses y en 1666 un incendio arrasó la ciudad.\n\n**La familia**\n\nSe casaban tarde, hacia los 25, y **uno de cada cuatro niños moría antes de cumplir un año**. La esperanza de vida al nacer rondaba los 35 años, pero quien llegaba a los 20 podía alcanzar los 60.\n\n**Lo nuevo**\n\nEl reloj, el correo regular, la prensa periódica, el café y el chocolate, y una idea inédita: la **infancia** como etapa que merece cuidado propio.",
+    "imagenes": [
+      "/images/edad-moderna/mod_mod-ctx-vida-pieter-bruegel-the-elder-peasant-wedding-google-ar_wikimedia.jpg"
+    ],
+    "contextual": true
+  },
+  {
+    "id": "mod-ctx-creencias",
+    "region": "edad-moderna",
+    "tipo": "evento",
+    "titulo": "Creencias, religión y brujas",
+    "fecha_inicio": 1630,
+    "fecha_fin": null,
+    "descripcion_corta": "**Un continente partido**\n\nCatólicos al sur, protestantes al norte y guerras entre ellos durante siglo y medio. La religión decidía con quién te casabas, qué libros podías leer y si podías tener un cargo público.\n\n**La caza de brujas**\n\nNo fue medieval: su apogeo va de **1560 a 1650**, en plena era de la ciencia. Se calcula que hubo entre **40 000 y 60 000 ejecuciones**, la mayoría mujeres pobres, viudas o curanderas, y sobre todo en Alemania y Suiza. En España la Inquisición fue de las primeras en frenarla: tras el proceso de Zugarramurdi, el inquisidor Salazar concluyó en 1614 que **no había pruebas de brujería**.\n\n**La duda**\n\nCon Descartes —«pienso, luego existo»— y con Spinoza empezó a separarse la razón de la fe. A finales del siglo XVIII, los ilustrados hablaban ya de **tolerancia religiosa**, y algunos de deísmo o directamente de ateísmo.\n\n**Y la fe siguió**\n\nMisiones jesuitas de China al Paraguay, peregrinaciones, cofradías y un Barroco hecho para emocionar.",
+    "imagenes": [
+      "/images/edad-moderna/mod_mod-ctx-creencias-wickiana5-jpg-utm-source-es-wikipedia-org-utm-camp_wikimedia.jpg"
+    ],
+    "contextual": true
+  },
+  {
+    "id": "mod-ctx-economia",
+    "region": "edad-moderna",
+    "tipo": "evento",
+    "titulo": "Modelo económico: mercantilismo y capitalismo",
+    "fecha_inicio": 1700,
+    "fecha_fin": null,
+    "descripcion_corta": "**El mercantilismo**\n\nLa doctrina dominante entre 1500 y 1750: la riqueza es el **oro y la plata** que un país acumula, así que hay que exportar mucho, importar poco y tener colonias que compren solo a la metrópoli. De ahí los monopolios, los aranceles y las guerras comerciales.\n\n**La revolución de los precios**\n\nLa plata americana —unas **16 000 toneladas** en dos siglos— multiplicó por seis los precios europeos. España, que la recibía, se empobreció comprando fuera lo que no producía; se enriquecieron Holanda e Inglaterra, que se lo vendían.\n\n**El comercio triangular**\n\nManufacturas a África, personas esclavizadas a América, azúcar y algodón a Europa. **Doce millones de africanos** fueron embarcados; los beneficios financiaron buena parte de la primera industrialización.\n\n**Lo nuevo**\n\nBancos centrales (Inglaterra, 1694), bolsas, seguros marítimos, sociedades por acciones y también la primera **burbuja financiera** moderna: la de los tulipanes holandeses, en 1637.",
+    "imagenes": [
+      "/images/edad-moderna/mod_mod-ctx-economia-f0087-louvre-gellee-port-au-soleil-couchant-inv471_wikimedia.jpg"
+    ],
+    "contextual": true
+  },
+  {
+    "id": "mod-ctx-social",
+    "region": "edad-moderna",
+    "tipo": "evento",
+    "titulo": "Estructura social del Antiguo Régimen",
+    "fecha_inicio": 1750,
+    "fecha_fin": null,
+    "descripcion_corta": "**Los estamentos**\n\nLa sociedad seguía dividida por nacimiento: **nobleza** y **clero**, exentos de casi todos los impuestos y con tribunales propios, y el **tercer estado** —del campesino sin tierra al banquero riquísimo—, que pagaba todo.\n\n**La burguesía**\n\nComerciantes, armadores, abogados y funcionarios que acumulaban dinero y formación pero no podían acceder a los cargos reservados a los nobles. Esa contradicción entre **poder económico y falta de poder político** es el motor de las revoluciones del siglo XVIII.\n\n**Los de abajo**\n\nEn Europa oriental, la servidumbre se endureció justo cuando desaparecía en el oeste: un campesino ruso podía ser vendido con la tierra hasta **1861**. En las colonias, la esclavitud sostenía la economía del azúcar y del algodón.\n\n**Las mujeres**\n\nBajo tutela legal del padre o el marido, sin universidad ni voto. Aun así, los **salones** ilustrados los dirigían mujeres, y en 1791 Olympe de Gouges escribió la Declaración de los Derechos de la Mujer. La guillotinaron dos años después.",
+    "imagenes": [
+      "/images/edad-moderna/mod_mod-ctx-social-couder-stati-generali-jpg-utm-source-es-wikipedia-_wikimedia.jpg"
+    ],
+    "contextual": true
+  },
+  {
+    "id": "mod-ctx-industrial",
+    "region": "edad-moderna",
+    "tipo": "evento",
+    "titulo": "Cómo se vivía en la Revolución Industrial",
+    "fecha_inicio": 1850,
+    "fecha_fin": null,
+    "descripcion_corta": "**La fábrica**\n\nJornadas de **12 a 16 horas**, seis días por semana, al ritmo de la máquina y con multas por llegar tarde o hablar. Trabajaban también mujeres y **niños desde los cinco o seis años**, apreciados por sus manos pequeñas para limpiar telares en marcha o arrastrar vagonetas en las minas.\n\n**El barrio obrero**\n\nCasas espalda contra espalda, sin agua corriente ni retrete propio, con familias enteras en una habitación. En el Manchester de 1840, la esperanza de vida de un obrero era de **unos 30 años**, la mitad que la de un burgués de la misma ciudad. El cólera llegaba cada pocos años.\n\n**La respuesta**\n\nPrimero los **luditas**, que rompían las máquinas; luego las *trade unions*, las cooperativas y el cartismo, que pedía el voto para todos. Poco a poco llegaron las leyes de fábricas, la escolarización obligatoria y la jornada de diez horas.\n\n**Y también**\n\nAgua corriente, alcantarillado, tren barato, prensa de un penique, fútbol y vacaciones: la vida material del obrero de 1900 era mucho mejor que la de 1840.",
+    "imagenes": [
+      "/images/edad-moderna/mod_mod-ctx-industrial-1920px-pennsylvania-breaker-boys-1911-jpg-utm-sour_wikimedia.jpg"
+    ],
+    "contextual": true
+  },
+  {
+    "id": "mod-ctx-costumbres",
+    "region": "edad-moderna",
+    "tipo": "evento",
+    "titulo": "Costumbres y vida diaria en el siglo XIX",
+    "fecha_inicio": 1880,
+    "fecha_fin": null,
+    "descripcion_corta": "**La casa burguesa**\n\nSalón para las visitas, papel pintado, piano, retratos de familia y servicio doméstico —la mayor ocupación femenina de la época—. Aparecen la fotografía, las postales y el álbum familiar.\n\n**La ciudad nueva**\n\nBulevares anchos, alumbrado de gas y luego eléctrico, tranvía, **grandes almacenes** con precio fijo y escaparate, cafés, teatros y los primeros parques públicos pensados para pasear.\n\n**La ropa**\n\nEl hombre burgués viste de negro y sombrero de copa; la mujer, corsé, polisón y capas de tela. La moda se copia de París y, con la máquina de coser, llega por primera vez la **ropa hecha** y barata.\n\n**El ocio**\n\nSe inventa el fin de semana. Nacen el fútbol reglamentado (1863), el ciclismo, las **vacaciones en la playa** gracias al tren, el music-hall, la novela por entregas y el turismo organizado de Thomas Cook.\n\n**Las buenas maneras**\n\nLa **época victoriana** impone una moral estricta en público —y una enorme hipocresía en privado—, con manuales de urbanidad que explican hasta cómo dar el pésame.",
+    "imagenes": [
+      "/images/edad-moderna/mod_mod-ctx-costumbres-queen-victoria-60-crownjubilee-jpg-utm-source-es-w_wikimedia.jpg"
+    ],
+    "contextual": true
+  },
+  {
+    "id": "mod-guerras-italia",
+    "region": "edad-moderna",
+    "tipo": "evento",
+    "titulo": "Las guerras de Italia",
+    "fecha_inicio": 1496,
+    "fecha_fin": 1559,
+    "descripcion_corta": "**Entre 1494 y 1559**, Francia y España se disputaron Italia en una serie de guerras que arruinaron a las ciudades del Renacimiento y convirtieron la península en campo de batalla europeo.\n\nAllí se probaron las armas que cambiarían la guerra: la **artillería móvil** francesa, que derribaba en horas murallas medievales, y los **tercios españoles**, que combinaban pica y arcabuz. Gonzalo Fernández de Córdoba, el **Gran Capitán**, ganó Ceriñola en 1503 con la primera victoria de la historia decidida por armas de fuego portátiles.\n\nEl saqueo de Roma **en 1527** por las tropas amotinadas de Carlos V marcó el final del Renacimiento romano. La paz de Cateau-Cambrésis, en 1559, dejó Italia bajo dominio español durante siglo y medio.",
+    "imagenes": [
+      "/images/edad-moderna/mod2_mod-guerras-italia-italian-war-battle-jpg-utm-source-es-wikipedia-org_wikimedia.jpg"
+    ]
+  },
+  {
+    "id": "mod-erasmo",
+    "region": "edad-moderna",
+    "tipo": "evento",
+    "titulo": "Erasmo y el humanismo cristiano",
+    "fecha_inicio": 1511,
+    "fecha_fin": null,
+    "descripcion_corta": "**Erasmo de Rotterdam** fue el intelectual más leído de su tiempo: publicó **en 1511** el *Elogio de la locura*, una sátira mordaz de frailes, teólogos y príncipes, y **en 1516** la primera edición crítica del **Nuevo Testamento en griego**, que puso en evidencia errores de la traducción oficial latina.\n\nDefendía reformar la Iglesia desde dentro, con estudio y tolerancia, sin romperla. Cuando llegó Lutero se negó a seguirlo y acabó atacado por los dos bandos: los católicos decían que él había puesto el huevo que Lutero empolló.\n\nSu ideal —**leer las fuentes originales, dudar, educar**— es el corazón del humanismo, y su correspondencia con media Europa fue la primera red intelectual del continente.",
+    "imagenes": [
+      "/images/edad-moderna/mod2_mod-erasmo-holbein-erasmus-jpg-utm-source-es-wikipedia-org-ut_wikimedia.jpg"
+    ]
+  },
+  {
+    "id": "mod-utopia",
+    "region": "edad-moderna",
+    "tipo": "evento",
+    "titulo": "Tomás Moro y Utopía",
+    "fecha_inicio": 1516,
+    "fecha_fin": null,
+    "descripcion_corta": "**En 1516**, el humanista inglés **Tomás Moro** publicó *Utopía*, la descripción de una isla imaginaria donde no existe la propiedad privada, se trabajan **seis horas al día**, hay tolerancia religiosa, divorcio y sanidad pública, y el oro se usa para hacer orinales.\n\nLa palabra que inventó —del griego *ou-topos*, «ningún lugar»— nombró desde entonces a todo un género literario y político. Era mitad crítica social de la Inglaterra de su tiempo, con sus campesinos expulsados por las ovejas, y mitad juego intelectual.\n\nMoro acabó decapitado **en 1535** por negarse a reconocer a Enrique VIII como cabeza de la Iglesia: prefirió morir antes que jurar contra su conciencia.",
+    "imagenes": [
+      "/images/edad-moderna/mod2_mod-utopia-hans-holbein-the-younger-sir-thomas-more-google-ar_wikimedia.jpg"
+    ]
+  },
+  {
+    "id": "mod-mohacs",
+    "region": "edad-moderna",
+    "tipo": "evento",
+    "titulo": "Los otomanos llegan al corazón de Europa",
+    "fecha_inicio": 1526,
+    "fecha_fin": null,
+    "descripcion_corta": "**El 29 de agosto de 1526**, en la llanura de **Mohács**, el ejército de **Solimán el Magnífico** aniquiló al de Hungría en menos de dos horas: murieron el rey y buena parte de la nobleza húngara.\n\nHungría, que había sido el escudo de la cristiandad, quedó partida en tres y en su mayor parte bajo dominio otomano durante **150 años**. El imperio de Solimán se extendía ya de Argel a Bagdad, con una flota que dominaba el Mediterráneo y una administración y un ejército —los **jenízaros**— superiores a los europeos.\n\nEl avance solo se detuvo ante las murallas de Viena, **en 1529**, por el barro, el otoño y una logística imposible a tanta distancia de Estambul.",
+    "imagenes": [
+      "/images/edad-moderna/mod2_mod-mohacs-emperorsuleiman-jpg-utm-source-es-wikipedia-org-ut_wikimedia.jpg"
+    ]
+  },
+  {
+    "id": "mod-viena-1529",
+    "region": "edad-moderna",
+    "tipo": "evento",
+    "titulo": "El primer sitio de Viena",
+    "fecha_inicio": 1529,
+    "fecha_fin": null,
+    "descripcion_corta": "**En septiembre de 1529**, unos 100 000 otomanos pusieron cerco a **Viena**, defendida por unos 20 000 hombres. Las lluvias habían dejado atrás la artillería pesada y convertido los caminos en lodazales; los defensores resistieron tres semanas, minaron los túneles enemigos y, con el frío encima, Solimán ordenó la retirada.\n\nFue el punto más occidental al que llegó el imperio otomano por tierra. El pánico que provocó en Europa fue enorme: se rezaba en toda la cristiandad y **Lutero** escribió un tratado sobre la guerra contra el turco.\n\nLa amenaza otomana condicionó toda la política del siglo: Carlos V no pudo aplastar a los príncipes protestantes porque necesitaba sus tropas contra Solimán.",
+    "imagenes": [
+      "/images/edad-moderna/mod2_mod-viena-1529-battle-of-vienna-sultanmurads-with-janissaries-jpg_wikimedia.jpg"
+    ]
+  },
+  {
+    "id": "mod-calvino",
+    "region": "edad-moderna",
+    "tipo": "evento",
+    "titulo": "Calvino y Ginebra",
+    "fecha_inicio": 1536,
+    "fecha_fin": null,
+    "descripcion_corta": "**En 1536**, el francés **Juan Calvino** publicó la *Institución de la religión cristiana* y poco después convirtió **Ginebra** en una ciudad-Estado gobernada según la Biblia, con un consistorio que vigilaba la conducta de todos.\n\nSu doctrina más dura es la **predestinación**: Dios ya ha decidido quién se salva y nada puede cambiarlo. Su consecuencia práctica fue paradójica: como el éxito en el trabajo podía leerse como señal de elección, el calvinismo estimuló el ahorro, la disciplina y la reinversión. Max Weber vería ahí, siglos después, el origen del **espíritu del capitalismo**.\n\nDe Ginebra salieron los hugonotes franceses, los presbiterianos escoceses, los puritanos ingleses y, con el *Mayflower*, la Nueva Inglaterra americana.",
+    "imagenes": [
+      "/images/edad-moderna/mod2_mod-calvino-john-calvin-museum-catharijneconvent-rmcc-s84-crop_wikimedia.png"
+    ]
+  },
+  {
+    "id": "mod-jesuitas",
+    "region": "edad-moderna",
+    "tipo": "evento",
+    "titulo": "La Compañía de Jesús",
+    "fecha_inicio": 1540,
+    "fecha_fin": null,
+    "descripcion_corta": "**En 1540**, el papa aprobó la orden fundada por el militar vasco **Ignacio de Loyola** tras una conversión durante una convalecencia de guerra. Los **jesuitas** no vivían en clausura: se organizaban como un ejército, con obediencia absoluta al general y al papa, y se dedicaban a dos frentes.\n\nEl primero, la **educación**: en un siglo levantaron cientos de colegios y universidades con un plan de estudios común, el mejor sistema educativo de Europa. El segundo, las **misiones**: **Francisco Javier** llegó a la India y a Japón, Matteo Ricci a la corte china vestido de letrado, y otros al Paraguay y a California.\n\nSu influencia y su independencia les valieron enemigos por todas partes: fueron expulsados de Portugal, Francia y España, y la orden llegó a ser **suprimida por el papa en 1773**.",
+    "imagenes": [
+      "/images/edad-moderna/mod2_mod-jesuitas-st-ignatius-of-loyola-1491-1556-founder-of-the-jes_wikimedia.jpg"
+    ]
+  },
+  {
+    "id": "mod-vesalio",
+    "region": "edad-moderna",
+    "tipo": "evento",
+    "titulo": "Vesalio y la anatomía moderna",
+    "fecha_inicio": 1546,
+    "fecha_fin": null,
+    "descripcion_corta": "**En 1543**, el mismo año que Copérnico, el flamenco **Andrés Vesalio** publicó *De humani corporis fabrica*: siete libros con **más de 200 grabados** de un detalle nunca visto, hechos a partir de disecciones que él mismo practicaba, en vez de repetir a Galeno.\n\nSe atrevió a corregir al maestro griego en **más de 200 errores** —Galeno había diseccionado monos y cerdos, no humanos— y con ello inauguró la medicina basada en la observación directa. Fue médico de Carlos V y de Felipe II.\n\nEn la misma generación, **Ambroise Paré** sustituyó el aceite hirviendo por ungüentos suaves para tratar heridas de arcabuz y **Miguel Servet** describió la circulación pulmonar, lo que le costó morir en la hoguera por hereje.",
+    "imagenes": [
+      "/images/edad-moderna/mod2_mod-vesalio-vesalius-fabrica-portrait-jpg-utm-source-es-wikipe_wikimedia.jpg"
+    ]
+  },
+  {
+    "id": "mod-guerras-religion-francia",
+    "region": "edad-moderna",
+    "tipo": "evento",
+    "titulo": "Las guerras de religión en Francia",
+    "fecha_inicio": 1562,
+    "fecha_fin": 1598,
+    "descripcion_corta": "**Entre 1562 y 1598**, Francia se desangró en ocho guerras civiles entre católicos y **hugonotes** (protestantes calvinistas). Murieron entre dos y cuatro millones de personas.\n\nEl episodio más brutal fue la **noche de San Bartolomé**, del 23 al 24 de agosto de 1572: aprovechando una boda real que había reunido en París a la nobleza protestante, se desató una matanza que se extendió por todo el país y dejó **miles de muertos**.\n\nLa salida llegó con **Enrique IV**, hugonote que se convirtió al catolicismo para ser aceptado como rey —«París bien vale una misa»— y firmó **en 1598 el Edicto de Nantes**, que concedió libertad de culto a los protestantes. Fue asesinado por un fanático en 1610, y Luis XIV revocaría el edicto en 1685.",
+    "imagenes": [
+      "/images/edad-moderna/mod2_mod-guerras-religion-francia-la-masacre-de-san-bartolom-por-fran-ois-dubois-jpg_wikimedia.jpg"
+    ]
+  },
+  {
+    "id": "mod-ochenta-anos",
+    "region": "edad-moderna",
+    "tipo": "evento",
+    "titulo": "La Guerra de los Ochenta Años",
+    "fecha_inicio": 1568,
+    "fecha_fin": 1648,
+    "descripcion_corta": "**En 1568**, las provincias de los Países Bajos se levantaron contra Felipe II por los impuestos, la represión religiosa y los métodos del duque de Alba, cuyo Tribunal de los Tumultos —el «tribunal de la sangre»— ejecutó a centenares de nobles.\n\nFue una guerra larguísima, de asedios, diques rotos e inundaciones deliberadas. Guillermo de Orange dirigió la resistencia hasta que lo asesinaron en 1584. Las siete provincias del norte, protestantes, se independizaron de hecho y construyeron una república comercial que en pocas décadas fue **la más rica de Europa**; las del sur siguieron españolas y son la actual Bélgica.\n\nEspaña no reconoció la independencia hasta la **Paz de Westfalia, en 1648**: ochenta años de guerra que consumieron buena parte de la plata americana.",
+    "imagenes": [
+      "/images/edad-moderna/mod2_mod-ochenta-anos-vel-zquez-de-breda-o-las-lanzas-museo-del-prado-16_wikimedia.jpg"
+    ]
+  },
+  {
+    "id": "mod-drake",
+    "region": "edad-moderna",
+    "tipo": "evento",
+    "titulo": "Drake y los corsarios",
+    "fecha_inicio": 1577,
+    "fecha_fin": 1580,
+    "descripcion_corta": "**Entre 1577 y 1580**, el inglés **Francis Drake** dio la segunda vuelta al mundo de la historia, saqueando de paso puertos y galeones españoles en el Pacífico, donde nadie esperaba enemigos. Volvió con un botín tan enorme que pagó de golpe la deuda de la Corona inglesa, e **Isabel I lo armó caballero** en la cubierta de su barco.\n\nPara España era un pirata; para Inglaterra, un héroe. Fue el modelo del **corso**: guerra privada con licencia estatal, mucho más barata que una armada. Drake asaltó Cádiz en 1587 —«chamuscar las barbas del rey de España»— y participó en la derrota de la Armada al año siguiente.\n\nCon él nació la vocación marítima inglesa que dominaría los océanos durante tres siglos.",
+    "imagenes": [
+      "/images/edad-moderna/mod2_mod-drake-sir-francis-drake-1540-96-rmg-l8411-jpg-utm-source_wikimedia.jpg"
+    ]
+  },
+  {
+    "id": "mod-calendario-gregoriano",
+    "region": "edad-moderna",
+    "tipo": "evento",
+    "titulo": "El calendario gregoriano",
+    "fecha_inicio": 1582,
+    "fecha_fin": null,
+    "descripcion_corta": "El calendario juliano llevaba **1 600 años** acumulando un error de 11 minutos al año, y el equinoccio se había desplazado diez días: la Pascua se estaba yendo hacia el verano.\n\nLa reforma del papa **Gregorio XIII**, calculada por el astrónomo Clavius, hizo dos cosas: suprimir diez días de golpe —**del 4 de octubre de 1582 se pasó al 15**— y afinar los años bisiestos, quitando tres cada cuatro siglos. Es el calendario que usa hoy casi todo el mundo, con un error de un día cada 3 300 años.\n\nLa adopción fue lenta y política: los países católicos lo aceptaron enseguida; Inglaterra esperó a **1752**, y Rusia hasta 1918, por lo que su «Revolución de Octubre» ocurrió en noviembre.",
+    "imagenes": [
+      "/images/edad-moderna/mod2_mod-calendario-gregoriano-lavinia-fontana-portrait-of-pope-gregory-xiii-jpg-_wikimedia.jpg"
+    ]
+  },
+  {
+    "id": "mod-maria-estuardo",
+    "region": "edad-moderna",
+    "tipo": "evento",
+    "titulo": "María Estuardo",
+    "fecha_inicio": 1587,
+    "fecha_fin": null,
+    "descripcion_corta": "**María Estuardo**, reina de Escocia, católica y con derechos al trono inglés, pasó **diecinueve años presa** de su prima Isabel I tras huir de su propio país. Alrededor de ella se tejieron conspiraciones para asesinar a Isabel y restaurar el catolicismo.\n\nLa red de espionaje de Walsingham interceptó y descifró sus cartas —uno de los primeros casos documentados de **criptoanálisis aplicado a la política**— y aportó la prueba. Isabel firmó la sentencia con enormes dudas: ejecutar a una reina ungida sentaba un precedente peligroso para todas las monarquías.\n\nFue decapitada **el 8 de febrero de 1587**. Su hijo Jacobo heredaría igualmente el trono inglés en 1603, uniendo por primera vez Escocia e Inglaterra bajo un mismo rey.",
+    "imagenes": [
+      "/images/edad-moderna/mod2_mod-maria-estuardo-fran-ois-clouet-mary-queen-of-scots-1542-87-google_wikimedia.jpg"
+    ]
+  },
+  {
+    "id": "mod-bruno",
+    "region": "edad-moderna",
+    "tipo": "evento",
+    "titulo": "Giordano Bruno en la hoguera",
+    "fecha_inicio": 1600,
+    "fecha_fin": null,
+    "descripcion_corta": "**El 17 de febrero de 1600**, el fraile dominico **Giordano Bruno** fue quemado vivo en el Campo dei Fiori de Roma tras ocho años de proceso inquisitorial. Le pusieron una mordaza para que no hablara camino de la hoguera.\n\nHabía sostenido cosas insólitas para su tiempo: que el universo es **infinito**, que las estrellas son soles con sus propios planetas y que puede haber otros mundos habitados. Sus condenas fueron sobre todo teológicas —negaba la Trinidad y la divinidad de Cristo—, pero su figura quedó como símbolo del choque entre la libertad de pensamiento y el dogma.\n\nTreinta y tres años después, la misma Inquisición juzgaría a Galileo. La diferencia es que Galileo abjuró.",
+    "imagenes": [
+      "/images/edad-moderna/mod2_mod-bruno-portrait-of-giordano-bruno-in-opere-wellcome-l0015_wikimedia.jpg"
+    ]
+  },
+  {
+    "id": "mod-shakespeare",
+    "region": "edad-moderna",
+    "tipo": "evento",
+    "titulo": "Shakespeare",
+    "fecha_inicio": 1616,
+    "fecha_fin": null,
+    "descripcion_corta": "**William Shakespeare** murió en abril de **1616**, el mismo mes que Cervantes. Había escrito unas 38 obras y 154 sonetos para un teatro popular, el **Globe**, donde el público de pie pagaba un penique y los papeles femeninos los hacían muchachos.\n\n*Hamlet*, *Macbeth*, *El rey Lear*, *Romeo y Julieta*, *Otelo*: personajes que dudan, se contradicen y hablan consigo mismos, algo nuevo en la literatura. Se le atribuyen además **unas 1 700 palabras** que aparecen por primera vez en sus textos.\n\nEl teatro isabelino fue el gran espectáculo de masas de la época, hasta que los puritanos cerraron los teatros en 1642 por considerarlos una escuela de vicio.",
+    "imagenes": [
+      "/images/edad-moderna/mod2_mod-shakespeare-shakespeare-jpg-utm-source-es-wikipedia-org-utm-ca_wikimedia.jpg"
+    ]
+  },
+  {
+    "id": "mod-harvey",
+    "region": "edad-moderna",
+    "tipo": "evento",
+    "titulo": "Harvey y la circulación de la sangre",
+    "fecha_inicio": 1628,
+    "fecha_fin": null,
+    "descripcion_corta": "**En 1628**, el médico inglés **William Harvey** demostró que la sangre **circula en un circuito cerrado** impulsada por el corazón, y no se produce y consume continuamente en el hígado como sostenía Galeno desde hacía 1 400 años.\n\nSu argumento fue **cuantitativo**, y ahí está la novedad: calculó cuánta sangre bombea el corazón en media hora y vio que superaba con creces el peso del cuerpo, así que era imposible fabricarla de nuevo cada vez. Tenía que ser la misma dando vueltas.\n\nLe faltaba el eslabón de los capilares, que Malpighi vería con microscopio en 1661. Es el nacimiento de la **fisiología moderna** y un ejemplo perfecto del nuevo método: medir en lugar de citar a los antiguos.",
+    "imagenes": [
+      "/images/edad-moderna/mod2_mod-harvey-william-harvey-2-jpg-utm-source-es-wikipedia-org-u_wikimedia.jpg"
+    ]
+  },
+  {
+    "id": "mod-siglo-oro-holandes",
+    "region": "edad-moderna",
+    "tipo": "evento",
+    "titulo": "El Siglo de Oro holandés",
+    "fecha_inicio": 1632,
+    "fecha_fin": null,
+    "descripcion_corta": "La joven república de los Países Bajos, con menos de dos millones de habitantes, se convirtió en el centro económico y cultural de Europa: tenía la mayor flota mercante del mundo, la primera bolsa, el primer banco central moderno y una tolerancia religiosa que atrajo a judíos sefardíes, hugonotes y librepensadores como **Descartes** y **Spinoza**.\n\nEn una sola generación pintaron allí **Rembrandt**, **Vermeer** y Frans Hals. Su clientela no eran reyes ni papas, sino **comerciantes y gremios** que encargaban retratos de grupo, paisajes, escenas domésticas y bodegones: el arte se hizo burgués y se vendía en el mercado como cualquier otra mercancía.\n\nSe calcula que en el siglo XVII se pintaron en Holanda **varios millones de cuadros**.",
+    "imagenes": [
+      "/images/edad-moderna/mod2_mod-siglo-oro-holandes-rembrandt-van-rijn-self-portrait-google-art-projec_wikimedia.jpg"
+    ]
+  },
+  {
+    "id": "mod-descartes",
+    "region": "edad-moderna",
+    "tipo": "evento",
+    "titulo": "Descartes y el método",
+    "fecha_inicio": 1637,
+    "fecha_fin": null,
+    "descripcion_corta": "**En 1637**, **René Descartes** publicó en francés —y no en latín, para que lo leyera cualquiera— el *Discurso del método*. Propone dudar de todo lo que no sea evidente y reconstruir el conocimiento desde una única certeza que resiste la duda: **«pienso, luego existo»**.\n\nEn el mismo volumen iba *La Geometría*, donde une álgebra y geometría con las **coordenadas cartesianas**, la herramienta que hizo posible el cálculo y la física moderna.\n\nSu racionalismo —la razón individual como juez último, por encima de la autoridad y la tradición— y el método científico de Bacon, basado en la experiencia, son las dos patas de la **revolución científica** y el punto de partida de la filosofía moderna.",
+    "imagenes": [
+      "/images/edad-moderna/mod2_mod-descartes-frans-hals-portret-van-ren-descartes-jpg-utm-sourc_wikimedia.jpg"
+    ]
+  },
+  {
+    "id": "mod-huygens",
+    "region": "edad-moderna",
+    "tipo": "evento",
+    "titulo": "Huygens y la medida del tiempo",
+    "fecha_inicio": 1656,
+    "fecha_fin": null,
+    "descripcion_corta": "**En 1656**, el holandés **Christiaan Huygens** construyó el primer **reloj de péndulo**, que pasó de un error de quince minutos al día a **menos de diez segundos**. Por primera vez fue posible medir el tiempo con precisión, algo imprescindible para la ciencia, la navegación y, más tarde, la vida industrial.\n\nHuygens descubrió además los anillos de Saturno y su luna Titán, formuló la teoría ondulatoria de la luz y estudió la fuerza centrífuga.\n\nEl problema de la **longitud en el mar** —imposible de calcular sin un reloj exacto— costó tantas flotas que el Parlamento británico ofreció un premio enorme por resolverlo; lo ganó el relojero **John Harrison** en el siglo XVIII con sus cronómetros marinos.",
+    "imagenes": [
+      "/images/edad-moderna/mod2_mod-huygens-christiaan-huygens-painting-jpeg-utm-source-es-wik_wikimedia.jpg"
+    ]
+  },
+  {
+    "id": "mod-peste-londres",
+    "region": "edad-moderna",
+    "tipo": "evento",
+    "titulo": "La peste y el incendio de Londres",
+    "fecha_inicio": 1665,
+    "fecha_fin": null,
+    "descripcion_corta": "**En 1665**, la última gran epidemia de **peste bubónica** de Inglaterra mató a unas 100 000 personas en Londres, **casi un cuarto de la ciudad**. Se marcaban las casas infectadas con una cruz roja, la corte huyó y quedaron los pobres.\n\nAl año siguiente, **el 2 de septiembre de 1666**, un incendio empezado en una panadería de Pudding Lane ardió cuatro días y destruyó **13 200 casas**, 87 iglesias y la catedral de San Pablo. Murieron pocas personas, y el fuego acabó con las ratas y las casas de madera insalubres.\n\nLondres se reconstruyó en ladrillo y piedra, con calles más anchas y una catedral nueva de **Christopher Wren**. La peste no volvió. Y un estudiante llamado Newton, confinado en el campo por la epidemia, tuvo su año más productivo.",
+    "imagenes": [
+      "/images/edad-moderna/mod2_mod-peste-londres-great-fire-london-jpg-utm-source-es-wikipedia-org-_wikimedia.jpg"
+    ]
+  },
+  {
+    "id": "mod-viena-1683",
+    "region": "edad-moderna",
+    "tipo": "evento",
+    "titulo": "El segundo sitio de Viena",
+    "fecha_inicio": 1683,
+    "fecha_fin": null,
+    "descripcion_corta": "**En julio de 1683**, un ejército otomano de 150 000 hombres volvió a poner cerco a Viena. La ciudad resistió dos meses, con las minas turcas ya bajo sus murallas, hasta que **el 12 de septiembre** apareció en las colinas del Kahlenberg un ejército de socorro polaco-alemán.\n\nLa carga de los **húsares alados** de **Juan III Sobieski**, unos 18 000 jinetes, la mayor carga de caballería de la historia, deshizo el campamento otomano en unas horas.\n\nFue el punto de inflexión: a partir de ahí el imperio otomano retrocedió en Europa durante dos siglos. Y quedó la leyenda —discutida— de que los sacos de café abandonados por los turcos abrieron los primeros cafés vieneses.",
+    "imagenes": [
+      "/images/edad-moderna/mod2_mod-viena-1683-bitwa-pod-wiedniem-brandt-jpg-utm-source-es-wikipe_wikimedia.jpg"
+    ]
+  },
+  {
+    "id": "mod-revolucion-gloriosa",
+    "region": "edad-moderna",
+    "tipo": "evento",
+    "titulo": "La Revolución Gloriosa",
+    "fecha_inicio": 1688,
+    "fecha_fin": null,
+    "descripcion_corta": "**En 1688**, el Parlamento inglés, temiendo una dinastía católica y absolutista, invitó al holandés **Guillermo de Orange** y a su esposa María, hija del rey, a ocupar el trono. Desembarcaron con un ejército y Jacobo II huyó sin apenas combate: por eso se la llamó *gloriosa*, sin sangre en Inglaterra —aunque sí la hubo, y mucha, en Irlanda y Escocia.\n\nEl precio fue una **Declaración de Derechos (1689)**: el rey no puede suspender leyes, ni cobrar impuestos, ni mantener ejército en paz sin permiso del Parlamento, que debe reunirse con regularidad y tener libertad de palabra.\n\nEs el nacimiento de la **monarquía constitucional**, y el modelo que citarán Montesquieu, los revolucionarios americanos y los liberales del siglo XIX.",
+    "imagenes": [
+      "/images/edad-moderna/mod2_mod-revolucion-gloriosa-william-of-orange-iii-and-his-dutch-army-land-in-b_wikimedia.jpg"
+    ]
+  },
+  {
+    "id": "mod-locke",
+    "region": "edad-moderna",
+    "tipo": "evento",
+    "titulo": "Locke y el liberalismo",
+    "fecha_inicio": 1690,
+    "fecha_fin": null,
+    "descripcion_corta": "**En 1690**, **John Locke** publicó los *Dos tratados sobre el gobierno civil*. Contra el derecho divino de los reyes, sostuvo que todos nacemos con derechos naturales —**vida, libertad y propiedad**—, que el gobierno existe solo por un pacto para protegerlos y que, si los viola, **el pueblo tiene derecho a rebelarse**.\n\nEn el *Ensayo sobre el entendimiento humano* añadió que la mente nace como una hoja en blanco y todo lo aprendemos de la experiencia: si somos producto de la educación, la sociedad puede mejorarse.\n\nJefferson lo copió casi literalmente en la Declaración de Independencia —cambiando *propiedad* por *búsqueda de la felicidad*— y su huella está en la Declaración francesa de 1789 y en todas las constituciones liberales.",
+    "imagenes": [
+      "/images/edad-moderna/mod2_mod-locke-john-locke-jpg-utm-source-es-wikipedia-org-utm-cam_wikimedia.jpg"
+    ]
+  },
+  {
+    "id": "mod-pedro-el-grande",
+    "region": "edad-moderna",
+    "tipo": "evento",
+    "titulo": "Pedro el Grande y Rusia",
+    "fecha_inicio": 1703,
+    "fecha_fin": null,
+    "descripcion_corta": "**Pedro I** viajó de incógnito por Holanda e Inglaterra trabajando como carpintero de astillero para aprender de Occidente. Al volver, forzó a Rusia a modernizarse: creó una armada, reorganizó el ejército y la administración, impuso el calendario juliano occidental y llegó a **cobrar un impuesto por llevar barba**.\n\n**En 1703**, sobre una marisma conquistada a Suecia y a costa de miles de vidas, fundó **San Petersburgo**, «la ventana a Europa», y trasladó allí la capital.\n\nDerrotó a Suecia en **Poltava (1709)** y convirtió a Rusia en una gran potencia europea. El precio fue un Estado autoritario sostenido sobre la servidumbre campesina, que duraría hasta 1861 y marcaría toda la historia rusa posterior.",
+    "imagenes": [
+      "/images/edad-moderna/mod2_mod-pedro-el-grande-peter-de-grote-jpg-utm-source-es-wikipedia-org-utm_wikimedia.jpg"
+    ]
+  },
+  {
+    "id": "mod-linneo",
+    "region": "edad-moderna",
+    "tipo": "evento",
+    "titulo": "Linneo y la clasificación de la vida",
+    "fecha_inicio": 1735,
+    "fecha_fin": null,
+    "descripcion_corta": "**En 1735**, el sueco **Carlos Linneo** publicó *Systema Naturae* y propuso ordenar todos los seres vivos en un sistema de reinos, clases, órdenes, géneros y especies, con la **nomenclatura binomial** que seguimos usando: dos palabras en latín, como *Homo sapiens* —nombre que él mismo acuñó para nuestra especie.\n\nAntes, cada naturalista describía las plantas con frases largas y distintas en cada idioma; después, cualquiera en cualquier país podía saber de qué organismo se hablaba. Sus discípulos viajaron por todo el mundo recogiendo especímenes.\n\nSituar al ser humano entre los primates, junto a los monos, escandalizó a sus contemporáneos, y preparó el terreno intelectual para Darwin un siglo después.",
+    "imagenes": [
+      "/images/edad-moderna/mod2_mod-linneo-carl-von-linn-jpg-utm-source-es-wikipedia-org-utm-_wikimedia.jpg"
+    ]
+  },
+  {
+    "id": "mod-federico-austria",
+    "region": "edad-moderna",
+    "tipo": "evento",
+    "titulo": "Federico el Grande y el ascenso de Prusia",
+    "fecha_inicio": 1740,
+    "fecha_fin": null,
+    "descripcion_corta": "**En 1740**, el joven rey **Federico II de Prusia** invadió Silesia sin declaración de guerra y desató la **Guerra de Sucesión austriaca**. Frente a él, la emperatriz **María Teresa**, cuyo derecho a heredar los territorios de los Habsburgo era discutido por ser mujer, resistió y reformó su imperio a fondo.\n\nFederico convirtió a Prusia, un Estado pequeño y pobre en arena, en una potencia militar: ejército profesional, disciplina de hierro, administración eficaz y un rey que se llamaba a sí mismo **«el primer servidor del Estado»**. También tocaba la flauta, escribía en francés y alojó a Voltaire.\n\nEs el modelo del **despotismo ilustrado**: todo para el pueblo, pero sin el pueblo. De esa Prusia saldría, siglo y medio después, la unificación alemana.",
+    "imagenes": [
+      "/images/edad-moderna/mod2_mod-federico-austria-friedrich-der-gro-e-1781-or-1786-google-art-projec_wikimedia.jpg"
+    ]
+  },
+  {
+    "id": "mod-franklin",
+    "region": "edad-moderna",
+    "tipo": "evento",
+    "titulo": "Franklin y la electricidad",
+    "fecha_inicio": 1752,
+    "fecha_fin": null,
+    "descripcion_corta": "**En junio de 1752**, **Benjamin Franklin** hizo volar una cometa en plena tormenta con una llave atada al hilo y demostró que **el rayo es electricidad**, no un castigo divino. De ahí salió el **pararrayos**, uno de los primeros inventos que salvó vidas de forma masiva y que muchos clérigos consideraron una impertinencia contra la voluntad de Dios.\n\nFranklin fue impresor, periodista, científico y diplomático: inventó también las lentes bifocales y una estufa más eficiente, y **se negó a patentar nada** por considerar que los inventos deben servir a todos.\n\nEs el ejemplo perfecto del ilustrado práctico, y sería después uno de los padres fundadores de Estados Unidos y el negociador de la alianza con Francia.",
+    "imagenes": [
+      "/images/edad-moderna/mod2_mod-franklin-joseph-siffrein-duplessis-benjamin-franklin-google_wikimedia.jpg"
+    ]
+  },
+  {
+    "id": "mod-rousseau-catalina",
+    "region": "edad-moderna",
+    "tipo": "evento",
+    "titulo": "Rousseau y el contrato social",
+    "fecha_inicio": 1762,
+    "fecha_fin": null,
+    "descripcion_corta": "**En 1762**, **Jean-Jacques Rousseau** publicó *El contrato social*, que empieza con una de las frases más citadas de la historia: **«El hombre nace libre, y en todas partes está encadenado»**. Sostiene que la única autoridad legítima nace del acuerdo entre iguales y que la soberanía pertenece al pueblo, que no puede delegarla del todo.\n\nEse mismo año publicó *Emilio*, sobre educar respetando la naturaleza del niño, que fue quemado en París y en Ginebra.\n\nSus ideas fueron la biblia de los revolucionarios franceses. En el otro extremo de Europa, **Catalina la Grande** subía al trono ruso y se carteaba con Voltaire y Diderot mientras endurecía la servidumbre: el despotismo ilustrado en toda su contradicción.",
+    "imagenes": [
+      "/images/edad-moderna/mod2_mod-rousseau-catalina-jean-jacques-rousseau-painted-portrait-jpg-utm-sou_wikimedia.jpg"
+    ]
+  },
+  {
+    "id": "mod-cook",
+    "region": "edad-moderna",
+    "tipo": "evento",
+    "titulo": "Los viajes del capitán Cook",
+    "fecha_inicio": 1768,
+    "fecha_fin": 1779,
+    "descripcion_corta": "**Entre 1768 y 1779**, el británico **James Cook** hizo tres viajes que completaron el mapa del Pacífico: cartografió Nueva Zelanda y la costa este de **Australia**, cruzó por primera vez el círculo polar antártico y llegó a Hawái, donde murió en una reyerta con los nativos.\n\nSus expediciones fueron también científicas: llevaban naturalistas, astrónomos y pintores; observaron el tránsito de Venus para medir la distancia al Sol y describieron miles de especies nuevas. Cook fue además el primero que **venció al escorbuto** obligando a su tripulación a comer chucrut y cítricos.\n\nPara los pueblos del Pacífico, sus viajes fueron el principio de la colonización, las epidemias y la pérdida de sus tierras.",
+    "imagenes": [
+      "/images/edad-moderna/mod2_mod-cook-captainjamescookportrait-jpg-utm-source-es-wikiped_wikimedia.jpg"
+    ]
+  },
+  {
+    "id": "mod-polonia",
+    "region": "edad-moderna",
+    "tipo": "evento",
+    "titulo": "Los repartos de Polonia",
+    "fecha_inicio": 1772,
+    "fecha_fin": null,
+    "descripcion_corta": "Polonia-Lituania había sido una de las mayores potencias de Europa, con una monarquía electiva y un parlamento donde **un solo noble podía vetar cualquier ley**. Esa parálisis institucional la dejó indefensa.\n\n**En 1772**, Rusia, Prusia y Austria se repartieron un tercio de su territorio sin apenas resistencia. Siguieron dos repartos más, en 1793 y 1795, hasta que Polonia **desapareció del mapa durante 123 años**, hasta 1918.\n\nParadójicamente, en 1791 los polacos habían aprobado la **primera constitución escrita de Europa**, un intento desesperado de reforma que sus vecinos usaron como excusa para acabar con el país. El caso quedó como advertencia sobre lo que les ocurre a los Estados débiles rodeados de imperios.",
+    "imagenes": [
+      "/images/edad-moderna/mod2_mod-polonia-konstytucja-3-maja-jpg-utm-source-es-wikipedia-org_wikimedia.jpg"
+    ]
+  },
+  {
+    "id": "mod-montgolfier",
+    "region": "edad-moderna",
+    "tipo": "evento",
+    "titulo": "El primer vuelo humano",
+    "fecha_inicio": 1783,
+    "fecha_fin": null,
+    "descripcion_corta": "**El 21 de noviembre de 1783**, dos hombres se elevaron sobre París en un globo de aire caliente de papel y tela construido por los hermanos **Montgolfier**, papeleros de Annonay. Volaron unos nueve kilómetros en veinticinco minutos.\n\nAntes habían hecho un ensayo con tripulación animal —una oveja, un pato y un gallo— ante el rey en Versalles, para comprobar si se podía respirar allí arriba. Entre los espectadores del primer vuelo humano estaba **Benjamin Franklin**, que anotó el acontecimiento en su diario.\n\nDiez días después, el físico Charles voló con un globo de hidrógeno. Por primera vez el ser humano se despegaba del suelo, y desde 1794 los globos se usaron ya para **observación militar**.",
+    "imagenes": [
+      "/images/edad-moderna/mod2_mod-montgolfier-jacques-tienne-montgolfier-jpg-utm-source-es-wikip_wikimedia.jpg"
+    ]
+  },
+  {
+    "id": "mod-mozart",
+    "region": "edad-moderna",
+    "tipo": "evento",
+    "titulo": "Mozart y el clasicismo",
+    "fecha_inicio": 1787,
+    "fecha_fin": null,
+    "descripcion_corta": "**Wolfgang Amadeus Mozart** compuso desde los cinco años y dejó **más de 600 obras** antes de morir a los 35, en 1791, enterrado en una fosa común. **En 1787** estrenó *Don Giovanni*, y en sus últimos años escribió *Las bodas de Fígaro*, *La flauta mágica* y el *Réquiem* inacabado.\n\nFue de los primeros músicos que intentó vivir **sin depender de un noble o de la Iglesia**, como profesional independiente en Viena, y le fue mal económicamente.\n\nSu generación —Haydn, Mozart y después **Beethoven**— fijó la sinfonía, el cuarteto y la sonata, las formas de la música occidental. En *Las bodas de Fígaro*, un criado se burla de su señor: la Ilustración también sonaba.",
+    "imagenes": [
+      "/images/edad-moderna/mod2_mod-mozart-wolfgang-amadeus-mozart-1-jpg-utm-source-es-wikipe_wikimedia.jpg"
+    ]
+  },
+  {
+    "id": "mod-lavoisier",
+    "region": "edad-moderna",
+    "tipo": "evento",
+    "titulo": "Lavoisier y la química moderna",
+    "fecha_inicio": 1790,
+    "fecha_fin": null,
+    "descripcion_corta": "**Antoine Lavoisier** acabó con la teoría del flogisto pesando con precisión lo que entraba y salía de cada reacción. Demostró que la **combustión es una combinación con el oxígeno**, identificó y bautizó el oxígeno y el hidrógeno, explicó que el agua es un compuesto y enunció el principio de que **nada se crea ni se destruye, todo se transforma**.\n\nEn **1789** publicó el primer manual de química moderna, con una **nomenclatura sistemática** que sustituyó los nombres de alquimista y que seguimos usando.\n\nEra además recaudador de impuestos del Antiguo Régimen, y por eso fue guillotinado **en 1794**. El matemático Lagrange lo resumió así: bastó un instante para cortar esa cabeza, y quizá cien años no basten para producir otra igual.",
+    "imagenes": [
+      "/images/edad-moderna/mod2_mod-lavoisier-david-portrait-of-monsieur-lavoisier-cropped-jpg-u_wikimedia.jpg"
+    ]
+  },
+  {
+    "id": "mod-haiti",
+    "region": "edad-moderna",
+    "tipo": "evento",
+    "titulo": "La revolución haitiana",
+    "fecha_inicio": 1791,
+    "fecha_fin": 1804,
+    "descripcion_corta": "**En agosto de 1791**, los esclavizados de Saint-Domingue —la colonia francesa más rica del mundo, que producía la mitad del azúcar y el café del planeta— se sublevaron. Dirigidos por **Toussaint Louverture**, antiguo esclavo y estratega notable, derrotaron sucesivamente a los colonos, a los españoles, a los ingleses y a un ejército enviado por **Napoleón**.\n\n**En 1804**, Haití proclamó su independencia: **la primera república negra de la historia** y el único caso de una revolución de esclavos que acabó fundando un Estado.\n\nEl mundo esclavista la castigó con el aislamiento, y Francia le impuso **en 1825** una indemnización descomunal por la «propiedad» perdida, que Haití terminó de pagar en 1947. Buena parte de su pobreza actual arranca de esa deuda.",
+    "imagenes": [
+      "/images/edad-moderna/mod2_mod-haiti-battle-for-palm-tree-hill-jpg-utm-source-es-wikipe_wikimedia.jpg"
+    ]
+  },
+  {
+    "id": "mod-jenner",
+    "region": "edad-moderna",
+    "tipo": "evento",
+    "titulo": "Jenner y la vacuna",
+    "fecha_inicio": 1796,
+    "fecha_fin": null,
+    "descripcion_corta": "La **viruela** mataba a unos 400 000 europeos al año y dejaba ciegos o marcados a muchos más. **En mayo de 1796**, el médico rural inglés **Edward Jenner** comprobó una observación popular: las ordeñadoras que pasaban la viruela de las vacas —leve— no enfermaban de la humana.\n\nInoculó a un niño de ocho años material de una pústula de vacuna y después lo expuso a la viruela humana: no enfermó. Del latín *vacca* viene la palabra **vacuna**.\n\nEspaña organizó **en 1803 la Real Expedición Filantrópica**, que llevó la vacuna a América y Filipinas usando a niños huérfanos como portadores vivos del virus, brazo a brazo. En **1980**, la viruela fue declarada **la primera enfermedad erradicada** de la historia.",
+    "imagenes": [
+      "/images/edad-moderna/mod2_mod-jenner-edward-jenner-jpg-utm-source-es-wikipedia-org-utm-_wikimedia.jpg"
+    ]
+  },
+  {
+    "id": "mod-volta",
+    "region": "edad-moderna",
+    "tipo": "evento",
+    "titulo": "Volta y la pila eléctrica",
+    "fecha_inicio": 1800,
+    "fecha_fin": null,
+    "descripcion_corta": "**En 1800**, el italiano **Alessandro Volta** apiló discos de cobre y zinc separados por paño empapado en salmuera y obtuvo algo que no existía: una **corriente eléctrica continua y constante**. Hasta entonces solo se conocía la electricidad estática, en chispazos.\n\nLa pila abrió de golpe un campo entero. En pocos años, Davy descomponía sustancias con ella y aislaba el sodio y el potasio; Ørsted descubría **en 1820** que una corriente mueve una aguja imantada, y **Faraday**, en 1831, hacía el camino inverso: generar electricidad con imanes en movimiento. De ahí salen el motor, la dinamo y toda la industria eléctrica.\n\nEl **voltio** lleva su nombre. Napoleón, impresionado, le hizo conde.",
+    "imagenes": [
+      "/images/edad-moderna/mod2_mod-volta-alessandro-volta-jpeg-utm-source-es-wikipedia-org-_wikimedia.jpg"
+    ]
+  },
+  {
+    "id": "mod-beethoven",
+    "region": "edad-moderna",
+    "tipo": "evento",
+    "titulo": "Beethoven y el Romanticismo",
+    "fecha_inicio": 1804,
+    "fecha_fin": null,
+    "descripcion_corta": "**Ludwig van Beethoven** terminó **en 1804** la *Sinfonía nº 3, «Heroica»*, que iba dedicada a Napoleón hasta que este se coronó emperador y él, furioso, rompió la dedicatoria. Con esa obra la música dejó de ser entretenimiento cortesano para expresar **ideas y emociones propias del compositor**.\n\nEmpezó a quedarse **sordo a los treinta años** y escribió sus obras mayores sin poder oírlas; en el estreno de la *Novena*, en 1824, hubo que girarlo para que viera al público aplaudir. Su *Himno a la alegría*, sobre el poema de Schiller, es hoy el himno de Europa.\n\nBeethoven abre el **Romanticismo**: el artista como genio individual, y el arte como grito de libertad.",
+    "imagenes": [
+      "/images/edad-moderna/mod2_mod-beethoven-beethoven-jpg-utm-source-es-wikipedia-org-utm-camp_wikimedia.jpg"
+    ]
+  },
+  {
+    "id": "mod-abolicion-trata",
+    "region": "edad-moderna",
+    "tipo": "evento",
+    "titulo": "La abolición de la trata de esclavos",
+    "fecha_inicio": 1807,
+    "fecha_fin": null,
+    "descripcion_corta": "**En 1807**, tras veinte años de campaña de los cuáqueros y de **William Wilberforce** en el Parlamento, Gran Bretaña prohibió el **comercio de esclavos** en todo su imperio; Estados Unidos hizo lo mismo ese año. En **1833** llegó la abolición de la esclavitud misma en las colonias británicas, indemnizando a los propietarios —no a los esclavizados— con una suma tan grande que el Reino Unido terminó de pagarla en 2015.\n\nLa Royal Navy montó entonces un **escuadrón antiesclavista** en África occidental que interceptó unos 1 600 barcos y liberó a más de 150 000 personas.\n\nLa esclavitud tardó décadas más en caer en otros lugares: **1848** en las colonias francesas, **1865** en Estados Unidos, **1873** en Puerto Rico, **1886** en Cuba y **1888** en Brasil.",
+    "imagenes": [
+      "/images/edad-moderna/mod2_mod-abolicion-trata-william-wilberforce-jpg-utm-source-es-wikipedia-or_wikimedia.jpg"
+    ]
+  },
+  {
+    "id": "mod-antartida",
+    "region": "edad-moderna",
+    "tipo": "evento",
+    "titulo": "El descubrimiento de la Antártida",
+    "fecha_inicio": 1820,
+    "fecha_fin": null,
+    "descripcion_corta": "**En enero de 1820**, en pocas semanas y sin saberlo unos de otros, tres expediciones —la rusa de **Bellingshausen**, la británica de Bransfield y la del cazador de focas Palmer— avistaron el continente antártico, el último por descubrir.\n\nDurante décadas fue territorio de balleneros y foqueros. La exploración del interior tuvo que esperar al siglo XX y a la carrera al Polo Sur entre **Amundsen** y **Scott** en 1911, ganada por el noruego y trágica para el británico.\n\nCon la Antártida terminó la era de los descubrimientos geográficos abierta en 1492: por primera vez, la humanidad tenía un mapa completo de su propio planeta. En 1959, un tratado la declaró **territorio dedicado a la ciencia y sin dueño**.",
+    "imagenes": [
+      "/images/edad-moderna/mod2_mod-antartida-bellinsgauzen-faddey-jpg-utm-source-es-wikipedia-o_wikimedia.jpg"
+    ]
+  },
+  {
+    "id": "mod-grecia-independencia",
+    "region": "edad-moderna",
+    "tipo": "evento",
+    "titulo": "La independencia de Grecia",
+    "fecha_inicio": 1821,
+    "fecha_fin": 1830,
+    "descripcion_corta": "**En 1821**, los griegos se levantaron contra cuatro siglos de dominio otomano. La guerra fue larga y feroz, con matanzas por ambos lados: la de la **isla de Quíos** en 1822, que Delacroix llevó al lienzo, conmovió a Europa.\n\nEl movimiento atrajo a los **filohelenos**, voluntarios románticos que veían en Grecia la cuna de Occidente; el poeta **lord Byron** murió allí en 1824. La intervención de Gran Bretaña, Francia y Rusia, que destruyeron la flota turco-egipcia en **Navarino en 1827**, decidió la guerra.\n\nGrecia fue reconocida independiente en **1830**: la primera nación que se separó del imperio otomano y el primer gran triunfo del **nacionalismo romántico** que agitaría todo el siglo XIX.",
+    "imagenes": [
+      "/images/edad-moderna/mod2_mod-grecia-independencia-greek-revolution-collage-jpg-utm-source-es-wikiped_wikimedia.jpg"
+    ]
+  },
+  {
+    "id": "mod-fotografia",
+    "region": "edad-moderna",
+    "tipo": "evento",
+    "titulo": "La fotografía",
+    "fecha_inicio": 1839,
+    "fecha_fin": null,
+    "descripcion_corta": "**En agosto de 1839**, Francia compró la patente del **daguerrotipo** y la regaló al mundo. **Louis Daguerre** había conseguido fijar una imagen en una placa de plata con exposiciones de unos minutos; en Inglaterra, Talbot desarrollaba en paralelo el negativo, que permitía copias.\n\nEl efecto cultural fue inmenso. Por primera vez, la gente corriente podía tener un **retrato** —hasta entonces privilegio de quien podía pagar un pintor—, y por primera vez existía un testimonio visual directo de los hechos: las primeras fotografías de guerra son de **Crimea (1855)** y de la Guerra de Secesión.\n\nLiberada de la obligación de retratar la realidad, la pintura se fue hacia otro lado: en 1874 nacía el **impresionismo**.",
+    "imagenes": [
+      "/images/edad-moderna/mod2_mod-fotografia-susse-fr-res-daguerreotype-camera-1839-jpg-utm-sou_wikimedia.jpg"
+    ]
+  },
+  {
+    "id": "mod-opio",
+    "region": "edad-moderna",
+    "tipo": "evento",
+    "titulo": "Las Guerras del Opio",
+    "fecha_inicio": 1840,
+    "fecha_fin": 1842,
+    "descripcion_corta": "Gran Bretaña compraba té, seda y porcelana a China y no tenía nada que venderle a cambio, así que empezó a introducir **opio** cultivado en la India. Cuando el emperador prohibió el tráfico y destruyó 1 200 toneladas en Cantón, Londres respondió con la guerra.\n\nLos cañoneros de vapor británicos deshicieron a la flota china. El **Tratado de Nankín (1842)** obligó a abrir cinco puertos, pagar una indemnización enorme y ceder **Hong Kong**, que sería británica hasta 1997. Una segunda guerra, en 1856-1860, terminó con el saqueo del Palacio de Verano.\n\nPara China empezaba el **«siglo de la humillación»**; para Europa, la demostración de que su superioridad industrial y militar podía imponerse a cualquier imperio del mundo.",
+    "imagenes": [
+      "/images/edad-moderna/mod2_mod-opio-destroying-chinese-war-junks-by-e-duncan-1843-jpg-_wikimedia.jpg"
+    ]
+  },
+  {
+    "id": "mod-morse",
+    "region": "edad-moderna",
+    "tipo": "evento",
+    "titulo": "El telégrafo",
+    "fecha_inicio": 1844,
+    "fecha_fin": null,
+    "descripcion_corta": "**El 24 de mayo de 1844**, **Samuel Morse** transmitió entre Washington y Baltimore el primer mensaje telegráfico de una línea pública: *What hath God wrought* («qué ha hecho Dios»).\n\nSu **código de puntos y rayas** permitía enviar cualquier texto por un solo cable. En veinte años, Europa y América estaban cosidas de líneas telegráficas, y **en 1866**, tras varios intentos fallidos, quedó tendido el **cable transatlántico**: una noticia que tardaba diez días en cruzar el océano pasó a tardar minutos.\n\nEs la primera vez en la historia que la información viaja más rápido que quien la lleva. Cambió la diplomacia, la guerra, la bolsa y el periodismo, y creó el mercado mundial de precios en tiempo real.",
+    "imagenes": [
+      "/images/edad-moderna/mod2_mod-morse-2006-08-22-142911-aalborg-marinemuseum-ubt-jpeg-ut_wikimedia.jpg"
+    ]
+  },
+  {
+    "id": "mod-anestesia",
+    "region": "edad-moderna",
+    "tipo": "evento",
+    "titulo": "La anestesia y la antisepsia",
+    "fecha_inicio": 1846,
+    "fecha_fin": null,
+    "descripcion_corta": "Hasta mediados del siglo XIX, operar significaba **cortar a un paciente consciente y atado**, con la velocidad como única virtud del cirujano. **El 16 de octubre de 1846**, en Boston, se extirpó un tumor a un paciente dormido con **éter**: la sala se conoce todavía como el Anfiteatro del Éter.\n\nFaltaba la otra mitad. En **1847**, el húngaro **Semmelweis** demostró en Viena que obligando a los médicos a lavarse las manos con cloro la mortalidad por fiebre puerperal caía del 18 % al 2 %; sus colegas se ofendieron y murió en un manicomio. Veinte años después, **Lister** aplicó el fenol a las heridas basándose en los trabajos de **Pasteur**.\n\nCon anestesia y antisepsia, la cirugía dejó de ser un último recurso desesperado.",
+    "imagenes": [
+      "/images/edad-moderna/mod2_mod-anestesia-inside-the-ether-dome-at-massachusetts-general-hos_wikimedia.jpg"
+    ]
+  },
+  {
+    "id": "mod-gran-exposicion",
+    "region": "edad-moderna",
+    "tipo": "evento",
+    "titulo": "La Gran Exposición de Londres",
+    "fecha_inicio": 1851,
+    "fecha_fin": null,
+    "descripcion_corta": "**En 1851**, Londres reunió en Hyde Park los productos de todo el mundo dentro del **Crystal Palace**, un edificio de hierro y vidrio prefabricado, montado en nueve meses y con **300 000 cristales**. Lo visitaron **seis millones de personas**, un tercio de la población británica, muchas llegadas en tren por primera vez en su vida.\n\nFue el escaparate de la Revolución Industrial: máquinas en movimiento, locomotoras, telares, la prensa de vapor, el telégrafo. También el nacimiento de un formato —las **exposiciones universales**— que seguiría en París, Chicago y Barcelona, y que dejaría la Torre Eiffel.\n\nCon sus beneficios se fundaron los museos de South Kensington. Es el retrato del optimismo victoriano en su mejor momento.",
+    "imagenes": [
+      "/images/edad-moderna/mod2_mod-gran-exposicion-crystal-palace-general-view-from-water-temple-jpg-_wikimedia.jpg"
+    ]
+  },
+  {
+    "id": "mod-crimea",
+    "region": "edad-moderna",
+    "tipo": "evento",
+    "titulo": "La Guerra de Crimea",
+    "fecha_inicio": 1853,
+    "fecha_fin": 1856,
+    "descripcion_corta": "**Entre 1853 y 1856**, Rusia se enfrentó a otomanos, franceses, británicos y piamonteses por el control de los Balcanes y de los santos lugares. Murieron unas **750 000 personas**, la mayoría de enfermedad.\n\nFue la primera guerra **moderna en su cobertura**: hubo corresponsales, telégrafo y fotografía, y el público leía en el desayuno lo ocurrido días antes. Las crónicas del *Times* sobre el estado de los hospitales militares provocaron un escándalo, y **Florence Nightingale** viajó a Escutari con 38 enfermeras: imponiendo higiene, ventilación y estadísticas —inventó los gráficos de sectores para convencer al gobierno— redujo la mortalidad de forma drástica.\n\nDe ahí nacen la **enfermería moderna** y, tras la batalla de Solferino, la **Cruz Roja** de Henry Dunant, en 1863.",
+    "imagenes": [
+      "/images/edad-moderna/mod2_mod-crimea-william-simpson-attack-on-the-malakoff-jpg-utm-sou_wikimedia.jpg"
+    ]
+  },
+  {
+    "id": "mod-cipayos",
+    "region": "edad-moderna",
+    "tipo": "evento",
+    "titulo": "La rebelión de los cipayos y el Raj",
+    "fecha_inicio": 1857,
+    "fecha_fin": null,
+    "descripcion_corta": "**En 1857**, los **cipayos** —soldados indios al servicio de la Compañía Británica de las Indias Orientales— se amotinaron. La chispa fueron los cartuchos engrasados que había que morder, con grasa de vaca y de cerdo, ofensiva para hindúes y musulmanes a la vez; el fondo, décadas de anexiones y humillaciones.\n\nLa rebelión se extendió por el norte de la India y fue aplastada con extrema dureza por ambas partes. Su consecuencia fue el fin de la Compañía: **en 1858** la Corona asumió el gobierno directo y nació el **Raj británico**, con la reina Victoria proclamada emperatriz de la India en 1876.\n\nLos indios la recuerdan como la **primera guerra de independencia**; llevaría noventa años más llegar a 1947.",
+    "imagenes": [
+      "/images/edad-moderna/mod2_mod-cipayos-indian-rebellion-of-1857-jpg-utm-source-es-wikiped_wikimedia.jpg"
+    ]
+  },
+  {
+    "id": "mod-mendel",
+    "region": "edad-moderna",
+    "tipo": "evento",
+    "titulo": "Mendel y las leyes de la herencia",
+    "fecha_inicio": 1866,
+    "fecha_fin": null,
+    "descripcion_corta": "Entre 1856 y 1863, el monje agustino **Gregor Mendel** cultivó **unas 28 000 plantas de guisante** en el huerto de su monasterio de Brno, contando generación tras generación cuántas salían lisas o rugosas, altas o bajas.\n\nDe ahí dedujo que los rasgos se transmiten en **unidades discretas** —lo que hoy llamamos genes—, que hay caracteres dominantes y recesivos y que se combinan según proporciones matemáticas. Publicó sus resultados **en 1866** y **nadie les prestó atención durante 34 años**: era biología hecha con estadística, algo que sus contemporáneos no supieron leer.\n\nRedescubierto en 1900, se convirtió en la base de la genética y, unido al darwinismo, en la síntesis moderna de la biología.",
+    "imagenes": [
+      "/images/edad-moderna/mod2_mod-mendel-gregor-mendel-2-jpg-utm-source-es-wikipedia-org-ut_wikimedia.jpg"
+    ]
+  },
+  {
+    "id": "mod-marx-nobel",
+    "region": "edad-moderna",
+    "tipo": "evento",
+    "titulo": "El Capital y la dinamita",
+    "fecha_inicio": 1867,
+    "fecha_fin": null,
+    "descripcion_corta": "**En 1867**, **Karl Marx** publicó el primer tomo de *El Capital*, un análisis del sistema capitalista basado en la **plusvalía**: el valor que produce el trabajador por encima de lo que cobra. Sus ideas darían lugar a partidos, sindicatos e internacionales obreras, y en el siglo XX a Estados enteros.\n\nEse mismo año, el sueco **Alfred Nobel** patentó la **dinamita**, que hizo posibles túneles, canales y minas a una escala nueva... y también guerras más destructivas. Al leer por error su propio obituario, que lo llamaba «el mercader de la muerte», dejó su fortuna para crear los **Premios Nobel**.\n\nDos hombres muy distintos y un mismo año: el siglo XIX produciendo a la vez su crítica más influyente y su explosivo más rentable.",
+    "imagenes": [
+      "/images/edad-moderna/mod2_mod-marx-nobel-zentralbibliothek-z-rich-das-kapital-marx-1867-jpg_wikimedia.jpg"
+    ]
+  },
+  {
+    "id": "mod-suez-mendeleiev",
+    "region": "edad-moderna",
+    "tipo": "evento",
+    "titulo": "El canal de Suez y la tabla periódica",
+    "fecha_inicio": 1869,
+    "fecha_fin": null,
+    "descripcion_corta": "**El 17 de noviembre de 1869** se inauguró el **canal de Suez**, 164 kilómetros excavados durante diez años por cientos de miles de trabajadores egipcios, muchos en régimen de trabajo forzado. Acortó el viaje de Londres a Bombay en **7 000 kilómetros** y cambió la geografía del comercio mundial; Gran Bretaña compró la parte egipcia en 1875 y acabó ocupando el país.\n\nEse mismo año, el ruso **Dmitri Mendeléyev** ordenó los 63 elementos conocidos por peso atómico y descubrió que sus propiedades se repetían de forma periódica. Dejó **huecos** para elementos que aún no existían y predijo sus propiedades: cuando se descubrieron el galio y el germanio, coincidían casi exactamente.\n\nLa **tabla periódica** convirtió la química en una ciencia predictiva.",
+    "imagenes": [
+      "/images/edad-moderna/mod2_mod-suez-mendeleiev-mendeleev-photographische-gesellschaft-3-jpg-utm-s_wikimedia.jpg"
+    ]
+  },
+  {
+    "id": "mod-pasteur-koch",
+    "region": "edad-moderna",
+    "tipo": "evento",
+    "titulo": "Pasteur, Koch y los microbios",
+    "fecha_inicio": 1882,
+    "fecha_fin": null,
+    "descripcion_corta": "**Louis Pasteur** demostró que la fermentación y la putrefacción las causan **microorganismos** y no una generación espontánea, inventó la **pasteurización** y desarrolló vacunas para el ántrax y, **en 1885**, para la **rabia**, probada con éxito en un niño mordido por un perro.\n\nEn Alemania, **Robert Koch** aisló el bacilo del **ántrax**, el de la **tuberculosis** —en 1882, cuando esa enfermedad mataba a uno de cada siete europeos— y el del cólera, y estableció los criterios para demostrar que un microbio concreto causa una enfermedad concreta.\n\nLa **teoría microbiana** transformó la medicina, la cirugía, la sanidad urbana y la alimentación. En una generación, la esperanza de vida en Europa empezó a subir sin parar.",
+    "imagenes": [
+      "/images/edad-moderna/mod2_mod-pasteur-koch-louis-pasteur-jpg-utm-source-es-wikipedia-org-utm-_wikimedia.jpg"
+    ]
+  },
+  {
+    "id": "mod-eiffel",
+    "region": "edad-moderna",
+    "tipo": "evento",
+    "titulo": "La Torre Eiffel",
+    "fecha_inicio": 1889,
+    "fecha_fin": null,
+    "descripcion_corta": "Construida para la **Exposición Universal de 1889**, que celebraba el centenario de la Revolución Francesa, la torre de **Gustave Eiffel** medía 300 metros: el doble que cualquier edificio existente. Se levantó en **dos años y dos meses** con 18 038 piezas de hierro y 2,5 millones de remaches, sin un solo muerto en la obra.\n\nParte del mundo artístico parisino firmó un manifiesto contra «esta columna de hojalata atornillada». Iba a desmontarse a los veinte años y se salvó porque resultó útil como **antena de radiotelegrafía**.\n\nHoy es el monumento de pago más visitado del planeta y el símbolo de un siglo que creyó, con razón, que el hierro y el cálculo podían con todo.",
+    "imagenes": [
+      "/images/edad-moderna/mod2_mod-eiffel-eiffelturm-jpg-utm-source-es-wikipedia-org-utm-cam_wikimedia.jpg"
+    ]
+  },
+  {
+    "id": "mod-olimpiadas",
+    "region": "edad-moderna",
+    "tipo": "evento",
+    "titulo": "Los Juegos Olímpicos modernos",
+    "fecha_inicio": 1896,
+    "fecha_fin": null,
+    "descripcion_corta": "**En abril de 1896**, Atenas acogió los primeros **Juegos Olímpicos modernos**, resucitados por el barón francés **Pierre de Coubertin** con la idea de educar a la juventud a través del deporte y acercar a las naciones. Participaron **241 atletas de 14 países**, todos hombres.\n\nLa prueba estrella se inventó para la ocasión: el **maratón**, en memoria del soldado que según la leyenda corrió de Maratón a Atenas. La ganó un pastor griego, Spiridon Louis, para delirio del público local.\n\nLos Juegos son la culminación de un fenómeno del siglo XIX: el **deporte reglamentado** —fútbol en 1863, rugby, tenis, ciclismo, baloncesto en 1891— convertido en espectáculo de masas gracias al ferrocarril, la prensa barata y el tiempo libre.",
+    "imagenes": [
+      "/images/edad-moderna/mod2_mod-olimpiadas-athens-1896-report-cover-jpg-utm-source-es-wikiped_wikimedia.jpg"
+    ]
+  },
+  {
+    "id": "mod-boers",
+    "region": "edad-moderna",
+    "tipo": "evento",
+    "titulo": "La guerra de los bóers",
+    "fecha_inicio": 1899,
+    "fecha_fin": 1902,
+    "descripcion_corta": "**Entre 1899 y 1902**, el Imperio británico se enfrentó en Sudáfrica a las repúblicas de granjeros **bóers**, descendientes de colonos holandeses, por el control de las minas de oro y diamantes.\n\nGran Bretaña necesitó **450 000 soldados** para vencer a unos 80 000 granjeros que inventaron la guerra de guerrillas moderna: unidades móviles a caballo, tiro de precisión y hostigamiento. Londres respondió con la **tierra quemada** y encerrando a la población civil en **campos de concentración**, donde murieron unas 28 000 personas, la mayoría mujeres y niños, más miles de africanos negros en campos aparte.\n\nEl escándalo internacional y el coste enorme dejaron claro que la era de las conquistas coloniales fáciles se acababa. El siglo XX empezaba mal.",
+    "imagenes": [
+      "/images/edad-moderna/mod2_mod-boers-second-boer-war-collage-png-utm-source-es-wikipedi_wikimedia.png"
+    ]
+  }
+]

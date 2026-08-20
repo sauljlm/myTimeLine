@@ -244,7 +244,7 @@
       "orden_vertical": 11,
       "color": "var(--color-costa-rica)",
       "fecha_inicio": -10000,
-      "fecha_fin": 1900,
+      "fecha_fin": 2000,
       "subperiodos": [
         {
           "nombre": "Primeros humanos en CR",
@@ -262,9 +262,14 @@
           "fecha_fin": 1821
         },
         {
-          "nombre": "República y café",
-          "fecha_inicio": 1821,
-          "fecha_fin": 1900
+          "nombre": "Primera República",
+          "fecha_inicio": 1848,
+          "fecha_fin": 1948
+        },
+        {
+          "nombre": "Segunda República",
+          "fecha_inicio": 1948,
+          "fecha_fin": 2000
         }
       ]
     },
@@ -484,6 +489,36 @@
         {
           "nombre": "México independiente",
           "fecha_inicio": 1821,
+          "fecha_fin": 1900
+        }
+      ]
+    },
+    {
+      "id": "edad-moderna",
+      "nombre": "Edad Moderna",
+      "orden_vertical": 4.6,
+      "color": "var(--color-edad-moderna)",
+      "fecha_inicio": 1492,
+      "fecha_fin": 1900,
+      "subperiodos": [
+        {
+          "nombre": "Renacimiento y Reforma",
+          "fecha_inicio": 1492,
+          "fecha_fin": 1600
+        },
+        {
+          "nombre": "Barroco y guerras de religión",
+          "fecha_inicio": 1600,
+          "fecha_fin": 1700
+        },
+        {
+          "nombre": "Ilustración y revoluciones",
+          "fecha_inicio": 1700,
+          "fecha_fin": 1815
+        },
+        {
+          "nombre": "Siglo XIX e industria",
+          "fecha_inicio": 1815,
           "fecha_fin": 1900
         }
       ]
