@@ -397,6 +397,51 @@
           "fecha_fin": 1900
         }
       ]
+    },
+    {
+      "id": "japon",
+      "nombre": "Japón",
+      "orden_vertical": -2,
+      "color": "var(--color-japon)",
+      "fecha_inicio": -14500,
+      "fecha_fin": 1912,
+      "subperiodos": [
+        {
+          "nombre": "Jōmon",
+          "fecha_inicio": -14500,
+          "fecha_fin": -300
+        },
+        {
+          "nombre": "Yayoi",
+          "fecha_inicio": -300,
+          "fecha_fin": 300
+        },
+        {
+          "nombre": "Kofun y Yamato",
+          "fecha_inicio": 300,
+          "fecha_fin": 710
+        },
+        {
+          "nombre": "Nara y Heian",
+          "fecha_inicio": 710,
+          "fecha_fin": 1185
+        },
+        {
+          "nombre": "Shogunatos",
+          "fecha_inicio": 1185,
+          "fecha_fin": 1603
+        },
+        {
+          "nombre": "Edo",
+          "fecha_inicio": 1603,
+          "fecha_fin": 1868
+        },
+        {
+          "nombre": "Meiji",
+          "fecha_inicio": 1868,
+          "fecha_fin": 1912
+        }
+      ]
     }
   ]
 }

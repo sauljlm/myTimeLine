@@ -1,0 +1,350 @@
+[
+  {
+    "id": "jp-jomon",
+    "region": "japon",
+    "tipo": "evento",
+    "titulo": "Los Jōmon y la cerámica más antigua",
+    "fecha_inicio": -14500,
+    "fecha_fin": -300,
+    "descripcion_corta": "La cultura Jōmon produjo hacia el 14500 a. C. algunas de las vasijas de barro cocido más antiguas del mundo, milenios antes que Mesopotamia. Su nombre significa 'marca de cuerda', por la decoración que lograban presionando cordeles sobre la arcilla fresca. Lo excepcional es que no eran agricultores: la riqueza del mar, los bosques de robles y castaños y los ríos llenos de salmón permitieron a estos cazadores-recolectores volverse sedentarios, vivir en aldeas de casas semienterradas y acumular basureros de conchas de varios metros. Ese modo de vida duró más de diez mil años, uno de los períodos culturales continuos más largos que se conocen en cualquier lugar del planeta.",
+    "imagenes": [
+      "/images/japon/jp_jomon-clay-statue-2c-late-jomon-period-jpg_wikimedia.jpg"
+    ]
+  },
+  {
+    "id": "jp-dogu",
+    "region": "japon",
+    "tipo": "evento",
+    "titulo": "Los dogū",
+    "fecha_inicio": -1000,
+    "fecha_fin": -300,
+    "descripcion_corta": "Del final del período Jōmon se conservan miles de dogū: figurillas de arcilla de aspecto desconcertante, con ojos enormes y saltones —algunos parecen llevar gafas de nieve—, caderas anchas, cuerpos decorados con espirales y a menudo un solo pecho o el vientre hinchado. Casi todas aparecen rotas, y la fractura suele ser deliberada, en un punto concreto. La interpretación más aceptada es que representaban a la persona enferma o el mal que se quería expulsar, y se rompían para transferirles la dolencia. Su aspecto ha alimentado también toda clase de fantasías modernas sobre astronautas, pero su contexto arqueológico es claro: ritual doméstico y curativo.",
+    "imagenes": [
+      "/images/japon/jp_dogu-dogu-miyagi-1000-bce-400-bce-jpg_wikimedia.jpg"
+    ]
+  },
+  {
+    "id": "jp-yayoi",
+    "region": "japon",
+    "tipo": "evento",
+    "titulo": "El período Yayoi: el arroz y el metal",
+    "fecha_inicio": -300,
+    "fecha_fin": 300,
+    "descripcion_corta": "Desde la península coreana llegaron a Kyūshū, hacia el 300 a. C., el cultivo del arroz en campos inundados, la metalurgia del bronce y del hierro, el telar y la rueda de alfarero. En pocos siglos transformaron el archipiélago: la población creció, aparecieron poblados grandes rodeados de fosos y empalizadas —señal de que también llegó la guerra—, y con los excedentes de arroz surgieron las primeras jerarquías claras. De esta época son las campanas rituales dōtaku, decoradas con escenas de caza y agricultura. La sociedad japonesa quedó marcada para siempre por ese cultivo: el arroz sería durante siglos la medida del impuesto, del salario y de la riqueza de un señor.",
+    "imagenes": [
+      "/images/japon/jp_yayoi-yayoijar-jpg_wikimedia.jpg"
+    ]
+  },
+  {
+    "id": "jp-himiko",
+    "region": "japon",
+    "tipo": "evento",
+    "titulo": "Himiko y el reino de Yamatai",
+    "fecha_inicio": 238,
+    "fecha_fin": null,
+    "descripcion_corta": "La primera persona de la historia de Japón de la que sabemos algo concreto aparece en una crónica china, la Historia de los Wei: Himiko, reina-chamán del reino de Yamatai, que gobernaba mediante la adivinación, vivía recluida con mil sirvientas y a la que solo su hermano tenía acceso. En 238 envió una embajada a la corte china, que la reconoció como 'reina de Wa amiga de Wei' y le regaló cien espejos de bronce. A su muerte se levantó un gran túmulo y se sacrificaron cien esclavos, y tras un período de guerra la sucedió otra mujer. Dónde estaba exactamente Yamatai —en Kyūshū o en la región de Kinai— sigue siendo una de las grandes discusiones de la arqueología japonesa.",
+    "imagenes": [
+      "/images/japon/jp_himiko-bronze-mirror-in-ancient-japan-jpg_wikimedia.jpg"
+    ]
+  },
+  {
+    "id": "jp-kofun",
+    "region": "japon",
+    "tipo": "evento",
+    "titulo": "Los kofun, túmulos de los reyes",
+    "fecha_inicio": 300,
+    "fecha_fin": 538,
+    "descripcion_corta": "Durante tres siglos, las élites japonesas se enterraron en kofun: túmulos monumentales, muchos con la característica planta de ojo de cerradura, rodeados de fosos. El mayor, atribuido al emperador Nintoku en Sakai, mide casi 500 metros de largo y su volumen supera al de la Gran Pirámide de Guiza; se calcula que necesitó más de un millón de jornadas de trabajo. Sobre ellos se clavaban haniwa, figuras huecas de arcilla con forma de guerreros, caballos, casas y bailarinas que hoy son la mejor fuente sobre cómo vestían y vivían. La Agencia de la Casa Imperial impide excavar los principales por considerarlos tumbas imperiales activas, lo que mantiene abiertas muchas preguntas.",
+    "imagenes": [
+      "/images/japon/jp_kofun-nintokutomb-aerial-photograph-2007-jpg_wikimedia.jpg"
+    ]
+  },
+  {
+    "id": "jp-yamato",
+    "region": "japon",
+    "tipo": "evento",
+    "titulo": "El estado Yamato",
+    "fecha_inicio": 400,
+    "fecha_fin": 710,
+    "descripcion_corta": "En la llanura de Nara, la casa Yamato fue imponiéndose sobre los demás clanes hasta convertirse en el poder central del archipiélago, en un proceso de alianzas, matrimonios y guerras que duró siglos. Sus reyes justificaron su primacía con un mito de origen: descendían directamente de Amaterasu, la diosa del sol, y de ahí procede la dinastía imperial japonesa, que se presenta como la monarquía hereditaria más antigua del mundo aún existente. Yamato mantuvo relaciones intensas con los reinos coreanos, de donde llegaron artesanos, escribas, la escritura china y las técnicas de construcción, y también intervino militarmente en la península.",
+    "imagenes": [
+      "/images/japon/jp_yamato-yamato-en-png_wikimedia.png"
+    ]
+  },
+  {
+    "id": "jp-budismo",
+    "region": "japon",
+    "tipo": "evento",
+    "titulo": "La llegada del budismo",
+    "fecha_inicio": 538,
+    "fecha_fin": null,
+    "descripcion_corta": "Hacia 538, el rey de Baekje, en Corea, envió a la corte de Yamato una estatua de Buda y unos sutras. La novedad dividió a los clanes: los Soga la apoyaron como signo de modernidad y de contacto con el continente, y los Mononobe y Nakatomi la rechazaron por ofender a los dioses locales. El conflicto se resolvió por las armas a favor de los Soga. El budismo no sustituyó al sintoísmo sino que convivió con él durante siglos, asimilándose: los kami pasaron a verse como manifestaciones de budas. Con él llegaron también la arquitectura en madera, la escultura y la escritura; el Hōryū-ji, fundado por el príncipe Shōtoku, conserva los edificios de madera más antiguos del mundo.",
+    "imagenes": [
+      "/images/japon/jp_budismo_jp-horyu-ji10s3200-jpg_wikimedia.jpg"
+    ]
+  },
+  {
+    "id": "jp-shotoku",
+    "region": "japon",
+    "tipo": "evento",
+    "titulo": "El príncipe Shōtoku y las reformas Taika",
+    "fecha_inicio": 604,
+    "fecha_fin": 645,
+    "descripcion_corta": "El príncipe Shōtoku promulgó en 604 la llamada Constitución de los diecisiete artículos, que más que una constitución es un código moral de gobierno inspirado en el confucianismo y el budismo: empieza afirmando que la armonía debe valorarse por encima de todo y exige a los funcionarios imparcialidad y sobriedad. Cuarenta años después, las reformas Taika de 645 fueron mucho más profundas: siguiendo el modelo de la China Tang, abolieron la propiedad privada de la tierra y los siervos de los clanes, declararon todo el suelo propiedad del emperador, repartieron parcelas a los campesinos a cambio de impuestos y crearon un Estado centralizado con provincias, censo y funcionarios nombrados desde la capital.",
+    "imagenes": [
+      "/images/japon/jp_taika-fujiwara-kamatari-jpg_wikimedia.jpg"
+    ]
+  },
+  {
+    "id": "jp-nara",
+    "region": "japon",
+    "tipo": "evento",
+    "titulo": "Nara y el Gran Buda",
+    "fecha_inicio": 710,
+    "fecha_fin": 794,
+    "descripcion_corta": "En 710 se fundó la primera capital permanente, Heijō-kyō (Nara), copiada del trazado en damero de Chang'an, la capital china. Fue un período de esplendor budista y de consolidación cultural: se compilaron las primeras crónicas, el Kojiki y el Nihon shoki, que fijaron los mitos de origen, y el Man'yōshū, la primera gran antología poética. Su obra cumbre es el Daibutsu del Tōdai-ji, una estatua de Buda de bronce de dieciséis metros y cientos de toneladas terminada en 752, que consumió buena parte del cobre disponible en el país y estuvo a punto de arruinar el tesoro. El poder de los monasterios creció tanto que la corte acabó trasladándose para escapar de su influencia.",
+    "imagenes": [
+      "/images/japon/jp_nara-daibutsu-den-in-todaiji-nara01bs3200-jpg_wikimedia.jpg"
+    ]
+  },
+  {
+    "id": "jp-heian",
+    "region": "japon",
+    "tipo": "evento",
+    "titulo": "Heian-kyō y la corte de Kioto",
+    "fecha_inicio": 794,
+    "fecha_fin": 1185,
+    "descripcion_corta": "En 794 la capital se trasladó a Heian-kyō, la actual Kioto, donde permanecería mil años. El período Heian es la edad de oro de la cultura aristocrática japonesa: una corte refinadísima y encerrada en sí misma, donde el rango se medía por la caligrafía, la capacidad de improvisar un poema o la combinación de colores de las mangas del kimono. El poder real lo ejercía el clan Fujiwara, que casaba a sus hijas con los emperadores y gobernaba como regente en nombre de sus nietos. Se desarrollaron los silabarios kana, que permitieron escribir japonés sin depender del chino, y con ellos floreció una literatura escrita en buena parte por mujeres.",
+    "imagenes": [
+      "/images/japon/jp_heian-map-of-japan-1183-heian-genpei-war-png_wikimedia.png"
+    ]
+  },
+  {
+    "id": "jp-genji",
+    "region": "japon",
+    "tipo": "evento",
+    "titulo": "Murasaki Shikibu y el Genji monogatari",
+    "fecha_inicio": 1008,
+    "fecha_fin": null,
+    "descripcion_corta": "Hacia 1008, una dama de la corte de Kioto conocida como Murasaki Shikibu escribió la Historia de Genji, con frecuencia considerada la primera novela del mundo: más de mil páginas, cuatrocientos personajes y setenta años de trama, siguiendo la vida amorosa y política de un príncipe y de sus descendientes. Lo notable no es solo su extensión, sino su psicología: los personajes cambian, envejecen, se arrepienten. La escribió en kana, el silabario que se consideraba 'escritura de mujeres' frente al chino de los hombres cultos, y esa aparente desventaja permitió una literatura en lengua viva. De la misma corte y los mismos años es El libro de la almohada de Sei Shōnagon.",
+    "imagenes": [
+      "/images/japon/jp_genji-ch5-wakamurasaki-jpg_wikimedia.jpg"
+    ]
+  },
+  {
+    "id": "jp-genpei",
+    "region": "japon",
+    "tipo": "evento",
+    "titulo": "La guerra Genpei",
+    "fecha_inicio": 1180,
+    "fecha_fin": 1185,
+    "descripcion_corta": "Mientras la corte se refinaba, en las provincias crecían clanes guerreros a los que se encargaba mantener el orden y cobrar impuestos. Dos de ellos, los Taira y los Minamoto, acabaron enfrentándose por el control del país en una guerra de cinco años que la épica japonesa convirtió en su relato fundacional, el Heike monogatari, cuya primera línea habla de que el sonido de las campanas anuncia que todo lo que florece decae. Terminó en 1185 en la batalla naval de Dan-no-ura, donde los Taira fueron aniquilados y la abuela del emperador niño Antoku se arrojó al mar con él en brazos antes que rendirse. Los cangrejos heike de esa costa, con caparazón parecido a un rostro furioso, se consideran desde entonces sus espíritus.",
+    "imagenes": [
+      "/images/japon/jp_genpei-genpei-kassen-jpg_wikimedia.jpg"
+    ]
+  },
+  {
+    "id": "jp-kamakura",
+    "region": "japon",
+    "tipo": "evento",
+    "titulo": "El shogunato de Kamakura y los samuráis",
+    "fecha_inicio": 1185,
+    "fecha_fin": 1333,
+    "descripcion_corta": "Vencedor de la guerra, Minamoto no Yoritomo no destronó al emperador: hizo algo más duradero. Se hizo nombrar shōgun y montó su propio gobierno militar, el bakufu, en Kamakura, lejos de Kioto. Desde entonces y durante casi siete siglos, Japón tuvo dos poderes en paralelo: un emperador con legitimidad sagrada y sin mando efectivo, y un shōgun que gobernaba de verdad. Se consolidó la clase samurái, con sus feudos, su vasallaje y un código de lealtad y honor que se idealizaría mucho después con el nombre de bushidō. De este período es también el budismo zen, traído de China, que encajó bien con la disciplina guerrera.",
+    "imagenes": [
+      "/images/japon/jp_kamakura-ancient-provinces-of-japan-ryoseikoku-map-png_wikimedia.png"
+    ]
+  },
+  {
+    "id": "jp-mongoles",
+    "region": "japon",
+    "tipo": "evento",
+    "titulo": "Las invasiones mongolas y el kamikaze",
+    "fecha_inicio": 1274,
+    "fecha_fin": 1281,
+    "descripcion_corta": "Kublai Kan, ya dueño de China, exigió sumisión a Japón y, ante la negativa, envió dos expediciones enormes. La primera, en 1274, desembarcó en Kyūshū y sorprendió a los samuráis con tácticas de masa, bombas de pólvora y arcos envenenados, muy distintos del combate singular al que estaban acostumbrados. La segunda, en 1281, llegó con unos 4 400 barcos y más de 100 000 hombres, la mayor operación naval de la historia hasta el siglo XX. En ambas ocasiones un tifón destruyó la flota invasora. Los japoneses lo llamaron kamikaze, 'viento divino', y de ahí sacaron la convicción de estar protegidos por los dioses; ese nombre reaparecería en 1944.",
+    "imagenes": [
+      "/images/japon/jp_mongoles_jp-m-c5-8dko-sh-c5-abrai-ekotoba-jpg_wikimedia.jpg"
+    ]
+  },
+  {
+    "id": "jp-muromachi",
+    "region": "japon",
+    "tipo": "evento",
+    "titulo": "Los Ashikaga y el período Muromachi",
+    "fecha_inicio": 1336,
+    "fecha_fin": 1573,
+    "descripcion_corta": "Ashikaga Takauji fundó un segundo shogunato con sede en el barrio de Muromachi de Kioto. Fue un poder débil —los señores provinciales, los daimyō, ganaban autonomía año tras año— pero culturalmente deslumbrante: los shōgun ejercieron de mecenas y de esa corte salieron el teatro nō, la ceremonia del té, el arreglo floral, los jardines secos de arena y roca y la estética wabi-sabi, que encuentra belleza en lo imperfecto, lo asimétrico y lo desgastado. Los pabellones Dorado y Plateado de Kioto son de esta época. El comercio con la China Ming y con el sudeste asiático se intensificó, y con él prosperaron ciudades mercantiles casi autónomas como Sakai.",
+    "imagenes": [
+      "/images/japon/jp_muromachi-ashikaga-takauji-j-c5-8ddo-ji-jpg_wikimedia.jpg"
+    ]
+  },
+  {
+    "id": "jp-te-zen",
+    "region": "japon",
+    "tipo": "evento",
+    "titulo": "El té, el nō y el zen",
+    "fecha_inicio": 1400,
+    "fecha_fin": null,
+    "descripcion_corta": "Buena parte de lo que hoy se identifica como cultura japonesa se codificó en estos siglos bajo influencia del zen. La ceremonia del té dejó de ser un pasatiempo de lujo para convertirse, con maestros como Sen no Rikyū, en un ritual de sobriedad extrema: una cabaña pequeña con entrada tan baja que obliga a agacharse a todos, incluido un señor armado, utensilios sencillos y a veces reparados con oro a la vista. El teatro nō fijó un lenguaje de máscaras, movimientos lentísimos y coro. Y la jardinería seca redujo el paisaje a grava rastrillada y unas pocas piedras. La idea común es la misma: quitar lo superfluo hasta que lo poco que queda concentre toda la atención.",
+    "imagenes": [
+      "/images/japon/jp_zen-tea-ceremony-performing-2-jpg_wikimedia.jpg"
+    ]
+  },
+  {
+    "id": "jp-onin",
+    "region": "japon",
+    "tipo": "evento",
+    "titulo": "La guerra Ōnin y el Sengoku",
+    "fecha_inicio": 1467,
+    "fecha_fin": 1600,
+    "descripcion_corta": "Una disputa sucesoria dentro del shogunato desembocó en 1467 en una guerra que se libró durante diez años dentro de la propia Kioto y la dejó reducida a cenizas. El shogunato sobrevivió solo de nombre, y el país entró en el Sengoku, el 'período de los estados en guerra': siglo y medio en el que unos 250 daimyō combatieron entre sí sin autoridad central. Fue una época de movilidad social insólita —el gekokujō, 'los de abajo derriban a los de arriba'—, de castillos monumentales, de ejércitos de campesinos armados con lanzas y de espionaje, del que procede buena parte de la leyenda ninja. También de un florecimiento comercial, porque cada señor necesitaba financiar su guerra.",
+    "imagenes": [
+      "/images/japon/jp_onin-onin-yoshitora-jpg_wikimedia.jpg"
+    ]
+  },
+  {
+    "id": "jp-portugueses",
+    "region": "japon",
+    "tipo": "evento",
+    "titulo": "Los portugueses y los arcabuces",
+    "fecha_inicio": 1543,
+    "fecha_fin": null,
+    "descripcion_corta": "En 1543, un junco chino con tres mercaderes portugueses a bordo encalló en la isla de Tanegashima. Llevaban arcabuces. El señor local compró dos, hizo que sus herreros los copiaran, y en una década Japón fabricaba armas de fuego en cantidad; a finales de siglo producía más que cualquier país europeo. Se sumó así al comercio nanban —'de los bárbaros del sur'—, que traía seda china, plomo, pólvora y objetos exóticos a cambio de la plata japonesa, entonces abundantísima. El impacto militar fue inmediato: las tácticas, los castillos y el equilibrio entre daimyō cambiaron en una generación por culpa de dos arcabuces comprados en una playa.",
+    "imagenes": [
+      "/images/japon/jp_portugueses-hokusai-1817-first-guns-in-japan-jpg_wikimedia.jpg"
+    ]
+  },
+  {
+    "id": "jp-javier",
+    "region": "japon",
+    "tipo": "evento",
+    "titulo": "Francisco Javier y el siglo cristiano",
+    "fecha_inicio": 1549,
+    "fecha_fin": 1639,
+    "descripcion_corta": "El jesuita navarro Francisco Javier desembarcó en Kagoshima en 1549 e inició una misión que en pocas décadas reunió cientos de miles de conversos, sobre todo en Kyūshū, con algunos daimyō bautizados que veían en ello también una ventaja comercial. Los misioneros aprendieron japonés, imprimieron diccionarios y fundaron colegios. Pero el poder acabó viendo en el cristianismo una lealtad ajena y una puerta a la injerencia europea: Hideyoshi ordenó las primeras ejecuciones en 1597 y los Tokugawa lo prohibieron por completo. Tras la rebelión de Shimabara, en 1637, la persecución fue total, y los kakure kirishitan, 'cristianos ocultos', mantuvieron su fe en secreto durante más de dos siglos.",
+    "imagenes": [
+      "/images/japon/jp_javier-franciscus-de-xabier-jpg_wikimedia.jpg"
+    ]
+  },
+  {
+    "id": "jp-nobunaga",
+    "region": "japon",
+    "tipo": "evento",
+    "titulo": "Oda Nobunaga",
+    "fecha_inicio": 1575,
+    "fecha_fin": 1582,
+    "descripcion_corta": "Señor de un dominio menor, Oda Nobunaga rompió todas las reglas de la guerra japonesa y estuvo a punto de unificar el país. En Nagashino, en 1575, dispuso a tres mil arcabuceros en filas que disparaban por turnos tras empalizadas y aniquiló a la temida caballería Takeda: una de las primeras demostraciones mundiales de lo que el fuego disciplinado hace con la caballería. Fue implacable con quien se le opusiera, incluidos los monasterios budistas armados, y arrasó el monte Hiei con sus miles de habitantes. En 1582, con medio Japón sometido, fue traicionado por uno de sus generales y se suicidó en un templo en llamas en Kioto.",
+    "imagenes": [
+      "/images/japon/jp_nobunaga-oda-nobunaga-portrait-sanpoji-yamagata-png_wikimedia.png"
+    ]
+  },
+  {
+    "id": "jp-hideyoshi",
+    "region": "japon",
+    "tipo": "evento",
+    "titulo": "Toyotomi Hideyoshi unifica Japón",
+    "fecha_inicio": 1590,
+    "fecha_fin": 1598,
+    "descripcion_corta": "Hijo de campesinos, Hideyoshi entró al servicio de Nobunaga como criado y llegó a gobernar Japón: la carrera más asombrosa de su historia y el mejor ejemplo del gekokujō. Vengó a su señor, sometió a los últimos daimyō rebeldes y completó la unificación en 1590. Después hizo justo lo necesario para que nadie repitiera su ascenso: la 'caza de espadas' desarmó a los campesinos, y un decreto congeló las clases sociales prohibiendo pasar de una a otra. Ordenó también un catastro general del país medido en arroz. Sus dos invasiones de Corea, en 1592 y 1597, fueron un desastre sangriento que agotó recursos y acabó a su muerte.",
+    "imagenes": [
+      "/images/japon/jp_hideyoshi-toyotomi-hideyoshi-c1598-kodai-ji-temple-png_wikimedia.png"
+    ]
+  },
+  {
+    "id": "jp-sekigahara",
+    "region": "japon",
+    "tipo": "evento",
+    "titulo": "Sekigahara",
+    "fecha_inicio": 1600,
+    "fecha_fin": null,
+    "descripcion_corta": "Muerto Hideyoshi y con un heredero de cinco años, los grandes señores se dividieron en dos bandos. El 21 de octubre de 1600, en un valle brumoso llamado Sekigahara, unos 160 000 hombres se enfrentaron en la batalla más decisiva de la historia japonesa. Se resolvió por una traición pactada de antemano: a mediodía, el ejército de Kobayakawa Hideaki bajó de la ladera y atacó a sus propios aliados. Tokugawa Ieyasu ganó en unas horas el control del país. La memoria del episodio es tan viva que 'Sekigahara' se usa todavía en japonés para hablar del momento decisivo de cualquier disputa, y la palabra que designa al traidor de aquel día es sinónimo de deslealtad.",
+    "imagenes": [
+      "/images/japon/jp_sekigahara-sekigaharascreen-jpg_wikimedia.jpg"
+    ]
+  },
+  {
+    "id": "jp-tokugawa",
+    "region": "japon",
+    "tipo": "evento",
+    "titulo": "El shogunato Tokugawa",
+    "fecha_inicio": 1603,
+    "fecha_fin": 1868,
+    "descripcion_corta": "Ieyasu se hizo nombrar shōgun en 1603 y su familia gobernó dos siglos y medio de paz casi ininterrumpida, algo insólito tras un siglo y medio de guerra continua. El sistema estaba diseñado para que nadie pudiera repetir lo que él mismo había hecho: los daimyō sospechosos recibieron feudos lejanos, se prohibió reparar castillos sin permiso y, sobre todo, se impuso el sankin-kōtai, que obligaba a cada señor a residir un año de cada dos en Edo y a dejar allí a su familia como rehén permanente. Aquellos viajes con séquito arruinaban sus finanzas y, de paso, llenaron el país de caminos, posadas y una economía de servicios.",
+    "imagenes": [
+      "/images/japon/jp_tokugawa-tokugawa-ieyasu2-jpg_wikimedia.jpg"
+    ]
+  },
+  {
+    "id": "jp-sakoku",
+    "region": "japon",
+    "tipo": "evento",
+    "titulo": "El sakoku: el país cerrado",
+    "fecha_inicio": 1639,
+    "fecha_fin": 1853,
+    "descripcion_corta": "A partir de 1639, los Tokugawa cerraron Japón: se expulsó a los portugueses y españoles, se prohibió el cristianismo, se impidió a los japoneses salir del país y volver bajo pena de muerte, y se limitó todo el comercio exterior a un puñado de canales controlados. Los holandeses, considerados comerciantes sin ambición misionera, quedaron confinados en Dejima, una isla artificial de unos 120 metros en la bahía de Nagasaki. Por esa rendija entró durante dos siglos el saber europeo —los rangaku o 'estudios holandeses', sobre todo medicina y astronomía—. El aislamiento no fue absoluto ni empobrecedor: Japón vivió un florecimiento cultural y económico enorme, pero se quedó fuera de la revolución industrial.",
+    "imagenes": [
+      "/images/japon/jp_sakoku-sakokujunk-jpg_wikimedia.jpg"
+    ]
+  },
+  {
+    "id": "jp-edo",
+    "region": "japon",
+    "tipo": "evento",
+    "titulo": "Edo, la mayor ciudad del mundo",
+    "fecha_inicio": 1700,
+    "fecha_fin": null,
+    "descripcion_corta": "Hacia 1700, Edo —la actual Tokio— superaba el millón de habitantes y era probablemente la ciudad más poblada del planeta, por delante de Londres o París. Funcionaba con una eficiencia notable: recogía y vendía los residuos humanos como fertilizante para el campo circundante, reciclaba papel, metal y tejidos hasta el último uso, y tenía una red de acueductos de madera. Como las casas eran de madera y papel, los incendios eran constantes: el de 1657 mató a más de cien mil personas. De su clase mercante, rica pero sin rango, salió una cultura urbana propia —teatro kabuki, luchadores de sumo, novela popular y los barrios de placer— que la aristocracia miraba por encima del hombro.",
+    "imagenes": [
+      "/images/japon/jp_edo-edo-p-jpg_wikimedia.jpg"
+    ]
+  },
+  {
+    "id": "jp-ukiyoe",
+    "region": "japon",
+    "tipo": "evento",
+    "titulo": "El ukiyo-e",
+    "fecha_inicio": 1760,
+    "fecha_fin": 1850,
+    "descripcion_corta": "Las estampas del 'mundo flotante' se imprimían con planchas de madera, una por color, y se vendían tan baratas como un cuenco de fideos: eran arte de consumo popular, no de museo. Retrataban actores de kabuki, cortesanas, escenas de la vida urbana y, en su última etapa, paisajes. De ahí salieron las Treinta y seis vistas del monte Fuji de Hokusai, con la Gran ola de Kanagawa, y las estaciones del Tōkaidō de Hiroshige. Cuando Japón se abrió, esas estampas llegaron a Europa a veces como papel de embalar de las porcelanas, y su composición descentrada, sus colores planos y sus encuadres cortados fascinaron a Monet, Degas y Van Gogh, que llegó a copiarlas al óleo.",
+    "imagenes": [
+      "/images/japon/jp_ukiyoe-great-wave-off-kanagawa2-jpg_wikimedia.jpg"
+    ]
+  },
+  {
+    "id": "jp-perry",
+    "region": "japon",
+    "tipo": "evento",
+    "titulo": "Los barcos negros de Perry",
+    "fecha_inicio": 1853,
+    "fecha_fin": null,
+    "descripcion_corta": "En julio de 1853, cuatro buques de guerra estadounidenses al mando del comodoro Matthew Perry entraron en la bahía de Edo sin permiso. Dos eran de vapor, echaban humo negro y podían navegar contra el viento: los japoneses los llamaron kurofune, barcos negros. Perry entregó una carta exigiendo la apertura de puertos y anunció que volvería por la respuesta; regresó al año siguiente con el doble de barcos. El shogunato, sin flota capaz de oponerse y consciente de lo que Gran Bretaña acababa de hacerle a China en las guerras del opio, firmó. Aquella humillación desacreditó al shogunato ante los señores del sur y puso en marcha la crisis que acabaría con él en quince años.",
+    "imagenes": [
+      "/images/japon/jp_perry-japanese-1854-print-commodore-perry-jpg_wikimedia.jpg"
+    ]
+  },
+  {
+    "id": "jp-meiji",
+    "region": "japon",
+    "tipo": "evento",
+    "titulo": "La restauración Meiji",
+    "fecha_inicio": 1868,
+    "fecha_fin": 1912,
+    "descripcion_corta": "En 1868, una coalición de dominios del sur derrocó al shogunato y devolvió formalmente el poder al emperador Meiji, de quince años. Lo que siguió fue una de las transformaciones más rápidas que ha vivido ningún país: se abolieron los feudos y las clases, se creó un ejército de reclutamiento, se implantó la educación obligatoria, se adoptaron un código civil y una constitución, y se enviaron misiones a Europa y Estados Unidos a copiar lo mejor de cada sitio —el ejército de Prusia, la marina británica, la escuela francesa—. El lema era 'país rico, ejército fuerte'. En treinta años Japón pasó de sociedad feudal cerrada a potencia industrial, y en 1905 derrotaría a Rusia, la primera victoria de un país asiático sobre uno europeo en la era moderna.",
+    "imagenes": [
+      "/images/japon/jp_meiji-meijijoukyou-jpg_wikimedia.jpg"
+    ]
+  },
+  {
+    "id": "jp-satsuma",
+    "region": "japon",
+    "tipo": "evento",
+    "titulo": "La rebelión de Satsuma",
+    "fecha_inicio": 1877,
+    "fecha_fin": null,
+    "descripcion_corta": "Las reformas Meiji dejaron sin función y sin rentas a los samuráis: se les prohibió llevar espada, se les conmutó el estipendio por bonos y el nuevo ejército de campesinos reclutados los sustituyó. En 1877, unos 30 000 se levantaron en Satsuma bajo Saigō Takamori, paradójicamente uno de los artífices de la restauración. Fue una guerra desigual entre el honor y la logística: los rebeldes combatieron con espada y algunas armas de fuego contra un ejército con artillería moderna, telégrafo y suministro por barco. Saigō murió en la batalla final de Shiroyama. Con él terminó la clase que había gobernado Japón durante setecientos años, y el propio gobierno que lo derrotó lo indultó póstumamente y lo convirtió en héroe nacional.",
+    "imagenes": [
+      "/images/japon/jp_satsuma-saigowithofficers-jpg_wikimedia.jpg"
+    ]
+  }
+]

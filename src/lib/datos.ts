@@ -16,6 +16,7 @@ import grecia from "@data/grecia.json";
 import esparta from "@data/esparta.json";
 import edadMedia from "@data/edad-media.json";
 import china from "@data/china.json";
+import japon from "@data/japon.json";
 import costaRica from "@data/costa-rica.json";
 import norteamerica from "@data/norteamerica.json";
 import centroamerica from "@data/centroamerica.json";
@@ -34,6 +35,7 @@ export const bloquesPorRegion: Record<string, Bloque[]> = {
   esparta: esparta as Bloque[],
   "edad-media": edadMedia as Bloque[],
   china: china as Bloque[],
+  japon: japon as Bloque[],
   "costa-rica": costaRica as Bloque[],
   norteamerica: norteamerica as Bloque[],
   centroamerica: centroamerica as Bloque[],
