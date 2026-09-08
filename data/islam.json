@@ -1,0 +1,608 @@
+[
+  {
+    "id": "is-mahoma",
+    "region": "islam",
+    "tipo": "evento",
+    "titulo": "Mahoma y la Arabia preislámica",
+    "fecha_inicio": 570,
+    "fecha_fin": null,
+    "descripcion_corta": "**Mahoma** nació hacia **570** en **La Meca**, una ciudad de comerciantes que vivía de las caravanas y de la peregrinación a la **Kaaba**, un santuario donde se veneraban decenas de ídolos tribales.\n\nLa Arabia de entonces era un mosaico de tribus beduinas sin Estado, con venganzas de sangre, poesía oral de altísimo nivel y minorías judías y cristianas. La época se recuerda como la ***yahiliyya***, la «ignorancia».\n\nHuérfano desde niño, Mahoma trabajó en las caravanas de una comerciante viuda, **Jadiya**, con la que se casó y que sería la primera en creer en él. Tenía fama de honrado: lo llamaban *al-Amin*, «el fiable».",
+    "imagenes": [
+      "/images/islam/is_is-mahoma-rashid-al-din-tabib-jami-al-tawarikh-f-45v-detail-_wikimedia.png"
+    ]
+  },
+  {
+    "id": "is-revelacion",
+    "region": "islam",
+    "tipo": "evento",
+    "titulo": "La primera revelación",
+    "fecha_inicio": 610,
+    "fecha_fin": null,
+    "descripcion_corta": "Según la tradición, **hacia el 610**, retirado en la cueva de Hira, Mahoma recibió del arcángel Gabriel una orden: **«¡Recita!»**. De ahí viene la palabra **Corán**, «recitación».\n\nLas revelaciones continuaron veintitrés años y sus seguidores las memorizaron y las anotaron en huesos, hojas de palma y pergamino. El califa Uzmán ordenó fijar una versión única hacia el año 650, la que se usa hoy.\n\nSu mensaje era radical para La Meca: **un solo Dios**, prohibición de los ídolos, juicio final, y obligación de socorrer al huérfano, al pobre y al esclavo. Atacaba de frente el negocio del santuario y el orden tribal, y por eso la élite mercantil lo persiguió.",
+    "imagenes": [
+      "/images/islam/is_is-revelacion-andalusquran-jpg-utm-source-es-wikipedia-org-utm-c_wikimedia.jpg"
+    ]
+  },
+  {
+    "id": "is-hegira",
+    "region": "islam",
+    "tipo": "evento",
+    "titulo": "La Hégira y la comunidad de Medina",
+    "fecha_inicio": 622,
+    "fecha_fin": null,
+    "descripcion_corta": "**En 622**, perseguido en La Meca, Mahoma y sus seguidores emigraron a **Yatrib**, que pasó a llamarse **Medina**, «la ciudad del Profeta». Esa emigración, la **Hégira**, marca el año 1 del calendario musulmán.\n\nAllí ocurrió algo decisivo: la comunidad de creyentes, la ***umma***, sustituyó a la tribu como vínculo principal, y Mahoma no fue solo predicador sino **jefe político, juez y comandante militar**. La llamada Constitución de Medina reguló la convivencia con las tribus judías de la ciudad.\n\nDesde entonces, en el islam no hay separación original entre comunidad religiosa y comunidad política. Esa fusión explica buena parte de su historia posterior.",
+    "imagenes": [
+      "/images/islam/is_is-hegira-masjidnabawi-jpg-utm-source-es-wikipedia-org-utm-c_wikimedia.jpg"
+    ]
+  },
+  {
+    "id": "is-meca-632",
+    "region": "islam",
+    "tipo": "evento",
+    "titulo": "La toma de La Meca y la muerte del Profeta",
+    "fecha_inicio": 630,
+    "fecha_fin": null,
+    "descripcion_corta": "Tras ocho años de guerra intermitente con los mecanos —Badr, Uhud, el foso de Medina—, **en 630** Mahoma entró en **La Meca** casi sin resistencia. Perdonó a sus antiguos enemigos, destruyó los ídolos de la Kaaba y la consagró al Dios único.\n\nEn dos años, casi toda Arabia se había unido a la nueva comunidad. **En 632**, tras la peregrinación de despedida, Mahoma murió en Medina sin dejar hijo varón vivo ni instrucciones claras sobre la sucesión.\n\nEsa ausencia sería la fractura mayor de la historia islámica. Le sucedieron los **cuatro califas ortodoxos** —Abu Bakr, Umar, Uzmán y Alí—, que en apenas treinta años convirtieron un movimiento local en un imperio.",
+    "imagenes": [
+      "/images/islam/is_is-meca-632-siyer-i-nebi-298a-jpg-utm-source-es-wikipedia-org-_wikimedia.jpg"
+    ]
+  },
+  {
+    "id": "is-yarmuk",
+    "region": "islam",
+    "tipo": "evento",
+    "titulo": "Yarmuk y la conquista de Siria",
+    "fecha_inicio": 636,
+    "fecha_fin": null,
+    "descripcion_corta": "**En agosto de 636**, junto al río **Yarmuk**, un ejército árabe derrotó a las tropas bizantinas en una batalla de seis días. Fue el golpe que le costó a Bizancio **Siria, Palestina y el Levante entero** para siempre.\n\nBizancio y Persia acababan de agotarse en una guerra de veintiséis años entre ellos, y sus provincias, exhaustas por los impuestos y divididas por disputas religiosas, opusieron poca resistencia. Los conquistadores exigían tributo pero **no obligaban a convertirse**.\n\nJerusalén se rindió en 638 al califa **Umar**, que entró a pie y garantizó por escrito a los cristianos sus iglesias y su culto. La velocidad de aquellas conquistas no tiene comparación en la Antigüedad.",
+    "imagenes": [
+      "/images/islam/is_is-yarmuk-battlefield-of-yarmouk-mohammad-adil-jpg-utm-sourc_wikimedia.jpg"
+    ]
+  },
+  {
+    "id": "is-qadisiyya",
+    "region": "islam",
+    "tipo": "evento",
+    "titulo": "Qadisiyya y el fin de la Persia sasánida",
+    "fecha_inicio": 637,
+    "fecha_fin": 651,
+    "descripcion_corta": "**En 636-637**, en **Qadisiyya**, cerca del Éufrates, los árabes vencieron al ejército del imperio **sasánida**, la superpotencia persa que llevaba cuatro siglos disputándole el mundo a Roma. Cayó después la capital, **Ctesifonte**, con un botín legendario.\n\nEl último emperador, Yazdegerd III, huyó hacia el este y fue asesinado en Merv **en 651**. Con él terminaron **1 200 años de imperios persas** —aqueménidas, partos, sasánidas— y el zoroastrismo dejó de ser religión de Estado.\n\nPersia no desapareció: **transformó al conquistador**. Su burocracia, su etiqueta cortesana, su poesía y su arte moldearon el califato abasí, y la lengua persa renació escrita en alfabeto árabe.",
+    "imagenes": [
+      "/images/islam/is_is-qadisiyya-depiction-of-the-battle-of-al-q-disiyyah-from-a-ma_wikimedia.jpg"
+    ]
+  },
+  {
+    "id": "is-egipto",
+    "region": "islam",
+    "tipo": "evento",
+    "titulo": "La conquista de Egipto",
+    "fecha_inicio": 642,
+    "fecha_fin": null,
+    "descripcion_corta": "**En 642**, tras un asedio, **Alejandría** capituló ante Amr ibn al-As. Egipto, el granero de Bizancio, pasó al islam sin apenas resistencia popular: los cristianos **coptos**, perseguidos por Constantinopla por su doctrina, prefirieron pagar tributo a los nuevos amos.\n\nAmr fundó al sur una ciudad de guarnición, **Fustat**, que sería el germen de **El Cairo**. La famosa historia del califa ordenando quemar la Biblioteca de Alejandría es **una leyenda tardía**: la biblioteca ya había desaparecido siglos antes.\n\nEgipto se convirtió en una de las provincias más ricas del califato y, con el tiempo, en el centro cultural del mundo islámico: allí estarían Al-Azhar, los fatimíes, Saladino y los mamelucos.",
+    "imagenes": [
+      "/images/islam/is_is-egipto-fostat-329-jpg-utm-source-es-wikipedia-org-utm-cam_wikimedia.jpg"
+    ]
+  },
+  {
+    "id": "is-fitna",
+    "region": "islam",
+    "tipo": "evento",
+    "titulo": "La Primera Fitna: chiíes y suníes",
+    "fecha_inicio": 656,
+    "fecha_fin": null,
+    "descripcion_corta": "El asesinato del califa **Uzmán en 656** desató la primera guerra civil del islam, la **Fitna**. Enfrentó a **Alí**, primo y yerno del Profeta, con la familia omeya de Muawiya, gobernador de Siria.\n\nAlí fue asesinado en 661 y Muawiya se hizo con el califato. De aquel conflicto nació la división que sigue vigente: los **suníes** aceptan la sucesión de los califas elegidos por la comunidad; los **chiíes** —de *shiat Alí*, «el partido de Alí»— sostienen que el liderazgo correspondía a los descendientes del Profeta a través de Alí y Fátima.\n\nHoy los suníes son cerca del 85 % de los musulmanes y los chiíes el 15 %, mayoritarios en Irán, Irak, Azerbaiyán y Bahréin.",
+    "imagenes": [
+      "/images/islam/is_is-fitna-imam-ali-ibn-abi-talib-a-s-png-utm-source-es-wikip_wikimedia.png"
+    ]
+  },
+  {
+    "id": "is-omeyas",
+    "region": "islam",
+    "tipo": "evento",
+    "titulo": "El califato omeya",
+    "fecha_inicio": 661,
+    "fecha_fin": 750,
+    "descripcion_corta": "**Muawiya** trasladó la capital a **Damasco** y convirtió el califato en una **monarquía hereditaria** al estilo bizantino, con corte, ejército profesional y administración heredada de los imperios conquistados.\n\nEn menos de un siglo, los omeyas construyeron el mayor imperio que se había visto: del **Indo a los Pirineos**, unos 11 millones de kilómetros cuadrados, más extenso que Roma en su apogeo.\n\nSu política era de élite árabe: los conversos no árabes, los *mawali*, pagaban impuestos de los que sus vecinos árabes estaban exentos. Ese agravio, sumado al descontento chií y persa, acabaría derribándolos en 750. Su gran legado en piedra es la **Cúpula de la Roca** de Jerusalén, de 691, el edificio islámico más antiguo que se conserva.",
+    "imagenes": [
+      "/images/islam/is_is-omeyas-16-04-04-felsendom-tempelberg-jerusalem-ralfr-wat-_wikimedia.jpg"
+    ]
+  },
+  {
+    "id": "is-kerbala",
+    "region": "islam",
+    "tipo": "evento",
+    "titulo": "Kerbala y el martirio de Huseín",
+    "fecha_inicio": 680,
+    "fecha_fin": null,
+    "descripcion_corta": "**El 10 de octubre de 680**, en **Kerbala**, en el actual Irak, **Huseín**, nieto del Profeta, fue cercado con unos setenta acompañantes por un ejército omeya de miles de hombres. Les cortaron el acceso al agua durante días y los mataron a todos.\n\nPara los chiíes, Kerbala es el acontecimiento central de su identidad: la injusticia y el sacrificio frente al poder tiránico. Cada año, en la **Ashura**, millones de personas lo conmemoran con procesiones, representaciones y luto público.\n\nLa frase que resume su significado —«toda tierra es Kerbala, todo día es Ashura»— convirtió el episodio en un modelo de resistencia que se ha invocado en la política de Irán y del mundo chií hasta hoy.",
+    "imagenes": [
+      "/images/islam/is_is-kerbala-battle-of-karbala-jpg-utm-source-es-wikipedia-org-_wikimedia.jpg"
+    ]
+  },
+  {
+    "id": "is-hispania",
+    "region": "islam",
+    "tipo": "evento",
+    "titulo": "La conquista de Hispania",
+    "fecha_inicio": 711,
+    "fecha_fin": null,
+    "descripcion_corta": "**En 711**, un ejército de bereberes y árabes al mando de **Táriq ibn Ziyad** cruzó el estrecho y derrotó al rey visigodo Rodrigo en Guadalete. En **siete años** ocuparon casi toda la península, que llamaron **al-Ándalus**.\n\nEl avance siguió hacia Francia hasta que fue frenado en **Poitiers en 732**. En al-Ándalus se instaló un emirato dependiente de Damasco hasta que, tras la caída de los omeyas, un príncipe superviviente, **Abderramán I**, huyó a Córdoba y fundó allí un emirato independiente en 756.\n\nDe ahí saldría uno de los focos culturales más brillantes de la Edad Media, con Córdoba, la Mezquita y una convivencia —conflictiva pero real— de musulmanes, cristianos y judíos.",
+    "imagenes": [
+      "/images/islam/is_is-hispania-tarik-ibn-ziyad-jpg-utm-source-es-wikipedia-org-ut_wikimedia.jpg"
+    ]
+  },
+  {
+    "id": "is-abasies",
+    "region": "islam",
+    "tipo": "evento",
+    "titulo": "La revolución abasí",
+    "fecha_inicio": 750,
+    "fecha_fin": 1258,
+    "descripcion_corta": "**En 750**, una coalición de persas, chiíes y conversos descontentos derrocó a los omeyas en la batalla del Gran Zab y exterminó a casi toda la familia. Los **abasíes** trasladaron el centro del imperio de Siria a **Irak**, y con él, del mundo mediterráneo al persa.\n\nEl cambio fue profundo: los conversos no árabes pasaron a ser ciudadanos de pleno derecho, la administración se organizó al modo sasánida con visires y burocracia, y el califa dejó de ser un jefe tribal accesible para convertirse en un **soberano oculto tras cortinas**.\n\nCon los abasíes empieza la **edad de oro** del islam: dos siglos de esplendor científico, filosófico y comercial con Bagdad en el centro del mundo.",
+    "imagenes": [
+      "/images/islam/is_is-abasies-zab-rivers-png-utm-source-es-wikipedia-org-utm-cam_wikimedia.png"
+    ]
+  },
+  {
+    "id": "is-bagdad",
+    "region": "islam",
+    "tipo": "evento",
+    "titulo": "La fundación de Bagdad",
+    "fecha_inicio": 762,
+    "fecha_fin": null,
+    "descripcion_corta": "**En 762**, el califa **Al-Mansur** eligió un punto del Tigris para levantar una capital nueva. Se llamó **Madinat al-Salam**, «la ciudad de la paz», y se conoció como **Bagdad**. Era perfectamente **circular**, con doble muralla, cuatro puertas y el palacio y la mezquita en el centro.\n\nEn menos de un siglo llegó a tener quizá **un millón de habitantes**: la mayor ciudad del mundo junto con Chang'an. Tenía hospitales con salas separadas por dolencias, bibliotecas públicas, papeleras, mercados especializados y un servicio de correos con estaciones de relevo.\n\nSu posición era ideal: en el cruce de las rutas que unían el Mediterráneo, la India y China, con el Tigris y el Éufrates como autopistas de mercancías.",
+    "imagenes": [
+      "/images/islam/is_is-bagdad-abbasid-dinar-al-mansur-140-ah-758-ad-jpg-utm-sour_wikimedia.jpg"
+    ]
+  },
+  {
+    "id": "is-harun",
+    "region": "islam",
+    "tipo": "evento",
+    "titulo": "Harún al-Rashid",
+    "fecha_inicio": 786,
+    "fecha_fin": null,
+    "descripcion_corta": "El reinado de **Harún al-Rashid** (786-809) es el apogeo abasí y el escenario legendario de ***Las mil y una noches***, donde aparece recorriendo Bagdad disfrazado de noche.\n\nSu corte era el centro diplomático del mundo: intercambió embajadas con **Carlomagno**, a quien envió regalos que asombraron a Europa, entre ellos un **elefante llamado Abul-Abbas** y un reloj de agua que los francos tomaron por magia. También trató con la emperatriz de Bizancio, a la que impuso tributo.\n\nSu hijo **Al-Mamún** llevó más lejos la política cultural: financió traducciones, observatorios y una medición del tamaño de la Tierra en la llanura de Sinyar que se acercó notablemente al valor real.",
+    "imagenes": [
+      "/images/islam/is_is-harun-harun-al-rashid-and-the-world-of-the-thousand-and-_wikimedia.jpg"
+    ]
+  },
+  {
+    "id": "is-casa-sabiduria",
+    "region": "islam",
+    "tipo": "evento",
+    "titulo": "La Casa de la Sabiduría",
+    "fecha_inicio": 800,
+    "fecha_fin": null,
+    "descripcion_corta": "En Bagdad, los abasíes organizaron el **mayor programa de traducción de la historia**: durante dos siglos se vertieron al árabe casi todos los textos griegos, persas, siríacos e indios que se pudieron reunir. Se pagaba, según la leyenda, **el peso del libro en oro**.\n\nAsí se salvaron Aristóteles, Euclides, Ptolomeo, Galeno, Arquímedes e Hipócrates, muchos de ellos perdidos en su original griego y recuperados siglos después por Europa **a través del árabe**. De ahí vienen palabras como álgebra, algoritmo, cifra, alcohol, alambique, azimut, cenit y las estrellas Aldebarán, Vega o Rigel.\n\nEl motor no fue solo la curiosidad: se traducía medicina para curar, astronomía para orientar la oración y las rutas, y matemáticas para repartir herencias según la ley.",
+    "imagenes": [
+      "/images/islam/is_is-casa-sabiduria-maqamat-hariri-jpg-utm-source-es-wikipedia-org-utm_wikimedia.jpg"
+    ]
+  },
+  {
+    "id": "is-juarismi",
+    "region": "islam",
+    "tipo": "evento",
+    "titulo": "Al-Juarismi y el álgebra",
+    "fecha_inicio": 820,
+    "fecha_fin": null,
+    "descripcion_corta": "**Al-Juarismi**, sabio persa de la Casa de la Sabiduría, escribió hacia **820** un libro sobre «el cálculo por reducción y comparación» —*al-yabr*—, de donde viene la palabra **álgebra**.\n\nSu novedad fue tratar las ecuaciones como un **procedimiento general**, con reglas paso a paso para resolver cualquier caso, en lugar de resolver problemas sueltos. La versión latina de su nombre, *Algoritmi*, dio la palabra **algoritmo**.\n\nEn otra obra difundió los **números indios con el cero** y el cálculo posicional, que Europa acabaría llamando «arábigos». Sin ese sistema, la contabilidad, la ciencia y la informática modernas serían imposibles: la aritmética con números romanos no escala.",
+    "imagenes": [
+      "/images/islam/fix_is-juarismi-image-al-kit-b-al-mu-ta-ar-f-is-b-al-abr-wa-l-muq-_wikimedia.jpg"
+    ]
+  },
+  {
+    "id": "is-medicina",
+    "region": "islam",
+    "tipo": "evento",
+    "titulo": "Al-Razi, Avicena y la medicina",
+    "fecha_inicio": 865,
+    "fecha_fin": null,
+    "descripcion_corta": "**Al-Razi** (865-925) dirigió el hospital de Bagdad y escribió la primera descripción clínica que distingue la **viruela del sarampión**. Cuenta la tradición que eligió el emplazamiento del hospital colgando trozos de carne por la ciudad y viendo dónde tardaban más en pudrirse.\n\n**Avicena** (Ibn Sina) escribió hacia 1025 el ***Canon de medicina***, una enciclopedia que ordenaba todo el saber médico conocido y que se usó como **libro de texto en las universidades europeas hasta el siglo XVII**.\n\nEl mundo islámico creó los primeros **hospitales públicos** con salas por especialidad, farmacia, archivo de historiales y atención gratuita, y exigió **exámenes para ejercer** la medicina. En al-Ándalus, Abulcasis escribió el tratado de cirugía de referencia durante quinientos años.",
+    "imagenes": [
+      "/images/islam/is_is-medicina-rhazes-al-razi-ad-865-925-wellcome-s0001954-jpg-ut_wikimedia.jpg"
+    ]
+  },
+  {
+    "id": "is-astronomia",
+    "region": "islam",
+    "tipo": "evento",
+    "titulo": "Astrónomos, astrolabios y observatorios",
+    "fecha_inicio": 900,
+    "fecha_fin": null,
+    "descripcion_corta": "La religión creaba necesidades astronómicas muy concretas: saber la hora exacta de las cinco oraciones, la dirección de La Meca desde cualquier punto y el comienzo del mes lunar. La respuesta fue una astronomía observacional de altísimo nivel.\n\nSe construyeron observatorios permanentes —Bagdad, Damasco, después **Maraga** y Samarcanda—, se perfeccionó el **astrolabio** hasta convertirlo en la computadora analógica más sofisticada del mundo medieval y se corrigieron los datos de Ptolomeo con siglos de observaciones.\n\n**Al-Battani** midió el año con un error de dos minutos; los astrónomos de Maraga desarrollaron modelos matemáticos que **reaparecen en Copérnico** cinco siglos después. Dos tercios de las estrellas del cielo llevan todavía nombre árabe.",
+    "imagenes": [
+      "/images/islam/is_is-astronomia-astrolabio-16787706916-jpg-utm-source-es-wikipedia_wikimedia.jpg"
+    ]
+  },
+  {
+    "id": "is-cordoba",
+    "region": "islam",
+    "tipo": "evento",
+    "titulo": "El califato de Córdoba",
+    "fecha_inicio": 929,
+    "fecha_fin": null,
+    "descripcion_corta": "**En 929**, **Abderramán III** se proclamó califa, rompiendo con Bagdad. **Córdoba** se convirtió en la mayor ciudad de Europa occidental: quizá **100 000 habitantes**, calles empedradas y con alumbrado, baños públicos, y una biblioteca que se dice reunía 400 000 volúmenes cuando los monasterios cristianos tenían unos cientos.\n\nAllí trabajaron el médico **Abulcasis**, el filósofo judío Maimónides —nacido en Córdoba— y **Averroes**, cuyos comentarios de Aristóteles reintrodujeron al filósofo en la Europa cristiana.\n\nLa convivencia entre musulmanes, cristianos y judíos fue real y también jerárquica: los *dhimmíes* tenían culto propio a cambio de impuesto y de estatus inferior. El califato se hundió en guerras civiles en 1031 y al-Ándalus se partió en **reinos de taifas**.",
+    "imagenes": [
+      "/images/islam/is_is-cordoba-eine-beeindruckende-mischung-aus-islamischer-und-c_wikimedia.jpg"
+    ]
+  },
+  {
+    "id": "is-al-azhar",
+    "region": "islam",
+    "tipo": "evento",
+    "titulo": "Los fatimíes y Al-Azhar",
+    "fecha_inicio": 970,
+    "fecha_fin": null,
+    "descripcion_corta": "Los **fatimíes**, dinastía chií ismailí, conquistaron Egipto **en 969** y fundaron **El Cairo** —*al-Qahira*, «la victoriosa»— como capital de un califato rival del de Bagdad. Al año siguiente empezaron la mezquita de **Al-Azhar**, que se convirtió en centro de enseñanza.\n\nAl-Azhar sigue funcionando: es **la universidad en activo más antigua del mundo** junto con al-Qarawiyyin de Fez, fundada en 859 por una mujer, **Fátima al-Fihri**.\n\nCon los fatimíes, El Cairo desplazó a Bagdad como capital económica del Mediterráneo islámico, controlando el comercio del mar Rojo con la India. Su califato duró dos siglos, hasta que Saladino lo suprimió y devolvió Egipto a la ortodoxia suní.",
+    "imagenes": [
+      "/images/islam/is_is-al-azhar-fatimid-islamic-caliphate-ar-png-utm-source-es-wik_wikimedia.png"
+    ]
+  },
+  {
+    "id": "is-alhacen",
+    "region": "islam",
+    "tipo": "evento",
+    "titulo": "Alhacén y la óptica",
+    "fecha_inicio": 1000,
+    "fecha_fin": null,
+    "descripcion_corta": "**Ibn al-Haytham**, llamado en Europa **Alhacén**, escribió hacia 1021 el *Libro de la óptica*, donde demolió la teoría griega de que vemos porque el ojo emite rayos: demostró que **la luz entra en el ojo** reflejada por los objetos.\n\nEstudió la refracción, los espejos, la cámara oscura —de la que dejó la primera descripción clara— y explicó por qué la luna parece mayor en el horizonte. Su método era lo más novedoso: **plantear hipótesis y comprobarlas con experimentos** repetibles y con matemáticas, siglos antes de Galileo. Muchos historiadores lo consideran el primer científico experimental.\n\nLa leyenda dice que escribió buena parte de su obra fingiéndose loco para escapar del califa fatimí, al que había prometido regular las crecidas del Nilo.",
+    "imagenes": [
+      "/images/islam/is_is-alhacen-alhazen-122459248-jpg-utm-source-es-wikipedia-org-_wikimedia.jpg"
+    ]
+  },
+  {
+    "id": "is-selyucidas",
+    "region": "islam",
+    "tipo": "evento",
+    "titulo": "Los turcos selyúcidas",
+    "fecha_inicio": 1055,
+    "fecha_fin": null,
+    "descripcion_corta": "**En 1055**, los **selyúcidas**, turcos de la estepa recién convertidos al islam suní, entraron en Bagdad. Dejaron al califa abasí como autoridad religiosa y asumieron el poder real con el título de **sultán**: desde entonces, califato y gobierno efectivo quedaron separados.\n\nSu visir **Nizam al-Mulk** creó una red de escuelas de Estado, las *madrasas nizamiyya*, para formar funcionarios y consolidar la ortodoxia suní. En ellas enseñó **Al-Ghazali**, el teólogo que reconcilió el sufismo con la ley y cuya crítica a los filósofos marcó el pensamiento islámico posterior.\n\n**En 1071**, en **Manzikert**, los selyúcidas derrotaron y capturaron al emperador bizantino y abrieron Anatolia a la colonización turca. De aquella derrota nacería, indirectamente, la llamada a las Cruzadas.",
+    "imagenes": [
+      "/images/islam/is_is-selyucidas-dinar-of-muhammad-alp-arslan-ah-455-465-jpg-utm-so_wikimedia.jpg"
+    ]
+  },
+  {
+    "id": "is-cruzadas",
+    "region": "islam",
+    "tipo": "evento",
+    "titulo": "Las Cruzadas desde el otro lado",
+    "fecha_inicio": 1099,
+    "fecha_fin": null,
+    "descripcion_corta": "**El 15 de julio de 1099**, los cruzados tomaron **Jerusalén** tras un asedio de un mes y masacraron a buena parte de sus habitantes musulmanes y judíos. Las crónicas árabes registran el episodio con horror, aunque al principio los cronistas no entendieron bien quiénes eran aquellos *francos*.\n\nPara el mundo islámico, las Cruzadas fueron durante décadas un problema periférico: los reinos latinos ocupaban una franja costera y se integraron en el juego de alianzas locales, a veces aliándose con emires musulmanes contra otros cruzados.\n\nLo que sí produjeron fue un intercambio intenso —azúcar, cítricos, molinos, matemáticas, medicina— y, a largo plazo, la unificación de la respuesta islámica bajo Nur al-Din y **Saladino**.",
+    "imagenes": [
+      "/images/islam/is_is-cruzadas-robert-de-normandie-at-the-siege-of-antioch-1097-1_wikimedia.jpg"
+    ]
+  },
+  {
+    "id": "is-saladino",
+    "region": "islam",
+    "tipo": "evento",
+    "titulo": "Saladino recupera Jerusalén",
+    "fecha_inicio": 1187,
+    "fecha_fin": null,
+    "descripcion_corta": "**Saladino** (Salah al-Din), kurdo de origen, unificó Egipto y Siria, acabó con el califato fatimí y **el 4 de julio de 1187** aniquiló al ejército cruzado en los **Cuernos de Hattin**, cercándolo sin agua bajo el sol. Tres meses después entraba en Jerusalén.\n\nA diferencia de 1099, **no hubo matanza**: negoció rescates, dejó salir a los habitantes y respetó los lugares santos cristianos. Ese comportamiento le dio una fama extraordinaria incluso entre sus enemigos: aparece con respeto en Dante y en las crónicas europeas, y es una figura admirada a ambos lados hasta hoy.\n\nRicardo Corazón de León no logró recuperar la ciudad en la Tercera Cruzada; ambos firmaron una tregua que permitía a los peregrinos cristianos visitarla.",
+    "imagenes": [
+      "/images/islam/fix_is-saladino-al-nasir-i-salah-al-din-yusuf-saladin-ah-564-589-1_wikimedia.jpg"
+    ]
+  },
+  {
+    "id": "is-bagdad-mongoles",
+    "region": "islam",
+    "tipo": "evento",
+    "titulo": "Los mongoles arrasan Bagdad",
+    "fecha_inicio": 1258,
+    "fecha_fin": null,
+    "descripcion_corta": "**En febrero de 1258**, el ejército de **Hulagu**, nieto de Gengis Kan, tomó **Bagdad** tras dos semanas de asedio. La ciudad fue saqueada durante días: se habla de **entre 200 000 y un millón de muertos**, y de las bibliotecas arrojadas al Tigris hasta que el río, según las crónicas, corrió negro de tinta.\n\nEl califa **al-Mustasim** fue ejecutado envuelto en una alfombra y pisoteado por caballos, para no derramar sangre real. Con él terminaron **cinco siglos de califato abasí**.\n\nEl golpe fue también material: la destrucción de los canales de riego de Mesopotamia, mantenidos desde la Antigüedad, dejó la región empobrecida durante siglos. La edad de oro islámica no acabó ese día, pero perdió su centro.",
+    "imagenes": [
+      "/images/islam/is_is-bagdad-mongoles-representation-of-hulagu-khan-1217-1265-persian-mi_wikimedia.jpg"
+    ]
+  },
+  {
+    "id": "is-ain-yalut",
+    "region": "islam",
+    "tipo": "evento",
+    "titulo": "Ain Yalut y los mamelucos",
+    "fecha_inicio": 1260,
+    "fecha_fin": null,
+    "descripcion_corta": "**El 3 de septiembre de 1260**, en **Ain Yalut**, en Galilea, el ejército **mameluco** de Egipto derrotó a los mongoles. Fue **la primera derrota seria** del imperio mongol y el punto donde se detuvo su avance hacia África y el Mediterráneo.\n\nLos mamelucos eran una casta singular: **esclavos-soldados** comprados de niños en las estepas y el Cáucaso, convertidos al islam y entrenados de por vida. En 1250 dieron un golpe y se hicieron con el trono de Egipto: un Estado gobernado, literalmente, por antiguos esclavos, en el que el poder no se heredaba sino que lo tomaba el más fuerte.\n\nGobernaron Egipto y Siria **hasta 1517**, expulsaron a los últimos cruzados de **Acre en 1291** y convirtieron El Cairo en la gran capital del islam suní.",
+    "imagenes": [
+      "/images/islam/is_is-ain-yalut-mamluk-sultanate-of-cairo-1317-ad-jpg-utm-source-e_wikimedia.jpg"
+    ]
+  },
+  {
+    "id": "is-ibn-battuta",
+    "region": "islam",
+    "tipo": "evento",
+    "titulo": "Ibn Battuta, el viajero",
+    "fecha_inicio": 1325,
+    "fecha_fin": null,
+    "descripcion_corta": "**En 1325**, con veintiún años, el marroquí **Ibn Battuta** salió de Tánger para peregrinar a La Meca. Volvió **veintinueve años después**, tras recorrer unos **120 000 kilómetros**: tres veces más que Marco Polo.\n\nEstuvo en Egipto, Persia, Anatolia, la Rusia de la Horda de Oro, Constantinopla, la India —donde fue juez de Delhi ocho años—, las Maldivas, Ceilán, Sumatra, China, al-Ándalus y el imperio de **Malí**, cruzando el Sáhara en caravana.\n\nPudo hacerlo porque existía un mundo conectado por una misma lengua culta, una misma ley y una red de hospedajes para viajeros: la ***dar al-islam***. Su relato, la *Rihla*, es la mejor descripción del siglo XIV desde el Atlántico hasta el Pacífico.",
+    "imagenes": [
+      "/images/islam/is_is-ibn-battuta-bust-of-ibn-battuta-at-ibn-battuta-museum-jpg-utm-_wikimedia.jpg"
+    ]
+  },
+  {
+    "id": "is-ibn-jaldun",
+    "region": "islam",
+    "tipo": "evento",
+    "titulo": "Ibn Jaldún y la ciencia de la historia",
+    "fecha_inicio": 1377,
+    "fecha_fin": null,
+    "descripcion_corta": "**En 1377**, refugiado en un castillo argelino, **Ibn Jaldún** escribió en cinco meses la ***Muqaddima***, la introducción a su historia universal. Es el primer intento serio de explicar **por qué** suben y caen los Estados en lugar de solo narrarlo.\n\nSu concepto clave es la ***asabiyya***, la cohesión de grupo: las dinastías nacen de tribus unidas y duras, conquistan, se acomodan en el lujo de la ciudad, pierden cohesión y son sustituidas por otro grupo con más empuje, en ciclos de unas cuatro generaciones. También analizó impuestos, división del trabajo y comercio de una forma que anticipa la economía moderna.\n\nSe le considera **fundador de la sociología y de la historiografía crítica**, cuatro siglos antes que en Europa.",
+    "imagenes": [
+      "/images/islam/is_is-ibn-jaldun-bust-of-ibn-khaldun-casbah-of-bejaia-algeria-jpg-u_wikimedia.jpg"
+    ]
+  },
+  {
+    "id": "is-tamerlan",
+    "region": "islam",
+    "tipo": "evento",
+    "titulo": "Tamerlán",
+    "fecha_inicio": 1370,
+    "fecha_fin": null,
+    "descripcion_corta": "**Tamerlán** (Timur), turco-mongol de Transoxiana, construyó **desde 1370** un imperio que iba de Anatolia a la India. Sus campañas fueron devastadoras incluso para su época: torres de cráneos en Isfahán y Delhi, ciudades borradas del mapa, entre 8 y 17 millones de muertos según las estimaciones.\n\nY al mismo tiempo llenó su capital, **Samarcanda**, de arquitectos, artesanos y sabios secuestrados en todas partes, levantando algunas de las cúpulas más bellas del mundo islámico. Su nieto **Ulugh Beg** construyó allí un observatorio y midió el año con un error de menos de un minuto.\n\nDerrotó y capturó al sultán otomano en Ankara (1402), retrasando la caída de Constantinopla medio siglo. Murió camino de invadir China.",
+    "imagenes": [
+      "/images/islam/is_is-tamerlan-tamerlan-jpg-utm-source-es-wikipedia-org-utm-campa_wikimedia.jpg"
+    ]
+  },
+  {
+    "id": "is-constantinopla",
+    "region": "islam",
+    "tipo": "evento",
+    "titulo": "La toma de Constantinopla",
+    "fecha_inicio": 1453,
+    "fecha_fin": null,
+    "descripcion_corta": "**El 29 de mayo de 1453**, tras 53 días de asedio, el sultán **Mehmed II**, de veintiún años, tomó **Constantinopla**. Usó los mayores cañones jamás fundidos —uno disparaba bolas de 600 kilos— y, ante la cadena que cerraba el Cuerno de Oro, hizo **arrastrar setenta barcos por tierra** sobre troncos engrasados.\n\nCon la ciudad cayeron los últimos restos del Imperio romano, **1 480 años después** de su fundación. Mehmed se proclamó *Kayser-i Rum*, césar de Roma, convirtió Santa Sofía en mezquita e invitó a repoblar la ciudad a griegos, armenios y judíos, a los que organizó en comunidades autónomas.\n\n**Estambul** volvió a ser una capital imperial, y el Mediterráneo oriental quedó bajo control otomano durante cuatro siglos.",
+    "imagenes": [
+      "/images/islam/is_is-constantinopla-conquest-of-constantinople-zonaro-jpg-utm-source-e_wikimedia.jpg"
+    ]
+  },
+  {
+    "id": "is-granada",
+    "region": "islam",
+    "tipo": "evento",
+    "titulo": "La caída de Granada",
+    "fecha_inicio": 1492,
+    "fecha_fin": null,
+    "descripcion_corta": "**El 2 de enero de 1492**, el emir **Boabdil** entregó las llaves de Granada a los Reyes Católicos. Terminaban **781 años** de presencia musulmana en la península ibérica.\n\nLas capitulaciones garantizaban a los mudéjares su religión, su lengua y sus bienes. Se incumplieron en menos de diez años: en 1502 se impuso la conversión o el exilio, y **entre 1609 y 1614** se expulsó a los moriscos, unas 300 000 personas, muchas nacidas en España desde hacía generaciones.\n\nLa **Alhambra**, salvada porque los nuevos reyes decidieron habitarla, es lo que queda de aquel mundo: su patio de los Leones, sus mocárabes y la inscripción que se repite miles de veces por sus muros, *«solo Dios es vencedor»*.",
+    "imagenes": [
+      "/images/islam/fix_is-granada-dawn-charles-v-palace-alhambra-granada-andalusia-s_wikimedia.jpg"
+    ]
+  },
+  {
+    "id": "is-safavies",
+    "region": "islam",
+    "tipo": "evento",
+    "titulo": "Los safávidas y el chiismo en Persia",
+    "fecha_inicio": 1501,
+    "fecha_fin": null,
+    "descripcion_corta": "**En 1501**, con catorce años, **Ismail I** se proclamó sah en Tabriz y tomó una decisión que cambió el mapa religioso para siempre: impuso el **chiismo duodecimano** como religión oficial de Persia, hasta entonces mayoritariamente suní.\n\nLo hizo con dureza —conversiones forzosas, ulemas traídos del Líbano— y con un objetivo político claro: dar a Persia una **identidad propia frente a los otomanos suníes**. De ahí arranca la rivalidad que estructura todavía hoy Oriente Medio.\n\nBajo **Abbás el Grande**, a partir de 1588, el imperio floreció: **Isfahán** se convirtió en una de las ciudades más hermosas del mundo —«Isfahán es la mitad del mundo», decía el dicho— con su plaza monumental, sus mezquitas de azulejo azul y sus puentes.",
+    "imagenes": [
+      "/images/islam/is_is-safavies-tamgha-of-shah-isma-il-png-utm-source-es-wikipedia_wikimedia.png"
+    ]
+  },
+  {
+    "id": "is-suleiman",
+    "region": "islam",
+    "tipo": "evento",
+    "titulo": "Solimán el Magnífico",
+    "fecha_inicio": 1520,
+    "fecha_fin": null,
+    "descripcion_corta": "**Solimán** reinó de 1520 a 1566 y llevó al imperio otomano a su apogeo: Belgrado, Rodas, Hungría tras **Mohács**, Bagdad, Argel, Yemen y el dominio del Mediterráneo con el corsario **Barbarroja**. Solo lo frenaron las murallas de Viena, en 1529.\n\nEn Turquía se le llama **Kanuni**, «el legislador»: reorganizó el derecho civil y fiscal, armonizándolo con la ley islámica, y su código se aplicó tres siglos. Su arquitecto **Sinan** levantó las grandes mezquitas de Estambul y Edirne, cumbre de la arquitectura otomana.\n\nSu corte era la más poderosa de Europa: Francisco I de Francia se alió con él contra Carlos V, y en Estambul convivían turcos, griegos, armenios, judíos sefardíes expulsados de España —a los que los otomanos acogieron— y europeos renegados.",
+    "imagenes": [
+      "/images/islam/fix_is-suleiman-s-leymaniyemosqueistanbul-cropped-jpg-utm-source-e_wikimedia.jpg"
+    ]
+  },
+  {
+    "id": "is-devsirme",
+    "region": "islam",
+    "tipo": "evento",
+    "titulo": "Jenízaros y el sistema devshirme",
+    "fecha_inicio": 1550,
+    "fecha_fin": null,
+    "descripcion_corta": "El imperio otomano se sostuvo durante siglos sobre una institución que no existía en ningún otro lugar: el ***devshirme***. Cada pocos años se reclutaba a niños cristianos de los Balcanes, se les convertía al islam y se les educaba como servidores del sultán.\n\nLos más capaces entraban en la administración y podían llegar a **gran visir**; el resto formaba el cuerpo de infantería de élite, los **jenízaros**: soldados profesionales con sueldo, uniforme y armas de fuego cuando en Europa aún se combatía con levas feudales.\n\nEra una élite de esclavos sin linaje ni tierras, teóricamente leal solo al sultán. Con el tiempo los jenízaros se volvieron un poder autónomo que derrocaba sultanes y bloqueaba reformas, hasta que en **1826** fueron aniquilados por el propio sultán en el llamado «incidente auspicioso».",
+    "imagenes": [
+      "/images/islam/fix_is-devsirme-lambert-wyts-agha-of-the-janissaries-and-a-b-l-k-o_wikimedia.jpg"
+    ]
+  },
+  {
+    "id": "is-mogoles-islam",
+    "region": "islam",
+    "tipo": "evento",
+    "titulo": "Los mogoles: el islam en la India",
+    "fecha_inicio": 1556,
+    "fecha_fin": null,
+    "descripcion_corta": "El **imperio mogol** fue, junto al otomano y el safávida, uno de los tres grandes imperios islámicos de la pólvora. Gobernó a una población mayoritariamente hindú con una élite musulmana de lengua persa.\n\n**Akbar** ensayó una síntesis inédita: abolió el impuesto a los no musulmanes, se rodeó de consejeros hindúes y organizó debates entre religiones. Sus sucesores oscilaron entre esa tolerancia y la ortodoxia dura de **Aurangzeb**.\n\nDe esa mezcla salió una cultura propia: el **urdu** como lengua, la arquitectura del **Taj Mahal**, la miniatura mogola, la música y la cocina que hoy identificamos con el norte de la India y Pakistán. Fue el imperio islámico más rico del mundo: hacia 1700 producía **una cuarta parte de la manufactura mundial**.",
+    "imagenes": [
+      "/images/islam/fix_is-mogoles-islam-diwan-i-khas-fatehpur-fatehpur-sikri-india0022-jpg_wikimedia.jpg"
+    ]
+  },
+  {
+    "id": "is-cafe",
+    "region": "islam",
+    "tipo": "evento",
+    "titulo": "El café y los primeros cafés",
+    "fecha_inicio": 1554,
+    "fecha_fin": null,
+    "descripcion_corta": "El **café** se empezó a consumir en los monasterios sufíes de **Yemen** en el siglo XV, para mantenerse despierto en las oraciones nocturnas. Del puerto de **Moca** salió al resto del mundo islámico.\n\n**En 1554** abrieron en Estambul los primeros **cafés** públicos, las *kahvehane*: locales donde se conversaba, se jugaba al ajedrez, se recitaba poesía y se hablaba de política. Las autoridades intentaron cerrarlos varias veces precisamente por eso.\n\nDe Estambul pasaron a Venecia en 1645 y a Londres, París y Viena. Los cafés europeos del siglo XVIII —donde nacieron la prensa, las aseguradoras como Lloyd's y buena parte de la Ilustración— son descendientes directos de aquellos locales otomanos.",
+    "imagenes": [
+      "/images/islam/fix_is-cafe-john-frederick-lewis-004-jpg-utm-source-en-wikiped_wikimedia.jpg"
+    ]
+  },
+  {
+    "id": "is-viena-1683",
+    "region": "islam",
+    "tipo": "evento",
+    "titulo": "El retroceso otomano",
+    "fecha_inicio": 1683,
+    "fecha_fin": null,
+    "descripcion_corta": "El **segundo sitio de Viena, en 1683**, terminó con la derrota otomana ante el ejército polaco-alemán. Fue el punto de inflexión: desde entonces, el imperio dejó de expandirse y empezó a perder territorio.\n\nEl **tratado de Karlowitz (1699)** fue el primero que un sultán firmó reconociendo una derrota y cediendo provincias enteras —Hungría, Transilvania—. La superioridad militar que Europa había temido durante tres siglos se había invertido.\n\nLas causas se discuten: el fin de la expansión que financiaba al Estado, el bloqueo de las reformas por los jenízaros y los ulemas, el desvío del comercio mundial hacia el Atlántico y el atraso tecnológico frente a unos europeos que ahora imprimían, calculaban y fundían cañones mejor.",
+    "imagenes": [
+      "/images/islam/fix_is-viena-1683-portret-van-kara-mustafa-pasha-rp-p-1894-a-18289-j_wikimedia.jpg"
+    ]
+  },
+  {
+    "id": "is-wahabismo",
+    "region": "islam",
+    "tipo": "evento",
+    "titulo": "El wahabismo y Arabia",
+    "fecha_inicio": 1744,
+    "fecha_fin": null,
+    "descripcion_corta": "**En 1744**, en el desierto del Nechd, el predicador **Muhammad ibn Abd al-Wahhab** y el jefe tribal **Muhammad ibn Saud** sellaron un pacto: el primero aportaría la doctrina y el segundo, las armas.\n\nEl **wahabismo** predicaba volver al islam de los orígenes, sin culto a los santos, sin tumbas veneradas, sin mediaciones ni innovaciones; en su avance destruyeron mausoleos, incluidos los de Kerbala en 1802 y los del cementerio de Medina.\n\nLos otomanos aplastaron dos veces el primer Estado saudí, pero el pacto sobrevivió. En **1932**, Abdulaziz ibn Saud fundó el **Reino de Arabia Saudí** sobre esa misma alianza entre familia y doctrina, que con el petróleo tendría una influencia enorme en todo el mundo islámico del siglo XX.",
+    "imagenes": [
+      "/images/islam/fix_is-wahabismo-tuwaiq-escarpment-14h38m25s-k-jpg-utm-source-es-wi_wikimedia.jpg"
+    ]
+  },
+  {
+    "id": "is-napoleon-egipto",
+    "region": "islam",
+    "tipo": "evento",
+    "titulo": "Napoleón en Egipto",
+    "fecha_inicio": 1798,
+    "fecha_fin": null,
+    "descripcion_corta": "**En julio de 1798**, Napoleón desembarcó en Egipto y derrotó a los mamelucos en la batalla de las Pirámides. Militarmente fue un fracaso —Nelson destruyó su flota en Abukir y el ejército acabó repatriado—, pero el impacto cultural fue enorme.\n\nLlevaba consigo **167 sabios**: matemáticos, botánicos, ingenieros y dibujantes que produjeron la monumental *Description de l'Égypte* y encontraron la **piedra de Rosetta**, con la que Champollion descifraría los jeroglíficos.\n\nPara el mundo islámico fue un aviso brutal: una potencia europea podía invadir en semanas el corazón de un imperio que se creía superior. El historiador egipcio **al-Yabarti**, testigo, dejó un relato asombrado de la técnica y la organización francesas. De ese golpe nació el debate sobre la modernización.",
+    "imagenes": [
+      "/images/islam/is_is-napoleon-egipto-bonaparte-ante-la-esfinge-por-jean-l-on-g-r-me-jpg_wikimedia.jpg"
+    ]
+  },
+  {
+    "id": "is-muhammad-ali",
+    "region": "islam",
+    "tipo": "evento",
+    "titulo": "Muhammad Ali y el Egipto moderno",
+    "fecha_inicio": 1805,
+    "fecha_fin": null,
+    "descripcion_corta": "**Muhammad Ali**, oficial albanés del ejército otomano, tomó el poder en Egipto **en 1805** y lo gobernó cuarenta años. Empezó eliminando a los mamelucos en una emboscada dentro de la ciudadela de El Cairo.\n\nDespués emprendió la primera **modernización a la europea** del mundo islámico: ejército con instructores franceses, flota, fábricas textiles estatales, monopolio del algodón, escuelas técnicas, misiones de estudiantes a París, imprenta y el primer periódico oficial.\n\nSu ejército llegó a amenazar Estambul y solo la intervención de las potencias europeas lo detuvo. Egipto quedó como provincia autónoma bajo su dinastía, pero endeudado hasta el cuello por sus obras: esa deuda llevaría al **canal de Suez** y, en 1882, a la ocupación británica.",
+    "imagenes": [
+      "/images/islam/fix_is-muhammad-ali-modernegypt-muhammad-ali-by-auguste-couder-bap-179_wikimedia.jpg"
+    ]
+  },
+  {
+    "id": "is-tanzimat",
+    "region": "islam",
+    "tipo": "evento",
+    "titulo": "Las reformas Tanzimat",
+    "fecha_inicio": 1839,
+    "fecha_fin": null,
+    "descripcion_corta": "**En 1839**, el sultán proclamó el edicto de Gülhane e inició las ***Tanzimat***, «reorganización»: igualdad legal de **todos los súbditos sin distinción de religión**, códigos civil y penal de inspiración francesa, servicio militar general, catastro, bancos, ferrocarril, telégrafo y escuelas laicas.\n\nEra un intento de salvar el imperio adoptando las herramientas del rival. Chocó con dos resistencias: la de los ulemas, que veían disolverse el orden islámico, y la de las nacionalidades cristianas de los Balcanes, que ya no querían igualdad sino independencia.\n\nLa culminación fue la **primera constitución otomana, en 1876**, con parlamento elegido. El sultán Abdul Hamid II la suspendió dos años después y gobernó de forma autocrática durante tres décadas.",
+    "imagenes": [
+      "/images/islam/is_is-tanzimat-ottoman-parliament-1877-jpg-utm-source-en-wikipedi_wikimedia.jpg"
+    ]
+  },
+  {
+    "id": "is-jovenes-turcos",
+    "region": "islam",
+    "tipo": "evento",
+    "titulo": "Los Jóvenes Turcos",
+    "fecha_inicio": 1908,
+    "fecha_fin": null,
+    "descripcion_corta": "**En julio de 1908**, oficiales del ejército agrupados en el Comité de Unión y Progreso —los **Jóvenes Turcos**— forzaron al sultán a restaurar la constitución de 1876. Al año siguiente lo depusieron.\n\nSu programa mezclaba modernización, constitucionalismo y, cada vez más, **nacionalismo turco**, que sustituía la vieja idea de un imperio multiétnico. En esos años el imperio perdió Libia, casi todos los Balcanes y buena parte de su población cristiana.\n\nBajo su gobierno, durante la Primera Guerra Mundial, se produjo el **genocidio armenio de 1915**, con cerca de un millón de víctimas: el episodio más oscuro del final otomano, que Turquía aún no reconoce como tal.",
+    "imagenes": [
+      "/images/islam/is_is-jovenes-turcos-ttihat-ve-terakki-amblemi-jpg-utm-source-es-wikipe_wikimedia.jpg"
+    ]
+  },
+  {
+    "id": "is-revuelta-arabe",
+    "region": "islam",
+    "tipo": "evento",
+    "titulo": "La revuelta árabe y el reparto",
+    "fecha_inicio": 1916,
+    "fecha_fin": null,
+    "descripcion_corta": "**En 1916**, el jerife **Huseín de La Meca** se levantó contra los otomanos con la promesa británica de un gran reino árabe independiente. En la campaña participó el oficial británico **T. E. Lawrence**, «Lawrence de Arabia».\n\nLa promesa no se cumplió. Ese mismo año, Londres y París ya habían repartido en secreto la región en el acuerdo **Sykes-Picot**, y **en 1917** la **declaración Balfour** prometía a los judíos un «hogar nacional» en Palestina. Tres compromisos incompatibles sobre el mismo territorio.\n\nTras la guerra, los vencedores trazaron con regla las fronteras de Irak, Siria, Líbano, Jordania y Palestina bajo mandatos francés y británico. Casi todos los conflictos de Oriente Medio del siglo XX arrancan de aquel reparto.",
+    "imagenes": [
+      "/images/islam/is_is-revuelta-arabe-030arab-jpg-utm-source-es-wikipedia-org-utm-campai_wikimedia.jpg"
+    ]
+  },
+  {
+    "id": "is-califato-1924",
+    "region": "islam",
+    "tipo": "evento",
+    "titulo": "La abolición del califato",
+    "fecha_inicio": 1924,
+    "fecha_fin": null,
+    "descripcion_corta": "**El 3 de marzo de 1924**, la asamblea de la nueva **República de Turquía**, dirigida por **Mustafa Kemal Atatürk**, abolió el **califato** y desterró al último califa. Terminaban trece siglos de una institución que, al menos simbólicamente, había representado la unidad de la comunidad musulmana desde la muerte de Mahoma.\n\nAtatürk llevó la ruptura hasta el final: Estado laico, alfabeto latino en lugar del árabe, código civil suizo, calendario gregoriano, voto femenino en 1934 y supresión de las órdenes sufíes.\n\nLa abolición dejó un vacío que se discute desde entonces. De ese debate salieron los Hermanos Musulmanes, fundados en Egipto en 1928, y buena parte de las corrientes políticas del islam contemporáneo.",
+    "imagenes": [
+      "/images/islam/is_is-califato-1924-portret-van-de-turkse-leider-mustafa-kemal-ataturk_wikimedia.jpg"
+    ]
+  },
+  {
+    "id": "is-ctx-creencias",
+    "region": "islam",
+    "tipo": "evento",
+    "titulo": "Creencias: los cinco pilares",
+    "fecha_inicio": 650,
+    "fecha_fin": null,
+    "descripcion_corta": "**Un solo Dios**\n\nEl islam es rigurosamente monoteísta: *no hay más dios que Dios y Mahoma es su mensajero*. No hay imágenes de Dios ni del Profeta, y de esa prohibición nació el desarrollo extraordinario de la **caligrafía** y la geometría como artes sagradas.\n\n**Los cinco pilares**\n\nLa profesión de fe (*shahada*); la **oración** cinco veces al día orientada a La Meca; la **limosna** obligatoria (*zakat*), un porcentaje de la riqueza, no de la renta; el ayuno del mes de **Ramadán** de sol a sol; y la **peregrinación** a La Meca al menos una vez en la vida, si se puede.\n\n**La ley**\n\nLa *sharía* se deriva del Corán y de la *sunna*, la tradición del Profeta, interpretadas por juristas: hay cuatro escuelas suníes y varias chiíes, y en general discrepan entre sí.\n\n**El sufismo**\n\nLa vía mística: cofradías, danza, poesía. **Rumi**, del siglo XIII, es hoy uno de los poetas más leídos del mundo.",
+    "imagenes": [
+      "/images/islam/is_is-ctx-creencias-six-sufi-masters-retouched-jpg-utm-source-es-wikip_wikimedia.jpg"
+    ],
+    "contextual": true
+  },
+  {
+    "id": "is-ctx-vida",
+    "region": "islam",
+    "tipo": "evento",
+    "titulo": "Cómo vivía la gente y la ciudad islámica",
+    "fecha_inicio": 1000,
+    "fecha_fin": null,
+    "descripcion_corta": "**La ciudad**\n\nLa **medina** se organizaba alrededor de la mezquita mayor y del **zoco**, con los oficios agrupados por calles —libreros y perfumistas cerca de la mezquita, curtidores y herreros en la periferia—. Las calles residenciales eran estrechas y en recodo, para dar sombra y privacidad.\n\n**La casa**\n\nHacia dentro: fachada ciega a la calle y un **patio** con fuente y árboles. Lo importante no se enseña desde fuera.\n\n**Agua**\n\nBaños públicos (*hammam*) en cada barrio, fuentes de caridad, norias, acequias y **qanats** heredados de Persia. La higiene tenía además obligación religiosa: hay que lavarse antes de cada oración.\n\n**Instituciones**\n\nLos **waqf**, fundaciones piadosas perpetuas, financiaban mezquitas, escuelas, hospitales, fuentes y hasta comedores. Buena parte de la vida urbana funcionaba con ese sistema, sin depender del Estado.",
+    "imagenes": [
+      "/images/islam/is_is-ctx-vida-ba-os-del-sult-n-amir-ahmad-kashan-ir-n-2016-09-19_wikimedia.jpg"
+    ],
+    "contextual": true
+  },
+  {
+    "id": "is-ctx-economia",
+    "region": "islam",
+    "tipo": "evento",
+    "titulo": "Modelo económico: el comercio de tres continentes",
+    "fecha_inicio": 1100,
+    "fecha_fin": null,
+    "descripcion_corta": "**En el centro del mundo**\n\nEl mundo islámico ocupaba el espacio entre China, la India, África y Europa, y vivió de ello. Las **caravanas** cruzaban el Sáhara con sal hacia el sur y volvían con oro y esclavos; los **dhows** aprovechaban el monzón hasta la India y Zanzíbar.\n\n**Instrumentos financieros**\n\nSe usaban la letra de cambio (*suftaja*), el cheque (*sakk*, de donde viene la palabra), la sociedad de riesgo compartido (*mudaraba*) y el crédito comercial. La prohibición de la **usura** empujó a inventar fórmulas de asociación en el beneficio y la pérdida.\n\n**Una moneda fuerte**\n\nEl **dinar** de oro y el **dírham** de plata circulaban de al-Ándalus a Asia central: se han encontrado miles de dírhams en tesoros vikingos de Suecia.\n\n**Agricultura**\n\nDifundieron el arroz, la caña de azúcar, el algodón, los cítricos, el albaricoque y la berenjena por el Mediterráneo, con nuevas técnicas de riego.",
+    "imagenes": [
+      "/images/islam/is_is-ctx-economia-alhakemii-dirhem-medinaazahara-jpg-utm-source-es-w_wikimedia.jpg"
+    ],
+    "contextual": true
+  },
+  {
+    "id": "is-ctx-social",
+    "region": "islam",
+    "tipo": "evento",
+    "titulo": "Estructura social",
+    "fecha_inicio": 1200,
+    "fecha_fin": null,
+    "descripcion_corta": "**Arriba**\n\nEl califa o sultán, la corte, los grandes militares y los **ulemas**, los sabios de la ley, que no eran clero —el islam no tiene sacerdocio ni sacramentos— pero sí una autoridad enorme como jueces e intérpretes.\n\n**Los dhimmíes**\n\nCristianos y judíos, «gentes del Libro», conservaban su religión, sus jueces y sus bienes a cambio del impuesto **jizya** y de un estatus subordinado: restricciones de vestido, de culto público y de cargos. Comparado con la Europa de la época era tolerante; comparado con la igualdad moderna, no lo era.\n\n**La esclavitud**\n\nExistió a gran escala, con esclavos africanos, eslavos y turcos. Liberar esclavos era un acto meritorio, los hijos de una esclava con su dueño nacían libres, y algunos esclavos-soldados llegaron a **gobernar imperios**, como los mamelucos.\n\n**Las mujeres**\n\nCon derecho a heredar, a poseer bienes propios y a divorciarse mucho antes que en Europa, pero con la mitad de la parte hereditaria del varón y bajo tutela legal.",
+    "imagenes": [
+      "/images/islam/is_is-ctx-social-registansquare-samarkand-jpg-utm-source-en-wikiped_wikimedia.jpg"
+    ],
+    "contextual": true
+  },
+  {
+    "id": "is-ctx-ciencia",
+    "region": "islam",
+    "tipo": "evento",
+    "titulo": "La transmisión del saber",
+    "fecha_inicio": 950,
+    "fecha_fin": null,
+    "descripcion_corta": "**Por qué allí**\n\nEl mundo islámico heredó a la vez la ciencia griega, la persa y la india, y adoptó del papel chino la tecnología que permitía copiar barato. Bagdad tenía fábricas de papel desde el siglo VIII; Europa no las tendría hasta cuatro siglos después.\n\n**Lo que aportó**\n\nNo fue solo conservar: el álgebra, la trigonometría con la función seno traída de la India, la óptica experimental, la química de laboratorio con la destilación y el alambique, la farmacología, la cirugía, la cartografía de **Al-Idrisi**, y la crítica de Ptolomeo que preparó a Copérnico.\n\n**Cómo llegó a Europa**\n\nPor tres puertas: **Toledo**, con su escuela de traductores del árabe al latín; **Sicilia**; y las Cruzadas. Sin ese trasvase no hay universidades medievales ni revolución científica.\n\n**El repliegue**\n\nDesde el siglo XIII pesaron la destrucción mongola, el cierre de la interpretación jurídica y el desvío del comercio mundial hacia el Atlántico.",
+    "imagenes": [
+      "/images/islam/is_is-ctx-ciencia-estatua-de-al-idrisi-bajo-el-baluarte-de-los-mallo_wikimedia.jpg"
+    ],
+    "contextual": true
+  },
+  {
+    "id": "is-ctx-costumbres",
+    "region": "islam",
+    "tipo": "evento",
+    "titulo": "Costumbres y vida diaria",
+    "fecha_inicio": 1500,
+    "fecha_fin": null,
+    "descripcion_corta": "**El calendario**\n\nLunar y de 354 días, así que las fiestas se desplazan por el año solar. El **Ramadán** marca el ritmo anual: ayuno de sol a sol, comida antes del alba y ruptura al atardecer, y la fiesta del *Eid* al terminar.\n\n**La mesa**\n\nSin cerdo ni alcohol; carne *halal*, arroz, trigo, cordero, yogur, dátiles, berenjena, azafrán y azúcar. De la cocina persa y otomana salieron el pilaf, el kebab, el hojaldre y los dulces de almíbar que hoy se comen del Magreb a la India.\n\n**El hospedaje**\n\nCaravasares en las rutas y hospitalidad obligada al viajero: tres días de comida y techo, sin preguntar.\n\n**El arte**\n\nSin imágenes religiosas, el genio se fue a la **caligrafía**, la geometría de lacería, los azulejos, la alfombra y el jardín cerrado con agua —una prefiguración del paraíso—. En Persia y la India mogola sí floreció la **miniatura** con figuras humanas.",
+    "imagenes": [
+      "/images/islam/fix_is-ctx-costumbres-jpg-utm-source-en-wikipedia-org-utm-campaign-api-u_wikimedia.jpg"
+    ],
+    "contextual": true
+  }
+]

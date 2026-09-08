@@ -599,7 +599,7 @@
     "fecha_fin": null,
     "descripcion_corta": "La sociedad se ordenaba en **cuatro oficios**, y el orden no era por dinero sino por utilidad moral.\n\n**Shi, nong, gong, shang**\n\nPrimero los **shi**, letrados y funcionarios; después los **nong**, campesinos, respetados porque alimentaban al mundo; luego los **gong**, artesanos; y en último lugar los **shang**, comerciantes, despreciados oficialmente por vivir del trabajo ajeno aunque acabaran siendo los más ricos.\n\n**El examen imperial**\n\nA partir de los Han, y de forma plena con los Tang, se accedía al cargo **aprobando un examen** sobre los clásicos confucianos, no por nacimiento. El hijo de un campesino podía llegar a ministro si su aldea le pagaba los estudios: es el primer sistema de mérito administrativo del mundo, mil quinientos años antes que en Europa.\n\n**La familia**\n\nVarias generaciones bajo un mismo techo, con el varón de más edad al mando. La **piedad filial** obligaba a obedecer, cuidar y honrar a los padres incluso después de muertos, y el luto por un padre podía durar tres años.",
     "imagenes": [
-      "/images/china/ctx_china-ctx-social-ming-beamtenpr-fungen1-jpg-utm-source-en-wikipedia_wikimedia.jpg"
+      "/images/china/cn2_china-ctx-social-t-ang-yin-002-jpg-utm-source-en-wikipedia-org-utm-_wikimedia.jpg"
     ],
     "contextual": true
   },
@@ -615,5 +615,1112 @@
       "/images/china/ctx_china-ctx-costumbres-bronze-chopsticks-goryeo-dynasty-3-jpg-utm-source-_wikimedia.jpg"
     ],
     "contextual": true
+  },
+  {
+    "id": "cn-turbantes",
+    "region": "china",
+    "tipo": "evento",
+    "titulo": "La rebelión de los Turbantes Amarillos",
+    "fecha_inicio": 184,
+    "fecha_fin": null,
+    "descripcion_corta": "**En 184**, una secta taoísta que prometía la llegada de una era de paz encabezó el mayor levantamiento campesino de la China antigua: **cientos de miles de sublevados** con un turbante amarillo en la cabeza, hartos de impuestos, hambrunas e inundaciones del río Amarillo.\n\nLa corte Han, dominada por eunucos y en plena decadencia, tuvo que ceder ejércitos privados a los gobernadores para aplastarla. Esos generales ya no devolvieron el poder.\n\nEs el principio del fin de **cuatro siglos de dinastía Han** y el punto de partida de la novela más popular de China, el *Romance de los Tres Reinos*, escrita mil años después.",
+    "imagenes": [
+      "/images/china/cn2_cn-turbantes-three-brothers-during-the-yellow-turban-rebellion-_wikimedia.jpg"
+    ]
+  },
+  {
+    "id": "cn-acantilados-rojos",
+    "region": "china",
+    "tipo": "evento",
+    "titulo": "La batalla de los Acantilados Rojos",
+    "fecha_inicio": 208,
+    "fecha_fin": null,
+    "descripcion_corta": "**En el invierno de 208**, en el río Yangtsé, las flotas aliadas de Sun Quan y Liu Bei derrotaron al ejército muy superior de **Cao Cao** usando brulotes: barcos cargados de paja y aceite lanzados contra una flota que había encadenado sus naves para evitar el mareo.\n\nLa derrota impidió que Cao Cao conquistara el sur y dejó a China dividida en tres. Es la batalla más famosa de la historia china y el corazón del *Romance de los Tres Reinos*, con sus estrategas legendarios como **Zhuge Liang**.\n\nDe aquella época viene buena parte del imaginario chino sobre la lealtad, la astucia militar y la amistad entre guerreros.",
+    "imagenes": [
+      "/images/china/cn2_cn-acantilados-rojos-chibi-jpg-utm-source-es-wikipedia-org-utm-campaign_wikimedia.jpg"
+    ]
+  },
+  {
+    "id": "cn-tres-reinos",
+    "region": "china",
+    "tipo": "evento",
+    "titulo": "Los Tres Reinos",
+    "fecha_inicio": 220,
+    "fecha_fin": 280,
+    "descripcion_corta": "**En 220**, el último emperador Han abdicó y China quedó partida en tres estados en guerra permanente: **Wei** en el norte, **Shu** en el suroeste y **Wu** en el sureste.\n\nDuraron apenas sesenta años, pero el coste humano fue enorme: los censos pasaron de **56 millones de personas en el año 157 a unos 16 millones** a finales del siglo III, entre guerras, hambre y huida de los registros.\n\nFue también una época de innovación militar y de figuras que la literatura convirtió en mitos. Ningún periodo de la historia china ha inspirado tantas novelas, óperas, películas y videojuegos.",
+    "imagenes": [
+      "/images/china/cn2_cn-tres-reinos-saam-gwok-262-ce-png-utm-source-es-wikipedia-org-u_wikimedia.png"
+    ]
+  },
+  {
+    "id": "cn-jin",
+    "region": "china",
+    "tipo": "evento",
+    "titulo": "La dinastía Jin y las Dieciséis Reinos",
+    "fecha_inicio": 265,
+    "fecha_fin": 420,
+    "descripcion_corta": "**En 265**, la familia Sima usurpó el trono de Wei y fundó la dinastía **Jin**, que reunificó China en 280. Duró poco: una guerra entre príncipes la desangró y **en 311** los xiongnu saquearon la capital, Luoyang.\n\nLa corte huyó al sur del Yangtsé y el norte quedó en manos de pueblos de la estepa —xiongnu, xianbei, di, qiang— que fundaron y destruyeron **una decena de reinos efímeros** durante siglo y medio.\n\nFue una de las grandes migraciones de la historia china: millones de personas del norte bajaron al sur, llevando su lengua y su agricultura y convirtiendo el valle del Yangtsé en el nuevo centro demográfico del país.",
+    "imagenes": [
+      "/images/china/cn2_cn-jin-western-jeun-dynasty-280-ce-png-utm-source-es-wiki_wikimedia.png"
+    ]
+  },
+  {
+    "id": "cn-budismo-arraiga",
+    "region": "china",
+    "tipo": "evento",
+    "titulo": "El budismo arraiga en China",
+    "fecha_inicio": 380,
+    "fecha_fin": null,
+    "descripcion_corta": "El budismo había llegado por la Ruta de la Seda en el siglo I, pero fue en esta época de guerras y hambre cuando se hizo religión de masas: ofrecía consuelo, karma y una salida al sufrimiento que ni el confucianismo ni el taoísmo daban.\n\nLos monjes tradujeron miles de textos del sánscrito adaptando el vocabulario taoísta, y las cortes del norte, de origen esteparia, lo adoptaron para legitimarse frente a la élite confuciana china.\n\n**En 399**, el monje **Faxian** salió a pie hacia la India en busca de textos originales; volvió **quince años después** por mar tras recorrer Asia central, Ceilán y Java, y dejó escrito el primer relato chino de aquellos países.",
+    "imagenes": [
+      "/images/china/cn2_cn-budismo-arraiga-statues-of-faxian-and-marco-polo-maritime-experien_wikimedia.jpg"
+    ]
+  },
+  {
+    "id": "cn-yungang",
+    "region": "china",
+    "tipo": "evento",
+    "titulo": "Las grutas de Yungang y Longmen",
+    "fecha_inicio": 460,
+    "fecha_fin": null,
+    "descripcion_corta": "**Desde 460**, los emperadores **Wei del Norte**, de origen xianbei, ordenaron excavar en los acantilados de Yungang **252 cuevas con más de 51 000 estatuas** de Buda, algunas de 17 metros. Cuando trasladaron la capital, continuaron en **Longmen**, con otras 100 000 imágenes.\n\nLos rostros mezclan rasgos indios, persas y centroasiáticos con otros ya plenamente chinos: se puede ver, gruta a gruta, cómo una religión extranjera se vuelve propia.\n\nEs uno de los mayores conjuntos de arte budista del mundo y la prueba de que los llamados «bárbaros» del norte no destruyeron la civilización china: la financiaron.",
+    "imagenes": [
+      "/images/china/cn2_cn-yungang-side-wall-statues-yungang-jpg-utm-source-es-wikipe_wikimedia.jpg"
+    ]
+  },
+  {
+    "id": "cn-sui",
+    "region": "china",
+    "tipo": "evento",
+    "titulo": "La dinastía Sui reunifica China",
+    "fecha_inicio": 581,
+    "fecha_fin": 618,
+    "descripcion_corta": "**En 581**, el general Yang Jian tomó el poder y **en 589** conquistó el sur, acabando con **tres siglos y medio de división**. La dinastía **Sui** rehízo el Estado: código legal único, moneda común, censos, graneros públicos y la recuperación del sistema de exámenes para elegir funcionarios.\n\nSu segundo emperador, Yang, se arruinó en obras colosales y en tres campañas fracasadas contra Corea, que costaron cientos de miles de vidas y provocaron rebeliones por todo el país.\n\nLa dinastía duró **treinta y siete años**, pero dejó montado el aparato estatal que permitiría el esplendor Tang. Se la compara a menudo con la Qin: brutal, breve y fundacional.",
+    "imagenes": [
+      "/images/china/cn2_cn-sui-sui-wendi-tang-jpg-utm-source-es-wikipedia-org-utm_wikimedia.jpg"
+    ]
+  },
+  {
+    "id": "cn-gran-canal",
+    "region": "china",
+    "tipo": "evento",
+    "titulo": "El Gran Canal",
+    "fecha_inicio": 605,
+    "fecha_fin": null,
+    "descripcion_corta": "**Entre 605 y 609**, más de **cinco millones de trabajadores** forzados excavaron y conectaron canales hasta formar una vía navegable de **1 800 kilómetros** entre el Yangtsé y el río Amarillo, y después hasta Pekín. Se calcula que la mitad de los reclutados murió en la obra.\n\nEl **Gran Canal** resolvió el problema estructural de China: el arroz se produce en el sur húmedo y el poder político estaba en el norte seco. Por él subieron durante mil trescientos años el grano, la sal y los impuestos.\n\nEs la obra hidráulica más larga del mundo antiguo, sigue en uso en parte y explica por qué China pudo mantenerse unida cuando Europa se fragmentó.",
+    "imagenes": [
+      "/images/china/cn2_cn-gran-canal-grand-canal-png-utm-source-es-wikipedia-org-utm-ca_wikimedia.png"
+    ]
+  },
+  {
+    "id": "cn-tang",
+    "region": "china",
+    "tipo": "evento",
+    "titulo": "La dinastía Tang",
+    "fecha_inicio": 618,
+    "fecha_fin": 907,
+    "descripcion_corta": "La dinastía **Tang** (618-907) es para los chinos su edad de oro. El imperio se extendió por Asia central, la capital **Chang'an** llegó a **un millón de habitantes** —la mayor ciudad del mundo— y por la Ruta de la Seda entraban mercancías, música, religiones y gente de medio mundo.\n\nEl Estado funcionaba con un sistema de **exámenes** que abría los cargos al mérito, un código legal que sirvió de modelo a Japón, Corea y Vietnam, y un reparto de tierras a los campesinos.\n\nEn Chang'an convivían templos budistas, mezquitas, iglesias nestorianas y santuarios zoroástricos. Fue el periodo más cosmopolita de la historia china antes del siglo XX.",
+    "imagenes": [
+      "/images/china/cn2_cn-tang-chinatrip2005-110-jpg-utm-source-es-wikipedia-org-_wikimedia.jpg"
+    ]
+  },
+  {
+    "id": "cn-taizong",
+    "region": "china",
+    "tipo": "evento",
+    "titulo": "Taizong, el emperador modelo",
+    "fecha_inicio": 626,
+    "fecha_fin": null,
+    "descripcion_corta": "**Li Shimin** llegó al trono **en 626** matando a sus dos hermanos y forzando a abdicar a su padre. Y aun así pasó a la historia como **Taizong**, el emperador ejemplar.\n\nGobernó veintitrés años rodeándose de consejeros que tenían orden de contradecirlo —el más famoso, Wei Zheng, lo hizo cientos de veces—, redujo impuestos, reformó el código penal y sometió a los turcos orientales, que lo proclamaron *Kan Celestial*.\n\nSus conversaciones con los ministros se recopilaron en un manual de gobierno que se estudió durante siglos en China, Corea y Japón. Su frase más citada compara al pueblo con el agua y al soberano con el barco: **el agua sostiene el barco, y también puede volcarlo**.",
+    "imagenes": [
+      "/images/china/cn2_cn-taizong-tangtaizong-jpg-utm-source-en-wikipedia-org-utm-ca_wikimedia.jpg"
+    ]
+  },
+  {
+    "id": "cn-xuanzang",
+    "region": "china",
+    "tipo": "evento",
+    "titulo": "Xuanzang viaja a la India",
+    "fecha_inicio": 629,
+    "fecha_fin": null,
+    "descripcion_corta": "**En 629**, el monje **Xuanzang** salió de Chang'an sin permiso imperial rumbo a la India, decidido a resolver las contradicciones que encontraba en los textos budistas traducidos. Cruzó el desierto de Gobi, el Hindu Kush y Cachemira.\n\nVolvió **dieciséis años después** con **657 textos en sánscrito** cargados a lomos de veinte caballos, y dedicó el resto de su vida a traducirlos con un equipo de monjes. Su relato del viaje es una de las principales fuentes históricas sobre la India del siglo VII.\n\nMil años más tarde, su aventura se convirtió en la novela *Viaje al Oeste*, con el rey mono **Sun Wukong**, uno de los personajes más queridos de Asia.",
+    "imagenes": [
+      "/images/china/cn2_cn-xuanzang-xuan-zang-jpg-utm-source-es-wikipedia-org-utm-camp_wikimedia.jpg"
+    ]
+  },
+  {
+    "id": "cn-wu-zetian",
+    "region": "china",
+    "tipo": "evento",
+    "titulo": "Wu Zetian, la única emperatriz",
+    "fecha_inicio": 690,
+    "fecha_fin": null,
+    "descripcion_corta": "**Wu Zetian** entró en palacio como concubina adolescente y acabó **en 690** proclamándose emperatriz por derecho propio, fundando su propia dinastía: **la única mujer que gobernó China como soberana** en más de dos mil años.\n\nLlegó allí con una habilidad política extraordinaria y también con purgas, delatores y ejecuciones. Ya en el poder, amplió el sistema de exámenes, promovió a funcionarios de origen humilde frente a la vieja aristocracia, apoyó al budismo y mantuvo el imperio estable durante quince años.\n\nLa historiografía confuciana la retrató como un monstruo por el simple hecho de ser mujer. Hoy se la juzga como una gobernante tan implacable y tan eficaz como muchos emperadores celebrados.",
+    "imagenes": [
+      "/images/china/cn2_cn-wu-zetian-png-utm-source-es-wikipedia-org-utm-campaign-api-u_wikimedia.png"
+    ]
+  },
+  {
+    "id": "cn-poesia-tang",
+    "region": "china",
+    "tipo": "evento",
+    "titulo": "Li Bai, Du Fu y la poesía Tang",
+    "fecha_inicio": 750,
+    "fecha_fin": null,
+    "descripcion_corta": "La poesía era en la China Tang una **habilidad obligatoria**: se examinaba de ella a los aspirantes a funcionario, se componía en los banquetes y se enviaba en las cartas. Se conservan **más de 48 000 poemas** de unos 2 200 autores.\n\n**Li Bai**, taoísta, viajero y bebedor, escribió sobre la luna, el vino y la libertad; la leyenda dice que murió al intentar abrazar el reflejo de la luna en el río. **Du Fu**, confuciano y atormentado, dejó el retrato más duro de la guerra civil y del hambre del pueblo.\n\nLos dos fueron amigos y vivieron el desastre de la rebelión de An Lushan. Se los considera los mayores poetas de la lengua china, y todavía hoy los niños los aprenden de memoria.",
+    "imagenes": [
+      "/images/china/cn2_cn-poesia-tang-png-utm-source-es-wikipedia-org-utm-campaign-api-u_wikimedia.png"
+    ]
+  },
+  {
+    "id": "cn-talas",
+    "region": "china",
+    "tipo": "evento",
+    "titulo": "La batalla de Talas y el papel",
+    "fecha_inicio": 751,
+    "fecha_fin": null,
+    "descripcion_corta": "**En julio de 751**, junto al río Talas, en la actual Kirguistán, el ejército Tang se enfrentó al califato abasí. Los mercenarios karluk cambiaron de bando en mitad de la batalla y los chinos fueron derrotados: fue el punto más occidental al que llegó el ejército chino y el fin de su expansión en Asia central.\n\nLa consecuencia más duradera no fue militar. Entre los prisioneros había **artesanos papeleros**, y el secreto del papel —guardado en China desde hacía seis siglos— pasó a Samarcanda, luego a Bagdad, El Cairo, al-Ándalus y finalmente a Europa.\n\nUna derrota militar acabó siendo el vehículo del invento chino que más cambió el mundo.",
+    "imagenes": [
+      "/images/china/cn2_cn-talas-battle-of-talas-png-utm-source-es-wikipedia-org-ut_wikimedia.png"
+    ]
+  },
+  {
+    "id": "cn-an-lushan",
+    "region": "china",
+    "tipo": "evento",
+    "titulo": "La rebelión de An Lushan",
+    "fecha_inicio": 755,
+    "fecha_fin": 763,
+    "descripcion_corta": "**En 755**, el general **An Lushan**, de origen sogdiano y favorito de la corte, se sublevó con 150 000 hombres, tomó Luoyang y Chang'an y obligó al emperador a huir. Por el camino, sus propias tropas exigieron la muerte de la concubina **Yang Guifei**, a la que culpaban de la ruina del imperio: la escena es uno de los grandes temas de la poesía china.\n\nLa guerra duró **ocho años** y dejó el país arrasado. Los censos posteriores registran una caída de población tan brutal —de 53 a 17 millones de personas censadas— que, aunque buena parte se explique por el colapso administrativo, la mortalidad real fue enorme.\n\nLos Tang sobrevivieron siglo y medio más, pero ya sin control sobre los gobernadores militares. La edad de oro había terminado.",
+    "imagenes": [
+      "/images/china/cn2_cn-an-lushan-an-lushan-rebellion-png-utm-source-es-wikipedia-or_wikimedia.png"
+    ]
+  },
+  {
+    "id": "cn-imprenta",
+    "region": "china",
+    "tipo": "evento",
+    "titulo": "La imprenta y el libro más antiguo",
+    "fecha_inicio": 868,
+    "fecha_fin": null,
+    "descripcion_corta": "China imprimía con **planchas de madera talladas** desde el siglo VII, sobre todo textos budistas y calendarios. El ejemplar fechado más antiguo que se conserva es el **Sutra del Diamante**, impreso **el 11 de mayo de 868** y encontrado en las cuevas de Dunhuang: **casi seis siglos antes que Gutenberg**.\n\nHacia **1041**, el artesano **Bi Sheng** inventó además los **tipos móviles** de arcilla cocida. En chino, con miles de caracteres distintos, resultaban menos prácticos que la plancha entera, así que la xilografía siguió dominando.\n\nEl resultado fue una cultura del libro barato: manuales agrícolas, farmacopeas, novelas y enciclopedias circulaban en tiradas enormes cuando en Europa los libros se copiaban a mano.",
+    "imagenes": [
+      "/images/china/cn2_cn-imprenta-jingangjing-jpg-utm-source-es-wikipedia-org-utm-ca_wikimedia.jpg"
+    ]
+  },
+  {
+    "id": "cn-cinco-dinastias",
+    "region": "china",
+    "tipo": "evento",
+    "titulo": "Las Cinco Dinastías",
+    "fecha_inicio": 907,
+    "fecha_fin": 960,
+    "descripcion_corta": "**En 907**, un gobernador militar depuso al último emperador Tang. Siguieron **cincuenta y tres años** de fragmentación: cinco dinastías efímeras en el norte y diez reinos en el sur, con golpes de Estado casi anuales.\n\nEn medio de ese caos, el sur vivió una prosperidad notable: crecieron el comercio marítimo, la cerámica y la producción de arroz, y allí se imprimieron por primera vez los **clásicos confucianos completos**, en 130 volúmenes.\n\nEl norte, en cambio, perdió las llamadas **Dieciséis Prefecturas** frente a los kitán, incluida la región de la actual Pekín. Esa pérdida condicionaría toda la política de la dinastía siguiente.",
+    "imagenes": [
+      "/images/china/cn2_cn-cinco-dinastias-five-dynasties-ten-kingdoms-923-ce-png-utm-source-_wikimedia.png"
+    ]
+  },
+  {
+    "id": "cn-song",
+    "region": "china",
+    "tipo": "evento",
+    "titulo": "La dinastía Song",
+    "fecha_inicio": 960,
+    "fecha_fin": 1279,
+    "descripcion_corta": "**En 960**, un general fue proclamado emperador por sus propias tropas y fundó la dinastía **Song**. Consciente de cómo había llegado al poder, hizo algo insólito: **retiró a sus generales con pensiones generosas** y puso el ejército bajo control de funcionarios civiles.\n\nEl resultado fue una China militarmente débil y **económicamente deslumbrante**. La población superó los 100 millones, apareció el primer papel moneda del mundo, la producción de hierro igualó a la de toda Europa siete siglos después y ciudades como Kaifeng y Hangzhou pasaron del millón de habitantes con mercados nocturnos, restaurantes y bomberos.\n\nMuchos historiadores hablan de una **revolución industrial que no llegó a serlo**: China tuvo la tecnología, el capital y el mercado, pero no dio el salto.",
+    "imagenes": [
+      "/images/china/cn2_cn-song-panoramio-1-jpg-utm-source-es-wikipedia-org-utm-ca_wikimedia.jpg"
+    ]
+  },
+  {
+    "id": "cn-papel-moneda",
+    "region": "china",
+    "tipo": "evento",
+    "titulo": "El primer papel moneda del mundo",
+    "fecha_inicio": 1024,
+    "fecha_fin": null,
+    "descripcion_corta": "Las monedas de hierro de Sichuan eran tan pesadas que comprar medio kilo de sal exigía cargar un kilo y medio de metal. Los comerciantes empezaron a intercambiar **recibos de depósito** en papel, y **en 1024** el Estado los convirtió en emisión oficial: el **jiaozi**, el primer papel moneda de la historia.\n\nFuncionó durante siglos y financió el comercio Song. También produjo la primera **inflación por exceso de emisión**: cuando la corte imprimió sin respaldo para pagar guerras, el valor se hundió.\n\nMarco Polo lo describió con asombro en el siglo XIII y en Europa nadie le creyó: la idea de que un papel valiera oro parecía magia. Europa no tendría billetes hasta **1661**, en Suecia.",
+    "imagenes": [
+      "/images/china/cn2_cn-papel-moneda-jiao-zi-jpg-utm-source-es-wikipedia-org-utm-campai_wikimedia.jpg"
+    ]
+  },
+  {
+    "id": "cn-brujula",
+    "region": "china",
+    "tipo": "evento",
+    "titulo": "La brújula y la pólvora",
+    "fecha_inicio": 1044,
+    "fecha_fin": null,
+    "descripcion_corta": "El *Wujing Zongyao*, un compendio militar de **1044**, contiene dos primicias mundiales: la descripción de una **aguja magnética** para orientarse y las **primeras fórmulas escritas de pólvora**, con proporciones de salitre, azufre y carbón.\n\nHacia 1119 ya hay constancia de brújulas usadas en la navegación china, y de los arsenales Song salieron lanzas de fuego, bombas de hierro fundido y cohetes: la guerra con pólvora empezó en China dos siglos antes que en Europa.\n\nJunto con el papel y la imprenta, forman las **cuatro grandes invenciones**. Francis Bacon escribió, sin saber de dónde venían, que esos tres inventos —imprenta, pólvora y brújula— habían cambiado la faz del mundo entero.",
+    "imagenes": [
+      "/images/china/cn2_cn-brujula-gunpowder1-png-utm-source-es-wikipedia-org-utm-cam_wikimedia.png"
+    ]
+  },
+  {
+    "id": "cn-wang-anshi",
+    "region": "china",
+    "tipo": "evento",
+    "titulo": "Wang Anshi y las Nuevas Políticas",
+    "fecha_inicio": 1069,
+    "fecha_fin": null,
+    "descripcion_corta": "**En 1069**, el canciller **Wang Anshi** lanzó un programa de reformas que suena sorprendentemente moderno: **créditos públicos a los campesinos** en primavera para librarlos de los usureros, sustitución del trabajo forzado por un impuesto, graneros estatales para estabilizar precios, catastro nuevo y milicias locales.\n\nLa oposición conservadora, encabezada por el historiador Sima Guang, lo combatió sin tregua argumentando que el Estado no debía competir con los comerciantes ni alterar las costumbres.\n\nLas reformas se aplicaron, se derogaron, se volvieron a aplicar y se derogaron otra vez según qué facción mandara. El debate —cuánto Estado y cuánto mercado— dividió a la burocracia Song durante un siglo y sigue citándose hoy en China.",
+    "imagenes": [
+      "/images/china/cn2_cn-wang-anshi-wang-anshi-jpg-utm-source-es-wikipedia-org-utm-cam_wikimedia.jpg"
+    ]
+  },
+  {
+    "id": "cn-su-song",
+    "region": "china",
+    "tipo": "evento",
+    "titulo": "El reloj astronómico de Su Song",
+    "fecha_inicio": 1088,
+    "fecha_fin": null,
+    "descripcion_corta": "**En 1088**, el funcionario e ingeniero **Su Song** terminó en Kaifeng una torre de **diez metros** que contenía un reloj astronómico movido por agua: una esfera armilar que seguía el cielo, un globo celeste giratorio y muñecos que salían a marcar las horas con campanas y tablillas.\n\nSu mecanismo incluía un **escape**, el dispositivo que regula la marcha de un reloj y que Europa no tendría hasta doscientos años después. Su Song dejó además un tratado con planos detallados, por lo que hoy se ha podido reconstruir.\n\nLa torre fue desmontada por los invasores jurchen y nunca volvió a funcionar. Es el mejor ejemplo del enigma de la ciencia china: inventos adelantadísimos que no llegaron a acumularse en una revolución técnica.",
+    "imagenes": [
+      "/images/china/cn2_cn-su-song-jpg-utm-source-es-wikipedia-org-utm-campaign-api-u_wikimedia.jpg"
+    ]
+  },
+  {
+    "id": "cn-song-sur",
+    "region": "china",
+    "tipo": "evento",
+    "titulo": "Los Song del Sur",
+    "fecha_inicio": 1127,
+    "fecha_fin": null,
+    "descripcion_corta": "**En 1127**, los **jurchen** del norte tomaron Kaifeng y se llevaron cautivos al emperador, a su padre y a tres mil miembros de la corte. Es el llamado **incidente de Jingkang**, la mayor humillación de la historia china hasta el siglo XIX.\n\nUn príncipe superviviente reinstaló la dinastía al sur del Yangtsé, con capital en **Hangzhou**. El general **Yue Fei**, que ganaba batallas para recuperar el norte, fue ejecutado por orden de la corte, que prefería pactar; se le venera como héroe nacional desde entonces.\n\nLos Song del Sur, más pequeños, fueron aún más ricos: el comercio marítimo con el sureste asiático, la India y el mundo árabe llenó las aduanas, y la porcelana y la seda salían por Quanzhou hacia todo el océano Índico.",
+    "imagenes": [
+      "/images/china/cn2_cn-song-sur-jpg-utm-source-es-wikipedia-org-utm-campaign-api-u_wikimedia.jpg"
+    ]
+  },
+  {
+    "id": "cn-porcelana",
+    "region": "china",
+    "tipo": "evento",
+    "titulo": "La porcelana",
+    "fecha_inicio": 1150,
+    "fecha_fin": null,
+    "descripcion_corta": "China producía porcelana desde los Tang, pero fue con los Song cuando alcanzó su cumbre: piezas de **celadón** verde jade, blancos Ding, craquelados Ru y Guan tan valorados que hoy se conservan menos de cien ejemplares Ru en el mundo.\n\nLos hornos de **Jingdezhen**, que llegarían a emplear a decenas de miles de personas, se convirtieron en la mayor concentración industrial preindustrial del planeta. Con los Ming llegó el famoso **azul y blanco**, pintado con cobalto importado de Persia.\n\nDurante siglos, Europa no supo fabricarla y la pagaba a precio de oro; en inglés la porcelana se llama simplemente *china*. El secreto no se descifró hasta **1708**, en Meissen.",
+    "imagenes": [
+      "/images/china/cn2_cn-porcelana-changjiang-river-seen-from-zhushan-bridge-jingdezh_wikimedia.jpg"
+    ]
+  },
+  {
+    "id": "cn-mongoles",
+    "region": "china",
+    "tipo": "evento",
+    "titulo": "Los mongoles invaden China",
+    "fecha_inicio": 1211,
+    "fecha_fin": null,
+    "descripcion_corta": "**En 1211**, **Gengis Kan** cruzó la Gran Muralla. La conquista de China le llevó a él y a sus sucesores **setenta años**, la campaña más larga y difícil del imperio mongol: ciudades amuralladas, ríos, arrozales y una población inmensa.\n\nEl coste fue devastador. En el norte de China, los censos pasan de unos 50 millones a menos de 10 en pocas décadas, entre matanzas, hambre y epidemias. Ciudades enteras fueron arrasadas cuando resistían.\n\nLos mongoles aprendieron por el camino: incorporaron ingenieros chinos y persas, adoptaron la artillería de asedio y acabaron gobernando con burócratas chinos. También llevaron la **pólvora** hacia el oeste.",
+    "imagenes": [
+      "/images/china/fix_cn-mongoles-bataille-entre-mongols-chinois-1211-jpeg-utm-sourc_wikimedia.jpg"
+    ]
+  },
+  {
+    "id": "cn-yuan",
+    "region": "china",
+    "tipo": "evento",
+    "titulo": "Kublai Kan y la dinastía Yuan",
+    "fecha_inicio": 1271,
+    "fecha_fin": 1368,
+    "descripcion_corta": "**En 1271**, el nieto de Gengis Kan, **Kublai**, proclamó una dinastía a la china —**Yuan**— con capital en Dadu, la actual **Pekín**. Ocho años después acabó con el último emperador Song y, por primera vez en la historia, **toda China quedó bajo un gobernante extranjero**.\n\nDividió a la población en cuatro castas legales, con los mongoles arriba y los chinos del sur abajo, y sustituyó buena parte de la burocracia por extranjeros de confianza. Reparó el Gran Canal, impuso el papel moneda en todo el imperio y fracasó dos veces al invadir Japón, donde sus flotas fueron destruidas por tifones.\n\nBajo la *Pax Mongolica*, viajar de Europa a China fue seguro por primera y única vez: **Marco Polo** llegó en 1275 y sirvió, según cuenta, diecisiete años a Kublai.",
+    "imagenes": [
+      "/images/china/cn2_cn-yuan-yuanemperoralbumkhubilaiportrait-jpg-utm-source-es_wikimedia.jpg"
+    ]
+  },
+  {
+    "id": "cn-ming",
+    "region": "china",
+    "tipo": "evento",
+    "titulo": "La dinastía Ming",
+    "fecha_inicio": 1368,
+    "fecha_fin": 1644,
+    "descripcion_corta": "**Zhu Yuanzhang**, huérfano, mendigo y monje antes que rebelde, expulsó a los mongoles y fundó **en 1368** la dinastía **Ming**: el único caso de un campesino que llegó a emperador en la historia china.\n\nGobernó con mano durísima —purgas que costaron decenas de miles de vidas—, restauró el confucianismo, repobló las zonas arrasadas y reconstruyó la agricultura. Sus sucesores levantaron la **Ciudad Prohibida**, trasladaron la capital a Pekín en 1421 y rehicieron la **Gran Muralla** tal como se ve hoy: **8 850 kilómetros** de piedra y ladrillo, no las murallas de tierra de Qin.\n\nLa China Ming tenía unos 160 millones de habitantes, la mayor economía del mundo y una cultura del libro, la novela y la porcelana en su mejor momento.",
+    "imagenes": [
+      "/images/china/cn2_cn-ming-ming-dynasty-1415-png-utm-source-es-wikipedia-org-_wikimedia.png"
+    ]
+  },
+  {
+    "id": "cn-zheng-he",
+    "region": "china",
+    "tipo": "evento",
+    "titulo": "Zheng He y los viajes del tesoro",
+    "fecha_inicio": 1405,
+    "fecha_fin": 1433,
+    "descripcion_corta": "**Entre 1405 y 1433**, el almirante **Zheng He** —eunuco, musulmán y de origen mongol— mandó siete expediciones con hasta **300 barcos y 28 000 hombres**. Sus naves mayores, los *barcos del tesoro*, medían quizá 120 metros: **cuatro veces la carabela de Colón**, y ochenta años antes.\n\nLlegaron a Vietnam, Java, Ceilán, la India, Ormuz, Adén y la costa de África oriental, de donde trajeron una jirafa que la corte tomó por el mítico *qilin*. No iban a conquistar, sino a mostrar poder y cobrar tributo.\n\nY entonces China se detuvo: la facción confuciana de la corte consideró los viajes un derroche, se quemaron los registros y se prohibió construir barcos de alta mar. Medio siglo después, los portugueses doblaban el cabo de Buena Esperanza.",
+    "imagenes": [
+      "/images/china/cn2_cn-zheng-he-zheng-he-malacca-3-jpg-utm-source-es-wikipedia-org_wikimedia.jpg"
+    ]
+  },
+  {
+    "id": "cn-gran-muralla-ming",
+    "region": "china",
+    "tipo": "evento",
+    "titulo": "La Gran Muralla de los Ming",
+    "fecha_inicio": 1500,
+    "fecha_fin": null,
+    "descripcion_corta": "La muralla que hoy visitan millones de turistas no es la de Qin: es obra de los **Ming**, levantada sobre todo en los siglos XV y XVI para frenar a los mongoles tras el desastre de **Tumu (1449)**, cuando el propio emperador fue capturado en campaña.\n\nSon **8 850 kilómetros** de muros de piedra y ladrillo, con torres de vigía cada pocos cientos de metros, señales de humo, guarniciones y almacenes. Costó una fortuna y funcionó a medias: servía para controlar el comercio y frenar razias, no ejércitos decididos.\n\nEn 1644, de hecho, los manchúes entraron por la puerta de Shanhaiguan porque **un general chino se la abrió**. La leyenda de que se ve desde la Luna es falsa, pero es la mayor obra de construcción de la historia humana.",
+    "imagenes": [
+      "/images/china/cn2_cn-gran-muralla-ming-mutianyu-from-watchtower-20-20190915140308-jpg-utm_wikimedia.jpg"
+    ]
+  },
+  {
+    "id": "cn-ricci",
+    "region": "china",
+    "tipo": "evento",
+    "titulo": "Matteo Ricci y los jesuitas",
+    "fecha_inicio": 1582,
+    "fecha_fin": null,
+    "descripcion_corta": "**En 1582** llegó a Macao el jesuita italiano **Matteo Ricci**. Su estrategia fue distinta a la de otros misioneros: aprendió chino, se vistió como un letrado confuciano, memorizó los clásicos y entró en la corte no como predicador sino como **sabio y matemático**.\n\nTradujo a Euclides al chino, dibujó el primer mapamundi en chino —con China en el centro, para no ofender— y regaló relojes mecánicos al emperador. A cambio, envió a Europa la primera información seria sobre China: su historia, su lengua y su filosofía.\n\nEl intercambio duró siglo y medio, hasta que Roma prohibió a los conversos honrar a sus antepasados y el emperador expulsó a los misioneros. Se cerró la puerta que Ricci había abierto con tanta paciencia.",
+    "imagenes": [
+      "/images/china/cn2_cn-ricci-ricciportrait-jpg-utm-source-es-wikipedia-org-utm-_wikimedia.jpg"
+    ]
+  },
+  {
+    "id": "cn-qing",
+    "region": "china",
+    "tipo": "evento",
+    "titulo": "Los manchúes y la dinastía Qing",
+    "fecha_inicio": 1644,
+    "fecha_fin": 1912,
+    "descripcion_corta": "**En 1644**, con el país arruinado por hambrunas, epidemias y una rebelión campesina que tomó Pekín —el último emperador Ming se ahorcó en una colina del palacio—, un general chino abrió la Gran Muralla a los **manchúes** para que le ayudaran a recuperar la capital. Se quedaron **268 años**.\n\nLa dinastía **Qing** conquistó el país en cuatro décadas de guerra e impuso a los hombres chinos la **coleta manchú** bajo pena de muerte: «conserva el pelo y pierde la cabeza».\n\nAdoptaron la burocracia, la lengua y los rituales chinos, pero reservaron los mandos militares a los suyos. Bajo Kangxi, Yongzheng y Qianlong, China alcanzó **su máxima extensión histórica** —Tíbet, Xinjiang, Mongolia, Taiwán— y **más de 300 millones de habitantes**.",
+    "imagenes": [
+      "/images/china/cn3_cn-qing-jpg-utm-source-en-wikipedia-org-utm-campaign-api-u_wikimedia.jpg"
+    ]
+  },
+  {
+    "id": "cn-kangxi",
+    "region": "china",
+    "tipo": "evento",
+    "titulo": "Kangxi, sesenta y un años de reinado",
+    "fecha_inicio": 1661,
+    "fecha_fin": null,
+    "descripcion_corta": "**Kangxi** subió al trono con siete años y gobernó **sesenta y uno**, el reinado más largo de la historia china. Aplastó la rebelión de los Tres Feudatarios, incorporó **Taiwán en 1683**, frenó a Rusia en el Amur con el primer tratado que China firmó de igual a igual con una potencia europea, y sometió a los mongoles occidentales.\n\nEstudió matemáticas y astronomía con los jesuitas, encargó el **diccionario Kangxi** con 47 000 caracteres —referencia durante siglos— y una enciclopedia de 800 000 páginas.\n\nRedujo impuestos, hizo censar la tierra y dejó las arcas llenas. Con su nieto **Qianlong**, la China del siglo XVIII era el país más poblado y probablemente el más rico del mundo.",
+    "imagenes": [
+      "/images/china/cn2_cn-kangxi-portrait-of-the-kangxi-emperor-in-court-dress-jpg-_wikimedia.jpg"
+    ]
+  },
+  {
+    "id": "cn-canton",
+    "region": "china",
+    "tipo": "evento",
+    "titulo": "El sistema de Cantón",
+    "fecha_inicio": 1757,
+    "fecha_fin": null,
+    "descripcion_corta": "**En 1757**, el emperador Qianlong restringió todo el comercio exterior europeo a un solo puerto, **Cantón**, y a un gremio de trece firmas autorizadas, el *cohong*. Los extranjeros solo podían residir unos meses al año en un recinto ribereño, sin sus familias, sin salir a la ciudad y sin tratar directamente con las autoridades.\n\nDesde China la lógica era clara: se vendía té, seda y porcelana a cambio de **plata**, y no se necesitaba nada de Europa. La balanza fue favorable a China durante más de un siglo.\n\n**En 1793**, la embajada británica de **lord Macartney** pidió abrir más puertos y fue despachada con una carta cortés a Jorge III: el Celeste Imperio, decía, lo tiene todo y no necesita las manufacturas de los bárbaros.",
+    "imagenes": [
+      "/images/china/cn2_cn-canton-canton-c1850-jpg-utm-source-es-wikipedia-org-utm-c_wikimedia.jpg"
+    ]
+  },
+  {
+    "id": "cn-opio-china",
+    "region": "china",
+    "tipo": "evento",
+    "titulo": "Las Guerras del Opio",
+    "fecha_inicio": 1839,
+    "fecha_fin": 1860,
+    "descripcion_corta": "Para equilibrar la balanza del té, Gran Bretaña inundó China de **opio** cultivado en la India. Cuando el comisario **Lin Zexu** destruyó en Cantón 1 200 toneladas y escribió a la reina Victoria preguntándole cómo permitía ese comercio, Londres respondió con la guerra.\n\nLos cañoneros de vapor arrasaron a la flota china. El **Tratado de Nankín (1842)** —el primero de los llamados **tratados desiguales**— abrió cinco puertos, fijó indemnizaciones enormes, cedió **Hong Kong** y concedió a los extranjeros inmunidad ante la justicia china.\n\nUna segunda guerra terminó **en 1860** con el saqueo y la quema del **Palacio de Verano** por tropas británicas y francesas. Para China empezaba el **«siglo de la humillación»**, que sigue presente en su relato nacional.",
+    "imagenes": [
+      "/images/china/fix_cn-opio-china-portrait-of-lin-zexu-jpeg-utm-source-es-wikipedia-_wikimedia.jpg"
+    ]
+  },
+  {
+    "id": "cn-taiping",
+    "region": "china",
+    "tipo": "evento",
+    "titulo": "La rebelión Taiping",
+    "fecha_inicio": 1850,
+    "fecha_fin": 1864,
+    "descripcion_corta": "**Hong Xiuquan**, un maestro rural que suspendió cuatro veces los exámenes imperiales, tuvo visiones tras leer folletos misioneros y se proclamó **hermano menor de Jesucristo**. En 1851 fundó el «Reino Celestial de la Gran Paz» y en 1853 tomó Nankín.\n\nSu programa era revolucionario: reparto de la tierra, prohibición del opio y de los pies vendados, igualdad entre hombres y mujeres —tuvo ejércitos femeninos— y abolición de la propiedad privada.\n\nLa guerra duró **catorce años** y dejó entre **20 y 30 millones de muertos**: la guerra civil más mortífera de la historia de la humanidad, contemporánea de la de Secesión estadounidense, que causó unos 750 000. La dinastía sobrevivió apoyándose en ejércitos regionales que nunca volvió a controlar del todo.",
+    "imagenes": [
+      "/images/china/cn2_cn-taiping-qing-ambush-taiping-army-at-wangjiakou-1854-jpg-ut_wikimedia.jpg"
+    ]
+  },
+  {
+    "id": "cn-cixi",
+    "region": "china",
+    "tipo": "evento",
+    "titulo": "La emperatriz viuda Cixí",
+    "fecha_inicio": 1861,
+    "fecha_fin": null,
+    "descripcion_corta": "Concubina de rango menor que dio al emperador su único hijo varón, **Cixí** tomó el poder **en 1861** mediante un golpe palaciego y lo mantuvo, tras dos cortinas y sucesivos emperadores niños, durante **cuarenta y siete años**.\n\nPatrocinó el **Movimiento de Autofortalecimiento**: arsenales, astilleros, telégrafos, minas y estudiantes enviados al extranjero, con el lema de usar la técnica occidental conservando los valores chinos. Fue una modernización a medias, saboteada por la corte y por ella misma —es célebre que desvió fondos de la marina para reconstruir su palacio de verano.\n\nAplastó **en 1898** los Cien Días de Reforma de su sobrino, encerrándolo, y apoyó después a los bóxers. Murió en 1908; la dinastía cayó tres años después.",
+    "imagenes": [
+      "/images/china/cn2_cn-cixi-the-ci-xi-imperial-dowager-empress-9-2-png-utm-sou_wikimedia.png"
+    ]
+  },
+  {
+    "id": "cn-guerra-japon",
+    "region": "china",
+    "tipo": "evento",
+    "titulo": "La guerra con Japón",
+    "fecha_inicio": 1894,
+    "fecha_fin": 1895,
+    "descripcion_corta": "**En 1894**, China y Japón chocaron por el control de Corea. El resultado fue un shock para toda Asia: la flota china, comprada a Alemania y aparentemente más poderosa, fue destruida en meses por una marina japonesa mejor entrenada y con mejores municiones.\n\nPor el **Tratado de Shimonoseki (1895)**, China reconoció la independencia de Corea, cedió **Taiwán** y pagó una indemnización equivalente a varios años de sus ingresos.\n\nDurante dos mil años, Japón había sido el discípulo cultural de China; en treinta años de reformas Meiji se había convertido en su vencedor. La derrota desató la carrera de las potencias por repartirse concesiones en la costa china y radicalizó a toda una generación de reformistas.",
+    "imagenes": [
+      "/images/china/cn2_cn-guerra-japon-battle-of-phungdo-jpg-utm-source-es-wikipedia-org-_wikimedia.jpg"
+    ]
+  },
+  {
+    "id": "cn-boxers",
+    "region": "china",
+    "tipo": "evento",
+    "titulo": "El Levantamiento de los Bóxers",
+    "fecha_inicio": 1900,
+    "fecha_fin": null,
+    "descripcion_corta": "**En 1900**, una sociedad secreta campesina —los «Puños de la Justicia y la Concordia», que los occidentales llamaron **bóxers** por sus artes marciales— se lanzó contra misioneros, cristianos chinos y extranjeros, convencida de que sus rituales los hacían invulnerables a las balas.\n\nCixí apoyó la revuelta y declaró la guerra a las potencias. Los bóxers sitiaron durante **55 días** el barrio de las legaciones en Pekín, hasta que una fuerza internacional de ocho países lo liberó, saqueó la capital e impuso una indemnización aplastante.\n\nFue el último intento de expulsar a los extranjeros por la fuerza de la tradición. Once años después, la revolución de 1911 acabó con **2 132 años de imperio** y proclamó la república.",
+    "imagenes": [
+      "/images/china/cn2_cn-boxers-execution-of-boxer-leaders-at-hsi-kou-1900-1901-jp_wikimedia.jpg"
+    ]
+  },
+  {
+    "id": "cn-ctx-vida-imperial",
+    "region": "china",
+    "tipo": "evento",
+    "titulo": "Cómo vivía la gente en la China imperial",
+    "fecha_inicio": 1140,
+    "fecha_fin": null,
+    "descripcion_corta": "**El campo**\n\nNueve de cada diez personas eran campesinas. En el norte, mijo y trigo; en el sur, **arroz** en terrazas inundadas que exigían coordinar el agua entre aldeas. La introducción del arroz temprano de Champa, en el siglo XI, permitió **dos cosechas al año** y disparó la población por encima de los 100 millones.\n\n**La ciudad**\n\nKaifeng y Hangzhou superaron el millón de habitantes cuando París tenía 100 000. Tenían mercados nocturnos, restaurantes con carta, teatros, cuerpos de bomberos, hospitales públicos y hasta servicios de reparto de comida a domicilio.\n\n**La casa**\n\nPatio central, *kang* —una cama de ladrillo calentada por debajo— en el norte, y tejados curvos. Se comía con palillos, sentados a mesa alta desde los Song, algo entonces único en Asia.\n\n**El ascenso**\n\nEl **examen imperial** era la única escalera social. Una aldea entera podía pagar los estudios de un chico prometedor, y aprobar cambiaba el destino de toda la familia.",
+    "imagenes": [
+      "/images/china/cn2_cn-ctx-vida-imperial-1920px-along-the-river-during-the-qingming-festiva_wikimedia.jpg"
+    ],
+    "contextual": true
+  },
+  {
+    "id": "cn-ctx-economia-imperial",
+    "region": "china",
+    "tipo": "evento",
+    "titulo": "Modelo económico de la China imperial",
+    "fecha_inicio": 1450,
+    "fecha_fin": null,
+    "descripcion_corta": "**El Estado como gran empresario**\n\nLa sal, el hierro, el té y el alcohol fueron monopolios estatales durante siglos: de ahí salía buena parte de los ingresos, junto al impuesto sobre la tierra y el trabajo obligatorio.\n\n**El eje norte-sur**\n\nEl **Gran Canal** llevaba cada año millones de sacos de grano del sur productivo a la capital del norte. Quien controlaba el canal controlaba China.\n\n**La plata del mundo**\n\nDesde el siglo XVI, China exigió cobrar los impuestos en plata, y como apenas la producía, la importó: se calcula que **entre un tercio y la mitad de toda la plata americana** acabó en China, pagando seda, té y porcelana que Europa no sabía fabricar.\n\n**La paradoja**\n\nChina tenía mercados enormes, crédito, papel moneda y tecnología puntera, pero el Estado desconfiaba del comerciante y prefería la estabilidad agraria. Cuando llegó el vapor europeo, la ventaja de mil años se había evaporado.",
+    "imagenes": [
+      "/images/china/cn2_cn-ctx-economia-imperial-1920px-yuan-dynasty-banknote-with-its-printing-pla_wikimedia.jpg"
+    ],
+    "contextual": true
+  },
+  {
+    "id": "cn-ctx-mujer",
+    "region": "china",
+    "tipo": "evento",
+    "titulo": "La familia y las mujeres",
+    "fecha_inicio": 1300,
+    "fecha_fin": null,
+    "descripcion_corta": "**La familia**\n\nVarias generaciones bajo un mismo techo y bajo la autoridad del varón de más edad. El culto a los antepasados hacía imprescindible tener un hijo varón, y la **piedad filial** organizaba todos los deberes.\n\n**Los pies vendados**\n\nLa costumbre empezó en la corte del siglo X y se generalizó con los Song y los Ming: a las niñas de cinco o seis años se les rompían y vendaban los pies hasta dejarlos de unos diez centímetros. Era señal de estatus y condición para casarse bien, y afectó a **cientos de millones de mujeres** hasta que se prohibió en 1912.\n\n**Lo que sí podían**\n\nAdministrar la casa y sus finanzas, heredar como viudas, dirigir negocios de seda y, en algunos periodos, escribir y publicar. Hubo poetas célebres como **Li Qingzhao** y una emperatriz, Wu Zetian.\n\n**El neoconfucianismo**\n\nDesde el siglo XII endureció las normas: se desalentó que las viudas volvieran a casarse y se estrechó el espacio público femenino.",
+    "imagenes": [
+      "/images/china/cn2_cn-ctx-mujer-chinese-ladies-footbinding-shoes-qm-r-jpg-utm-sour_wikimedia.jpg"
+    ],
+    "contextual": true
+  },
+  {
+    "id": "cn-wei-norte",
+    "region": "china",
+    "tipo": "evento",
+    "titulo": "Wei del Norte y el sistema de campos iguales",
+    "fecha_inicio": 439,
+    "fecha_fin": null,
+    "descripcion_corta": "**En 439**, los **xianbei** de Wei del Norte unificaron toda la China septentrional tras siglo y medio de reinos efímeros. Eran un pueblo de la estepa, y su emperador Xiaowen tomó una decisión insólita: **sinizar a su propia élite**. Prohibió la ropa, la lengua y los apellidos xianbei en la corte y trasladó la capital a Luoyang.\n\n**En 485** implantó el **sistema de campos iguales**: el Estado repartía tierra a cada campesino adulto, que la devolvía al morir, a cambio de grano, tela y trabajo. Acabó con los grandes latifundios, multiplicó los ingresos fiscales y fue copiado por Sui, Tang, Japón y Corea.\n\nEs uno de los grandes ejemplos de la historia china: los conquistadores acabaron absorbidos por lo que conquistaron.",
+    "imagenes": [
+      "/images/china/cn3_cn-wei-norte-northern-wei-map-jpg-utm-source-es-wikipedia-org-u_wikimedia.jpg"
+    ]
+  },
+  {
+    "id": "cn-kaiyuan",
+    "region": "china",
+    "tipo": "evento",
+    "titulo": "La era Kaiyuan",
+    "fecha_inicio": 713,
+    "fecha_fin": null,
+    "descripcion_corta": "**Entre 713 y 741**, bajo el emperador **Xuanzong**, la dinastía Tang alcanzó su apogeo. El censo registró **unos 50 millones de personas**, los graneros estaban llenos, los precios eran bajos y la seguridad en los caminos permitía —según los cronistas, seguramente exagerando— viajar mil kilómetros sin llevar armas.\n\nFue el momento de mayor esplendor cultural: la Academia Hanlin reunía a los mejores letrados, la corte acogía música de Asia central, danza persa y polo a caballo, y la poesía vivía su edad de oro.\n\nEl mismo emperador que construyó ese esplendor se desentendió del gobierno en sus últimos años, se enamoró de **Yang Guifei** y dejó el poder en manos de cortesanos: de ahí saldría la catástrofe de An Lushan.",
+    "imagenes": [
+      "/images/china/cn3_cn-kaiyuan-jpg-utm-source-en-wikipedia-org-utm-campaign-api-u_wikimedia.jpg"
+    ]
+  },
+  {
+    "id": "cn-te",
+    "region": "china",
+    "tipo": "evento",
+    "titulo": "El té",
+    "fecha_inicio": 760,
+    "fecha_fin": null,
+    "descripcion_corta": "El té se bebía en China desde hacía siglos, pero fue **hacia 760** cuando **Lu Yu** escribió el *Clásico del té*, el primer tratado del mundo sobre su cultivo, elaboración y preparación, y lo convirtió en un arte con reglas.\n\nCon los Tang pasó de medicina a bebida cotidiana de todas las clases, y el Estado le puso impuesto en 780: llegó a ser una de las mayores fuentes de ingresos del imperio. Se comerciaba en ladrillos prensados que servían **incluso como moneda** en las rutas del Tíbet, cambiados por caballos.\n\nDe China pasó a Japón con los monjes zen, y en el siglo XVII a Europa, donde acabaría provocando el motín de Boston y las Guerras del Opio. Pocas plantas han movido tanta historia.",
+    "imagenes": [
+      "/images/china/cn3_cn-te-tea-remix-png-utm-source-es-wikipedia-org-utm-camp_wikimedia.png"
+    ]
+  },
+  {
+    "id": "cn-persecucion-budismo",
+    "region": "china",
+    "tipo": "evento",
+    "titulo": "La gran persecución del budismo",
+    "fecha_inicio": 845,
+    "fecha_fin": null,
+    "descripcion_corta": "**En 845**, el emperador Wuzong, taoísta convencido y con las arcas vacías, ordenó cerrar **4 600 monasterios** y 40 000 ermitas, secularizar a **260 000 monjes y monjas** y fundir las campanas y estatuas de bronce para acuñar moneda.\n\nEl motivo era tanto religioso como fiscal: los monasterios estaban exentos de impuestos, poseían enormes extensiones de tierra y sus habitantes no pagaban ni servían en el ejército.\n\nEl budismo chino nunca recuperó el poder institucional que tenía, aunque sobrevivió en la práctica popular y en la escuela **chan** —el zen japonés—, que no dependía de grandes templos ni bibliotecas, sino de la meditación y del maestro.",
+    "imagenes": [
+      "/images/china/cn3_cn-persecucion-budismo-bodhidharmayoshitoshi1887-jpg-utm-source-es-wikipe_wikimedia.jpg"
+    ]
+  },
+  {
+    "id": "cn-huang-chao",
+    "region": "china",
+    "tipo": "evento",
+    "titulo": "La rebelión de Huang Chao",
+    "fecha_inicio": 875,
+    "fecha_fin": null,
+    "descripcion_corta": "**Huang Chao**, comerciante de sal que había suspendido varias veces los exámenes imperiales, encabezó **desde 875** una rebelión que recorrió China de punta a punta durante diez años y llegó a tomar Chang'an.\n\nEn **Cantón**, entonces el gran puerto internacional, sus tropas masacraron a la colonia extranjera: fuentes árabes hablan de decenas de miles de comerciantes musulmanes, judíos, persas y cristianos muertos. El comercio marítimo con el mundo islámico tardó generaciones en recuperarse.\n\nLa rebelión aniquiló a la vieja aristocracia Tang y dejó el poder real en manos de los gobernadores militares. La dinastía se arrastró treinta años más como una ficción.",
+    "imagenes": [
+      "/images/china/cn3_cn-huang-chao-huang-chao-jpg-utm-source-es-wikipedia-org-utm-cam_wikimedia.jpg"
+    ]
+  },
+  {
+    "id": "cn-caida-jin",
+    "region": "china",
+    "tipo": "evento",
+    "titulo": "La caída de los Jin y el fin del norte",
+    "fecha_inicio": 1234,
+    "fecha_fin": null,
+    "descripcion_corta": "Los **jurchen**, que habían arrebatado el norte a los Song en 1127, fueron a su vez destruidos por los mongoles **en 1234**, tras veintitrés años de guerra. En el sitio de Kaifeng se usaron **bombas de hierro fundido y lanzas de fuego**, la primera artillería de pólvora documentada de la historia.\n\nEl norte quedó despoblado: los censos mongoles registran apenas una fracción de la población anterior. Campos abandonados, ciudades arrasadas y sistemas de riego destruidos tardaron un siglo en recuperarse.\n\nCon los Jin desaparecidos, el único obstáculo que quedaba entre los mongoles y el dominio de toda China eran los Song del Sur, que resistirían **cuarenta y cinco años más**.",
+    "imagenes": [
+      "/images/china/cn3_cn-caida-jin-jin-dynasty-1141-no-borders-png-utm-source-en-wiki_wikimedia.png"
+    ]
+  },
+  {
+    "id": "cn-yamen",
+    "region": "china",
+    "tipo": "evento",
+    "titulo": "Yamen: el fin de los Song",
+    "fecha_inicio": 1279,
+    "fecha_fin": null,
+    "descripcion_corta": "**El 19 de marzo de 1279**, en la bahía de **Yamen**, cerca de la actual Macao, la flota Song fue destruida por la mongola. El primer ministro Lu Xiufu, viendo la batalla perdida, se echó al mar cargando a la espalda al **emperador niño de ocho años**.\n\nSegún las crónicas, más de cien mil personas —cortesanos, funcionarios y soldados— se suicidaron arrojándose al agua en los días siguientes antes que rendirse.\n\nAsí terminó la dinastía Song, la más rica y refinada de la historia china, y con ella la resistencia. Por primera vez, **toda China quedaba bajo un poder extranjero**. La escena de Yamen quedó como el símbolo de la lealtad hasta el final.",
+    "imagenes": [
+      "/images/china/cn3_cn-yamen-jingmen002-jpg-utm-source-es-wikipedia-org-utm-cam_wikimedia.jpg"
+    ]
+  },
+  {
+    "id": "cn-yuan-examenes",
+    "region": "china",
+    "tipo": "evento",
+    "titulo": "Los mongoles y los letrados",
+    "fecha_inicio": 1313,
+    "fecha_fin": null,
+    "descripcion_corta": "Los Yuan suspendieron durante décadas el **examen imperial**, la única puerta de entrada de los letrados chinos al poder. Sin esa carrera, miles de hombres cultos se dedicaron a otra cosa: escribir para el teatro.\n\nDe ahí salió la **ópera Yuan**, el *zaju*, con obras que todavía se representan, y la novela en lengua vulgar. La cultura popular china le debe su forma a un accidente político.\n\nLos exámenes se restablecieron **en 1313**, pero con cuotas por casta que reservaban la mitad de las plazas a mongoles y extranjeros pese a ser una minoría diminuta. El agravio de los letrados del sur, los peor tratados, alimentó el rechazo que acabaría derribando la dinastía.",
+    "imagenes": [
+      "/images/china/cn3_cn-yuan-examenes-theatre-school-s-model-student-jpg-utm-source-es-w_wikimedia.jpg"
+    ]
+  },
+  {
+    "id": "cn-turbantes-rojos",
+    "region": "china",
+    "tipo": "evento",
+    "titulo": "Las inundaciones y los Turbantes Rojos",
+    "fecha_inicio": 1344,
+    "fecha_fin": null,
+    "descripcion_corta": "**En 1344**, el río Amarillo cambió de curso e inundó una región enorme. La corte Yuan movilizó a **150 000 campesinos** para reconducirlo y pagó la obra emitiendo papel moneda sin respaldo: la inflación se desbocó.\n\nHambre, epidemias —la peste que después llegaría a Europa circulaba ya por Asia— e impuestos imposibles desataron la rebelión de los **Turbantes Rojos**, una revuelta con tintes mesiánicos budistas.\n\nDe ella salió un monje mendigo llamado **Zhu Yuanzhang**, que en veinte años pasó de líder de una banda a emperador fundador de los Ming. Es el ejemplo perfecto del ciclo dinástico chino: desastre natural, mala gestión, rebelión y **pérdida del Mandato del Cielo**.",
+    "imagenes": [
+      "/images/china/cn3_cn-turbantes-rojos-yuan-dynasty-revised-png-utm-source-es-wikipedia-o_wikimedia.png"
+    ]
+  },
+  {
+    "id": "cn-yongle",
+    "region": "china",
+    "tipo": "evento",
+    "titulo": "Yongle, el emperador usurpador",
+    "fecha_inicio": 1402,
+    "fecha_fin": null,
+    "descripcion_corta": "**En 1402**, el príncipe de Yan tomó Nankín tras tres años de guerra civil contra su propio sobrino, el emperador legítimo, que desapareció en el incendio del palacio. Se proclamó emperador **Yongle** y mandó ejecutar a familias enteras de funcionarios que se negaron a redactar su proclamación.\n\nFue, sin embargo, uno de los gobernantes más activos de la historia china: trasladó la capital a **Pekín**, construyó la **Ciudad Forbidden**, reparó el Gran Canal, envió las flotas de Zheng He y encargó la mayor enciclopedia jamás compilada.\n\nLa **Enciclopedia Yongle**, terminada en 1408, tenía **11 095 volúmenes** escritos a mano por 2 000 letrados. Era demasiado cara para imprimirla; hoy se conservan menos de 400 volúmenes.",
+    "imagenes": [
+      "/images/china/cn3_cn-yongle-portrait-assis-de-l-empereur-ming-chengzu-jpg-utm-_wikimedia.jpg"
+    ]
+  },
+  {
+    "id": "cn-pekin-capital",
+    "region": "china",
+    "tipo": "evento",
+    "titulo": "Pekín y la Ciudad Prohibida",
+    "fecha_inicio": 1421,
+    "fecha_fin": null,
+    "descripcion_corta": "**En 1421**, Yongle trasladó oficialmente la capital de Nankín a **Pekín**, más cerca de la frontera mongola que había que vigilar. Un millón de trabajadores levantaron en catorce años la **Ciudad Prohibida**: **980 edificios**, casi 9 000 estancias y 72 hectáreas rodeadas de muralla y foso.\n\nTodo está pensado como una máquina simbólica: el eje norte-sur, los colores, los números impares, los tejados amarillos reservados al emperador. Nadie sin autorización podía entrar, de ahí el nombre.\n\nAlrededor se organizó Pekín con el Templo del Cielo, donde el emperador oficiaba el rito del solsticio como **Hijo del Cielo**. Fue sede del poder chino durante casi 500 años, con 24 emperadores Ming y Qing.",
+    "imagenes": [
+      "/images/china/cn3_cn-pekin-capital-temple-of-heaven-courtyard-jpg-utm-source-es-wikip_wikimedia.jpg"
+    ]
+  },
+  {
+    "id": "cn-tumu",
+    "region": "china",
+    "tipo": "evento",
+    "titulo": "La crisis de Tumu",
+    "fecha_inicio": 1449,
+    "fecha_fin": null,
+    "descripcion_corta": "**En 1449**, el joven emperador Zhengtong salió de campaña contra los mongoles oirates animado por un eunuco favorito, con un ejército improvisado de medio millón de hombres. En **Tumu**, sin agua y mal desplegado, fue aniquilado y **el propio emperador fue capturado**.\n\nPekín se salvó porque el ministro Yu Qian se negó a pagar rescate, entronizó al hermano del cautivo y organizó la defensa de la capital. Los mongoles acabaron devolviendo al emperador porque ya no valía nada.\n\nEl desastre cambió la política Ming: se abandonó toda campaña ofensiva al norte y se apostó por la defensa fija, es decir, por reconstruir en piedra la **Gran Muralla**. También consolidó el poder de los eunucos de palacio, que sería un problema hasta el final de la dinastía.",
+    "imagenes": [
+      "/images/china/cn3_cn-tumu-tumu-crisis-jpg-utm-source-es-wikipedia-org-utm-ca_wikimedia.jpg"
+    ]
+  },
+  {
+    "id": "cn-portugueses",
+    "region": "china",
+    "tipo": "evento",
+    "titulo": "Los portugueses llegan a Cantón",
+    "fecha_inicio": 1517,
+    "fecha_fin": null,
+    "descripcion_corta": "**En 1517**, una flota portuguesa fondeó en Cantón y disparó salvas de saludo, algo que las autoridades chinas tomaron por una agresión. La primera embajada acabó en la cárcel y sus miembros ejecutados.\n\nFueron los primeros europeos en llegar a China por mar desde Marco Polo, y el choque cultural fue completo: para Lisboa, un imperio riquísimo que había que abrir al comercio; para Pekín, unos bárbaros ruidosos del confín del mundo.\n\nTras décadas de comercio semiclandestino y de colaborar contra los piratas, los portugueses obtuvieron **en 1557** un asentamiento permanente en **Macao** a cambio de un alquiler anual. Fue la primera colonia europea en China y siguió siendo portuguesa hasta **1999**.",
+    "imagenes": [
+      "/images/china/cn3_cn-portugueses-macau-montage-png-utm-source-es-wikipedia-org-utm-_wikimedia.png"
+    ]
+  },
+  {
+    "id": "cn-wokou",
+    "region": "china",
+    "tipo": "evento",
+    "titulo": "Los wokou y la prohibición marítima",
+    "fecha_inicio": 1550,
+    "fecha_fin": null,
+    "descripcion_corta": "Los Ming habían prohibido el comercio marítimo privado —el *haijin*— para controlar la costa. El resultado fue el contrario del buscado: el comercio se volvió contrabando armado, y **hacia 1550** las costas de Zhejiang y Fujian sufrían las incursiones de los **wokou**, «piratas enanos», en su mayoría **chinos** pese al nombre, con japoneses y portugueses entre ellos.\n\nLlegaron a saquear ciudades enteras y a poner en jaque a las guarniciones imperiales durante veinte años, hasta que el general Qi Jiguang los derrotó con un ejército entrenado a fondo.\n\n**En 1567**, la corte levantó por fin la prohibición. El comercio legal se disparó y con él entró en China un torrente de **plata española y japonesa** que reorganizó toda su economía.",
+    "imagenes": [
+      "/images/china/cn3_cn-wokou-wokou-jpg-utm-source-es-wikipedia-org-utm-campaign_wikimedia.jpg"
+    ]
+  },
+  {
+    "id": "cn-plata",
+    "region": "china",
+    "tipo": "evento",
+    "titulo": "La plata y el látigo único",
+    "fecha_inicio": 1573,
+    "fecha_fin": null,
+    "descripcion_corta": "Con la apertura de 1567 y el galeón de Manila, la **plata americana** empezó a llegar a China en cantidades enormes: se calcula que entre un tercio y la mitad de toda la extraída en América acabó allí, pagando seda y porcelana.\n\nEl canciller **Zhang Juzheng** aprovechó para reformar la hacienda **desde 1573** con el «**látigo único**»: unificó decenas de impuestos y prestaciones personales en un solo pago **en plata**. Simplificó la recaudación, llenó las arcas y monetizó el campo.\n\nTambién ató la economía china al flujo de metal de fuera. Cuando la plata de América y Japón escaseó, en las décadas de 1630 y 1640, el sistema fiscal Ming se hundió justo cuando más falta hacía.",
+    "imagenes": [
+      "/images/china/cn3_cn-plata-zhang-juzheng-jpg-utm-source-es-wikipedia-org-utm-_wikimedia.jpg"
+    ]
+  },
+  {
+    "id": "cn-imjin",
+    "region": "china",
+    "tipo": "evento",
+    "titulo": "La guerra de Corea contra Hideyoshi",
+    "fecha_inicio": 1592,
+    "fecha_fin": 1598,
+    "descripcion_corta": "**En 1592**, **Toyotomi Hideyoshi**, que acababa de unificar Japón, invadió Corea con **160 000 hombres** como primer paso para conquistar China. Los Ming enviaron ejércitos en auxilio de su Estado vasallo.\n\nFue la mayor guerra del mundo en aquel siglo. En tierra se emplearon arcabuces japoneses y artillería china; en el mar, el almirante coreano **Yi Sun-sin** destrozó las flotas de invasión con sus barcos tortuga acorazados.\n\nSeis años de guerra dejaron Corea devastada, a Japón sin nada y a los Ming con la hacienda exhausta y las tropas del norte desgastadas, justo cuando en Manchuria empezaba a crecer un jefe llamado **Nurhaci**. Se ha dicho que los Ming ganaron la guerra y perdieron la dinastía.",
+    "imagenes": [
+      "/images/china/cn3_cn-imjin-siege-of-busanjin-1592-jpg-utm-source-es-wikipedia_wikimedia.jpg"
+    ]
+  },
+  {
+    "id": "cn-bencao",
+    "region": "china",
+    "tipo": "evento",
+    "titulo": "El Bencao Gangmu y la ciencia Ming",
+    "fecha_inicio": 1596,
+    "fecha_fin": null,
+    "descripcion_corta": "**En 1596** se publicó el ***Bencao Gangmu*** de **Li Shizhen**, veintisiete años de trabajo recorriendo montañas y hablando con campesinos, cazadores y boticarios: **1 892 sustancias medicinales**, más de 11 000 recetas y 1 100 ilustraciones, con las supersticiones de tratados anteriores desmontadas una a una.\n\nSigue siendo la obra de referencia de la farmacopea china y Darwin lo citó como fuente de historia natural.\n\nLa misma generación produjo el *Tiangong Kaiwu* de Song Yingxing (1637), una enciclopedia ilustrada de tecnología —siderurgia, papel, seda, sal, cerámica— y la síntesis agrícola de Xu Guangqi, que trabajó con Matteo Ricci. Fue el último gran momento de la ciencia china antes del estancamiento.",
+    "imagenes": [
+      "/images/china/cn3_cn-bencao-li-shizhen-portrait-jpg-utm-source-es-wikipedia-or_wikimedia.jpg"
+    ]
+  },
+  {
+    "id": "cn-cultivos-americanos",
+    "region": "china",
+    "tipo": "evento",
+    "titulo": "Los cultivos americanos",
+    "fecha_inicio": 1610,
+    "fecha_fin": null,
+    "descripcion_corta": "A finales del siglo XVI entraron en China, vía Manila y Fujian, tres plantas americanas que cambiarían su demografía: la **batata**, el **maíz** y el **cacahuete**, seguidos del tabaco y el chile —hoy inseparable de la cocina de Sichuan y Hunan.\n\nSu ventaja era enorme: crecían en laderas, suelos pobres y arenales donde el arroz y el trigo no daban nada. Millones de campesinos ocuparon tierras marginales que hasta entonces no alimentaban a nadie.\n\nEs una de las causas principales del **estallido demográfico**: de unos 150 millones de habitantes hacia 1600 a **más de 400 millones en 1850**. También provocó deforestación, erosión y una presión sobre la tierra que estaría detrás de las grandes rebeliones del siglo XIX.",
+    "imagenes": [
+      "/images/china/cn3_cn-cultivos-americanos-new-world-domesticated-plants-jpg-utm-source-es-wi_wikimedia.jpg"
+    ]
+  },
+  {
+    "id": "cn-nurhaci",
+    "region": "china",
+    "tipo": "evento",
+    "titulo": "Nurhaci y las Ocho Banderas",
+    "fecha_inicio": 1616,
+    "fecha_fin": null,
+    "descripcion_corta": "**Nurhaci**, jefe de un clan jurchen de Manchuria, unificó las tribus del noreste y **en 1616** se proclamó kan, fundando una dinastía que reclamaba la herencia de los Jin.\n\nSu creación decisiva fue el sistema de las **Ocho Banderas**: unidades militares y administrativas a la vez, identificadas por el color de su estandarte, en las que se encuadraba a toda la población —manchú, mongola y china— con sus familias. Un ejército permanente y una sociedad organizada para la guerra.\n\nTambién mandó crear una **escritura manchú** y adoptó la burocracia china. Su hijo Hong Taiji renombró al pueblo *manchú* y a la dinastía **Qing** en 1636. Estaban listos veinte años antes de que Pekín cayera.",
+    "imagenes": [
+      "/images/china/cn3_cn-nurhaci-jpg-utm-source-es-wikipedia-org-utm-campaign-api-u_wikimedia.jpg"
+    ]
+  },
+  {
+    "id": "cn-hambrunas-ming",
+    "region": "china",
+    "tipo": "evento",
+    "titulo": "Las hambrunas del final de los Ming",
+    "fecha_inicio": 1627,
+    "fecha_fin": null,
+    "descripcion_corta": "El siglo XVII trajo a China el frío de la **Pequeña Edad de Hielo**: sequías encadenadas en el norte, heladas fuera de estación, malas cosechas y plagas de langosta. En Shaanxi, **desde 1627**, hubo hambrunas con casos documentados de canibalismo.\n\nEl Estado no pudo responder: la plata escaseaba, los impuestos subían para pagar la guerra contra los manchúes y los funcionarios locales cobraban igual. A eso se sumó una epidemia devastadora hacia 1641.\n\nDe ese desastre salieron los ejércitos rebeldes de **Li Zicheng**, que **en abril de 1644** entró en Pekín. El último emperador Ming se ahorcó en la colina del Carbón, detrás del palacio, tras matar a su familia. La dinastía cayó por hambre antes que por invasión.",
+    "imagenes": [
+      "/images/china/cn3_cn-hambrunas-ming-hendrick-avercamp-a-scene-on-the-ice-wga01076-jpg-_wikimedia.jpg"
+    ]
+  },
+  {
+    "id": "cn-coleta",
+    "region": "china",
+    "tipo": "evento",
+    "titulo": "La orden de la coleta",
+    "fecha_inicio": 1645,
+    "fecha_fin": null,
+    "descripcion_corta": "Consolidada la conquista, los Qing impusieron **en 1645** a todos los hombres chinos el peinado manchú: **frente afeitada y coleta larga** por detrás. El plazo era de diez días y el lema, explícito: «conserva el pelo y pierde la cabeza, conserva la cabeza y pierde el pelo».\n\nPara el confucianismo, el cuerpo y el cabello son un regalo de los padres que no se debe estropear, así que la orden era una humillación deliberada y una **prueba de lealtad visible**. Provocó revueltas y matanzas como la de Yangzhou, con decenas de miles de muertos.\n\nLa coleta acabó siendo, con el tiempo, el símbolo del propio chino ante los ojos extranjeros. Se cortó masivamente en la revolución de 1911, como acto de liberación.",
+    "imagenes": [
+      "/images/china/cn3_cn-coleta-child-with-a-ponytail-jpg-utm-source-es-wikipedia-_wikimedia.jpg"
+    ]
+  },
+  {
+    "id": "cn-tres-feudatarios",
+    "region": "china",
+    "tipo": "evento",
+    "titulo": "La rebelión de los Tres Feudatarios",
+    "fecha_inicio": 1673,
+    "fecha_fin": 1681,
+    "descripcion_corta": "Los Qing habían recompensado a tres generales chinos que les ayudaron a conquistar el sur dándoles feudos casi independientes. **En 1673**, cuando el joven **Kangxi** decidió recortarles el poder, se rebelaron: **Wu Sangui** —el mismo que había abierto la Gran Muralla a los manchúes en 1644— dominó media China.\n\nLa guerra duró **ocho años** y estuvo cerca de partir el imperio en dos. Kangxi, que tenía veinte años, la dirigió personalmente y ganó.\n\nFue la última amenaza interna seria a la dinastía. Con los feudos suprimidos y **Taiwán conquistado en 1683**, los Qing controlaban por fin toda China y empezaba el siglo de mayor prosperidad de su historia.",
+    "imagenes": [
+      "/images/china/cn3_cn-tres-feudatarios-wu-sangui-jpg-utm-source-es-wikipedia-org-utm-camp_wikimedia.jpg"
+    ]
+  },
+  {
+    "id": "cn-nerchinsk",
+    "region": "china",
+    "tipo": "evento",
+    "titulo": "El Tratado de Nerchinsk",
+    "fecha_inicio": 1689,
+    "fecha_fin": null,
+    "descripcion_corta": "**En 1689**, tras varios choques en el río Amur, China y Rusia firmaron en **Nerchinsk** el primer tratado que el imperio chino negoció **de igual a igual** con una potencia europea. Se fijó la frontera, se acordó el comercio y se intercambiaron prisioneros.\n\nLo negociaron en **latín**, gracias a los jesuitas que servían en la corte de Kangxi como intérpretes y astrónomos: uno de los pocos casos en que la ciencia europea y la diplomacia china colaboraron sin conflicto.\n\nEl tratado mantuvo la paz en la frontera norte **durante siglo y medio** y dejó las manos libres a los Qing para expandirse hacia Mongolia y Asia central. Todo lo contrario de lo que ocurriría con los tratados desiguales del siglo XIX.",
+    "imagenes": [
+      "/images/china/cn3_cn-nerchinsk-a-163-1-22-6-1-jpg-utm-source-en-wikipedia-org-utm_wikimedia.jpg"
+    ]
+  },
+  {
+    "id": "cn-ritos",
+    "region": "china",
+    "tipo": "evento",
+    "titulo": "La controversia de los ritos",
+    "fecha_inicio": 1704,
+    "fecha_fin": null,
+    "descripcion_corta": "Los jesuitas de la corte permitían a los conversos chinos seguir honrando a **Confucio y a sus antepasados**, considerando esos ritos costumbres civiles y no idolatría. Fue la clave de su éxito durante un siglo.\n\nDominicos y franciscanos lo denunciaron en Roma, y **en 1704** el papa Clemente XI falló en contra de los jesuitas y prohibió los ritos. **Kangxi**, que había leído a Confucio bastante mejor que el legado papal, respondió expulsando a los misioneros que no aceptaran su criterio y comentó que aquellos europeos discutían de cosas que no entendían.\n\nLa cristiandad perdió la vía de entrada que había abierto Matteo Ricci, y China se cerró aún más a Occidente justo cuando en Europa arrancaba la revolución científica. Roma levantó la prohibición **en 1939**.",
+    "imagenes": [
+      "/images/china/cn3_cn-ritos-pope-clement-xi-pier-leone-ghezzi-c-1708-jpg-utm-s_wikimedia.jpg"
+    ]
+  },
+  {
+    "id": "cn-tibet",
+    "region": "china",
+    "tipo": "evento",
+    "titulo": "El Tíbet y la expansión Qing",
+    "fecha_inicio": 1727,
+    "fecha_fin": null,
+    "descripcion_corta": "**En 1720**, tropas Qing entraron en Lhasa para expulsar a los mongoles dzúngaros y entronizar al Dalái Lama; **desde 1727** quedaron allí comisarios imperiales permanentes, los *amban*, y una guarnición.\n\nFue una pieza más de la mayor expansión territorial de la historia china. Los Qing sometieron Mongolia interior y exterior, aniquilaron a los dzúngaros en una campaña que fue casi un exterminio, e incorporaron **Xinjiang en 1759**.\n\nEl imperio alcanzó así **13 millones de kilómetros cuadrados**, casi el doble de la China de los Ming. Las fronteras actuales del país —y buena parte de sus conflictos internos con tibetanos y uigures— vienen directamente de estas conquistas del siglo XVIII.",
+    "imagenes": [
+      "/images/china/cn3_cn-tibet-tibet-trek-1-35-samye-monastery-150286130-jpg-utm-_wikimedia.jpg"
+    ]
+  },
+  {
+    "id": "cn-qianlong",
+    "region": "china",
+    "tipo": "evento",
+    "titulo": "Qianlong y el apogeo Qing",
+    "fecha_inicio": 1736,
+    "fecha_fin": null,
+    "descripcion_corta": "**Qianlong** reinó sesenta años (1736-1796) y abdicó para no superar a su abuelo Kangxi, aunque siguió gobernando de hecho. Bajo su mandato China llegó a su **máxima extensión y población**: más de 300 millones de habitantes, un tercio de la humanidad.\n\nColeccionista obsesivo, reunió una de las mayores colecciones de arte del mundo y encargó el ***Siku Quanshu***, la mayor compilación de libros jamás hecha: **36 000 volúmenes** copiados a mano por 15 000 escribas. Con la misma operación censuró o destruyó unos 3 000 títulos que consideró ofensivos para los manchúes.\n\nSus últimos años trajeron corrupción a gran escala —el favorito Heshen amasó una fortuna equivalente a años de ingresos del Estado— y las primeras grandes rebeliones.",
+    "imagenes": [
+      "/images/china/cn3_cn-qianlong-jpg-utm-source-es-wikipedia-org-utm-campaign-api-u_wikimedia.jpg"
+    ]
+  },
+  {
+    "id": "cn-macartney",
+    "region": "china",
+    "tipo": "evento",
+    "titulo": "La embajada de Macartney",
+    "fecha_inicio": 1793,
+    "fecha_fin": null,
+    "descripcion_corta": "**En 1793**, Gran Bretaña envió a **lord Macartney** con 600 cajas de regalos —relojes, telescopios, un globo aerostático, cañones— para pedir embajada permanente, apertura de puertos y aranceles fijos.\n\nEl conflicto empezó por el protocolo: Macartney se negó a hacer el **kowtow**, las tres genuflexiones y nueve postraciones ante el emperador, y transigió con una rodilla en tierra. **Qianlong** respondió a Jorge III con una carta célebre: el Celeste Imperio lo posee todo en abundancia y **no necesita las manufacturas de los bárbaros**.\n\nSe suele citar como el símbolo de la ceguera china ante Occidente. Vista desde Pekín, la decisión era razonable: China vendía mucho más de lo que compraba. Cuarenta y seis años después llegaron los cañoneros.",
+    "imagenes": [
+      "/images/china/cn3_cn-macartney-lordmacartneyembassytochina1793-jpg-utm-source-es-_wikimedia.jpg"
+    ]
+  },
+  {
+    "id": "cn-loto-blanco",
+    "region": "china",
+    "tipo": "evento",
+    "titulo": "La rebelión del Loto Blanco",
+    "fecha_inicio": 1796,
+    "fecha_fin": 1804,
+    "descripcion_corta": "**Entre 1796 y 1804**, la sociedad secreta budista del **Loto Blanco** encabezó en las montañas del centro de China una rebelión campesina alimentada por la presión demográfica, la falta de tierras y la corrupción de los funcionarios.\n\nCostó ocho años y una fortuna aplastarla, y dejó al descubierto algo grave: las **Ocho Banderas**, la fuerza que había conquistado China, se habían vuelto ineficaces tras un siglo de paz y sueldos hereditarios. La corte tuvo que recurrir a milicias locales pagadas por la gentry.\n\nEs el punto de inflexión de la dinastía: a partir de aquí, el poder militar real empieza a desplazarse de Pekín a los notables provinciales, y el siglo XIX traerá una rebelión tras otra.",
+    "imagenes": [
+      "/images/china/cn3_cn-loto-blanco-the-victorious-battle-at-lancaoping-jpg-utm-source_wikimedia.jpg"
+    ]
+  },
+  {
+    "id": "cn-palacio-verano",
+    "region": "china",
+    "tipo": "evento",
+    "titulo": "El saqueo del Palacio de Verano",
+    "fecha_inicio": 1860,
+    "fecha_fin": null,
+    "descripcion_corta": "**En octubre de 1860**, al final de la Segunda Guerra del Opio, tropas británicas y francesas entraron en el **Yuanmingyuan**, el Antiguo Palacio de Verano de Pekín: un conjunto de cientos de pabellones, jardines y lagos construido durante 150 años.\n\nLo saquearon durante días y después lord Elgin ordenó **incendiarlo** como represalia por la tortura de unos emisarios. Hicieron falta 3 500 soldados y tres días de fuego. **Victor Hugo** lo denunció con dureza: dos bandidos, escribió, habían entrado en el templo de Asia, y uno se llamaba Francia y el otro Inglaterra.\n\nMiles de piezas robadas están hoy en museos y colecciones occidentales. Las ruinas se conservan a propósito sin restaurar, como monumento nacional a la humillación.",
+    "imagenes": [
+      "/images/china/cn3_cn-palacio-verano-yuanmingyuan-spanish-jpg-utm-source-es-wikipedia-o_wikimedia.jpg"
+    ]
+  },
+  {
+    "id": "cn-autofortalecimiento",
+    "region": "china",
+    "tipo": "evento",
+    "titulo": "El Movimiento de Autofortalecimiento",
+    "fecha_inicio": 1865,
+    "fecha_fin": null,
+    "descripcion_corta": "Tras las derrotas ante Occidente y la guerra Taiping, altos funcionarios como **Li Hongzhang** y Zeng Guofan impulsaron **desde los años sesenta** un programa de modernización: arsenales, astilleros, minas de carbón, líneas de telégrafo, una escuela de idiomas y estudiantes enviados a Estados Unidos y Europa.\n\nEl lema resumía su límite: **«saber chino como base, saber occidental para el uso»**. Se querían los cañones sin las ideas que los habían producido, y las reformas dependían de gobernadores provinciales, sin plan nacional ni respaldo firme de la corte.\n\nLa prueba llegó **en 1894** contra Japón, que había hecho lo contrario: reformarlo todo. La flota de Li Hongzhang fue destruida y con ella la credibilidad de treinta años de esfuerzo a medias.",
+    "imagenes": [
+      "/images/china/cn3_cn-autofortalecimiento-li-hung-chang-in-1896-jpg-utm-source-es-wikipedia-_wikimedia.jpg"
+    ]
+  },
+  {
+    "id": "cn-hambruna-1876",
+    "region": "china",
+    "tipo": "evento",
+    "titulo": "La gran hambruna del norte",
+    "fecha_inicio": 1876,
+    "fecha_fin": 1879,
+    "descripcion_corta": "**Entre 1876 y 1879**, una sequía extrema —hoy asociada a un fenómeno de El Niño excepcional— arrasó las cosechas de cinco provincias del norte de China. Murieron entre **nueve y trece millones de personas**, una de las mayores hambrunas documentadas de la historia.\n\nLos relatos de los misioneros describen aldeas enteras vacías, caminos sembrados de cadáveres y venta de niños. El Estado, arruinado por las indemnizaciones de guerra y las rebeliones, apenas pudo socorrer: el grano existía en el sur, pero no había cómo transportarlo a tiempo.\n\nFue el primer desastre chino que provocó una **campaña internacional de donativos**, y también un argumento más para los reformistas: sin ferrocarriles ni telégrafo, un imperio no puede alimentar a su gente.",
+    "imagenes": [
+      "/images/china/cn3_cn-hambruna-1876-famine-victims-selling-their-children-from-the-fam_wikimedia.jpg"
+    ]
+  },
+  {
+    "id": "cn-ferrocarril",
+    "region": "china",
+    "tipo": "evento",
+    "titulo": "El primer ferrocarril chino",
+    "fecha_inicio": 1881,
+    "fecha_fin": null,
+    "descripcion_corta": "La primera línea férrea de China, construida por británicos en Shanghái **en 1876**, duró un año: el gobierno la compró y **la desmanteló**, en parte por presión popular —se decía que alteraba el *feng shui* y molestaba a los antepasados— y en parte por no aceptar infraestructuras en manos extranjeras.\n\nLa primera línea permanente llegó **en 1881**, de la mina de carbón de Tangshan al canal, y al principio los vagones los tiraban **mulas** para no ofender con el ruido de la locomotora.\n\nEn 1894 China tenía apenas 400 kilómetros de vía; Japón, diez veces más. El ferrocarril acabaría llegando, pero financiado y controlado por potencias extranjeras: las disputas por sus concesiones fueron una de las chispas de la revolución de 1911.",
+    "imagenes": [
+      "/images/china/cn3_cn-ferrocarril-tangshan-jpg-utm-source-es-wikipedia-org-utm-campa_wikimedia.jpg"
+    ]
+  },
+  {
+    "id": "cn-guerra-francia",
+    "region": "china",
+    "tipo": "evento",
+    "titulo": "La guerra con Francia y la pérdida de Vietnam",
+    "fecha_inicio": 1885,
+    "fecha_fin": null,
+    "descripcion_corta": "**Entre 1884 y 1885**, China y Francia se enfrentaron por el control de **Vietnam**, que había sido Estado tributario chino durante siglos. En tierra, las tropas chinas resistieron e incluso vencieron en Lang Son; en el mar, la flota francesa **destruyó en una hora** el arsenal y la escuadra de Fuzhou, orgullo del Movimiento de Autofortalecimiento.\n\nPese a la victoria terrestre, Pekín firmó la paz renunciando a Vietnam, que quedó como protectorado francés.\n\nFue una lección amarga: las nuevas fábricas y buques comprados a Occidente no bastaban sin oficiales formados, doctrina y mando unificado. Nueve años después, Japón repetiría la demostración de forma aún más brutal.",
+    "imagenes": [
+      "/images/china/cn3_cn-guerra-francia-lunshunkubattle-jpg-utm-source-es-wikipedia-org-ut_wikimedia.jpg"
+    ]
+  },
+  {
+    "id": "cn-cien-dias",
+    "region": "china",
+    "tipo": "evento",
+    "titulo": "Los Cien Días de Reforma",
+    "fecha_inicio": 1898,
+    "fecha_fin": null,
+    "descripcion_corta": "Tras la derrota ante Japón, el joven emperador **Guangxu** escuchó a los reformistas **Kang Youwei** y Liang Qichao y lanzó **en junio de 1898** un programa acelerado: universidad moderna en Pekín, reforma de los exámenes imperiales, ejército al estilo occidental, industria, presupuestos, prensa libre.\n\nDuró **103 días**. La emperatriz viuda **Cixí** dio un golpe palaciego, encerró al emperador en una isla del palacio, mandó ejecutar a seis reformistas y anuló casi todo.\n\nDos años después, la propia Cixí acabaría aplicando muchas de esas mismas reformas, cuando ya era tarde. La represión de 1898 convenció a una generación entera de que el sistema no era reformable: el siguiente paso sería la **revolución de 1911**.",
+    "imagenes": [
+      "/images/china/cn3_cn-cien-dias-emperor-guangxu-jpg-utm-source-es-wikipedia-org-ut_wikimedia.jpg"
+    ]
+  },
+  {
+    "id": "cn-huesos-oraculares",
+    "region": "china",
+    "tipo": "evento",
+    "titulo": "El hallazgo de los huesos oraculares",
+    "fecha_inicio": 1899,
+    "fecha_fin": null,
+    "descripcion_corta": "**En 1899**, un funcionario de Pekín enfermo de malaria examinó los «huesos de dragón» que le habían recetado molidos en la botica y vio en ellos **signos grabados**. Eran caparazones de tortuga y omóplatos de buey con la escritura china más antigua conocida, de la dinastía **Shang**, del siglo XIII a. C.\n\nLos campesinos de Anyang llevaban décadas desenterrándolos y vendiéndolos como medicina; se calcula que muchísimos se molieron antes de que nadie se fijara. Desde entonces se han recuperado **más de 150 000 fragmentos**.\n\nEl hallazgo demostró que la dinastía Shang, que muchos historiadores tenían por legendaria, había existido de verdad, y permitió leer directamente las preguntas que los reyes hacían a sus antepasados hace 3 200 años.",
+    "imagenes": [
+      "/images/china/cn3_cn-huesos-oraculares-yinxu-jpg-utm-source-es-wikipedia-org-utm-campaign_wikimedia.jpg"
+    ]
+  },
+  {
+    "id": "cn-mencio",
+    "region": "china",
+    "tipo": "evento",
+    "titulo": "Mencio y la bondad humana",
+    "fecha_inicio": -340,
+    "fecha_fin": null,
+    "descripcion_corta": "**Mencio** (Mengzi) fue el gran continuador de Confucio, un siglo y medio después. Su tesis central es que **la naturaleza humana es buena**: todo el mundo siente compasión espontánea si ve a un niño a punto de caer a un pozo, y de ahí puede cultivarse la virtud.\n\nDe eso sacó una consecuencia política muy audaz: el gobernante existe **para el bienestar del pueblo**, y si se convierte en tirano deja de ser rey y **el pueblo tiene derecho a derrocarlo**. Ese argumento se citó en China durante dos mil años para justificar cambios de dinastía.\n\nSu libro acabó siendo uno de los **Cuatro Libros** que todo aspirante a funcionario debía memorizar desde el siglo XII.",
+    "imagenes": [
+      "/images/china/cn4_cn-mencio-half-portraits-of-the-great-sage-and-virtuous-men-_wikimedia.jpg"
+    ]
+  },
+  {
+    "id": "cn-xunzi",
+    "region": "china",
+    "tipo": "evento",
+    "titulo": "Xunzi y la naturaleza humana",
+    "fecha_inicio": -250,
+    "fecha_fin": null,
+    "descripcion_corta": "**Xunzi** sostuvo exactamente lo contrario que Mencio: la naturaleza humana es **egoísta** y solo la educación, el ritual y la ley la enderezan, como se endereza una tabla curva con una prensa.\n\nFue el más sistemático de los pensadores confucianos y también el más racionalista: negó que el Cielo intervenga en los asuntos humanos, se burló de los augurios y explicó los eclipses como fenómenos naturales. Rezar por la lluvia, escribió, sirve para consolar a la gente, no para que llueva.\n\nDos de sus discípulos, **Han Fei y Li Si**, llevaron sus ideas al extremo y fundaron el **legismo** con el que Qin Shi Huang unificaría China por la fuerza.",
+    "imagenes": [
+      "/images/china/cn4_cn-xunzi-statue-of-han-fei-png-utm-source-es-wikipedia-org-_wikimedia.png"
+    ]
+  },
+  {
+    "id": "cn-eunucos",
+    "region": "china",
+    "tipo": "evento",
+    "titulo": "Los eunucos y el poder en la sombra",
+    "fecha_inicio": 1465,
+    "fecha_fin": null,
+    "descripcion_corta": "Los eunucos de palacio, castrados de niños y sin familia ni descendencia, eran en teoría servidores sin ambición. En la práctica llegaron a ser **la sombra del poder Ming**: controlaban el acceso al emperador, la policía secreta y hasta ejércitos.\n\nLlegaron a ser **más de 70 000** en la corte de finales de la dinastía. **Liu Jin**, ejecutado en 1510, había amasado una fortuna que algunas estimaciones sitúan entre las mayores de la historia. **Wei Zhongxian**, en los años veinte del siglo XVII, gobernó de hecho el imperio y se hizo construir templos en vida.\n\nLa lucha entre eunucos y funcionarios letrados envenenó la política Ming y es una de las razones que los historiadores chinos dan para su caída.",
+    "imagenes": [
+      "/images/china/cn4_cn-eunucos-chevalier-auguste-de-henikstein-kislar-agassi-gran_wikimedia.jpg"
+    ]
+  },
+  {
+    "id": "cn-tunmen",
+    "region": "china",
+    "tipo": "evento",
+    "titulo": "El primer choque naval con Europa",
+    "fecha_inicio": 1521,
+    "fecha_fin": null,
+    "descripcion_corta": "**En 1521**, frente a **Tunmen**, en el delta del río de las Perlas, la armada Ming atacó a los barcos portugueses que se negaban a marcharse tras el fracaso de su embajada. Fue el **primer combate naval entre China y una potencia europea**.\n\nGanaron los chinos, con muchos más barcos, pero se llevaron un aviso: los cañones portugueses de retrocarga eran muy superiores a los suyos. Los Ming los copiaron enseguida y los llamaron *folangji*, «cañones francos».\n\nEs un episodio revelador. China podía imitar la tecnología militar europea y lo hizo con rapidez; lo que no adoptó, tres siglos después, fue la organización, la ciencia y la industria que la producían.",
+    "imagenes": [
+      "/images/china/cn4_cn-tunmen-cannon-pic-jpg-utm-source-es-wikipedia-org-utm-cam_wikimedia.jpg"
+    ]
+  },
+  {
+    "id": "cn-plata-japonesa",
+    "region": "china",
+    "tipo": "evento",
+    "titulo": "La plata japonesa de Iwami",
+    "fecha_inicio": 1540,
+    "fecha_fin": null,
+    "descripcion_corta": "**Hacia 1540**, la mina japonesa de **Iwami** empezó a producir a gran escala con una técnica de refinado llegada de Corea. Japón llegó a extraer **un tercio de la plata del mundo**.\n\nComo el comercio directo entre China y Japón estaba prohibido tras las incursiones de los wokou, el negocio lo hicieron los **portugueses desde Macao**: compraban seda china, la vendían en Nagasaki por plata y con esa plata compraban más seda. Un triángulo que enriqueció a Lisboa durante décadas.\n\nJunto con la plata americana del galeón de Manila, ese metal sostuvo la economía monetaria de los Ming. China fue, durante dos siglos, **el sumidero de la plata del planeta**.",
+    "imagenes": [
+      "/images/china/cn4_cn-plata-japonesa-nagasaki-city-view-from-glover-garden-nagasaki-201_wikimedia.jpg"
+    ]
+  },
+  {
+    "id": "cn-suzhou",
+    "region": "china",
+    "tipo": "evento",
+    "titulo": "El motín de los tejedores de Suzhou",
+    "fecha_inicio": 1601,
+    "fecha_fin": null,
+    "descripcion_corta": "**En 1601**, los tejedores de seda de **Suzhou** se amotinaron contra los eunucos recaudadores que habían impuesto tasas nuevas sobre cada telar. Mataron a varios agentes y el líder, Ge Xian, se entregó para salvar a sus compañeros.\n\nEl episodio muestra una China que no encaja con el tópico del imperio inmóvil: ciudades con **decenas de miles de trabajadores asalariados**, talleres de seda, algodón y porcelana que producían para el mercado, gremios y protestas urbanas organizadas.\n\nHistoriadores chinos del siglo XX vieron aquí «brotes de capitalismo». El debate sigue abierto, pero la Suzhou de 1600 se parecía bastante más a Manchester de lo que Europa imaginaba.",
+    "imagenes": [
+      "/images/china/cn4_cn-suzhou-1-jpg-utm-source-es-wikipedia-org-utm-campaign-api_wikimedia.jpg"
+    ]
+  },
+  {
+    "id": "cn-trece-factorias",
+    "region": "china",
+    "tipo": "evento",
+    "titulo": "Las Trece Factorías de Cantón",
+    "fecha_inicio": 1760,
+    "fecha_fin": null,
+    "descripcion_corta": "Bajo el sistema de Cantón, los comerciantes europeos vivían y negociaban en una franja estrecha de la ribera, las **Trece Factorías**: almacenes y viviendas alquilados, cada uno con la bandera de su país, fuera de la muralla de la ciudad.\n\nLas reglas eran estrictas: nada de mujeres, nada de armas, nada de salir a pasear salvo tres veces al mes y en grupo, nada de aprender chino —enseñárselo a un extranjero llegó a castigarse—, y todo trato debía pasar por el gremio autorizado, el **cohong**.\n\nPor ese embudo pasó durante un siglo casi todo el comercio entre China y Occidente: **el té** que bebía Inglaterra, la porcelana, la seda… y, en sentido contrario, la plata y después el opio.",
+    "imagenes": [
+      "/images/china/cn4_cn-trece-factorias-canton-factories-jpg-utm-source-en-wikipedia-org-u_wikimedia.jpg"
+    ]
+  },
+  {
+    "id": "cn-wang-lun",
+    "region": "china",
+    "tipo": "evento",
+    "titulo": "La rebelión de Wang Lun",
+    "fecha_inicio": 1774,
+    "fecha_fin": null,
+    "descripcion_corta": "**En 1774**, el maestro de artes marciales y sanador **Wang Lun** encabezó en Shandong el primer levantamiento serio contra los Qing en un siglo. Sus seguidores creían que las técnicas de respiración y meditación los hacían invulnerables.\n\nTomaron varias ciudades antes de ser aplastados en unas semanas. Pero el episodio destapó lo mismo que revelaría la rebelión del Loto Blanco veinte años después: las guarniciones locales estaban podridas y las tropas de élite tardaban semanas en llegar.\n\nLa combinación de **crecimiento demográfico, escasez de tierra y sectas milenaristas** iba a repetirse cada pocos años durante el siglo siguiente, hasta desembocar en los Taiping y en los bóxers.",
+    "imagenes": [
+      "/images/china/cn4_cn-wang-lun-a-view-from-mount-tai-jpg-utm-source-es-wikipedia-_wikimedia.jpg"
+    ]
+  },
+  {
+    "id": "cn-te-opio-balanza",
+    "region": "china",
+    "tipo": "evento",
+    "titulo": "El té, el opio y la balanza comercial",
+    "fecha_inicio": 1800,
+    "fecha_fin": null,
+    "descripcion_corta": "**Hacia 1800**, Gran Bretaña compraba a China **más de 20 000 toneladas de té al año** y pagaba en plata, porque los chinos no querían sus manufacturas. La sangría de metal alarmaba a Londres.\n\nLa solución fue el **opio de Bengala**, que la Compañía de las Indias cultivaba y vendía en subasta a contrabandistas privados para mantener las manos formalmente limpias. En treinta años, las importaciones pasaron de unas 4 000 cajas anuales a **más de 30 000**.\n\nLa balanza se invirtió: ahora era China la que perdía plata, con inflación, déficit fiscal y millones de adictos. Cuando Pekín intentó cortarlo, en 1839, lo que estaba en juego para Londres era el equilibrio de todo su comercio asiático.",
+    "imagenes": [
+      "/images/china/cn4_cn-te-opio-balanza-raw-opium-jpg-utm-source-es-wikipedia-org-utm-camp_wikimedia.jpg"
+    ]
+  },
+  {
+    "id": "cn-ocho-trigramas",
+    "region": "china",
+    "tipo": "evento",
+    "titulo": "El asalto a la Ciudad Prohibida",
+    "fecha_inicio": 1813,
+    "fecha_fin": null,
+    "descripcion_corta": "**El 15 de septiembre de 1813**, unos 200 miembros de la secta de los **Ocho Trigramas**, ayudados por eunucos cómplices, entraron en la **Ciudad Prohibida** dispuestos a matar al emperador. Llegaron hasta los patios interiores antes de ser abatidos; el futuro emperador Daoguang participó en la defensa con un mosquete.\n\nQue un puñado de campesinos armados con cuchillos llegara al corazón del palacio fue un escándalo mayúsculo. El emperador Jiaqing publicó un edicto de autocrítica reconociendo que aquello era consecuencia de la corrupción de su propia administración.\n\nTodavía hoy puede verse una punta de flecha de aquel asalto clavada en un cartel de una de las puertas del palacio.",
+    "imagenes": [
+      "/images/china/cn4_cn-ocho-trigramas-jpg-utm-source-es-wikipedia-org-utm-campaign-api-u_wikimedia.jpg"
+    ]
+  },
+  {
+    "id": "cn-daoguang",
+    "region": "china",
+    "tipo": "evento",
+    "titulo": "Daoguang y la fuga de plata",
+    "fecha_inicio": 1820,
+    "fecha_fin": null,
+    "descripcion_corta": "**Daoguang** subió al trono **en 1820** y le tocó gestionar una crisis nueva: por primera vez en siglos, **la plata salía de China** en lugar de entrar, para pagar el opio.\n\nEl efecto sobre el campesino fue directo. Los impuestos se pagaban en plata pero los productos se vendían en monedas de cobre, y al encarecerse la plata su carga fiscal real llegó a **duplicarse** sin que ninguna ley cambiara. A eso se sumaron inundaciones, sequías y la ruina del transporte por el Gran Canal.\n\nLa corte discutió durante años si legalizar el opio y gravarlo o prohibirlo por completo. Daoguang escogió lo segundo y envió a Cantón al comisario **Lin Zexu**. Lo que siguió fue la guerra.",
+    "imagenes": [
+      "/images/china/cn4_cn-daoguang-003-the-imperial-portrait-of-a-chinese-emperor-cal_wikimedia.jpg"
+    ]
+  },
+  {
+    "id": "cn-nankin",
+    "region": "china",
+    "tipo": "evento",
+    "titulo": "El Tratado de Nankín",
+    "fecha_inicio": 1842,
+    "fecha_fin": null,
+    "descripcion_corta": "Firmado **el 29 de agosto de 1842** a bordo de un buque de guerra británico, es el primero de los llamados **tratados desiguales**: China abrió cinco puertos, cedió **Hong Kong** a perpetuidad, pagó 21 millones de dólares de plata y aceptó un arancel fijo que no podía subir sin permiso británico.\n\nLos tratados siguientes añadieron la **extraterritorialidad** —los extranjeros solo respondían ante sus propios cónsules, no ante la justicia china—, la cláusula de nación más favorecida y la libertad de los misioneros.\n\nEn cincuenta años se firmaron decenas de acuerdos así con una docena de países. China conservó formalmente su soberanía, pero perdió el control de sus aduanas, sus puertos y sus leyes en buena parte de su territorio.",
+    "imagenes": [
+      "/images/china/cn4_cn-nankin-the-signing-of-the-treaty-of-nanking-jpg-utm-sourc_wikimedia.jpg"
+    ]
+  },
+  {
+    "id": "cn-burlingame",
+    "region": "china",
+    "tipo": "evento",
+    "titulo": "La misión Burlingame",
+    "fecha_inicio": 1868,
+    "fecha_fin": null,
+    "descripcion_corta": "**En 1868**, China envió su primera embajada oficial al mundo, y la encabezó un extranjero: **Anson Burlingame**, exministro estadounidense en Pekín, contratado por la corte precisamente porque sabía cómo hablar con Occidente.\n\nLa delegación recorrió Estados Unidos y Europa y firmó con Washington un tratado insólito para la época: reconocía a China como **igual soberano**, respetaba su control de las obras públicas y garantizaba la **libre migración** de chinos a Estados Unidos.\n\nLa promesa duró poco. Catorce años después, la **Ley de Exclusión China de 1882** cerró esa puerta. Aun así, la misión fue el primer intento chino de jugar con las reglas diplomáticas occidentales en vez de ignorarlas.",
+    "imagenes": [
+      "/images/china/fix_cn-burlingame-hon-anson-burlingame-mass-nara-525619-cropped-jpg-_wikimedia.jpg"
+    ]
+  },
+  {
+    "id": "cn-estudiantes-eeuu",
+    "region": "china",
+    "tipo": "evento",
+    "titulo": "Los estudiantes chinos en Estados Unidos",
+    "fecha_inicio": 1872,
+    "fecha_fin": null,
+    "descripcion_corta": "**Entre 1872 y 1875**, el gobierno Qing envió a **120 niños** de doce a quince años a estudiar a Nueva Inglaterra, alojados con familias estadounidenses. La idea era de **Yung Wing**, el primer chino graduado en Yale.\n\nAprendieron inglés, matemáticas y ciencias, jugaron al béisbol y algunos se cortaron la coleta. Eso último alarmó a los supervisores conservadores, que en 1881 cancelaron el programa y los hicieron volver antes de graduarse.\n\nVarios acabaron siendo figuras clave de todos modos: ingenieros de ferrocarril como **Zhan Tianyou**, almirantes, diplomáticos y hasta un primer ministro de la República. Fue la primera y frustrada apuesta china por formar cuadros modernos.",
+    "imagenes": [
+      "/images/china/cn4_cn-estudiantes-eeuu-1918-jpg-utm-source-es-wikipedia-org-utm-campaign-_wikimedia.jpg"
+    ]
+  },
+  {
+    "id": "cn-beiyang",
+    "region": "china",
+    "tipo": "evento",
+    "titulo": "La flota de Beiyang",
+    "fecha_inicio": 1888,
+    "fecha_fin": null,
+    "descripcion_corta": "**En 1888** se constituyó formalmente la **Flota de Beiyang**, la joya del Movimiento de Autofortalecimiento: acorazados alemanes de última generación como el *Dingyuan* y el *Zhenyuan*, considerados por la prensa de la época **los más potentes de Asia**.\n\nSobre el papel, China tenía en 1890 la mayor marina del continente. En la práctica, no se compraron municiones nuevas durante años —parte del presupuesto acabó en la reconstrucción del palacio de verano de Cixí—, la instrucción era deficiente y los mandos, elegidos por lealtad.\n\n**En 1894**, frente a los japoneses, los cañones dispararon proyectiles rellenos de cemento y arena. Los dos acorazados fueron capturados y la flota entera destruida.",
+    "imagenes": [
+      "/images/china/cn4_cn-beiyang-dingyuan-ship-1884-nh-1926-cropped-jpg-utm-source-_wikimedia.jpg"
+    ]
+  },
+  {
+    "id": "cn-shanghai",
+    "region": "china",
+    "tipo": "evento",
+    "titulo": "Shanghái y las concesiones",
+    "fecha_inicio": 1890,
+    "fecha_fin": null,
+    "descripcion_corta": "De pueblo de pescadores amurallado, **Shanghái** pasó en medio siglo a ser la ciudad más moderna de Asia. Los tratados le dieron **concesiones** —británica, francesa, estadounidense— con su propia policía, sus tribunales y su consejo municipal, donde los chinos no pudieron votar hasta 1928.\n\nAllí llegaron los primeros bancos, la luz eléctrica, el tranvía, los periódicos, las fábricas textiles y el cine. También la especulación, el opio, las mafias y una desigualdad brutal entre el Bund de mármol y los barrios obreros.\n\nEs el símbolo perfecto del siglo de la humillación: la ciudad más próspera del país era, en buena parte, **territorio donde las leyes chinas no se aplicaban**.",
+    "imagenes": [
+      "/images/china/cn4_cn-shanghai-the-bund-2-jpg-utm-source-en-wikipedia-org-utm-cam_wikimedia.jpg"
+    ]
   }
 ]

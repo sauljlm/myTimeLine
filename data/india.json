@@ -1,0 +1,752 @@
+[
+  {
+    "id": "in-mehrgarh",
+    "region": "india",
+    "tipo": "evento",
+    "titulo": "Mehrgarh, los primeros agricultores",
+    "fecha_inicio": -7000,
+    "fecha_fin": null,
+    "descripcion_corta": "En **Mehrgarh**, al pie de los montes de Baluchistán, hay un poblado agrícola habitado desde **hacia el 7000 a. C.**: casas de adobe, graneros, trigo y cebada, y los primeros cebúes y ovejas domesticados del subcontinente.\n\nAllí aparecen también las primeras figuras de barro cocido de la región, cuentas de turquesa y lapislázuli traídas de lejos, y algo asombroso: **dientes perforados con taladros de sílex**, la evidencia más antigua de odontología conocida, de hace **9 000 años**.\n\nMehrgarh es el eslabón que explica de dónde salió la civilización del Indo: no llegó de fuera, creció desde estas aldeas durante cuatro milenios.",
+    "imagenes": [
+      "/images/india/in_in-mehrgarh-statuette-mehrgarh-jpg-utm-source-es-wikipedia-org_wikimedia.jpg"
+    ]
+  },
+  {
+    "id": "in-indo",
+    "region": "india",
+    "tipo": "evento",
+    "titulo": "La civilización del Indo",
+    "fecha_inicio": -2600,
+    "fecha_fin": -1900,
+    "descripcion_corta": "Entre **2600 y 1900 a. C.** floreció en el valle del Indo la mayor de las tres civilizaciones antiguas —más extensa que Egipto y Mesopotamia juntas—, con **más de 1 000 asentamientos** repartidos por un millón de kilómetros cuadrados.\n\nSus dos grandes ciudades, **Harappa** y **Mohenjo-Daro**, tenían quizá 40 000 habitantes cada una. Se descubrieron en **1921**, cuando unos ingenieros del ferrocarril británico se dieron cuenta de que los ladrillos que estaban usando como balasto tenían 4 000 años.\n\nLo más llamativo es lo que no aparece: **ni palacios, ni templos monumentales, ni tumbas reales, ni escenas de guerra**. Una civilización enorme sin reyes visibles, un caso único en la Antigüedad.",
+    "imagenes": [
+      "/images/india/in_in-indo-mohenjo-daro-jpg-utm-source-es-wikipedia-org-utm-c_wikimedia.jpg"
+    ]
+  },
+  {
+    "id": "in-urbanismo-indo",
+    "region": "india",
+    "tipo": "evento",
+    "titulo": "Alcantarillado y ladrillos normalizados",
+    "fecha_inicio": -2500,
+    "fecha_fin": null,
+    "descripcion_corta": "Las ciudades del Indo estaban trazadas en **cuadrícula**, con calles orientadas a los puntos cardinales y manzanas regulares. Casi todas las casas tenían **cuarto de baño y desagüe** conectado a alcantarillas cubiertas bajo la calle, con pozos de registro para limpiarlas: un sistema de saneamiento urbano que Europa no igualaría hasta el siglo XIX.\n\nLos **ladrillos** se fabricaban con la misma proporción 1:2:4 en ciudades separadas por cientos de kilómetros, y los pesos de piedra seguían un sistema binario exacto. Había graneros públicos, muelles y, en Mohenjo-Daro, un **Gran Baño** de ladrillo impermeabilizado con betún.\n\nEs una civilización obsesionada con la medida, la higiene y el orden, y notablemente igualitaria en el tamaño de sus viviendas.",
+    "imagenes": [
+      "/images/india/in_in-urbanismo-indo-1920px-great-bath-of-mohenjo-daro-jpg-utm-source-c_wikimedia.jpg"
+    ]
+  },
+  {
+    "id": "in-meluhha",
+    "region": "india",
+    "tipo": "evento",
+    "titulo": "El comercio con Mesopotamia",
+    "fecha_inicio": -2400,
+    "fecha_fin": null,
+    "descripcion_corta": "Las tablillas sumerias hablan de un país llamado **Meluhha** que enviaba a Mesopotamia **cornalina, lapislázuli, marfil, madera y perlas**. Todo indica que Meluhha era el valle del Indo.\n\nSe han encontrado sellos del Indo en Ur y en Bahréin, pesos indios en puertos del Golfo y un barrio de comerciantes de Meluhha en Mesopotamia con su propio intérprete. En **Lothal**, en Gujarat, hay lo que parece **el muelle más antiguo del mundo**, con esclusa para retener el agua con la marea.\n\nEra comercio marítimo regular, no ocasional: dos de las primeras civilizaciones del planeta manteniendo una ruta de negocios estable **hace 4 500 años**.",
+    "imagenes": [
+      "/images/india/in_in-meluhha-archeological-remains-at-the-lower-town-of-lothal-_wikimedia.jpg"
+    ]
+  },
+  {
+    "id": "in-escritura-indo",
+    "region": "india",
+    "tipo": "evento",
+    "titulo": "La escritura que nadie ha descifrado",
+    "fecha_inicio": -2200,
+    "fecha_fin": null,
+    "descripcion_corta": "Se conservan **más de 4 000 objetos** con signos del Indo, casi todos sellos de esteatita con animales y una línea corta de escritura. Se han identificado unos 400 signos distintos.\n\nNadie ha logrado leerlos, y por dos razones: **los textos son cortísimos** —cinco signos de media, el más largo tiene diecisiete— y no existe ninguna **piedra de Rosetta**, ningún texto bilingüe que sirva de puente. Ni siquiera hay acuerdo sobre qué lengua transcribían: ¿dravídica, indoeuropea, ninguna?\n\nHay quien sostiene incluso que no es escritura, sino un sistema de marcas comerciales. Es uno de los grandes enigmas pendientes de la arqueología.",
+    "imagenes": [
+      "/images/india/in_in-escritura-indo-indus-seal-impression-jpg-utm-source-en-wikipedia-_wikimedia.jpg"
+    ]
+  },
+  {
+    "id": "in-declive-indo",
+    "region": "india",
+    "tipo": "evento",
+    "titulo": "El declive del Indo",
+    "fecha_inicio": -1900,
+    "fecha_fin": null,
+    "descripcion_corta": "**Hacia 1900 a. C.**, las grandes ciudades se fueron vaciando: se abandonaron el saneamiento, los pesos estándar y la escritura, y la población se dispersó en aldeas hacia el este.\n\nDurante décadas se culpó de ello a una invasión aria, pero **no hay rastro de destrucción bélica**. Hoy se apunta a causas ambientales: el **río Ghaggar-Hakra**, que regaba buena parte del territorio, se secó al cambiar el curso de sus afluentes, y una fase larga de monzones débiles arruinó las cosechas.\n\nNo fue un colapso repentino sino una desurbanización de siglos. Muchos elementos —dioses, símbolos, técnicas agrícolas y quizá el yoga— pasaron a la India posterior.",
+    "imagenes": [
+      "/images/india/in_in-declive-indo-civilt-valleindomappa-png-utm-source-es-wikipedia-_wikimedia.png"
+    ]
+  },
+  {
+    "id": "in-vedico",
+    "region": "india",
+    "tipo": "evento",
+    "titulo": "El período védico",
+    "fecha_inicio": -1500,
+    "fecha_fin": -500,
+    "descripcion_corta": "**Desde 1500 a. C.**, grupos de habla indoeuropea, los **arios**, se establecieron en el noroeste del subcontinente. Eran pastores seminómadas que llegaron con caballos, carros de guerra y una religión de sacrificios al fuego.\n\nLa vieja idea de una invasión violenta ha dado paso a la de migraciones sucesivas y mezcla con la población local, respaldada por la genética y la lingüística. La discusión sigue siendo políticamente delicada en la India actual.\n\nDe su lengua, el **sánscrito**, derivan el hindi, el bengalí, el urdu y buena parte de las lenguas europeas: es la rama que permitió descubrir, en el siglo XVIII, que **sánscrito, griego y latín eran parientes** y existía una familia indoeuropea.",
+    "imagenes": [
+      "/images/india/in_in-vedico-map-of-vedic-india-png-utm-source-es-wikipedia-org_wikimedia.png"
+    ]
+  },
+  {
+    "id": "in-rigveda",
+    "region": "india",
+    "tipo": "evento",
+    "titulo": "El Rigveda",
+    "fecha_inicio": -1200,
+    "fecha_fin": null,
+    "descripcion_corta": "El **Rigveda** son 1 028 himnos a los dioses del fuego, la tormenta y la aurora, compuestos hacia **1200 a. C.** Es el **texto religioso más antiguo que sigue en uso** en el mundo.\n\nDurante casi tres mil años se transmitió **solo de memoria**, sin escribirse, con un sistema de recitación tan estricto —cada sílaba con su tono y su medida, aprendida en varios órdenes distintos para detectar errores— que las versiones recogidas en puntos opuestos de la India coincidían casi palabra por palabra. La UNESCO lo considera patrimonio inmaterial precisamente por esa técnica.\n\nSus himnos incluyen el célebre *himno de la creación*, que termina preguntándose si acaso **ni siquiera los dioses saben** cómo empezó todo.",
+    "imagenes": [
+      "/images/india/in_in-rigveda-rigveda-ms2097-jpg-utm-source-commons-wikimedia-or_wikimedia.jpg"
+    ]
+  },
+  {
+    "id": "in-hierro-ganges",
+    "region": "india",
+    "tipo": "evento",
+    "titulo": "El hierro y la llanura del Ganges",
+    "fecha_inicio": -1000,
+    "fecha_fin": null,
+    "descripcion_corta": "**Hacia el 1000 a. C.**, el hierro permitió talar la selva húmeda del **valle del Ganges** y arar sus suelos pesados. El centro de gravedad de la India se desplazó del Indo al Ganges y allí se quedó.\n\nCon el arado de hierro y el arroz llegaron excedentes, ciudades amuralladas, moneda y una segunda urbanización tras mil años de aldeas. Aparecen los **mahajanapadas**, dieciséis reinos y repúblicas que compiten entre sí, entre ellos **Magadha**, que acabará imponiéndose.\n\nEs también la época del *Mahabharata* y el *Ramayana*, los dos grandes poemas épicos indios: el primero, con **100 000 estrofas**, es la obra literaria más extensa jamás compuesta.",
+    "imagenes": [
+      "/images/india/in_in-hierro-ganges-razmnama-bhishma-jpg-utm-source-es-wikipedia-org-u_wikimedia.jpg"
+    ]
+  },
+  {
+    "id": "in-upanishads",
+    "region": "india",
+    "tipo": "evento",
+    "titulo": "Los Upanishads",
+    "fecha_inicio": -800,
+    "fecha_fin": null,
+    "descripcion_corta": "Los **Upanishads** son el giro más profundo del pensamiento indio: dejan atrás el ritual y el sacrificio para preguntar qué hay detrás de todo.\n\nSu respuesta es que el yo individual, el **atman**, y la realidad última, el **brahman**, son lo mismo: *tat tvam asi*, «eso eres tú». De ahí salen ideas que definirían la India: el **karma** —toda acción tiene consecuencia—, el **samsara** o ciclo de reencarnaciones y la **moksha**, la liberación de ese ciclo.\n\nSchopenhauer dijo que su lectura había sido el consuelo de su vida. Son también el fondo común del que nacerán el hinduismo filosófico, el budismo y el jainismo.",
+    "imagenes": [
+      "/images/india/in_in-upanishads-ms-indic-37-isa-upanisad-wellcome-l0027330-jpg-utm_wikimedia.jpg"
+    ]
+  },
+  {
+    "id": "in-buda",
+    "region": "india",
+    "tipo": "evento",
+    "titulo": "Buda y el nacimiento del budismo",
+    "fecha_inicio": -563,
+    "fecha_fin": null,
+    "descripcion_corta": "**Siddhartha Gautama**, príncipe del clan Shakya en el actual Nepal, abandonó su palacio al descubrir la vejez, la enfermedad y la muerte. Tras años de ascetismo extremo, encontró la iluminación bajo un árbol en **Bodh Gaya** y pasó cuarenta y cinco años enseñando.\n\nSu diagnóstico son las **Cuatro Nobles Verdades**: hay sufrimiento, tiene una causa —el apego—, puede cesar, y hay un camino, el **Óctuple Sendero**. No pedía fe en dioses ni sacrificios, y aceptaba discípulos de cualquier casta, incluidas mujeres.\n\nDel budismo saldría la religión que más se extendería por Asia. Paradójicamente, casi desapareció de la India hacia el siglo XII, absorbido por el hinduismo y golpeado por las invasiones.",
+    "imagenes": [
+      "/images/india/in_in-buda-buddha-in-sarnath-museum-dhammajak-mutra-jpg-utm-s_wikimedia.jpg"
+    ]
+  },
+  {
+    "id": "in-mahavira",
+    "region": "india",
+    "tipo": "evento",
+    "titulo": "Mahavira y el jainismo",
+    "fecha_inicio": -540,
+    "fecha_fin": null,
+    "descripcion_corta": "Contemporáneo de Buda, **Mahavira** llevó al extremo una idea que impregnaría toda la cultura india: la **ahimsa**, la no violencia hacia cualquier ser vivo.\n\nLos monjes jainistas barren el suelo antes de pisarlo para no aplastar insectos, filtran el agua y llevan una tela ante la boca para no tragar seres diminutos; algunos van desnudos por renunciar a toda posesión. El jainismo defiende además el **anekantavada**: ninguna afirmación agota la verdad, porque toda perspectiva es parcial.\n\nNunca fue mayoritario —hoy son unos cinco millones de personas—, pero su influencia fue enorme: el vegetarianismo indio le debe mucho, y **Gandhi** reconoció que su noviolencia venía en buena parte de ahí.",
+    "imagenes": [
+      "/images/india/in_in-mahavira-mahavir-jpg-utm-source-es-wikipedia-org-utm-campai_wikimedia.jpg"
+    ]
+  },
+  {
+    "id": "in-panini",
+    "region": "india",
+    "tipo": "evento",
+    "titulo": "Panini y la gramática del sánscrito",
+    "fecha_inicio": -500,
+    "fecha_fin": null,
+    "descripcion_corta": "**Panini** describió el sánscrito en **3 959 reglas** organizadas como un sistema formal, con metarreglas, abreviaturas y un orden de aplicación estricto. Es, dos mil quinientos años antes, algo asombrosamente parecido a una **gramática generativa** o al lenguaje de una máquina.\n\nSu obra, el *Ashtadhyayi*, es tan compacta que se aprendía de memoria y tan precisa que fijó el sánscrito clásico: la lengua dejó prácticamente de cambiar desde entonces.\n\nLingüistas del siglo XX la estudiaron con asombro, y en informática se ha comparado su notación con la **forma de Backus-Naur** usada para definir lenguajes de programación. Es probablemente el texto científico más antiguo que sigue siendo técnicamente válido.",
+    "imagenes": [
+      "/images/india/in_in-panini-panini-1-jpg-utm-source-es-wikipedia-org-utm-campa_wikimedia.jpg"
+    ]
+  },
+  {
+    "id": "in-alejandro",
+    "region": "india",
+    "tipo": "evento",
+    "titulo": "Alejandro llega al Indo",
+    "fecha_inicio": -326,
+    "fecha_fin": null,
+    "descripcion_corta": "**En 326 a. C.**, Alejandro Magno cruzó el Indo y venció al rey **Poros** en la batalla del Hidaspes, donde por primera vez su ejército se enfrentó a **elefantes de guerra** en gran número. Impresionado por su dignidad al ser capturado, le devolvió el reino.\n\nSus soldados, agotados tras ocho años de campaña, **se negaron a seguir** hacia el Ganges. Alejandro tuvo que volverse, y murió tres años después en Babilonia.\n\nEl efecto sobre la India fue más cultural que político: quedaron reinos **indo-griegos** en el noroeste que acuñaron moneda bilingüe, y del contacto nacería el arte de **Gandhara**, que representó por primera vez a Buda con forma humana y rasgos helenísticos.",
+    "imagenes": [
+      "/images/india/in_in-alejandro-le-brun-alexander-and-porus-jpg-utm-source-es-wiki_wikimedia.jpg"
+    ]
+  },
+  {
+    "id": "in-maurya",
+    "region": "india",
+    "tipo": "evento",
+    "titulo": "Chandragupta y el imperio Maurya",
+    "fecha_inicio": -321,
+    "fecha_fin": null,
+    "descripcion_corta": "**Chandragupta Maurya**, con la ayuda del estratega **Chanakya**, derrocó a la dinastía Nanda y fundó **en 321 a. C.** el primer imperio que unificó casi todo el subcontinente. Derrotó al general de Alejandro, Seleuco, y selló la paz con un matrimonio y **500 elefantes de guerra**.\n\nEl embajador griego Megástenes describió su capital, **Pataliputra**, como una ciudad de 15 kilómetros de largo rodeada de una empalizada con 570 torres, mayor que cualquier ciudad europea de la época.\n\nEl Estado maurya tenía funcionarios, censos, riego, espías y un ejército de cientos de miles de hombres. Chandragupta abdicó al final de su vida, se hizo monje jainista y, según la tradición, se dejó morir de inanición ritual.",
+    "imagenes": [
+      "/images/india/in_in-maurya-chandragupt-maurya-birla-mandir-6-dec-2009-31-crop_wikimedia.jpg"
+    ]
+  },
+  {
+    "id": "in-arthashastra",
+    "region": "india",
+    "tipo": "evento",
+    "titulo": "El Arthashastra de Kautilya",
+    "fecha_inicio": -300,
+    "fecha_fin": null,
+    "descripcion_corta": "El ***Arthashastra*** es un tratado sobre el arte de gobernar atribuido a **Kautilya** (Chanakya), el ministro de Chandragupta. Se dio por perdido durante siglos y reapareció en 1905.\n\nEs un manual asombrosamente práctico y frío: administración fiscal, gestión del riego y las minas, control de precios, derecho penal, diplomacia y, sobre todo, **espionaje** —describe redes de informantes, agentes dobles, venenos y asesinatos políticos como herramientas normales de Estado.\n\nSe le suele comparar con Maquiavelo, mil ochocientos años antes y bastante más detallado. También contiene protecciones sorprendentes: derechos de las viudas, regulación de la prostitución y penas por maltratar a los esclavos.",
+    "imagenes": [
+      "/images/india/in_in-arthashastra-chanakya-artistic-depiction-jpg-utm-source-es-wiki_wikimedia.jpg"
+    ]
+  },
+  {
+    "id": "in-ashoka",
+    "region": "india",
+    "tipo": "evento",
+    "titulo": "Ashoka y los edictos",
+    "fecha_inicio": -268,
+    "fecha_fin": null,
+    "descripcion_corta": "**Ashoka**, nieto de Chandragupta, conquistó **Kalinga** en una guerra con **100 000 muertos** y, según cuenta él mismo, quedó tan horrorizado por lo que había hecho que renunció a la guerra de conquista para siempre.\n\nAbrazó el budismo y grabó sus principios en **rocas y pilares** por todo el imperio, en lenguas locales para que la gente los entendiera: tolerancia entre religiones, respeto a los animales, hospitales, pozos, árboles junto a los caminos y funcionarios encargados del bienestar. Son los primeros documentos históricos de la India que podemos fechar y leer.\n\nEl **capitel de los leones** de Sarnath es hoy el emblema nacional de la India, y la rueda de sus edictos, la *chakra*, está en el centro de su bandera.",
+    "imagenes": [
+      "/images/india/in_in-ashoka-indian-relief-from-amaravati-guntur-preserved-in-g_wikimedia.jpg"
+    ]
+  },
+  {
+    "id": "in-budismo-expansion",
+    "region": "india",
+    "tipo": "evento",
+    "titulo": "El budismo sale de la India",
+    "fecha_inicio": -250,
+    "fecha_fin": null,
+    "descripcion_corta": "Ashoka envió misiones budistas a los reinos vecinos y más allá: a **Sri Lanka**, donde su hijo Mahinda convirtió al rey y el budismo *theravada* echó raíces que duran hasta hoy; a Asia central; y, según los edictos, hasta las cortes helenísticas de Siria y Egipto.\n\nDe Asia central pasó por la **Ruta de la Seda** a China en el siglo I, y de ahí a Corea, Japón y Vietnam. Por el sur y el mar llegó a Birmania, Tailandia, Camboya e Indonesia.\n\nEs la primera religión de la historia que se propagó deliberadamente **más allá de su cultura de origen** y de forma pacífica. Hoy tiene unos 500 millones de fieles, casi todos fuera del país donde nació.",
+    "imagenes": [
+      "/images/india/in_in-budismo-expansion-sl-anuradhapura-asv2020-01-img11-ruwanwelisaya-stu_wikimedia.jpg"
+    ]
+  },
+  {
+    "id": "in-sanchi",
+    "region": "india",
+    "tipo": "evento",
+    "titulo": "Sanchi y el arte budista",
+    "fecha_inicio": -185,
+    "fecha_fin": null,
+    "descripcion_corta": "La **gran estupa de Sanchi**, mandada levantar por Ashoka y ampliada bajo los Sunga, es el monumento budista más antiguo que se conserva íntegro: una cúpula maciza que contiene reliquias, rodeada de una balaustrada y cuatro **puertas talladas** de una riqueza extraordinaria.\n\nEn esos relieves aparecen escenas de la vida de Buda... **sin Buda**: se le representa por un árbol, unas huellas, un trono vacío o una rueda, porque durante siglos se consideró imposible darle forma humana.\n\nEsa regla se rompería en **Gandhara**, donde el contacto con el arte griego produjo las primeras estatuas de Buda con rostro, túnica de pliegues y aire de Apolo. De ahí salió la iconografía budista de toda Asia.",
+    "imagenes": [
+      "/images/india/in_in-sanchi-sanchi-great-stupa-torana-jpg-utm-source-es-wikipe_wikimedia.jpg"
+    ]
+  },
+  {
+    "id": "in-monzon-roma",
+    "region": "india",
+    "tipo": "evento",
+    "titulo": "El monzón y el comercio con Roma",
+    "fecha_inicio": -100,
+    "fecha_fin": null,
+    "descripcion_corta": "Cuando los marinos griegos y egipcios comprendieron el ciclo del **monzón** —vientos que soplan al noreste en verano y al suroeste en invierno—, dejaron de bordear la costa y cruzaron el océano Índico en línea recta. El viaje de Egipto a la India pasó de un año a **cuarenta días**.\n\nEl comercio se disparó: **hasta 120 barcos al año** salían de puertos del mar Rojo hacia Muziris y Barigaza cargados de vino, cristal, coral y sobre todo **monedas de oro romanas**, para volver con pimienta, algodón, marfil, perlas y seda china.\n\nPlinio se quejaba de que el imperio perdía **55 millones de sestercios al año** en lujos indios. Se han encontrado tesoros de monedas romanas por todo el sur de la India.",
+    "imagenes": [
+      "/images/india/in_in-monzon-roma-indo-roman-trade-jpg-utm-source-en-wikipedia-org-u_wikimedia.jpg"
+    ]
+  },
+  {
+    "id": "in-kushan",
+    "region": "india",
+    "tipo": "evento",
+    "titulo": "Los kushán y Kanishka",
+    "fecha_inicio": 78,
+    "fecha_fin": null,
+    "descripcion_corta": "Los **kushán**, procedentes de Asia central, crearon un imperio que unió el norte de la India, Afganistán y parte de Asia central, justo en el cruce de las rutas entre Roma, Persia, China y la India.\n\nSu rey más célebre, **Kanishka**, protegió el budismo **mahayana** —el que promete la salvación para todos y venera a los bodhisattvas— y financió su expansión hacia China. Sus monedas llevan dioses griegos, iraníes, hindúes y budistas a la vez: un imperio deliberadamente multicultural.\n\nBajo los kushán floreció el arte de **Gandhara** y también el de Mathura, y la India vivió su momento de mayor conexión con el resto de Eurasia.",
+    "imagenes": [
+      "/images/india/in_in-kushan-kanishkacoin3-jpg-utm-source-es-wikipedia-org-utm-_wikimedia.jpg"
+    ]
+  },
+  {
+    "id": "in-gupta",
+    "region": "india",
+    "tipo": "evento",
+    "titulo": "El imperio Gupta y la edad de oro",
+    "fecha_inicio": 320,
+    "fecha_fin": 550,
+    "descripcion_corta": "La dinastía **Gupta** (320-550) reunificó el norte de la India y presidió lo que suele llamarse su **edad clásica**: paz, prosperidad y un florecimiento simultáneo de literatura, matemáticas, astronomía, medicina, escultura y arquitectura de templos.\n\nA diferencia de los mauryas, gobernaron con un poder más descentralizado, dejando autonomía a los reinos vasallos. El peregrino chino **Faxian**, que recorrió el país hacia el año 400, describió ciudades prósperas, hospitales gratuitos y caminos seguros donde no hacía falta pasaporte.\n\nEn esta época se fijaron el hinduismo puránico, el sistema de los templos y buena parte de lo que hoy reconocemos como cultura clásica india.",
+    "imagenes": [
+      "/images/india/fix_in-gupta-map-of-the-gupta-empire-png-utm-source-en-wikipedi_wikimedia.png"
+    ]
+  },
+  {
+    "id": "in-kalidasa",
+    "region": "india",
+    "tipo": "evento",
+    "titulo": "Kalidasa y el teatro sánscrito",
+    "fecha_inicio": 400,
+    "fecha_fin": null,
+    "descripcion_corta": "**Kalidasa** es el mayor poeta y dramaturgo en sánscrito, el «Shakespeare de la India». Su obra maestra, ***Shakuntala***, cuenta el amor de un rey y una joven criada en una ermita, separados por una maldición y un anillo perdido.\n\nCuando se tradujo al alemán en 1791 causó sensación en Europa; **Goethe** le dedicó un poema entusiasta y se inspiró en su prólogo para el de *Fausto*.\n\nEl teatro sánscrito tenía su propia teoría, el *Natyashastra*, que analiza los **rasa**: los sabores o emociones que una obra debe provocar en el espectador —amor, risa, compasión, ira, asombro—. Es uno de los tratados de estética más antiguos del mundo, y todavía se enseña en la danza y el cine indios.",
+    "imagenes": [
+      "/images/india/in_in-kalidasa-kalidasa-inditing-the-cloud-messenger-a-d-375-jpg-_wikimedia.jpg"
+    ]
+  },
+  {
+    "id": "in-aryabhata",
+    "region": "india",
+    "tipo": "evento",
+    "titulo": "Aryabhata, el cero y los números",
+    "fecha_inicio": 499,
+    "fecha_fin": null,
+    "descripcion_corta": "**En 499**, con veintitrés años, **Aryabhata** escribió un tratado en verso que calculaba **π con cuatro decimales** correctos, daba la duración del año sideral con un error de pocos minutos y explicaba los eclipses por las sombras de la Tierra y la Luna, no por demonios.\n\nAfirmó además que **la Tierra gira sobre su eje** y que las estrellas parecen moverse por esa rotación, mil años antes que Copérnico.\n\nDe esta tradición matemática india salió el invento más útil de todos: el **sistema decimal posicional con el cero** como número, formalizado por **Brahmagupta en 628** con sus reglas de operación. Los árabes lo adoptaron y de ahí llegó a Europa como «numeración arábiga». Sin él no hay álgebra, ni cálculo, ni informática.",
+    "imagenes": [
+      "/images/india/in_in-aryabhata-2064-aryabhata-crp-jpg-utm-source-es-wikipedia-org_wikimedia.jpg"
+    ]
+  },
+  {
+    "id": "in-templos",
+    "region": "india",
+    "tipo": "evento",
+    "titulo": "Los templos de piedra",
+    "fecha_inicio": 600,
+    "fecha_fin": null,
+    "descripcion_corta": "A partir del siglo VI, la India empezó a construir en **piedra tallada** templos que sustituyeron a los de madera y ladrillo. Cada región desarrolló su estilo: el *nagara* del norte, con su torre curva, y el *dravida* del sur, con sus pirámides escalonadas y sus puertas monumentales.\n\nEn **Ellora**, el templo de Kailasa se excavó **desde arriba hacia abajo** en una sola roca, retirando 200 000 toneladas de piedra para dejar un templo entero exento; en **Ajanta**, treinta cuevas guardan las mejores pinturas budistas de la Antigüedad.\n\nEl templo hindú no es un lugar de reunión sino la **casa del dios**: un recinto oscuro y pequeño, el *garbhagriha*, «vientre-casa», bajo una montaña simbólica de piedra.",
+    "imagenes": [
+      "/images/india/in_in-templos-ellora-caves-india-kailasanatha-temple-jpg-utm-sou_wikimedia.jpg"
+    ]
+  },
+  {
+    "id": "in-harsha",
+    "region": "india",
+    "tipo": "evento",
+    "titulo": "Harsha, el último gran rey del norte",
+    "fecha_inicio": 606,
+    "fecha_fin": null,
+    "descripcion_corta": "**Harsha** reunificó el norte de la India durante cuarenta y un años tras el hundimiento de los Gupta, con capital en Kanauj. Fue el último soberano que lo consiguió antes de las invasiones musulmanas.\n\nEscribió teatro, protegió a poetas y a la universidad budista de **Nalanda** —un campus monástico con miles de estudiantes de toda Asia, biblioteca de nueve pisos y examen de ingreso—, y celebraba cada cinco años una ceremonia en la que **repartía todo el tesoro real**.\n\nLo conocemos bien porque coincidió con el peregrino chino **Xuanzang**, que pasó años en su corte y dejó escrito un retrato detallado de la India de su tiempo. Al morir Harsha sin heredero, el norte volvió a fragmentarse durante siglos.",
+    "imagenes": [
+      "/images/india/in_in-harsha-harshabysumchung-jpg-utm-source-es-wikipedia-org-u_wikimedia.jpg"
+    ]
+  },
+  {
+    "id": "in-sind",
+    "region": "india",
+    "tipo": "evento",
+    "titulo": "Los árabes en Sind",
+    "fecha_inicio": 712,
+    "fecha_fin": null,
+    "descripcion_corta": "**En 711-712**, el general **Muhammad bin Qasim**, con diecisiete años, conquistó para el califato omeya la región de **Sind**, en el bajo Indo. Fue el primer territorio indio bajo dominio musulmán, el mismo año en que otro ejército omeya entraba en Hispania.\n\nA diferencia de lo ocurrido en Persia, la expansión se detuvo ahí durante tres siglos: los reinos rajput del norte bloquearon el avance. Sind quedó como una provincia lejana, donde los hindúes y budistas fueron tratados como *dhimmíes*, protegidos a cambio de un impuesto.\n\nPor esa ventana pasó, sin embargo, algo decisivo: los **números indios y la astronomía** llegaron a Bagdad, donde al-Juarismi los convertiría en el álgebra que después heredó Europa.",
+    "imagenes": [
+      "/images/india/fix_in-sind-umayyad-caliphate-coinage-temp-suleiman-ibn-abd-al_wikimedia.jpg"
+    ]
+  },
+  {
+    "id": "in-shankara",
+    "region": "india",
+    "tipo": "evento",
+    "titulo": "Shankara y el vedanta",
+    "fecha_inicio": 800,
+    "fecha_fin": null,
+    "descripcion_corta": "**Adi Shankara** murió con treinta y dos años y en ese tiempo recorrió la India entera debatiendo con maestros de todas las escuelas, comentó los Upanishads y el *Bhagavad Gita* y fundó cuatro monasterios en los cuatro puntos cardinales del país que siguen activos.\n\nSu doctrina, el ***advaita vedanta*** o no-dualismo, sostiene que solo existe una realidad, el brahman, y que el mundo de las diferencias es **maya**, apariencia; liberarse es reconocer que el yo y lo absoluto nunca estuvieron separados.\n\nSu obra fue decisiva en el repliegue del budismo en la India y en dar al hinduismo una columna filosófica unificada. Es una de las tres o cuatro figuras que más han moldeado el pensamiento indio.",
+    "imagenes": [
+      "/images/india/in_in-shankara-raja-ravi-varma-sankaracharya-jpg-utm-source-es-wi_wikimedia.jpg"
+    ]
+  },
+  {
+    "id": "in-chola",
+    "region": "india",
+    "tipo": "evento",
+    "titulo": "Los Chola y el imperio marítimo del sur",
+    "fecha_inicio": 850,
+    "fecha_fin": null,
+    "descripcion_corta": "Mientras el norte se fragmentaba, en el sur los **Chola** construyeron desde el siglo IX una potencia naval sin igual en la India. **Rajaraja I** y su hijo **Rajendra** conquistaron Sri Lanka, las Maldivas y lanzaron **en 1025** una expedición naval contra el imperio de Srivijaya, en la actual Indonesia, a más de 2 000 kilómetros.\n\nSu templo de **Brihadisvara**, en Thanjavur, se levantó en siete años con un remate de 80 toneladas en lo alto de una torre de 66 metros. Sus **bronces de Shiva danzante** —el Nataraja— están entre las cumbres de la escultura mundial.\n\nLos Chola tenían además asambleas de aldea elegidas por sorteo con reglas escritas en piedra, uno de los sistemas de autogobierno local más antiguos documentados.",
+    "imagenes": [
+      "/images/india/in_in-chola-flag-of-chola-kingdom-png-utm-source-es-wikipedia-_wikimedia.png"
+    ]
+  },
+  {
+    "id": "in-ghazni",
+    "region": "india",
+    "tipo": "evento",
+    "titulo": "Mahmud de Ghazni",
+    "fecha_inicio": 1000,
+    "fecha_fin": null,
+    "descripcion_corta": "**Entre 1000 y 1027**, el sultán **Mahmud de Ghazni**, desde el actual Afganistán, lanzó **diecisiete campañas** contra el norte de la India. No buscaba gobernar sino saquear: su objetivo eran los templos, que acumulaban el oro y las joyas donadas durante siglos.\n\nEl saqueo del templo de **Somnath**, en 1025, con miles de muertos y el ídolo destruido, quedó como una herida en la memoria hindú y como una hazaña en las crónicas persas; sigue siendo material político en la India de hoy.\n\nEn su corte de Ghazni, sin embargo, trabajaba el sabio **Al-Biruni**, que aprendió sánscrito y escribió un estudio de la India —su religión, su ciencia, sus castas— tan riguroso y respetuoso que se considera el primer trabajo de indología comparada.",
+    "imagenes": [
+      "/images/india/in_in-ghazni-likely-idealized-depiction-of-sultan-mahmud-of-gha_wikimedia.jpg"
+    ]
+  },
+  {
+    "id": "in-khajuraho",
+    "region": "india",
+    "tipo": "evento",
+    "titulo": "Khajuraho y el arte de los templos",
+    "fecha_inicio": 1050,
+    "fecha_fin": null,
+    "descripcion_corta": "Los **templos de Khajuraho**, levantados por la dinastía Chandela entre los siglos X y XI, son la cumbre del estilo *nagara*: torres que se elevan como picos de montaña, cubiertas por miles de esculturas.\n\nSon célebres por sus **relieves eróticos**, que en realidad ocupan menos del 10 % del conjunto y aparecen sobre todo en los muros exteriores. Las explicaciones van desde el simbolismo tántrico hasta la representación del *kama*, uno de los cuatro fines legítimos de la vida en el hinduismo junto al deber, la prosperidad y la liberación.\n\nDe los 85 templos originales quedan 25. Sobrevivieron porque la selva los ocultó durante siglos, hasta que un ingeniero británico los redescubrió en 1838.",
+    "imagenes": [
+      "/images/india/in_in-khajuraho-khajuraho-tempel-india-jpg-utm-source-es-wikipedia_wikimedia.jpg"
+    ]
+  },
+  {
+    "id": "in-delhi",
+    "region": "india",
+    "tipo": "evento",
+    "titulo": "El Sultanato de Delhi",
+    "fecha_inicio": 1206,
+    "fecha_fin": 1526,
+    "descripcion_corta": "**En 1192**, Muhammad de Ghor derrotó al rey rajput Prithviraj Chauhan en Tarain, y **en 1206** su general **Qutb-ud-din Aibak**, un antiguo esclavo, se proclamó sultán de Delhi. Empezaban **tres siglos de dominio musulmán** en el norte de la India.\n\nCinco dinastías se sucedieron a golpes de Estado. Levantaron el **Qutub Minar**, el minarete de ladrillo más alto del mundo, e introdujeron el arco de herradura, la cúpula y el jardín persa, que al mezclarse con la tradición india dieron la arquitectura indoislámica.\n\nEl sultanato salvó a la India de algo peor: **frenó siete invasiones mongolas** entre 1221 y 1327. Su gran fracaso llegó en 1398, cuando **Tamerlán** saqueó Delhi y dejó, según las crónicas, torres de cráneos.",
+    "imagenes": [
+      "/images/india/in_in-delhi-delhi-sultanate-map-png-utm-source-es-wikipedia-or_wikimedia.png"
+    ]
+  },
+  {
+    "id": "in-vijayanagara",
+    "region": "india",
+    "tipo": "evento",
+    "titulo": "Vijayanagara, el imperio del sur",
+    "fecha_inicio": 1336,
+    "fecha_fin": 1565,
+    "descripcion_corta": "**En 1336**, dos hermanos fundaron en el Decán el reino de **Vijayanagara**, «la ciudad de la victoria», que durante dos siglos contuvo la expansión de los sultanatos hacia el sur y protegió la cultura hindú del sur de la India.\n\nSu capital, **Hampi**, llegó a tener medio millón de habitantes y era, según los viajeros portugueses e italianos que la visitaron, **tan grande como Roma** y mucho más rica: mercados donde se vendían diamantes a montones, canales de riego, elefantes y templos gigantescos.\n\n**En 1565**, una coalición de sultanatos la derrotó en Talikota y la ciudad fue saqueada durante meses. Sus ruinas, esparcidas entre paisajes de granito, son hoy Patrimonio de la Humanidad.",
+    "imagenes": [
+      "/images/india/in_in-vijayanagara-vijayanagara-1450s-png-utm-source-es-wikipedia-org_wikimedia.png"
+    ]
+  },
+  {
+    "id": "in-guru-nanak",
+    "region": "india",
+    "tipo": "evento",
+    "titulo": "Guru Nanak y el sijismo",
+    "fecha_inicio": 1469,
+    "fecha_fin": null,
+    "descripcion_corta": "**Guru Nanak** nació en el Punyab **en 1469** y predicó algo incómodo para todos: **«no hay hindú ni musulmán»**, solo un Dios sin forma, y las castas, los ritos y las peregrinaciones no acercan a él.\n\nDe él y de los nueve gurús que le siguieron nació el **sijismo**, con tres reglas prácticas: trabajar honradamente, compartir con los demás y recordar a Dios. Su templo mayor, el **Templo Dorado** de Amritsar, tiene **cuatro puertas** para indicar que se entra desde cualquier dirección y casta, y sirve comida gratis a decenas de miles de personas al día en su *langar*.\n\nEl décimo gurú, Gobind Singh, cerró la sucesión personal y declaró que el guía sería el libro sagrado. La comunidad, perseguida por los mogoles, se organizó también militarmente.",
+    "imagenes": [
+      "/images/india/in_in-guru-nanak-mural-painting-of-guru-nanak-from-gurdwara-baba-at_wikimedia.jpg"
+    ]
+  },
+  {
+    "id": "in-gama-calicut",
+    "region": "india",
+    "tipo": "evento",
+    "titulo": "Vasco da Gama en Calicut",
+    "fecha_inicio": 1498,
+    "fecha_fin": null,
+    "descripcion_corta": "**El 20 de mayo de 1498**, Vasco da Gama fondeó en **Calicut**, en la costa de Malabar. Cuando le preguntaron a qué venía, respondió: «cristianos y especias».\n\nSu llegada acabó con un equilibrio de mil años. El comercio del océano Índico había sido plural y sin dueño —árabes, gujaratíes, chinos, judíos—; los portugueses impusieron la novedad de un **poder marítimo armado**, con el sistema del *cartaz*: todo barco necesitaba su licencia o era hundido.\n\nEn veinte años controlaban Goa, Ormuz y Malaca. Comenzaban cuatro siglos y medio de presencia europea en la India, y con ellos el desvío hacia el Atlántico del comercio que había enriquecido a Venecia y a El Cairo.",
+    "imagenes": [
+      "/images/india/fix_in-gama-calicut-billboards-in-kozhikode-kerala-india-jpg-utm-sourc_wikimedia.jpg"
+    ]
+  },
+  {
+    "id": "in-babur",
+    "region": "india",
+    "tipo": "evento",
+    "titulo": "Babur y el imperio mogol",
+    "fecha_inicio": 1526,
+    "fecha_fin": null,
+    "descripcion_corta": "**El 21 de abril de 1526**, en **Panipat**, **Babur** —príncipe de Ferganá descendiente de Tamerlán y de Gengis Kan— derrotó con 12 000 hombres al sultán de Delhi, que tenía 100 000 y elefantes de guerra. Ganó con **artillería y mosquetes**, nuevos en la India, y con una táctica aprendida de los otomanos.\n\nAsí nació el **imperio mogol**, que gobernaría el subcontinente hasta el siglo XVIII. Babur dejó además unas memorias, el *Baburnama*, sorprendentemente sinceras: habla de sus derrotas, sus borracheras, su nostalgia de los melones de Asia central y su opinión —bastante mala— del clima indio.\n\nLa palabra *mogol* es la forma persa de «mongol», aunque ellos se veían como timúridas y hablaban persa.",
+    "imagenes": [
+      "/images/india/in_in-babur-humayun-and-babur-late-shah-jahan-album-babur-deta_wikimedia.jpg"
+    ]
+  },
+  {
+    "id": "in-akbar",
+    "region": "india",
+    "tipo": "evento",
+    "titulo": "Akbar el Grande",
+    "fecha_inicio": 1556,
+    "fecha_fin": null,
+    "descripcion_corta": "**Akbar** subió al trono con trece años y reinó cuarenta y nueve. Analfabeto de por vida —probablemente disléxico—, se hizo leer libros en voz alta y reunió una biblioteca de 24 000 volúmenes.\n\nGobernó un imperio de **100 millones de personas** con una idea poco común en el siglo XVI: la **tolerancia religiosa**. Abolió el *jizya*, el impuesto a los no musulmanes, se casó con princesas rajput sin obligarlas a convertirse, nombró hindúes en los mandos y organizó en su corte debates entre musulmanes, hindúes, jainistas, zoroástricos y jesuitas.\n\nReformó la hacienda con un catastro que medía la tierra y su rendimiento, y creó el sistema *mansabdari* de rangos militares. Con él, el imperio mogol alcanzó su forma definitiva.",
+    "imagenes": [
+      "/images/india/in_in-akbar-contemporary-seated-portrait-of-akbar-1605-jpg-utm_wikimedia.jpg"
+    ]
+  },
+  {
+    "id": "in-compania",
+    "region": "india",
+    "tipo": "evento",
+    "titulo": "La Compañía de las Indias Orientales",
+    "fecha_inicio": 1600,
+    "fecha_fin": null,
+    "descripcion_corta": "**El 31 de diciembre de 1600**, Isabel I concedió a un grupo de comerciantes de Londres el monopolio del comercio con Asia. La **Compañía Británica de las Indias Orientales** empezó pidiendo permiso al emperador mogol para abrir una factoría en Surat.\n\nDurante siglo y medio fue solo eso: un negocio de especias, algodón, salitre, índigo y té, con fortines en Madrás, Bombay y Calcuta. Los mogoles la toleraban porque pagaba bien y no molestaba.\n\nCon el tiempo se convirtió en algo que no tiene equivalente: una **empresa privada con ejército propio** —llegó a tener 260 000 soldados, el doble que el ejército británico—, moneda, tribunales y gobierno sobre millones de personas. Gobernó la India durante un siglo antes de que la Corona la sustituyera.",
+    "imagenes": [
+      "/images/india/in_in-compania-bharthana-althan-area-jpg-utm-source-es-wikipedia-_wikimedia.jpg"
+    ]
+  },
+  {
+    "id": "in-taj-mahal",
+    "region": "india",
+    "tipo": "evento",
+    "titulo": "El Taj Mahal",
+    "fecha_inicio": 1631,
+    "fecha_fin": null,
+    "descripcion_corta": "Cuando **Mumtaz Mahal** murió en 1631 dando a luz a su decimocuarto hijo, el emperador **Shah Jahan** ordenó construirle el mausoleo más hermoso posible. Trabajaron **20 000 obreros durante veintidós años**, con mármol traído a 300 kilómetros por mil elefantes y piedras semipreciosas de Persia, Tíbet, China y Arabia.\n\nEl Taj Mahal es un ejercicio de simetría casi obsesiva —salvo por un detalle: la tumba del propio Shah Jahan, añadida después, es lo único descentrado del conjunto—. Los cuatro minaretes están **ligeramente inclinados hacia fuera** para que, en caso de terremoto, no caigan sobre la cúpula.\n\nSu hijo Aurangzeb lo depuso y lo encerró en el fuerte de Agra, desde donde, dice la tradición, pasó sus últimos ocho años mirando el mausoleo al otro lado del río.",
+    "imagenes": [
+      "/images/india/in_in-taj-mahal-taj-mahal-edited-jpeg-utm-source-es-wikipedia-org-_wikimedia.jpg"
+    ]
+  },
+  {
+    "id": "in-aurangzeb",
+    "region": "india",
+    "tipo": "evento",
+    "titulo": "Aurangzeb y el declive mogol",
+    "fecha_inicio": 1658,
+    "fecha_fin": null,
+    "descripcion_corta": "**Aurangzeb** llegó al trono **en 1658** tras encarcelar a su padre y matar a sus hermanos, y llevó al imperio a su máxima extensión: casi todo el subcontinente.\n\nTambién lo agotó. Rompió con la tolerancia de Akbar: restableció el *jizya*, destruyó templos hindúes, prohibió la música en la corte y ejecutó al gurú sij Tegh Bahadur. Y se pasó **veintiséis años en campaña en el Decán**, una guerra que consumió el tesoro y el ejército sin someter del todo a los maratas.\n\nCuando murió en 1707, a los 88 años, el imperio era enorme sobre el mapa y estaba deshecho por dentro. En cincuenta años se fragmentó en reinos independientes, dejando el terreno libre a los europeos.",
+    "imagenes": [
+      "/images/india/in_in-aurangzeb-aurangzeb-r-1658-1707-jpg-cropped-jpg-utm-source-e_wikimedia.jpg"
+    ]
+  },
+  {
+    "id": "in-shivaji",
+    "region": "india",
+    "tipo": "evento",
+    "titulo": "Shivaji y los maratas",
+    "fecha_inicio": 1674,
+    "fecha_fin": null,
+    "descripcion_corta": "**Shivaji Bhonsle** creó desde casi nada un reino en el oeste de la India combatiendo a mogoles y sultanatos con **guerra de guerrillas**: fuertes en montañas inaccesibles, movimientos rápidos, emboscadas y una marina propia para hostigar la costa.\n\nSe coronó **en 1674** en un ritual que reivindicaba la soberanía hindú frente a los mogoles, organizó una administración eficiente con impuestos fijos y prohibió a sus tropas maltratar a civiles y profanar mezquitas.\n\nTras su muerte, la **Confederación Marata** llegó a dominar buena parte de la India en el siglo XVIII y fue la última potencia india capaz de enfrentarse a los británicos. Shivaji es hoy un símbolo nacional —y también una bandera política en la India actual.",
+    "imagenes": [
+      "/images/india/in_in-shivaji-shivaji-rijksmuseum-jpg-utm-source-es-wikipedia-or_wikimedia.jpg"
+    ]
+  },
+  {
+    "id": "in-nadir-shah",
+    "region": "india",
+    "tipo": "evento",
+    "titulo": "Nadir Shah saquea Delhi",
+    "fecha_inicio": 1739,
+    "fecha_fin": null,
+    "descripcion_corta": "**En 1739**, el persa **Nadir Shah** aplastó al ejército mogol en Karnal y entró en Delhi. Tras un motín en el que murieron soldados persas, ordenó una matanza que dejó **unos 30 000 muertos** en un solo día.\n\nSe llevó un botín legendario: el **trono del Pavo Real**, el diamante **Koh-i-Noor**, elefantes, joyas y monedas suficientes para que **suspendiera los impuestos en Persia durante tres años**.\n\nEl imperio mogol nunca se recuperó. A partir de aquí el emperador de Delhi fue una figura decorativa, y las verdaderas potencias eran los maratas, los sijs, los nizams del sur y unos comerciantes ingleses que empezaban a tener demasiados soldados.",
+    "imagenes": [
+      "/images/india/in_in-nadir-shah-contemporary-portrait-of-nader-shah-artist-unknown_wikimedia.jpg"
+    ]
+  },
+  {
+    "id": "in-plassey",
+    "region": "india",
+    "tipo": "evento",
+    "titulo": "Plassey y el poder de la Compañía",
+    "fecha_inicio": 1757,
+    "fecha_fin": null,
+    "descripcion_corta": "**El 23 de junio de 1757**, en **Plassey**, **Robert Clive** venció al nabab de Bengala con 3 000 hombres frente a 50 000. No fue una hazaña militar: había **comprado de antemano** a Mir Jafar, el comandante enemigo, que se quedó quieto con la mayor parte del ejército.\n\nEl premio fue Bengala, la provincia más rica de la India. **En 1765**, la Compañía obtuvo el *diwani*: el derecho a recaudar los impuestos de 20 millones de personas. Una empresa privada cobrando los tributos de un país entero.\n\nClive se llevó una fortuna personal y, al ser investigado en Londres, declaró que le asombraba su **propia moderación**. De Plassey arranca el dominio británico de la India, y la palabra inglesa *loot*, saqueo, tomada del hindi.",
+    "imagenes": [
+      "/images/india/in_in-plassey-lord-clive-meeting-with-mir-jafar-after-the-battle_wikimedia.jpg"
+    ]
+  },
+  {
+    "id": "in-hambruna-bengala",
+    "region": "india",
+    "tipo": "evento",
+    "titulo": "La gran hambruna de Bengala",
+    "fecha_inicio": 1770,
+    "fecha_fin": null,
+    "descripcion_corta": "**Entre 1769 y 1770**, tras dos monzones fallidos, una hambruna mató en Bengala a **unos diez millones de personas**, cerca de **un tercio** de la población de la provincia.\n\nLa sequía fue la causa inmediata; la gestión, el agravante. La Compañía **mantuvo e incluso subió la recaudación** de impuestos, sus agentes acapararon arroz para especular y se había forzado a los campesinos a sustituir cultivos alimentarios por índigo y opio para la exportación.\n\nEl escándalo llegó a Londres y provocó las primeras leyes de control parlamentario sobre la Compañía. Fue la primera de una serie de hambrunas —1876, 1896, 1943— cuya relación con las políticas coloniales sigue siendo uno de los debates más ásperos de la historia del imperio británico.",
+    "imagenes": [
+      "/images/india/in_in-hambruna-bengala-distressed-natives-going-to-the-relief-works-the-g_wikimedia.jpg"
+    ]
+  },
+  {
+    "id": "in-tipu",
+    "region": "india",
+    "tipo": "evento",
+    "titulo": "Tipu Sultán y la resistencia de Mysore",
+    "fecha_inicio": 1799,
+    "fecha_fin": null,
+    "descripcion_corta": "**Tipu Sultán**, el «Tigre de Mysore», libró cuatro guerras contra los británicos y fue el enemigo que más quebraderos les dio. Modernizó su ejército, buscó alianzas con Francia y con los otomanos, e impulsó la industria de la seda y la siderurgia.\n\nSu innovación más influyente fueron los **cohetes de guerra** con tubo de hierro, mucho más potentes que los europeos: causaron estragos en las tropas británicas. Los ingleses se llevaron ejemplares a Woolwich y de ahí salieron los **cohetes Congreve** que se usarían en las guerras napoleónicas.\n\nMurió combatiendo en la brecha de **Seringapatam en 1799**. Con él desapareció el último Estado del sur capaz de plantar cara, y la Compañía quedó sin rival serio salvo los maratas.",
+    "imagenes": [
+      "/images/india/in_in-tipu-tipu-sultan-bl-jpg-utm-source-es-wikipedia-org-utm_wikimedia.jpg"
+    ]
+  },
+  {
+    "id": "in-maratas",
+    "region": "india",
+    "tipo": "evento",
+    "titulo": "La derrota de los maratas",
+    "fecha_inicio": 1818,
+    "fecha_fin": null,
+    "descripcion_corta": "**En 1818**, tras tres guerras, la **Confederación Marata** fue derrotada definitivamente. Era el último gran poder indio independiente: con su caída, la Compañía Británica pasó a controlar, directamente o mediante príncipes vasallos, prácticamente todo el subcontinente.\n\nEl instrumento fue la **alianza subsidiaria**: un príncipe conservaba su trono a cambio de aceptar tropas británicas pagadas por él, renunciar a la política exterior y admitir un residente británico en su corte. Quien no podía pagar, perdía territorio.\n\nAsí se construyó el mapa de la India británica: provincias administradas directamente y **más de 500 Estados principescos** formalmente soberanos y realmente sometidos, un rompecabezas que estallaría en 1947.",
+    "imagenes": [
+      "/images/india/in_in-maratas-india1760-1905-jpg-utm-source-en-wikipedia-org-utm_wikimedia.jpg"
+    ]
+  },
+  {
+    "id": "in-reformas-1829",
+    "region": "india",
+    "tipo": "evento",
+    "titulo": "Ram Mohan Roy y el fin del sati",
+    "fecha_inicio": 1829,
+    "fecha_fin": null,
+    "descripcion_corta": "**En 1829**, el gobierno colonial prohibió el ***sati***, la inmolación de la viuda en la pira funeraria del marido. La medida se aplicó gracias a la campaña del reformador bengalí **Ram Mohan Roy**, que la combatió argumentando desde los propios textos sánscritos que no era una obligación religiosa.\n\nRoy fundó el **Brahmo Samaj**, defendió la educación de las mujeres, el estudio de las ciencias modernas y la libertad de prensa. Se le considera el padre del «Renacimiento bengalí» y de la India moderna.\n\nSiguieron otras reformas: la ley que permitió a las viudas volver a casarse (1856) y las campañas contra el matrimonio infantil. Fueron avances reales, y también argumento de legitimación para un imperio que se presentaba como civilizador mientras se llevaba la riqueza.",
+    "imagenes": [
+      "/images/india/in_in-reformas-1829-portrait-of-raja-ram-mohun-roy-1833-jpg-utm-source_wikimedia.jpg"
+    ]
+  },
+  {
+    "id": "in-ferrocarril",
+    "region": "india",
+    "tipo": "evento",
+    "titulo": "El ferrocarril y el telégrafo",
+    "fecha_inicio": 1853,
+    "fecha_fin": null,
+    "descripcion_corta": "**El 16 de abril de 1853** circuló el primer tren indio, de Bombay a Thane, 34 kilómetros. En 1900 la India tenía **40 000 kilómetros de vía**, la cuarta red del mundo, y el telégrafo unía todo el subcontinente.\n\nSe construyó con capital privado británico al que el gobierno colonial **garantizaba un 5 % de beneficio con dinero de los impuestos indios**, cobrara lo que cobrara la línea. Los trazados iban de las zonas productoras a los puertos, no de ciudad india a ciudad india.\n\nEl efecto fue doble y contradictorio: sirvió para exportar materias primas y mover tropas, y a la vez creó por primera vez un espacio nacional donde la gente, las ideas y los periódicos circulaban. Sin ferrocarril no habría habido movimiento nacionalista pan-indio.",
+    "imagenes": [
+      "/images/india/in_in-ferrocarril-rail-bhavan-1-jpg-utm-source-es-wikipedia-org-utm-_wikimedia.jpg"
+    ]
+  },
+  {
+    "id": "in-1857",
+    "region": "india",
+    "tipo": "evento",
+    "titulo": "La rebelión de 1857",
+    "fecha_inicio": 1857,
+    "fecha_fin": 1858,
+    "descripcion_corta": "**En mayo de 1857**, los cipayos de Meerut se amotinaron y marcharon sobre Delhi, donde proclamaron emperador al anciano mogol **Bahadur Shah Zafar**. La chispa fueron los cartuchos engrasados con sebo de vaca y cerdo; el fondo, décadas de anexiones, humillaciones y ruina de artesanos y campesinos.\n\nLa revuelta se extendió por el norte y contó con figuras como la **rani Lakshmibai de Jhansi**, muerta combatiendo a caballo. La represión británica fue atroz: ciudades arrasadas, ejecuciones masivas y rebeldes atados a la boca de los cañones.\n\nLos indios la llaman **la primera guerra de independencia**; los británicos la llamaron «el motín». Bahadur Shah fue desterrado a Birmania y con él terminaron, formalmente, **331 años de imperio mogol**.",
+    "imagenes": [
+      "/images/india/fix_in-1857-laksmibai-rani-of-jhansi-22140388883-jpg-utm-sourc_wikimedia.jpg"
+    ]
+  },
+  {
+    "id": "in-raj",
+    "region": "india",
+    "tipo": "evento",
+    "titulo": "El Raj británico",
+    "fecha_inicio": 1858,
+    "fecha_fin": 1947,
+    "descripcion_corta": "**En 1858**, tras la rebelión, el Parlamento disolvió la Compañía y la Corona asumió el gobierno directo. Nacía el **Raj**: un virrey en Calcuta, un secretario de Estado en Londres y, **en 1876**, la reina Victoria proclamada **emperatriz de la India**.\n\nEl aparato era asombrosamente pequeño: unos **1 000 funcionarios británicos** del Indian Civil Service gobernaban a 300 millones de personas, apoyados en un ejército mayoritariamente indio y en la colaboración de príncipes y terratenientes.\n\nEl Raj trajo ferrocarril, correos, código penal, universidades y un aparato estadístico enorme. Y también deindustrialización del textil, hambrunas recurrentes, drenaje de riqueza hacia Londres y una segregación social rígida entre gobernantes y gobernados.",
+    "imagenes": [
+      "/images/india/in_in-raj-queen-victoria-by-bassano-jpg-utm-source-es-wikipe_wikimedia.jpg"
+    ]
+  },
+  {
+    "id": "in-congreso",
+    "region": "india",
+    "tipo": "evento",
+    "titulo": "El Congreso Nacional Indio",
+    "fecha_inicio": 1885,
+    "fecha_fin": null,
+    "descripcion_corta": "**En diciembre de 1885**, setenta y dos delegados se reunieron en Bombay para fundar el **Congreso Nacional Indio**. Curiosamente, el impulsor fue un funcionario británico retirado, **Allan Octavian Hume**, que pensaba en una válvula de escape ordenada para el descontento.\n\nAl principio pedía cosas modestas: más indios en la administración, menos gasto militar, representación. Con el tiempo se dividió entre moderados y **extremistas** como Tilak, que acuñó la frase «la autonomía es mi derecho de nacimiento».\n\nLa **partición de Bengala en 1905**, decidida en Londres por razones administrativas y sospechada de dividir a hindúes y musulmanes, desató el movimiento *swadeshi* de boicot a los productos británicos y convirtió al Congreso en un movimiento de masas.",
+    "imagenes": [
+      "/images/india/in_in-congreso-bal-g-tilak-jpg-utm-source-es-wikipedia-org-utm-ca_wikimedia.jpg"
+    ]
+  },
+  {
+    "id": "in-gandhi",
+    "region": "india",
+    "tipo": "evento",
+    "titulo": "Gandhi vuelve a la India",
+    "fecha_inicio": 1915,
+    "fecha_fin": null,
+    "descripcion_corta": "**Mohandas Gandhi** volvió **en 1915** de Sudáfrica, donde había pasado veinte años y donde había inventado su método: el ***satyagraha***, la fuerza de la verdad, una resistencia no violenta que acepta el castigo sin devolver el golpe.\n\nSe recorrió la India en tercera clase antes de intervenir en política, cambió el traje de abogado por el *dhoti* de algodón hilado a mano y convirtió la **rueca** en símbolo de independencia económica. Su fuerza fue convertir al Congreso, hasta entonces un club de abogados urbanos, en un movimiento de **campesinos y masas**.\n\nSus armas eran el ayuno, la marcha, el boicot y la desobediencia civil. Pasó en total **más de seis años en la cárcel** por ellas.",
+    "imagenes": [
+      "/images/india/in_in-gandhi-mahatma-gandhi-studio-1931-jpg-utm-source-es-wikip_wikimedia.jpg"
+    ]
+  },
+  {
+    "id": "in-amritsar",
+    "region": "india",
+    "tipo": "evento",
+    "titulo": "La masacre de Amritsar",
+    "fecha_inicio": 1919,
+    "fecha_fin": null,
+    "descripcion_corta": "**El 13 de abril de 1919**, en el recinto cerrado de **Jallianwala Bagh**, en Amritsar, miles de personas —muchas peregrinos y familias que celebraban una fiesta— se habían reunido pese a la prohibición de actos públicos.\n\nEl general **Dyer** bloqueó la única salida con sus tropas y ordenó disparar sin aviso durante **diez minutos**, hasta agotar 1 650 balas. Las cifras oficiales británicas hablaron de 379 muertos; las indias, de más de mil.\n\nDyer fue retirado, pero una parte de la opinión británica lo trató como un héroe y le organizó una colecta. Para la India fue el punto de no retorno: **Tagore devolvió su título de sir** y millones de personas que aún confiaban en el imperio dejaron de hacerlo. El movimiento de no cooperación arrancó al año siguiente.",
+    "imagenes": [
+      "/images/india/in_in-amritsar-jalian-wala-bagh-memorial-311-jpg-utm-source-es-wi_wikimedia.jpg"
+    ]
+  },
+  {
+    "id": "in-marcha-sal",
+    "region": "india",
+    "tipo": "evento",
+    "titulo": "La marcha de la sal",
+    "fecha_inicio": 1930,
+    "fecha_fin": null,
+    "descripcion_corta": "El monopolio británico de la **sal** prohibía a los indios recogerla o fabricarla, incluso en su propia costa, y la gravaba con un impuesto que pagaban también los más pobres.\n\nEl **12 de marzo de 1930**, Gandhi salió caminando con 78 seguidores hacia el mar. Recorrió **385 kilómetros en 24 días**, seguido por la prensa mundial, y el 6 de abril recogió un puñado de barro salado en la playa de Dandi. El gesto era ilegal, ridículo y perfecto.\n\nMillones de personas empezaron a fabricar sal, boicotear tejidos y dejar sus cargos. Hubo **60 000 detenidos**, incluido Gandhi. Fue la demostración de que la desobediencia civil masiva podía paralizar un imperio, y el modelo que después estudiarían Martin Luther King y Mandela.",
+    "imagenes": [
+      "/images/india/in_in-marcha-sal-gandhi-at-dandi-5-april-1930-jpg-utm-source-es-wik_wikimedia.jpg"
+    ]
+  },
+  {
+    "id": "in-quit-india",
+    "region": "india",
+    "tipo": "evento",
+    "titulo": "Quit India",
+    "fecha_inicio": 1942,
+    "fecha_fin": null,
+    "descripcion_corta": "**En agosto de 1942**, con Japón a las puertas de Birmania y sin haber consultado a los indios para meterlos en la guerra, el Congreso lanzó el movimiento ***Quit India***: «marchaos de la India». Gandhi pidió a sus compatriotas «actuar o morir».\n\nLa respuesta fue inmediata: se detuvo a **todo el liderazgo del Congreso** —Gandhi, Nehru, Patel— y a decenas de miles de personas, y las protestas fueron reprimidas con dureza.\n\nEn medio de la guerra, la **hambruna de Bengala de 1943** mató a unos tres millones de personas, con el grano desviado al esfuerzo bélico y las importaciones bloqueadas. Al terminar la guerra, un Reino Unido arruinado ya no podía —ni quería— sostener el Raj.",
+    "imagenes": [
+      "/images/india/in_in-quit-india-quit-india-movement-2017-stampsheet-2-jpg-utm-sour_wikimedia.jpg"
+    ]
+  },
+  {
+    "id": "in-independencia",
+    "region": "india",
+    "tipo": "evento",
+    "titulo": "La independencia y la partición",
+    "fecha_inicio": 1947,
+    "fecha_fin": null,
+    "descripcion_corta": "**A medianoche del 15 de agosto de 1947**, la India se independizó. Nehru lo anunció con la frase de la «cita con el destino». Pero la independencia llegó partida en dos: se creó **Pakistán** como Estado para los musulmanes, con Jinnah y la Liga Musulmana enfrentados al Congreso sobre el futuro reparto de poder.\n\nLa frontera la trazó en **cinco semanas** un abogado inglés, Cyril Radcliffe, que nunca había estado en la India, y se publicó dos días después de la independencia. Siguió el mayor desplazamiento forzoso de la historia: **entre 12 y 15 millones de personas** cruzaron la frontera en ambos sentidos y **entre medio millón y dos millones murieron** en las matanzas.\n\nGandhi, que había ayunado para frenar la violencia y se opuso a la partición, fue asesinado en enero de 1948 por un extremista hindú.",
+    "imagenes": [
+      "/images/india/in_in-independencia-jinnah1945c-jpg-utm-source-es-wikipedia-org-utm-ca_wikimedia.jpg"
+    ]
+  },
+  {
+    "id": "in-ctx-creencias",
+    "region": "india",
+    "tipo": "evento",
+    "titulo": "Creencias: hinduismo, budismo y jainismo",
+    "fecha_inicio": -400,
+    "fecha_fin": null,
+    "descripcion_corta": "**Un fondo común**\n\nCasi todas las religiones nacidas en la India comparten tres ideas: el **karma** —toda acción tiene consecuencia—, el **samsara** o ciclo de renacimientos, y la liberación de ese ciclo como meta última.\n\n**Hinduismo**\n\nNo tiene fundador, ni un libro único, ni una autoridad central: es un conjunto enorme de tradiciones. Conviven el culto a **Vishnu**, **Shiva** y la **Diosa**, la idea filosófica de un absoluto impersonal, el rito doméstico y la peregrinación. Es la religión viva más antigua del mundo.\n\n**Los cuatro fines**\n\nLa vida tiene metas legítimas y ordenadas: el **dharma** (el deber), el *artha* (la prosperidad), el *kama* (el placer) y la *moksha* (la liberación). Un mismo sistema da sitio al asceta y al comerciante.\n\n**Vacas, ríos y montañas**\n\nLa vaca como animal protegido, el Ganges como purificador, los peregrinajes a los templos: la religiosidad india es sobre todo **práctica cotidiana**, no doctrina.",
+    "imagenes": [
+      "/images/india/in_in-ctx-creencias-hinduism-symbol-png-utm-source-es-wikipedia-org-ut_wikimedia.png"
+    ],
+    "contextual": true
+  },
+  {
+    "id": "in-ctx-castas",
+    "region": "india",
+    "tipo": "evento",
+    "titulo": "El sistema de castas",
+    "fecha_inicio": 100,
+    "fecha_fin": null,
+    "descripcion_corta": "**Las cuatro varnas**\n\nLos textos védicos describen cuatro grandes órdenes: **brahmanes** (sacerdotes y letrados), **chatrias** (guerreros y reyes), **vaishias** (comerciantes y campesinos) y **shudras** (servidores). Fuera del sistema quedaban los **intocables**, dedicados a los trabajos considerados impuros.\n\n**Las jati**\n\nLa realidad diaria no eran cuatro castas sino **miles de jati**, grupos locales definidos por oficio, dentro de los cuales había que casarse y con los que se compartía comida. La casta regulaba el trabajo, el matrimonio y el trato social, y se heredaba.\n\n**Discusión y resistencia**\n\nBuda, Mahavira, los santos *bhakti* de la Edad Media y Guru Nanak la rechazaron. En el siglo XX, **Ambedkar** —nacido intocable y redactor principal de la Constitución india— llevó esa lucha a la ley.\n\n**Hoy**\n\nLa Constitución de 1950 abolió la intocabilidad y estableció cuotas en universidades y empleo público. La casta sigue pesando en el matrimonio y la política.",
+    "imagenes": [
+      "/images/india/in_in-ctx-castas-castes-india-jpg-utm-source-es-wikipedia-org-utm-c_wikimedia.jpg"
+    ],
+    "contextual": true
+  },
+  {
+    "id": "in-ctx-vida",
+    "region": "india",
+    "tipo": "evento",
+    "titulo": "Cómo vivía la gente en la India",
+    "fecha_inicio": 500,
+    "fecha_fin": null,
+    "descripcion_corta": "**La aldea**\n\nLa inmensa mayoría vivía en aldeas casi autosuficientes, organizadas por el **sistema jajmani**: el carpintero, el herrero, el alfarero, el barbero y el lavandero servían a las familias campesinas y cobraban en grano tras la cosecha, no en dinero.\n\n**La casa y la familia**\n\nAdobe o ladrillo, patio, cocina separada por razones de pureza ritual. La **familia extensa** —varios hermanos con sus mujeres e hijos bajo un mismo techo— era la norma, con matrimonios concertados dentro de la casta.\n\n**La comida**\n\nArroz en el sur y el este, trigo en el norte, con legumbres, verduras, yogur y ghee. El **vegetarianismo**, de raíz jainista y budista, se extendió entre brahmanes y comerciantes. Las especias no eran lujo sino conservante y medicina, según el **ayurveda**.\n\n**El monzón**\n\nTodo dependía de él: si llegaba tarde o corto, había hambre. El calendario, las fiestas y hasta la música clásica están organizados alrededor de las estaciones que trae.",
+    "imagenes": [
+      "/images/india/in_in-ctx-vida-godofayurveda-jpg-utm-source-es-wikipedia-org-utm-_wikimedia.jpg"
+    ],
+    "contextual": true
+  },
+  {
+    "id": "in-ctx-economia",
+    "region": "india",
+    "tipo": "evento",
+    "titulo": "Modelo económico de la India",
+    "fecha_inicio": 1200,
+    "fecha_fin": null,
+    "descripcion_corta": "**La fábrica del mundo**\n\nDurante casi dos milenios, la India fue el mayor productor de **textiles de algodón** del planeta: muselinas de Dacca tan finas que cabían en una cáscara de nuez, estampados de Gujarat, calicó de Calicut —de donde viene la palabra—. Se exportaban a Roma, África oriental, el sureste asiático y después a Europa.\n\n**Especias y acero**\n\nPimienta de Malabar, cardamomo, canela de Ceilán. Y el **acero wootz**, con el que se forjaban las hojas de Damasco: una técnica india que Europa no supo replicar hasta el siglo XIX.\n\n**El peso en el mundo**\n\nSegún las estimaciones de Angus Maddison, hacia el año 1000 la India generaba **cerca de un cuarto del producto mundial**, y todavía en 1700 estaba a la par de toda Europa.\n\n**El giro colonial**\n\nCon el Raj, la India pasó de exportar tejidos a **exportar algodón en bruto e importar tela de Manchester**. Su participación en la economía mundial cayó por debajo del 5 % en 1947.",
+    "imagenes": [
+      "/images/india/in_in-ctx-economia-ma-lebrun-jpg-utm-source-es-wikipedia-org-utm-camp_wikimedia.jpg"
+    ],
+    "contextual": true
+  },
+  {
+    "id": "in-ctx-costumbres",
+    "region": "india",
+    "tipo": "evento",
+    "titulo": "Costumbres y vida diaria",
+    "fecha_inicio": 1650,
+    "fecha_fin": null,
+    "descripcion_corta": "**Las fiestas**\n\n**Diwali**, la fiesta de las luces, con lámparas de aceite en cada ventana; **Holi**, en la que todo el mundo se lanza polvos de colores y por un día se suspenden las jerarquías; y las peregrinaciones masivas como el **Kumbh Mela**, que hoy reúne a decenas de millones de personas y es la mayor concentración humana del planeta.\n\n**La ropa**\n\nEl **sari**, una sola pieza de tela sin coser de cinco o seis metros, drapeada de docenas de maneras distintas según la región; el *dhoti* y el turbante para ellos, con colores y formas que indican comunidad y origen.\n\n**Las artes**\n\nMúsica clásica basada en los **ragas**, escalas asociadas a una hora del día o a una estación; danzas narrativas como el bharatanatyam y el kathak, que combinaban la corte hindú y la mogola.\n\n**La mesa y la cortesía**\n\nComer con la mano derecha, descalzarse al entrar en una casa o templo, saludar con las manos juntas: el **namasté**, un gesto que evita el contacto y sirve para todos.",
+    "imagenes": [
+      "/images/india/in_in-ctx-costumbres-diwali-in-pune-2012-jpg-utm-source-es-wikipedia-or_wikimedia.jpg"
+    ],
+    "contextual": true
+  },
+  {
+    "id": "in-ctx-raj-economia",
+    "region": "india",
+    "tipo": "evento",
+    "titulo": "La economía bajo el Raj",
+    "fecha_inicio": 1880,
+    "fecha_fin": null,
+    "descripcion_corta": "**El drenaje**\n\nEl nacionalista **Dadabhai Naoroji** formuló en 1867 la teoría del *drain*: la India transfería cada año a Gran Bretaña una parte de su riqueza sin contrapartida, a través de los *home charges* —pensiones, intereses de deuda, gastos del India Office y del ejército— pagados con impuestos indios.\n\n**La deindustrialización**\n\nLos tejidos indios entraban en Gran Bretaña con aranceles altísimos, mientras la tela británica entraba en la India casi libre. Los tejedores de Bengala y Gujarat se arruinaron: un virrey, lord Bentinck, escribió que **las llanuras estaban blancas con los huesos de los tejedores de algodón**.\n\n**Cultivos para exportar**\n\nÍndigo, yute, té, opio y algodón sustituyeron a los alimentos en buena parte de la tierra. Con el ferrocarril, el grano viajaba a los puertos incluso durante las hambrunas.\n\n**El balance**\n\nEn 1947, la esperanza de vida rondaba los **32 años** y la alfabetización, el 12 %.",
+    "imagenes": [
+      "/images/india/in_in-ctx-raj-economia-dadabhai-naoroji-1892-jpg-utm-source-es-wikipedia-_wikimedia.jpg"
+    ],
+    "contextual": true
+  }
+]

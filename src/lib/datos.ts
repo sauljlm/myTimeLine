@@ -18,11 +18,19 @@ import edadMedia from "@data/edad-media.json";
 import edadModerna from "@data/edad-moderna.json";
 import china from "@data/china.json";
 import japon from "@data/japon.json";
+import india from "@data/india.json";
+import islam from "@data/islam.json";
 import costaRica from "@data/costa-rica.json";
 import norteamerica from "@data/norteamerica.json";
 import mexico from "@data/mexico.json";
 import centroamerica from "@data/centroamerica.json";
 import suramerica from "@data/suramerica.json";
+import nicaragua from "@data/nicaragua.json";
+import panama from "@data/panama.json";
+import cuba from "@data/cuba.json";
+import colombia from "@data/colombia.json";
+import argentina from "@data/argentina.json";
+import brasil from "@data/brasil.json";
 
 export const regionsFile = regions as RegionsFile;
 
@@ -39,11 +47,19 @@ export const bloquesPorRegion: Record<string, Bloque[]> = {
   "edad-moderna": edadModerna as Bloque[],
   china: china as Bloque[],
   japon: japon as Bloque[],
+  india: india as Bloque[],
+  islam: islam as Bloque[],
   "costa-rica": costaRica as Bloque[],
   norteamerica: norteamerica as Bloque[],
   mexico: mexico as Bloque[],
   centroamerica: centroamerica as Bloque[],
   suramerica: suramerica as Bloque[],
+  nicaragua: nicaragua as Bloque[],
+  panama: panama as Bloque[],
+  cuba: cuba as Bloque[],
+  colombia: colombia as Bloque[],
+  argentina: argentina as Bloque[],
+  brasil: brasil as Bloque[],
 };
 
 /** Todos los bloques de todas las regiones, sin agrupar. */

@@ -432,7 +432,7 @@
     "fecha_fin": null,
     "descripcion_corta": "Tres siglos en los que se mezclaron dos mundos y nació uno nuevo.\n\n**La ciudad y el campo**\n\nMéxico se reconstruyó con trazado en cuadrícula alrededor de la plaza mayor, la catedral y el palacio virreinal. En el campo, la **hacienda** organizaba la vida: capilla, casa grande, tienda de raya donde el peón se endeudaba y difícilmente salía.\n\n**Las castas**\n\nLa ley clasificaba a la gente por su origen: peninsulares, criollos, mestizos, indios, negros, mulatos... **Los cargos importantes quedaban para los nacidos en España**, agravio que acabaría alimentando la independencia.\n\n**Religión y fiesta**\n\nLa evangelización juntó santos católicos con dioses antiguos: la **Virgen de Guadalupe** se apareció en el cerro donde se veneraba a Tonantzin. Las procesiones, el Día de Muertos y las posadas nacieron de esa mezcla.\n\n**La comida mestiza**\n\nEl maíz, el chile y el cacao se encontraron con el trigo, el cerdo, la vaca, la cebolla y el queso. De ahí salieron el mole, las carnitas y la cocina mexicana que conocemos.",
     "imagenes": [
-      "/images/mexico/ctx_mx-ctx-vida-colonia-casta-painting-all-jpg-utm-source-es-wikipedia-org_wikimedia.jpg"
+      "/images/mexico/mx3_mx-ctx-vida-colonia-villalpando-autorretrato-png-utm-source-es-wikiped_wikimedia.png"
     ],
     "contextual": true
   },
@@ -446,6 +446,560 @@
     "descripcion_corta": "El virreinato fue durante siglos **la posesión más rica de España**, y todo giraba alrededor de un metal.\n\n**La plata**\n\nZacatecas, Guanajuato y Taxco llegaron a producir, junto con Potosí, cerca de **el 80 % de la plata del mundo**. El **quinto real** —la quinta parte de todo lo extraído— iba directo a la Corona. El peso de plata mexicano circuló desde Filipinas hasta China: fue la primera moneda verdaderamente global.\n\n**El trabajo forzado**\n\nPrimero la **encomienda**, que entregaba indígenas a un colono a cambio de «cristianizarlos»; luego el **repartimiento**, turnos obligatorios de trabajo; por último el peonaje por deudas de las haciendas.\n\n**El Galeón de Manila**\n\n**Durante 250 años**, un galeón cruzó cada año el Pacífico entre Acapulco y Manila llevando plata y trayendo seda, porcelana y especias. Fue la primera ruta comercial regular entre América y Asia.\n\n**El monopolio**\n\nSolo se podía comerciar con España y por puertos autorizados, lo que disparó el **contrabando** y la piratería.",
     "imagenes": [
       "/images/mexico/ctx_mx-ctx-economia-colonial-manilajf9742-16-jpg-utm-source-es-wikipedia-org-ut_wikimedia.jpg"
+    ],
+    "contextual": true
+  },
+  {
+    "id": "mx-maiz",
+    "region": "mexico",
+    "tipo": "evento",
+    "titulo": "La domesticación del maíz",
+    "fecha_inicio": -1580,
+    "fecha_fin": null,
+    "descripcion_corta": "**Entre el 7000 y el 3000 a. C.**, en el valle de Tehuacán y en la cuenca del Balsas, los pueblos mesoamericanos convirtieron una hierba silvestre de mazorcas diminutas, el **teocintle**, en el **maíz**. Fue un proceso de miles de años de selección paciente.\n\nEs probablemente la transformación genética más profunda que ha hecho la humanidad sobre una planta: el maíz moderno **no puede reproducirse solo**, necesita que alguien desgrane la mazorca. Depende de nosotros tanto como nosotros de él.\n\nCon el maíz, el frijol y la calabaza llegó la vida sedentaria, la aldea y el excedente. Todo lo que vino después —olmecas, Teotihuacán, mayas, mexicas— se sostiene sobre esa planta, y por eso el *Popol Vuh* dice que los humanos fueron hechos de masa de maíz.",
+    "imagenes": [
+      "/images/mexico/fix2_mx-maiz-corn-parents1-jpg-utm-source-es-wikipedia-org-utm-_wikimedia.jpg"
+    ]
+  },
+  {
+    "id": "mx-nixtamal",
+    "region": "mexico",
+    "tipo": "evento",
+    "titulo": "La nixtamalización",
+    "fecha_inicio": -1500,
+    "fecha_fin": null,
+    "descripcion_corta": "Alguien descubrió, hace unos 3 500 años, que si se cuece el maíz en agua con **cal o ceniza** ocurre algo extraordinario: el grano se ablanda, se pela y se muele mejor... y además libera la **niacina** y aminoácidos que el maíz retiene sin ese tratamiento.\n\nSin **nixtamalización**, una dieta basada en maíz produce **pelagra**, una enfermedad grave por falta de vitamina B3. Cuando el maíz llegó a Europa y África sin la técnica, provocó epidemias de pelagra durante siglos.\n\nEs una de las grandes invenciones alimentarias de la historia, hecha sin química y por observación, y la razón de que Mesoamérica pudiera alimentar a millones de personas con tortilla y frijol.",
+    "imagenes": [
+      "/images/mexico/mx2_mx-nixtamal-hominy-maize-jpg-utm-source-es-wikipedia-org-utm-c_wikimedia.jpg"
+    ]
+  },
+  {
+    "id": "mx-chalcatzingo",
+    "region": "mexico",
+    "tipo": "evento",
+    "titulo": "Chalcatzingo y el jade olmeca",
+    "fecha_inicio": -700,
+    "fecha_fin": null,
+    "descripcion_corta": "En **Chalcatzingo**, en Morelos, los olmecas grabaron en la roca viva escenas de gobernantes sentados en cuevas con forma de fauces de jaguar, de las que salen volutas de aire y lluvia.\n\nEra un enclave de paso en la ruta que llevaba **jade de Guatemala, obsidiana de Hidalgo y hematita** hacia el golfo. El jade valía más que el oro en Mesoamérica: se asociaba al agua, al aliento y al maíz tierno, y se ponía en la boca de los muertos.\n\nEstos relieves muestran hasta dónde llegó la influencia olmeca: **a 600 kilómetros** de su territorio, marcando estilo, dioses y símbolos de poder en pueblos que no eran suyos.",
+    "imagenes": [
+      "/images/mexico/mx2_mx-chalcatzingo-chalcatzingo-cerro-jpg-utm-source-es-wikipedia-org_wikimedia.jpg"
+    ]
+  },
+  {
+    "id": "mx-danzantes",
+    "region": "mexico",
+    "tipo": "evento",
+    "titulo": "Los danzantes de Monte Albán",
+    "fecha_inicio": -350,
+    "fecha_fin": null,
+    "descripcion_corta": "En la plaza de **Monte Albán** se conservan más de 300 lápidas con figuras humanas desnudas en posturas retorcidas. Durante mucho tiempo se creyó que bailaban, y de ahí el nombre de **danzantes**.\n\nHoy se interpretan de otro modo: son **cautivos sacrificados o enemigos vencidos**, algunos con signos de mutilación, y junto a ellos aparecen glifos con nombres y fechas. Es propaganda política en piedra, un listado de victorias para que lo viera todo el que entrara.\n\nJunto con la escritura zapoteca, son la evidencia más antigua de un Estado mesoamericano que se justifica narrando sus conquistas.",
+    "imagenes": [
+      "/images/mexico/mx3_mx-danzantes-1920px-original-danzantes-in-building-l-of-monte-a_wikimedia.jpg"
+    ]
+  },
+  {
+    "id": "mx-teotihuacan-fundacion",
+    "region": "mexico",
+    "tipo": "evento",
+    "titulo": "Nace Teotihuacán",
+    "fecha_inicio": -150,
+    "fecha_fin": null,
+    "descripcion_corta": "**Hacia el año 100 a. C.**, tras la erupción del volcán Xitle que sepultó Cuicuilco, la población del valle se concentró en un punto del altiplano y empezó a levantar la ciudad más extraordinaria de la América antigua.\n\n**Teotihuacán** se planificó desde el principio: una retícula orientada 15,5 grados al este del norte, la **Calzada de los Muertos** de cinco kilómetros como eje, y conjuntos residenciales de apartamentos con patio para varias familias, algo único en el mundo antiguo.\n\nLlegó a tener **entre 100 000 y 200 000 habitantes** en el año 500: era una de las seis ciudades más grandes del planeta, y nadie sabe qué lengua hablaban ni cómo se llamaban a sí mismos.",
+    "imagenes": [
+      "/images/mexico/mx3_mx-teotihuacan-fundacion-1920px-teotihuacan-calzada-de-los-muertos-31-jpg-u_wikimedia.jpg"
+    ]
+  },
+  {
+    "id": "mx-piramide-sol",
+    "region": "mexico",
+    "tipo": "evento",
+    "titulo": "La Pirámide del Sol",
+    "fecha_inicio": 150,
+    "fecha_fin": null,
+    "descripcion_corta": "La **Pirámide del Sol** mide 65 metros de altura y 225 de base: **más de un millón de metros cúbicos** de tierra y piedra movidos sin animales de carga, sin ruedas y sin herramientas de metal.\n\nBajo ella hay algo que explica por qué está ahí: una **cueva** de origen volcánico con cuatro lóbulos, que los mesoamericanos asociaban al lugar de origen de la humanidad. La pirámide no se construyó sobre un sitio cualquiera, sino sobre una puerta al inframundo.\n\nAlrededor se levantaron la Pirámide de la Luna y el Templo de la Serpiente Emplumada, bajo el cual se han encontrado **más de 200 esqueletos** de guerreros sacrificados con las manos atadas a la espalda.",
+    "imagenes": [
+      "/images/mexico/mx2_mx-piramide-sol-2020-02-11-teotihuacan-la-avenida-de-los-muertos-y_wikimedia.jpg"
+    ]
+  },
+  {
+    "id": "mx-murales",
+    "region": "mexico",
+    "tipo": "evento",
+    "titulo": "Los murales de Teotihuacán",
+    "fecha_inicio": 250,
+    "fecha_fin": null,
+    "descripcion_corta": "Las paredes de los conjuntos residenciales de Teotihuacán estaban **pintadas por completo**: jaguares con caracolas, sacerdotes sembrando, el Tlalocan o paraíso del dios de la lluvia lleno de gente jugando y cantando, y los famosos **jaguares reticulados**.\n\nEl estilo es plano, ordenado y repetitivo, sin retratos de reyes ni escenas de conquista: **no hay un solo gobernante identificado** en toda la ciudad, algo insólito en Mesoamérica. Algunos investigadores creen que Teotihuacán fue gobernada por un consejo o por linajes rotativos.\n\nEn sus barrios vivían comunidades enteras de **zapotecas, mayas y del golfo**, con su propia cerámica y sus tumbas: era una ciudad cosmopolita.",
+    "imagenes": [
+      "/images/mexico/mx3_mx-murales-tlalocan-jpg-utm-source-es-wikipedia-org-utm-campa_wikimedia.jpg"
+    ]
+  },
+  {
+    "id": "mx-teotihuacan-tikal",
+    "region": "mexico",
+    "tipo": "evento",
+    "titulo": "Teotihuacán interviene en Tikal",
+    "fecha_inicio": 378,
+    "fecha_fin": null,
+    "descripcion_corta": "**El 16 de enero de 378**, según una estela maya, llegó a **Tikal** un personaje llamado **Siyaj K'ak'**, «nacido del fuego», procedente del oeste. Ese mismo día murió el rey de Tikal, y poco después subió al trono un hijo de un señor teotihuacano.\n\nEs uno de los pocos acontecimientos políticos de la América antigua que podemos **fechar al día**, gracias a la Cuenta Larga maya. Marca la entrada de Teotihuacán en la política de las ciudades mayas, a 1 000 kilómetros de distancia.\n\nDurante el siglo siguiente, varias dinastías mayas presumieron de origen teotihuacano y adoptaron su armamento —el lanzadardos y el escudo rectangular— y su vestimenta ritual.",
+    "imagenes": [
+      "/images/mexico/fix3_mx-teotihuacan-tikal-tikal-temple1-2006-08-11-jpg-utm-source-en-wikiped_wikimedia.jpg"
+    ]
+  },
+  {
+    "id": "mx-caida-teotihuacan",
+    "region": "mexico",
+    "tipo": "evento",
+    "titulo": "La caída de Teotihuacán",
+    "fecha_inicio": 550,
+    "fecha_fin": null,
+    "descripcion_corta": "**Hacia el año 550**, los templos y palacios del centro ceremonial de Teotihuacán fueron **incendiados y destrozados de forma selectiva**: solo los edificios del poder, no las casas de la gente común.\n\nEso apunta a una revuelta interna más que a una invasión. Se han propuesto además una sequía prolongada, el agotamiento de los bosques usados para hacer cal y la tensión social de una ciudad demasiado grande.\n\nLa ciudad quedó semivacía, pero su prestigio no murió: siglos después, los **mexicas** la encontraron en ruinas, la creyeron obra de gigantes y le dieron el nombre con el que la conocemos, *Teotihuacán*, «el lugar donde los hombres se hacen dioses». Sus emperadores peregrinaban hasta allí.",
+    "imagenes": [
+      "/images/mexico/mx3_mx-caida-teotihuacan-15-07-mexico-vorauswahl-ralfr-wma-0159-jpg-utm-sou_wikimedia.jpg"
+    ]
+  },
+  {
+    "id": "mx-xochicalco",
+    "region": "mexico",
+    "tipo": "evento",
+    "titulo": "Xochicalco y Cacaxtla",
+    "fecha_inicio": 650,
+    "fecha_fin": null,
+    "descripcion_corta": "Tras el hundimiento de Teotihuacán, el altiplano se llenó de ciudades fortificadas en lo alto de cerros. **Xochicalco** y **Cacaxtla** son las dos mejores muestras de ese mundo inestable.\n\nEn Xochicalco, la Pirámide de la Serpiente Emplumada muestra sacerdotes de distintas regiones y glifos de ajuste calendárico: hay quien piensa que allí se celebró una **reunión de astrónomos** para corregir el calendario mesoamericano. Tiene además un observatorio subterráneo por el que el sol entra en vertical dos veces al año.\n\nEn Cacaxtla se conservan murales de una batalla con guerreros jaguar y ave despedazando enemigos, con un realismo brutal y un **estilo maya** en pleno altiplano central.",
+    "imagenes": [
+      "/images/mexico/mx2_mx-xochicalco-cacaxtla1-jpg-utm-source-es-wikipedia-org-utm-camp_wikimedia.jpg"
+    ]
+  },
+  {
+    "id": "mx-bonampak",
+    "region": "mexico",
+    "tipo": "evento",
+    "titulo": "Los murales de Bonampak",
+    "fecha_inicio": 790,
+    "fecha_fin": null,
+    "descripcion_corta": "Descubiertos en 1946 en plena selva de Chiapas, los murales de **Bonampak** cubren tres habitaciones y son el testimonio visual más completo de la vida de una corte maya.\n\nMuestran una ceremonia con músicos y danzantes con máscaras, una **batalla** con guerreros lanzándose sobre los enemigos, y la escena más impresionante: el juicio de los cautivos ante el rey, con prisioneros desnudos a los que se les **arrancan las uñas** y de cuyos dedos gotea sangre, mientras uno agoniza a los pies del trono.\n\nAcabaron con la idea romántica de unos mayas pacíficos dedicados solo a la astronomía. Y se pintaron hacia el año 790, apenas unas décadas antes de que la ciudad fuera abandonada.",
+    "imagenes": [
+      "/images/mexico/mx2_mx-bonampak-zona-arqueologica-bonampak-01-id-za30-dbannasch-jp_wikimedia.jpg"
+    ]
+  },
+  {
+    "id": "mx-quetzalcoatl",
+    "region": "mexico",
+    "tipo": "evento",
+    "titulo": "Quetzalcóatl y la caída de Tula",
+    "fecha_inicio": 900,
+    "fecha_fin": null,
+    "descripcion_corta": "La tradición cuenta que **Ce Ácatl Topiltzin Quetzalcóatl**, rey-sacerdote de Tula, prohibió los sacrificios humanos, enseñó las artes y fue expulsado por los seguidores del dios Tezcatlipoca tras ser engañado y emborrachado.\n\nSegún el relato, huyó hacia el este y se embarcó en el golfo prometiendo **volver algún día por el mar**. Otra versión lo lleva a Yucatán, donde los mayas lo llaman **Kukulkán**, lo que explicaría el parecido asombroso entre Tula y Chichén Itzá.\n\nCuando Cortés desembarcó en 1519, esa profecía se reinterpretó —probablemente **después** de los hechos, por cronistas españoles e indígenas— como el anuncio de su llegada. Los historiadores actuales dudan de que Moctezuma lo creyera de verdad.",
+    "imagenes": [
+      "/images/mexico/mx3_mx-quetzalcoatl-tula-pyramid-b-20660295926-jpg-utm-source-es-wikip_wikimedia.jpg"
+    ]
+  },
+  {
+    "id": "mx-chichimecas",
+    "region": "mexico",
+    "tipo": "evento",
+    "titulo": "Los chichimecas y las migraciones",
+    "fecha_inicio": 1150,
+    "fecha_fin": null,
+    "descripcion_corta": "Tras la caída de Tula, hacia 1150, oleadas de pueblos del norte —a los que los nahuas llamaban **chichimecas**, «linaje de perro»— bajaron al altiplano central. Eran cazadores y recolectores del desierto, y llegaron empujados probablemente por una sequía prolongada.\n\nSe mezclaron con los agricultores del valle, adoptaron su lengua, sus dioses y su agricultura, y fundaron señoríos: **Xólotl** en Tenayuca, los acolhuas en Texcoco, los tepanecas en Azcapotzalco.\n\nEl último y más pobre de esos grupos fue el de los **mexicas**, que llegaron hacia 1250 sin tierra propia, sirvieron como mercenarios y acabaron fundando su ciudad en un islote que nadie quería. Doscientos años después dominaban Mesoamérica.",
+    "imagenes": [
+      "/images/mexico/mx2_mx-chichimecas-gran-chichimeca-jpg-utm-source-es-wikipedia-org-ut_wikimedia.jpg"
+    ]
+  },
+  {
+    "id": "mx-nezahualcoyotl",
+    "region": "mexico",
+    "tipo": "evento",
+    "titulo": "Nezahualcóyotl, el rey poeta",
+    "fecha_inicio": 1431,
+    "fecha_fin": null,
+    "descripcion_corta": "**Nezahualcóyotl** vio asesinar a su padre siendo niño, vivió como fugitivo y recuperó el trono de **Texcoco** aliándose con los mexicas en la Triple Alianza.\n\nComo gobernante fue un ingeniero notable: construyó el **albarradón** de 16 kilómetros que separaba las aguas saladas del lago de las dulces de Tenochtitlan, un acueducto, jardines botánicos en Texcotzingo y un código de leyes con ochenta ordenanzas.\n\nY fue poeta. Se le atribuyen versos que preguntan si acaso se vive de verdad en la tierra, y que responden que no para siempre: **«solo un poco aquí»**. Texcoco fue la capital cultural del valle, con archivos, escuelas y una biblioteca de códices que ardió tras la conquista.",
+    "imagenes": [
+      "/images/mexico/mx2_mx-nezahualcoyotl-nezahualcoyotl-jpg-utm-source-commons-wikimedia-or_wikimedia.jpg"
+    ]
+  },
+  {
+    "id": "mx-hambruna-1454",
+    "region": "mexico",
+    "tipo": "evento",
+    "titulo": "La gran hambruna y el Templo Mayor",
+    "fecha_inicio": 1454,
+    "fecha_fin": null,
+    "descripcion_corta": "**Entre 1450 y 1454**, heladas, sequía y plagas provocaron una hambruna terrible en el valle de México. La gente vendió a sus hijos como esclavos a los totonacas del golfo a cambio de maíz.\n\nMoctezuma I respondió con obras hidráulicas y con algo más: la intensificación del culto y de las **guerras floridas**, campañas pactadas con Tlaxcala y otras ciudades cuyo objetivo era capturar prisioneros para el sacrificio, no conquistar territorio.\n\n**En 1487**, la consagración de la ampliación del **Templo Mayor** se celebró con una matanza ritual cuya cifra las fuentes elevan a 20 000 víctimas, seguramente exagerada como propaganda del propio imperio. El terror formaba parte de su forma de gobernar.",
+    "imagenes": [
+      "/images/mexico/mx2_mx-hambruna-1454-partial-view-templo-mayor-jpg-utm-source-es-wikipe_wikimedia.jpg"
+    ]
+  },
+  {
+    "id": "mx-noche-triste",
+    "region": "mexico",
+    "tipo": "evento",
+    "titulo": "La Noche Triste y el sitio",
+    "fecha_inicio": 1520,
+    "fecha_fin": null,
+    "descripcion_corta": "Cortés entró en Tenochtitlan en noviembre de 1519 y tomó preso a Moctezuma. Todo se rompió en mayo de 1520, cuando su lugarteniente Alvarado masacró a la nobleza mexica durante una fiesta en el Templo Mayor.\n\n**En la noche del 30 de junio de 1520**, los españoles huyeron de la ciudad por las calzadas bajo una lluvia de flechas: perdieron **más de la mitad de sus hombres** y casi todo el oro. Es la **Noche Triste**.\n\nLo que decidió la guerra fue otra cosa: los **tlaxcaltecas y otros pueblos sometidos**, que aportaron decenas de miles de guerreros, y la **viruela**, llegada con un esclavo africano, que mató al sucesor de Moctezuma y a una parte enorme de la población antes del asedio final.",
+    "imagenes": [
+      "/images/mexico/mx2_mx-noche-triste-the-sad-night-noche-triste-conquest-of-mexico-pain_wikimedia.jpg"
+    ]
+  },
+  {
+    "id": "mx-universidad",
+    "region": "mexico",
+    "tipo": "evento",
+    "titulo": "La primera universidad de América",
+    "fecha_inicio": 1553,
+    "fecha_fin": null,
+    "descripcion_corta": "**En 1553** abrió sus aulas la **Real y Pontificia Universidad de México**, creada por cédula de Carlos V en 1551 el mismo año que la de Lima: las dos primeras universidades del continente americano, **85 años antes que Harvard**.\n\nAntes, en 1536, los franciscanos habían fundado el **Colegio de Santa Cruz de Tlatelolco** para hijos de la nobleza indígena, donde se enseñaba latín, retórica y filosofía y donde se formaron los informantes que ayudaron a **fray Bernardino de Sahagún** a componer el *Códice Florentino*, la enciclopedia del mundo mexica.\n\nLa imprenta había llegado a México **en 1539**, un siglo antes que a Norteamérica.",
+    "imagenes": [
+      "/images/mexico/mx2_mx-universidad-bernardino-de-sahag-n-jpg-utm-source-es-wikipedia-_wikimedia.jpg"
+    ]
+  },
+  {
+    "id": "mx-epidemias",
+    "region": "mexico",
+    "tipo": "evento",
+    "titulo": "El colapso demográfico",
+    "fecha_inicio": 1576,
+    "fecha_fin": null,
+    "descripcion_corta": "El desastre mayor de la conquista no fueron las armas sino las **enfermedades**. La viruela en 1520, el sarampión en 1531 y sobre todo las epidemias de **cocoliztli** de 1545 y 1576 —posiblemente una fiebre hemorrágica agravada por la sequía— arrasaron a la población.\n\nLas estimaciones más aceptadas hablan de **entre 15 y 25 millones de habitantes** en Mesoamérica antes del contacto y de **poco más de un millón** hacia 1620: una caída superior al 90 %.\n\nEl vacío lo cambió todo: colapsaron los sistemas de tributo, se abandonaron pueblos enteros, hizo falta traer africanos esclavizados para las minas y la costa, y los españoles pudieron ocupar tierras que habían quedado sin dueño.",
+    "imagenes": [
+      "/images/mexico/mx2_mx-epidemias-florentinecodex-bk12-f54-smallpox-jpg-utm-source-e_wikimedia.jpg"
+    ]
+  },
+  {
+    "id": "mx-nao-china",
+    "region": "mexico",
+    "tipo": "evento",
+    "titulo": "La Nao de China",
+    "fecha_inicio": 1573,
+    "fecha_fin": null,
+    "descripcion_corta": "**Desde 1565**, un galeón cruzaba cada año el Pacífico entre **Manila y Acapulco**. Iba cargado de plata mexicana y volvía con seda, porcelana, marfil, especias y muebles laqueados: la primera ruta comercial regular entre Asia y América, y durante 250 años la más larga del mundo.\n\nEl viaje de ida duraba tres meses; el de vuelta, con el desvío hacia el norte para encontrar los vientos, hasta seis, con escorbuto y muertos a bordo.\n\nDe esa ruta vienen la palabra *china poblana*, los rebozos, el mango, el tamarindo y la palma de coco en las costas mexicanas, y el **peso de plata** convertido en moneda global. Acapulco celebraba cada llegada con una feria a la que acudían comerciantes de todo el virreinato.",
+    "imagenes": [
+      "/images/mexico/mx3_mx-nao-china-china-poblana-jpg-utm-source-es-wikipedia-org-utm-_wikimedia.jpg"
+    ]
+  },
+  {
+    "id": "mx-inundacion",
+    "region": "mexico",
+    "tipo": "evento",
+    "titulo": "La gran inundación de México",
+    "fecha_inicio": 1629,
+    "fecha_fin": null,
+    "descripcion_corta": "La ciudad se había construido sobre un lago y los españoles habían destruido el sistema de diques y calzadas de los mexicas. El resultado llegó **el 21 de septiembre de 1629**: una inundación que dejó el centro bajo **dos metros de agua durante cinco años**.\n\nMurieron miles de personas, buena parte de la población huyó y se llegó a plantear en serio **trasladar la capital** a tierra firme. Se optó por drenar la cuenca: el **desagüe de Huehuetoca**, iniciado en 1607 por Enrico Martínez, ocupó a miles de trabajadores indígenas durante siglos.\n\nAquella decisión de secar los lagos explica los problemas de la Ciudad de México hoy: se hunde varios centímetros al año y sufre a la vez inundaciones y falta de agua.",
+    "imagenes": [
+      "/images/mexico/mx2_mx-inundacion-catedral-metropolitana-de-la-ciudad-de-m-xico-1-jp_wikimedia.jpg"
+    ]
+  },
+  {
+    "id": "mx-sor-juana",
+    "region": "mexico",
+    "tipo": "evento",
+    "titulo": "Sor Juana Inés de la Cruz",
+    "fecha_inicio": 1651,
+    "fecha_fin": null,
+    "descripcion_corta": "**Juana Inés de Asbaje** aprendió a leer a los tres años, pidió que la vistieran de hombre para entrar a la universidad y, al no poder, se hizo monja para poder estudiar. Reunió una biblioteca de **4 000 volúmenes**, instrumentos musicales y científicos.\n\nEscribió teatro, villancicos, poesía amorosa y filosófica, y **en 1691** la *Respuesta a sor Filotea*, una defensa del derecho de las mujeres al conocimiento que se lee hoy como el primer texto feminista de América.\n\nLa presión del obispo la obligó a renunciar: vendió su biblioteca y firmó con su sangre una profesión de fe. Murió a los 46 años cuidando a sus hermanas durante una epidemia. Es la mayor figura literaria del virreinato.",
+    "imagenes": [
+      "/images/mexico/mx2_mx-sor-juana-sor-juana-by-miguel-cabrera-cropped-jpg-utm-source_wikimedia.jpg"
+    ]
+  },
+  {
+    "id": "mx-motin-1692",
+    "region": "mexico",
+    "tipo": "evento",
+    "titulo": "El motín del maíz",
+    "fecha_inicio": 1692,
+    "fecha_fin": null,
+    "descripcion_corta": "Tras una helada y una plaga que arruinaron la cosecha, el precio del maíz se disparó y la ciudad se llenó de hambrientos. **El 8 de junio de 1692**, una multitud incendió el **palacio virreinal** y las casas del cabildo al grito de «¡mueran los gachupines!».\n\nEl virrey tuvo que refugiarse en un convento. Se perdieron en el incendio archivos irreemplazables del virreinato.\n\nLa represión fue dura, pero el motín dejó claro algo que se repetiría: el orden colonial dependía del abasto de maíz. **Carlos de Sigüenza y Góngora**, sabio criollo que salvó documentos del fuego, dejó el relato más detallado, con una mezcla de horror y desprecio hacia los amotinados que retrata bien a la élite criolla de la época.",
+    "imagenes": [
+      "/images/mexico/mx2_mx-motin-1692-don-carlos-de-sig-enza-y-g-ngora-jpg-utm-source-es_wikimedia.jpg"
+    ]
+  },
+  {
+    "id": "mx-jesuitas",
+    "region": "mexico",
+    "tipo": "evento",
+    "titulo": "La expulsión de los jesuitas",
+    "fecha_inicio": 1767,
+    "fecha_fin": null,
+    "descripcion_corta": "**En junio de 1767**, por orden de Carlos III, todos los jesuitas de Nueva España fueron detenidos de madrugada y embarcados hacia Italia: unos **680 hombres**, la mayoría criollos, muchos de ellos los mejores maestros del virreinato.\n\nCon ellos se cerraron colegios, misiones en el norte y California y bibliotecas enteras. Hubo motines en Guanajuato, San Luis Potosí y Michoacán, reprimidos con ahorcamientos y destierros.\n\nEl golpe fue político y también intelectual: en el exilio, jesuitas como **Francisco Javier Clavijero** escribieron historias de México que reivindicaban el pasado indígena y la dignidad de lo americano frente a los europeos. Son una de las raíces del **criollismo** que llevaría a la independencia.",
+    "imagenes": [
+      "/images/mexico/mx2_mx-jesuitas-brief-dominus-ac-redemptor-jpg-utm-source-es-wikip_wikimedia.jpg"
+    ]
+  },
+  {
+    "id": "mx-reformas-borbonicas",
+    "region": "mexico",
+    "tipo": "evento",
+    "titulo": "Las reformas borbónicas",
+    "fecha_inicio": 1784,
+    "fecha_fin": null,
+    "descripcion_corta": "La dinastía borbónica quiso hacer del virreinato una colonia más rentable: creó **intendencias** para controlar mejor el territorio, subió los impuestos, estableció monopolios estatales del tabaco y la pólvora, reforzó el ejército y desplazó a los criollos de los cargos en favor de peninsulares.\n\nLa producción de **plata se duplicó** y las remesas a España alcanzaron cifras récord: Nueva España pagaba buena parte de las guerras de la Corona.\n\nEl precio fue el resentimiento criollo. Los nacidos en América, ricos y formados, se vieron tratados como súbditos de segunda en su propia tierra. Cuando Napoleón invadió España en 1808 y el rey cayó, esa clase encontró la ocasión: primero pidiendo gobernarse a sí misma, después la independencia.",
+    "imagenes": [
+      "/images/mexico/mx2_mx-reformas-borbonicas-charles-iii-of-spain-high-resolution-jpg-utm-sourc_wikimedia.jpg"
+    ]
+  },
+  {
+    "id": "mx-hambre-1786",
+    "region": "mexico",
+    "tipo": "evento",
+    "titulo": "El año del hambre",
+    "fecha_inicio": 1786,
+    "fecha_fin": null,
+    "descripcion_corta": "**Entre 1785 y 1786**, una helada temprana en agosto arruinó la cosecha de maíz en todo el altiplano. Se le llamó **«el año del hambre»**: murieron unas **300 000 personas**, sobre todo indígenas y trabajadores del Bajío.\n\nLos precios se multiplicaron por cinco, las haciendas que habían almacenado grano hicieron fortuna y los pueblos vendieron sus tierras para comer. Muchos campesinos quedaron endeudados y sin propiedad, convertidos en peones.\n\nLos historiadores lo señalan como una de las causas profundas de 1810: el Bajío, la región más golpeada, fue precisamente donde prendió la insurrección de Hidalgo veinticuatro años después, con **la misma gente que había perdido su tierra**.",
+    "imagenes": [
+      "/images/mexico/mx2_mx-hambre-1786-india-famine-family-crop-420-jpg-utm-source-es-wik_wikimedia.jpg"
+    ]
+  },
+  {
+    "id": "mx-hidalgo-muerte",
+    "region": "mexico",
+    "tipo": "evento",
+    "titulo": "La muerte de Hidalgo",
+    "fecha_inicio": 1811,
+    "fecha_fin": null,
+    "descripcion_corta": "Tras el grito de Dolores, el ejército de **Hidalgo** llegó a reunir **80 000 personas**, en su mayoría campesinos e indígenas armados con machetes y hondas. Tomó Guanajuato con el asalto a la **Alhóndiga de Granaditas**, donde se refugiaban los españoles, y la matanza que siguió le costó el apoyo de los criollos ricos.\n\nDerrotado en Puente de Calderón, huyó al norte y fue traicionado y capturado. Lo degradaron como sacerdote y lo fusilaron **en julio de 1811** en Chihuahua.\n\nLas cabezas de Hidalgo, Allende, Aldama y Jiménez se colgaron en las cuatro esquinas de la Alhóndiga **durante diez años**, como advertencia. Siguieron allí hasta la consumación de la independencia.",
+    "imagenes": [
+      "/images/mexico/mx2_mx-hidalgo-muerte-general-simo-miguel-hidalgo-y-costilla-png-utm-sou_wikimedia.png"
+    ]
+  },
+  {
+    "id": "mx-morelos",
+    "region": "mexico",
+    "tipo": "evento",
+    "titulo": "Morelos y el Congreso de Chilpancingo",
+    "fecha_inicio": 1813,
+    "fecha_fin": null,
+    "descripcion_corta": "**José María Morelos**, cura de pueblo y antiguo arriero, fue el estratega que faltaba: con ejércitos pequeños y disciplinados dominó el sur y resistió **72 días** el sitio de Cuautla.\n\n**En 1813** convocó el **Congreso de Chilpancingo** y presentó los *Sentimientos de la Nación*: independencia absoluta, soberanía en el pueblo, **abolición de la esclavitud y de las castas**, fin de los tributos indígenas, prohibición de la tortura y un impuesto proporcional que gravara más a quien más tuviera.\n\nEs el primer programa político moderno de México. Morelos fue capturado, degradado y fusilado **en 1815**; la insurgencia quedó reducida a guerrillas como la de **Vicente Guerrero**, que aguantó en las montañas del sur.",
+    "imagenes": [
+      "/images/mexico/mx2_mx-morelos-jos-mar-a-morelos-png-utm-source-es-wikipedia-org-_wikimedia.png"
+    ]
+  },
+  {
+    "id": "mx-imperio-iturbide",
+    "region": "mexico",
+    "tipo": "evento",
+    "titulo": "El imperio de Iturbide",
+    "fecha_inicio": 1822,
+    "fecha_fin": null,
+    "descripcion_corta": "La independencia la consumó **en 1821** quien había combatido a los insurgentes: el coronel realista **Agustín de Iturbide**, que pactó con Guerrero el **Plan de Iguala** —independencia, religión católica y unión entre españoles y americanos— y entró en la capital con el Ejército Trigarante.\n\n**En 1822** se hizo proclamar **emperador Agustín I**. Duró diez meses: sin dinero, enfrentado al Congreso y con Santa Anna sublevado en Veracruz, abdicó y se exilió. Volvió en 1824 sin saber que lo habían declarado traidor y fue fusilado.\n\nEl imperio incluía Centroamérica, que se separó en 1823. México nacía enorme —**cuatro millones de kilómetros cuadrados**—, arruinado por once años de guerra y sin acuerdo sobre cómo gobernarse.",
+    "imagenes": [
+      "/images/mexico/mx3_mx-imperio-iturbide-plan-de-iguala-foja-1-jpg-utm-source-es-wikipedia-_wikimedia.jpg"
+    ]
+  },
+  {
+    "id": "mx-republica-1824",
+    "region": "mexico",
+    "tipo": "evento",
+    "titulo": "La primera República federal",
+    "fecha_inicio": 1824,
+    "fecha_fin": null,
+    "descripcion_corta": "La **Constitución de 1824** creó los Estados Unidos Mexicanos: república federal, diecinueve estados con congresos propios, división de poderes... y religión católica como única permitida.\n\nEl primer presidente, **Guadalupe Victoria**, fue de los pocos que terminó su mandato. Lo que siguió fue medio siglo de inestabilidad: **entre 1824 y 1857 hubo más de cincuenta gobiernos**, y **Antonio López de Santa Anna** ocupó la presidencia once veces, cambiando de bando entre federalistas y centralistas.\n\nEl país estaba en bancarrota, con el ejército consumiendo la mayor parte del presupuesto, las regiones tirando cada una por su lado y las potencias extranjeras cobrándose las deudas con flotas.",
+    "imagenes": [
+      "/images/mexico/mx2_mx-republica-1824-constitucion-federal-de-los-estados-unidos-mexican_wikimedia.jpg"
+    ]
+  },
+  {
+    "id": "mx-esclavitud",
+    "region": "mexico",
+    "tipo": "evento",
+    "titulo": "La abolición de la esclavitud",
+    "fecha_inicio": 1829,
+    "fecha_fin": null,
+    "descripcion_corta": "**El 15 de septiembre de 1829**, el presidente **Vicente Guerrero** —mestizo con ascendencia africana, el «Héroe del Sur»— decretó la **abolición total de la esclavitud** en México, treinta y seis años antes que Estados Unidos.\n\nLa medida tuvo una consecuencia inesperada: los colonos estadounidenses instalados en **Texas**, que trabajaban con esclavos en el algodón, la consideraron intolerable. Fue uno de los motivos de la ruptura de 1836.\n\nGuerrero fue derrocado al año siguiente, traicionado por un capitán genovés que lo entregó por 50 000 pesos, y fusilado en 1831. El estado de Guerrero lleva su nombre.",
+    "imagenes": [
+      "/images/mexico/mx2_mx-esclavitud-vicente-guerrero-png-utm-source-es-wikipedia-org-u_wikimedia.png"
+    ]
+  },
+  {
+    "id": "mx-guerra-pasteles",
+    "region": "mexico",
+    "tipo": "evento",
+    "titulo": "La Guerra de los Pasteles",
+    "fecha_inicio": 1838,
+    "fecha_fin": null,
+    "descripcion_corta": "**En 1838**, Francia bloqueó y bombardeó **Veracruz** para exigir el pago de daños a súbditos franceses, entre ellos un pastelero de Tacubaya que reclamaba indemnización por unos pasteles destrozados en un motín. De ahí el nombre burlón.\n\nDetrás había una deuda de 600 000 pesos y el interés francés por presionar a un país débil. México pagó.\n\nEl episodio devolvió a la política a **Santa Anna**, que perdió una pierna defendiendo el puerto y convirtió el hecho en un capital político enorme: años después hizo **enterrar la pierna con honores militares** en la capital. Una multitud la desenterró y la arrastró por las calles cuando cayó en desgracia.",
+    "imagenes": [
+      "/images/mexico/mx2_mx-guerra-pasteles-pisode-de-l-exp-dition-du-mexique-en-1838-cropped-_wikimedia.jpg"
+    ]
+  },
+  {
+    "id": "mx-guerra-eeuu",
+    "region": "mexico",
+    "tipo": "evento",
+    "titulo": "La guerra con Estados Unidos",
+    "fecha_inicio": 1846,
+    "fecha_fin": 1848,
+    "descripcion_corta": "**Entre 1846 y 1848**, tras la anexión de Texas y un incidente fronterizo provocado, Estados Unidos invadió México por tierra y por mar. El ejército de Winfield Scott desembarcó en Veracruz y llegó hasta la capital.\n\n**El 13 de septiembre de 1847** cayó el castillo de **Chapultepec**, defendido por cadetes del Colegio Militar: los **Niños Héroes**, seis jóvenes que la memoria nacional convirtió en símbolo.\n\nPor el **Tratado de Guadalupe Hidalgo** (1848), México cedió California, Nevada, Utah, Arizona, Nuevo México y partes de Colorado y Wyoming: **más de la mitad de su territorio** a cambio de 15 millones de pesos. En 1853, Santa Anna vendió además La Mesilla. Es la herida fundacional del México moderno.",
+    "imagenes": [
+      "/images/mexico/fix2_mx-guerra-eeuu-monumento-ni-os-heroes-popotla-jpg-utm-source-es-w_wikimedia.jpg"
+    ]
+  },
+  {
+    "id": "mx-ayutla",
+    "region": "mexico",
+    "tipo": "evento",
+    "titulo": "La Revolución de Ayutla",
+    "fecha_inicio": 1855,
+    "fecha_fin": null,
+    "descripcion_corta": "**En 1854**, un grupo de liberales del sur se levantó con el **Plan de Ayutla** contra la última dictadura de Santa Anna, que se hacía llamar «Alteza Serenísima» y acababa de vender La Mesilla. Al año siguiente, Santa Anna salió del país para siempre.\n\nLlegó al poder la generación de la **Reforma**: Juan Álvarez, Ignacio Comonfort, **Benito Juárez** —abogado zapoteco que había sido pastor de ovejas y no hablaba español hasta los doce años—, Melchor Ocampo, Miguel Lerdo de Tejada.\n\nSus primeras leyes atacaron los privilegios heredados de la colonia: la **Ley Juárez** suprimió los fueros militares y eclesiásticos y la **Ley Lerdo** obligó a la Iglesia a vender sus tierras. La guerra civil era inevitable.",
+    "imagenes": [
+      "/images/mexico/mx2_mx-ayutla-plan-de-ayutla-jpg-utm-source-es-wikipedia-org-utm_wikimedia.jpg"
+    ]
+  },
+  {
+    "id": "mx-constitucion-1857",
+    "region": "mexico",
+    "tipo": "evento",
+    "titulo": "La Constitución de 1857",
+    "fecha_inicio": 1857,
+    "fecha_fin": null,
+    "descripcion_corta": "La **Constitución de 1857** consagró las libertades de expresión, imprenta, enseñanza y trabajo, la abolición definitiva de la esclavitud y de los títulos nobiliarios, el fin de los fueros y la prohibición de que las corporaciones —Iglesia incluida— poseyeran bienes raíces.\n\nNo estableció la libertad de cultos por poco margen, pero el clero la condenó igualmente y **excomulgó a quienes la juraran**. Los funcionarios tenían que elegir entre su empleo y los sacramentos.\n\nEstalló la **Guerra de Reforma** (1858-1861), tres años de guerra civil entre liberales y conservadores. En plena guerra, Juárez promulgó desde Veracruz las **Leyes de Reforma**: separación Iglesia-Estado, matrimonio y registro civil, secularización de cementerios y nacionalización de los bienes eclesiásticos.",
+    "imagenes": [
+      "/images/mexico/mx2_mx-constitucion-1857-portada-constitucion-1857-png-utm-source-es-wikipe_wikimedia.png"
+    ]
+  },
+  {
+    "id": "mx-puebla",
+    "region": "mexico",
+    "tipo": "evento",
+    "titulo": "La batalla de Puebla",
+    "fecha_inicio": 1862,
+    "fecha_fin": null,
+    "descripcion_corta": "Con el país arruinado, Juárez suspendió el pago de la deuda externa y Francia, Gran Bretaña y España enviaron flotas. Las dos últimas negociaron y se retiraron; **Napoleón III** aprovechó para intentar instaurar un imperio.\n\n**El 5 de mayo de 1862**, en **Puebla**, el ejército mexicano al mando de **Ignacio Zaragoza** derrotó al ejército francés, considerado entonces el mejor del mundo. Fue una victoria táctica sin efecto militar decisivo —los franceses volvieron con refuerzos y tomaron la ciudad al año siguiente—, pero enorme como símbolo.\n\nEl **5 de mayo** se celebra desde entonces, y curiosamente con más fuerza entre los mexicanos de Estados Unidos que en el propio México.",
+    "imagenes": [
+      "/images/mexico/mx2_mx-puebla-batalla-de-puebla-5-5-1862-1870-png-utm-source-es-_wikimedia.png"
+    ]
+  },
+  {
+    "id": "mx-republica-restaurada",
+    "region": "mexico",
+    "tipo": "evento",
+    "titulo": "El fusilamiento de Maximiliano",
+    "fecha_inicio": 1867,
+    "fecha_fin": null,
+    "descripcion_corta": "Cuando Napoleón III retiró sus tropas —presionado por Prusia en Europa y por Estados Unidos, ya libre de su guerra civil—, **Maximiliano de Habsburgo** se quedó solo. Fue capturado en Querétaro y **fusilado el 19 de junio de 1867** en el Cerro de las Campanas, junto a los generales Miramón y Mejía.\n\nJuárez rechazó todas las peticiones de clemencia, incluidas las de Victor Hugo y Garibaldi: quería dejar claro que México no admitiría más intervenciones. Manet pintó la escena.\n\nEmpezó la **República Restaurada**: escuela pública y laica con Gabino Barreda, ferrocarril, telégrafo y reorganización de la hacienda. Juárez murió en el cargo **en 1872**, y su frase —«entre los individuos como entre las naciones, el respeto al derecho ajeno es la paz»— quedó como divisa nacional.",
+    "imagenes": [
+      "/images/mexico/mx3_mx-republica-restaurada-edouard-manet-022-jpg-utm-source-es-wikipedia-org-_wikimedia.jpg"
+    ]
+  },
+  {
+    "id": "mx-ferrocarril-mx",
+    "region": "mexico",
+    "tipo": "evento",
+    "titulo": "El ferrocarril y la inversión extranjera",
+    "fecha_inicio": 1880,
+    "fecha_fin": null,
+    "descripcion_corta": "**En 1873** se inauguró la línea **México-Veracruz**, la primera importante del país. Con el Porfiriato la red pasó de 640 kilómetros a **más de 19 000 en 1910**, financiada casi toda con capital británico y estadounidense.\n\nLas vías se trazaron para sacar minerales y productos agrícolas hacia los puertos y la frontera norte, no para conectar regiones entre sí. Junto al tren llegaron el telégrafo, la luz eléctrica, el tranvía, el teléfono y las primeras fábricas textiles y siderúrgicas.\n\nEl crecimiento fue real y muy desigual: hacia 1910, un puñado de empresas extranjeras controlaba el petróleo, la minería y los ferrocarriles, y **el 1 % de la población poseía el 97 % de la tierra**.",
+    "imagenes": [
+      "/images/mexico/mx2_mx-ferrocarril-mx-ferromex-4036-jpg-utm-source-en-wikipedia-org-utm-_wikimedia.jpg"
+    ]
+  },
+  {
+    "id": "mx-cananea",
+    "region": "mexico",
+    "tipo": "evento",
+    "titulo": "Cananea y Río Blanco",
+    "fecha_inicio": 1906,
+    "fecha_fin": null,
+    "descripcion_corta": "**En junio de 1906**, los mineros de **Cananea**, en Sonora, se declararon en huelga contra la empresa estadounidense que les pagaba menos que a los trabajadores extranjeros por el mismo trabajo. La represión, con rangers de Arizona cruzando la frontera, dejó más de veinte muertos.\n\nAl año siguiente, la huelga textil de **Río Blanco**, en Veracruz, terminó con el ejército disparando contra los obreros y sus familias: se habló de cientos de muertos y de cadáveres transportados en furgones.\n\nLos dos episodios rompieron la imagen de paz del Porfiriato y se convirtieron en símbolos del movimiento obrero. Detrás estaban los hermanos **Flores Magón** y su periódico *Regeneración*, que desde el exilio agitaban contra la dictadura.",
+    "imagenes": [
+      "/images/mexico/mx2_mx-cananea-magon-png-utm-source-es-wikipedia-org-utm-campaign_wikimedia.png"
+    ]
+  },
+  {
+    "id": "mx-revolucion",
+    "region": "mexico",
+    "tipo": "evento",
+    "titulo": "La Revolución mexicana",
+    "fecha_inicio": 1910,
+    "fecha_fin": 1920,
+    "descripcion_corta": "**Porfirio Díaz** llevaba treinta y cuatro años en el poder y había declarado a un periodista que México estaba listo para la democracia. Cuando **Francisco I. Madero** lo tomó en serio y se presentó a las elecciones, lo metió en la cárcel.\n\nMadero escapó, proclamó el **Plan de San Luis** y llamó a las armas para **el 20 de noviembre de 1910**. En pocos meses se levantaron **Pancho Villa** en el norte y **Emiliano Zapata** en Morelos, con un lema propio: *Tierra y Libertad*.\n\nTras la toma de Ciudad Juárez, Díaz renunció **en mayo de 1911** y se exilió en París, donde murió. Empezaba la guerra civil más larga y sangrienta de la historia de México: **entre uno y dos millones de muertos** en una población de quince.",
+    "imagenes": [
+      "/images/mexico/mx2_mx-revolucion-collage-revoluci-n-mexicana-jpg-utm-source-es-wiki_wikimedia.jpg"
+    ]
+  },
+  {
+    "id": "mx-decena-tragica",
+    "region": "mexico",
+    "tipo": "evento",
+    "titulo": "La Decena Trágica",
+    "fecha_inicio": 1913,
+    "fecha_fin": null,
+    "descripcion_corta": "Madero llegó a la presidencia con un programa político pero sin tocar el reparto de la tierra, y perdió a Zapata, que se levantó contra él con el **Plan de Ayala**.\n\n**En febrero de 1913**, durante diez días de combates en la capital —la **Decena Trágica**—, el general **Victoriano Huerta**, con la connivencia del embajador estadounidense Henry Lane Wilson, traicionó al presidente. Madero y el vicepresidente Pino Suárez fueron detenidos y **asesinados** la noche del 22 de febrero.\n\nEl golpe unió contra Huerta a todo el norte: **Carranza** con el Plan de Guadalupe, **Villa** con la División del Norte, **Obregón** en Sonora y **Zapata** en el sur. Huerta cayó en julio de 1914.",
+    "imagenes": [
+      "/images/mexico/mx2_mx-decena-tragica-decena-tr-gica-jpg-utm-source-es-wikipedia-org-utm_wikimedia.jpg"
+    ]
+  },
+  {
+    "id": "mx-villa-zapata",
+    "region": "mexico",
+    "tipo": "evento",
+    "titulo": "Villa y Zapata en la capital",
+    "fecha_inicio": 1914,
+    "fecha_fin": null,
+    "descripcion_corta": "**El 6 de diciembre de 1914**, tras la Convención de Aguascalientes y la ruptura entre los revolucionarios, **Pancho Villa** y **Emiliano Zapata** entraron juntos en la Ciudad de México con 50 000 hombres. La fotografía de ambos en la silla presidencial —Villa sentado y riendo, Zapata serio a su lado— es la imagen más famosa de la Revolución.\n\nNinguno quiso quedarse con el poder. Los dos representaban al México campesino: Zapata reclamaba la devolución de las tierras comunales de Morelos; Villa, un ejército de peones, ferrocarrileros y vaqueros del norte.\n\nGanó la otra facción, la **constitucionalista** de Carranza y Obregón, con un proyecto de Estado moderno. Obregón derrotó a Villa en Celaya en 1915 usando trincheras y ametralladoras aprendidas de la guerra europea.",
+    "imagenes": [
+      "/images/mexico/mx2_mx-villa-zapata-general-francisco-villa-cropped-jpg-utm-source-es-_wikimedia.jpg"
+    ]
+  },
+  {
+    "id": "mx-constitucion-1917",
+    "region": "mexico",
+    "tipo": "evento",
+    "titulo": "La Constitución de 1917",
+    "fecha_inicio": 1917,
+    "fecha_fin": null,
+    "descripcion_corta": "Promulgada **el 5 de febrero de 1917** en Querétaro, fue **la primera constitución del mundo en incluir derechos sociales**, antes que la de Weimar.\n\nSu **artículo 27** declaró que la propiedad de la tierra y del subsuelo corresponde originalmente a la nación —base de la reforma agraria y, después, de la expropiación petrolera de 1938—; el **artículo 123** estableció la jornada de ocho horas, el salario mínimo, el descanso semanal, el derecho de huelga y la protección a la maternidad; y el **artículo 3** fijó la educación laica y gratuita.\n\nSigue vigente hoy. Es el resultado más duradero de la Revolución, aunque muchas de sus promesas tardaran décadas en cumplirse.",
+    "imagenes": [
+      "/images/mexico/mx2_mx-constitucion-1917-portada-original-de-la-constitucion-mexicana-de-19_wikimedia.png"
+    ]
+  },
+  {
+    "id": "mx-zapata-muerte",
+    "region": "mexico",
+    "tipo": "evento",
+    "titulo": "El asesinato de Zapata",
+    "fecha_inicio": 1919,
+    "fecha_fin": null,
+    "descripcion_corta": "**El 10 de abril de 1919**, **Emiliano Zapata** cayó en una emboscada en la hacienda de **Chinameca**: un coronel carrancista fingió querer pasarse a su bando y lo hizo recibir con honores, con la guardia formada, que disparó a bocajarro.\n\nSu cuerpo se exhibió en Cuautla para demostrar que estaba muerto. Muchos campesinos se negaron a creerlo y siguieron contando durante años que lo habían visto cabalgar por la sierra en su caballo alazán.\n\nUn año después, Carranza fue asesinado al huir de la capital, y **en 1923** Villa cayó también en una emboscada en Parral. La Revolución devoró a casi todos sus protagonistas: de los grandes caudillos, solo Obregón alcanzó la presidencia... hasta que lo asesinaron en 1928.",
+    "imagenes": [
+      "/images/mexico/mx2_mx-zapata-muerte-emiliano-zapata4-jpg-utm-source-es-wikipedia-org-u_wikimedia.jpg"
+    ]
+  },
+  {
+    "id": "mx-1920",
+    "region": "mexico",
+    "tipo": "evento",
+    "titulo": "México tras la Revolución",
+    "fecha_inicio": 1920,
+    "fecha_fin": null,
+    "descripcion_corta": "**En 1920**, con el asesinato de Carranza y la llegada de Álvaro Obregón, terminó la fase armada. El país tenía **entre uno y dos millones de muertos** menos, la economía destrozada y un millón de personas emigradas a Estados Unidos.\n\nDe la década siguiente salió el México del siglo XX: el reparto agrario y los ejidos, la **educación rural** de José Vasconcelos, el **muralismo** de Rivera, Orozco y Siqueiros que contó la historia nacional en los muros públicos, y un partido de Estado que gobernaría **setenta y un años seguidos**.\n\nLa Revolución no cumplió muchas de sus promesas, pero cambió el relato del país: por primera vez, el campesino y el indígena estaban en el centro de la idea que México tenía de sí mismo.",
+    "imagenes": [
+      "/images/mexico/mx2_mx-1920-orozco-dartmouth-b-jpg-utm-source-es-wikipedia-org_wikimedia.jpg"
+    ]
+  },
+  {
+    "id": "mx-ctx-siglo-xix",
+    "region": "mexico",
+    "tipo": "evento",
+    "titulo": "Cómo se vivía en el siglo XIX",
+    "fecha_inicio": 1850,
+    "fecha_fin": null,
+    "descripcion_corta": "**Un país roto**\n\nTras la independencia, México pasó medio siglo en guerra civil, invasiones y bancarrota. Los caminos eran inseguros, el correo tardaba semanas y muchas regiones vivían prácticamente aisladas.\n\n**El campo**\n\nLa **hacienda** era el centro de la vida rural: casa grande, capilla, tienda de raya donde el peón se endeudaba de por vida y trabajo de sol a sol. Los pueblos indígenas defendían sus tierras comunales, que las leyes liberales de desamortización acabaron poniendo en venta —con el resultado de que muchas acabaron en manos de los hacendados.\n\n**La ciudad**\n\nMéxico tenía unos 200 000 habitantes a mediados de siglo. Convivían los palacios coloniales y las vecindades; llegaron el alumbrado de gas, la fotografía y los primeros tranvías de mulas.\n\n**Lo que quedó**\n\nEl mestizaje cultural: el charro y la china poblana, el mariachi de Jalisco, el pulque, las fiestas patronales y el Día de Muertos.",
+    "imagenes": [
+      "/images/mexico/mx2_mx-ctx-siglo-xix-cananea-stores-jpg-utm-source-es-wikipedia-org-utm_wikimedia.jpg"
+    ],
+    "contextual": true
+  },
+  {
+    "id": "mx-ctx-porfiriato",
+    "region": "mexico",
+    "tipo": "evento",
+    "titulo": "Cómo se vivía en el Porfiriato",
+    "fecha_inicio": 1890,
+    "fecha_fin": null,
+    "descripcion_corta": "**«Poca política y mucha administración»**\n\nDíaz gobernó treinta y cuatro años con elecciones simuladas, prensa controlada y los **rurales** manteniendo el orden a tiros. La estabilidad atrajo inversión y el país creció como nunca.\n\n**Las dos caras**\n\nEn la capital: ópera en el nuevo Teatro Nacional, edificios *art nouveau*, coches, luz eléctrica y una élite que hablaba francés e imitaba París. En el campo: **el 1 % poseía el 97 % de la tierra**, y en Yucatán y Valle Nacional había peones enganchados en condiciones de esclavitud, denunciadas por el periodista John Kenneth Turner.\n\n**Los números**\n\nEsperanza de vida por debajo de los 30 años, **80 % de analfabetismo**, jornadas de doce horas y salarios que en términos reales habían bajado respecto a 1800.\n\n**El desenlace**\n\nDe esa desigualdad, y no de una crisis económica, salió la Revolución de 1910.",
+    "imagenes": [
+      "/images/mexico/mx2_mx-ctx-porfiriato-porfirio-diaz-jpg-utm-source-en-wikipedia-org-utm-_wikimedia.jpg"
     ],
     "contextual": true
   }

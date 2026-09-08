@@ -1,0 +1,159 @@
+[
+  {
+    "id": "ca-canal",
+    "region": "panama",
+    "tipo": "evento",
+    "titulo": "El canal de Panamá",
+    "fecha_inicio": 1880,
+    "fecha_fin": 1914,
+    "descripcion_corta": "Ferdinand de Lesseps, que había hecho Suez, empezó **en 1880** un canal a nivel del mar en **Panamá** y fracasó estrepitosamente: la malaria y la fiebre amarilla mataron a más de veinte mil trabajadores y la empresa quebró en el mayor escándalo financiero de la Francia de su tiempo. Estados Unidos retomó el proyecto, pero antes necesitaba un país dispuesto: cuando Colombia rechazó el tratado, apoyó la separación de Panamá **en 1903** y firmó con la nueva república en condiciones extraordinariamente favorables. La obra se completó en 1914 gracias a un cambio de diseño —esclusas en vez de nivel del mar— y al control de los mosquitos por el doctor Gorgas.",
+    "imagenes": [
+      "/images/panama/ca3_canal-vessels-locking-into-the-panama-canal-jpg_wikimedia.jpg"
+    ]
+  },
+  {
+    "id": "ca-panama-1903",
+    "region": "panama",
+    "tipo": "evento",
+    "titulo": "La separación de Panamá",
+    "fecha_inicio": 1903,
+    "fecha_fin": null,
+    "descripcion_corta": "Colombia rechazó el tratado que permitía a Estados Unidos construir el canal. **El 3 de noviembre de 1903**, Panamá se declaró independiente, con buques de guerra estadounidenses impidiendo el desembarco de tropas colombianas.\n\nWashington reconoció al nuevo país en horas y firmó el **tratado Hay-Bunau-Varilla** —negociado por un francés, sin ningún panameño firmante— que le concedía **a perpetuidad** una franja de 16 kilómetros de ancho como si fuera territorio soberano.\n\nLa **Zona del Canal** funcionó durante décadas como un enclave estadounidense con sus leyes, su policía y sus escuelas. Los tratados **Torrijos-Carter de 1977** fijaron la entrega, que se completó el 31 de diciembre de **1999**.",
+    "imagenes": [
+      "/images/panama/ca4_ca-panama-1903-acta-de-independencia-de-panam-1903-jpg-utm-source_wikimedia.jpg"
+    ]
+  },
+  {
+    "id": "ca-canal-1914",
+    "region": "panama",
+    "tipo": "evento",
+    "titulo": "La apertura del canal",
+    "fecha_inicio": 1914,
+    "fecha_fin": null,
+    "descripcion_corta": "**El 15 de agosto de 1914**, el vapor *Ancón* cruzó el **canal de Panamá**. La noticia pasó casi desapercibida: Europa acababa de entrar en guerra dos semanas antes.\n\nLos franceses lo habían intentado desde 1881 y fracasaron: la fiebre amarilla y la malaria mataron a **más de 22 000 trabajadores** y la empresa quebró en el mayor escándalo financiero de la Tercera República. Los estadounidenses lo lograron gracias al médico cubano **Carlos Finlay** y a Walter Reed, que demostraron que el mosquito transmitía la fiebre amarilla, y a un cambio de plan: esclusas en lugar de canal a nivel.\n\nAun así murieron unos 5 600 trabajadores más, la mayoría antillanos. El viaje de Nueva York a San Francisco pasó de 22 000 a 9 500 kilómetros.",
+    "imagenes": [
+      "/images/panama/ca4_ca-canal-1914-panama-canal-map-es-png-utm-source-es-wikipedia-or_wikimedia.png"
+    ]
+  },
+  {
+    "id": "pa-independencia",
+    "region": "panama",
+    "tipo": "evento",
+    "titulo": "Panamá se une a la Gran Colombia",
+    "fecha_inicio": 1821,
+    "fecha_fin": null,
+    "descripcion_corta": "**El 28 de noviembre de 1821**, Panamá se independizó de España sin guerra y decidió por voluntad propia unirse a la **Gran Colombia** de Bolívar. Fue una decisión de las élites comerciales de la ciudad, que necesitaban un Estado grande detrás para proteger el negocio del tránsito.\n\nCuando la Gran Colombia se disolvió en 1831, el istmo quedó como provincia de **Nueva Granada**, la actual Colombia, a la que perteneció **ochenta y dos años**.\n\nDurante ese tiempo hubo al menos tres intentos separatistas y una autonomía intermitente como Estado Federal. Panamá siempre fue una franja lejana de Bogotá, separada por la selva del Darién y volcada al mar.",
+    "imagenes": [
+      "/images/panama/pa_pa-independencia-pm-map-png-utm-source-es-wikipedia-org-utm-campaig_wikimedia.png"
+    ]
+  },
+  {
+    "id": "pa-ferrocarril",
+    "region": "panama",
+    "tipo": "evento",
+    "titulo": "El ferrocarril de Panamá",
+    "fecha_inicio": 1855,
+    "fecha_fin": null,
+    "descripcion_corta": "Con la fiebre del oro de California, cruzar el istmo se convirtió en un negocio enorme. **En 1855** se inauguró el **ferrocarril de Panamá**, 77 kilómetros de océano a océano: el **primer ferrocarril transcontinental del mundo**.\n\nCostó cinco años y una cifra de muertos que nunca se estableció con precisión —entre 5 000 y 12 000 trabajadores, sobre todo antillanos, chinos e irlandeses— por la malaria, la fiebre amarilla y el cólera. Se dice, con exageración, que hubo un muerto por traviesa.\n\nEl billete costaba 25 dólares en oro, una fortuna, y la compañía fue durante años una de las más rentables de la bolsa de Nueva York. Con el ferrocarril llegó también la primera oleada de inmigración caribeña y china que forma parte de la Panamá actual.",
+    "imagenes": [
+      "/images/panama/pa_pa-ferrocarril-panama-canal-railway-container-train-jpg-utm-sourc_wikimedia.jpg"
+    ]
+  },
+  {
+    "id": "pa-lesseps",
+    "region": "panama",
+    "tipo": "evento",
+    "titulo": "El fracaso francés",
+    "fecha_inicio": 1881,
+    "fecha_fin": null,
+    "descripcion_corta": "**Ferdinand de Lesseps**, el hombre que había abierto el canal de Suez, se propuso repetir la hazaña en Panamá **desde 1881** y con la misma receta: un canal **a nivel del mar**, sin esclusas.\n\nFue un desastre. La selva, las lluvias, los derrumbes y sobre todo la **fiebre amarilla y la malaria** —nadie sabía aún que las transmitían los mosquitos— mataron a **más de 22 000 trabajadores**. La empresa quebró en 1889 arruinando a 800 000 pequeños accionistas franceses, y el escándalo salpicó a ministros y periodistas de la Tercera República.\n\nEl joven ingeniero **Philippe Bunau-Varilla**, superviviente de aquella aventura, dedicaría los años siguientes a convencer a Estados Unidos de comprar los derechos... y acabaría firmando el tratado del canal en nombre de Panamá.",
+    "imagenes": [
+      "/images/panama/pa_pa-lesseps-retrato-de-ferdinand-de-lesseps-por-felix-nadar-jp_wikimedia.jpg"
+    ]
+  },
+  {
+    "id": "pa-mil-dias",
+    "region": "panama",
+    "tipo": "evento",
+    "titulo": "La Guerra de los Mil Días en el istmo",
+    "fecha_inicio": 1899,
+    "fecha_fin": 1902,
+    "descripcion_corta": "La guerra civil colombiana entre liberales y conservadores **(1899-1902)** golpeó con fuerza a Panamá. El general liberal **Victoriano Lorenzo**, indígena ngäbe, dirigió una guerrilla campesina en las montañas de Coclé.\n\nLa paz se firmó a bordo del acorazado estadounidense *Wisconsin*, fondeado en la bahía de Panamá: una señal clara de quién mandaba ya en el istmo. Poco después, pese a las garantías del acuerdo, **Lorenzo fue fusilado en 1903** tras un consejo de guerra sumarísimo.\n\nLa guerra dejó al istmo arruinado y resentido con Bogotá. Cuando el Senado colombiano rechazó ese mismo año el tratado del canal, las élites panameñas ya tenían motivos, aliados y una ocasión.",
+    "imagenes": [
+      "/images/panama/pa_pa-mil-dias-aghrc-1890-carta-xiii-divisi-n-pol-tica-de-colombi_wikimedia.jpg"
+    ]
+  },
+  {
+    "id": "pa-zona-canal",
+    "region": "panama",
+    "tipo": "evento",
+    "titulo": "La Zona del Canal",
+    "fecha_inicio": 1913,
+    "fecha_fin": null,
+    "descripcion_corta": "El tratado de 1903 entregó a Estados Unidos una franja de **16 kilómetros de ancho** de costa a costa para actuar «como si fuera soberano», a perpetuidad. En medio del país nació otro país.\n\nLa **Zona del Canal** tenía su propio gobernador, policía, tribunales, escuelas, correos, moneda y hasta equipos de béisbol. Los panameños necesitaban permiso para entrar. Dentro regía además el sistema *gold roll / silver roll*: los empleados blancos estadounidenses cobraban en oro y los antillanos y locales en plata, con salarios, viviendas y comedores separados.\n\nEsa segregación en pleno territorio panameño alimentó durante décadas un nacionalismo que acabaría estallando.",
+    "imagenes": [
+      "/images/panama/pa_pa-zona-canal-1930s-panama-canal-zone-quarry-heights-nara-681480_wikimedia.jpg"
+    ]
+  },
+  {
+    "id": "pa-1964",
+    "region": "panama",
+    "tipo": "evento",
+    "titulo": "El 9 de enero de 1964",
+    "fecha_inicio": 1964,
+    "fecha_fin": null,
+    "descripcion_corta": "El tratado de 1955 reconocía el derecho a izar la bandera panameña junto a la estadounidense en la Zona. **El 9 de enero de 1964**, un grupo de estudiantes del Instituto Nacional entró en la Zona con su bandera para hacerlo cumplir. Estudiantes zonians y la policía se lo impidieron; **la bandera se rasgó**.\n\nLa noticia desató tres días de disturbios: **21 panameños muertos** y más de 500 heridos. Panamá rompió relaciones diplomáticas con Estados Unidos y llevó el caso a la OEA.\n\nEs el **Día de los Mártires**, fiesta nacional. A partir de ahí, ningún gobierno estadounidense volvió a defender la perpetuidad del tratado: la negociación de la entrega del canal empezó ese mismo año.",
+    "imagenes": [
+      "/images/panama/np2_pa-1964-instituto-nacional-de-panam-nido-de-guilas-jpg-utm_wikimedia.jpg"
+    ]
+  },
+  {
+    "id": "pa-torrijos",
+    "region": "panama",
+    "tipo": "evento",
+    "titulo": "Torrijos y los tratados del canal",
+    "fecha_inicio": 1968,
+    "fecha_fin": null,
+    "descripcion_corta": "**En 1968**, un golpe militar llevó al poder al general **Omar Torrijos**, que gobernó once años con un estilo populista: reforma agraria, código de trabajo, universidad y obras en el interior, junto con censura y exilio de opositores.\n\nSu obsesión fue el canal. Internacionalizó el asunto llevando el Consejo de Seguridad de la ONU a Panamá en 1973 y consiguiendo el apoyo de América Latina y del Tercer Mundo.\n\n**El 7 de septiembre de 1977** firmó con **Jimmy Carter** los **tratados Torrijos-Carter**: Estados Unidos entregaría el canal el 31 de diciembre de 1999 y desaparecería la Zona. Torrijos murió en un accidente de avión en 1981, nunca aclarado del todo.",
+    "imagenes": [
+      "/images/panama/pa_pa-torrijos-omar-torrijos-1978-jpg-utm-source-es-wikipedia-org_wikimedia.jpg"
+    ]
+  },
+  {
+    "id": "pa-noriega",
+    "region": "panama",
+    "tipo": "evento",
+    "titulo": "Noriega y la invasión de 1989",
+    "fecha_inicio": 1983,
+    "fecha_fin": 1989,
+    "descripcion_corta": "**Manuel Antonio Noriega**, jefe de inteligencia con Torrijos, tomó el mando en 1983. Durante años fue **informante de la CIA** mientras traficaba con droga y armas y anulaba elecciones a golpes.\n\nCuando dejó de ser útil, Washington lo acusó de narcotráfico e impuso sanciones. **El 20 de diciembre de 1989**, Estados Unidos invadió Panamá con 27 000 soldados en la operación *Causa Justa*: el barrio de **El Chorrillo** ardió y las cifras de civiles muertos van de las 500 oficiales a varios miles según organizaciones de derechos humanos.\n\nNoriega se refugió en la nunciatura, se rindió tras días de música a todo volumen y fue juzgado y encarcelado en Estados Unidos. La ONU condenó la invasión como violación del derecho internacional.",
+    "imagenes": [
+      "/images/panama/pa_pa-noriega-manuel-noriega-1990-u-s-marshal-mugshot-jpg-utm-so_wikimedia.jpg"
+    ]
+  },
+  {
+    "id": "pa-1999",
+    "region": "panama",
+    "tipo": "evento",
+    "titulo": "El canal vuelve a Panamá",
+    "fecha_inicio": 1999,
+    "fecha_fin": null,
+    "descripcion_corta": "**El 31 de diciembre de 1999, al mediodía**, Estados Unidos entregó el canal, las bases militares y la antigua Zona. Por primera vez en su historia, Panamá controlaba todo su territorio.\n\nLos escépticos auguraban un desastre administrativo. Ocurrió lo contrario: la Autoridad del Canal lo gestionó con eficiencia, aumentó el tráfico y los ingresos, y **en 2016** inauguró un tercer juego de esclusas capaz de recibir los buques *neopanamax*, financiado por el propio país.\n\nEl canal aporta hoy alrededor de una quinta parte de los ingresos del Estado. Panamá se convirtió además en centro financiero y logístico, con la contracara de los escándalos de opacidad como los *Papeles de Panamá* de 2016.",
+    "imagenes": [
+      "/images/panama/pa_pa-1999-edificio-de-la-administraci-n-del-canal-jpg-utm-so_wikimedia.jpg"
+    ]
+  },
+  {
+    "id": "pa-ctx-vida",
+    "region": "panama",
+    "tipo": "evento",
+    "titulo": "Cómo vive Panamá: el país del tránsito",
+    "fecha_inicio": 1950,
+    "fecha_fin": null,
+    "descripcion_corta": "**Un país hecho de paso**\n\nDesde el siglo XVI, Panamá vive de que la gente y las mercancías lo atraviesen: las ferias de Portobelo con la plata del Perú, el ferrocarril, el canal, la Zona Libre de Colón y hoy el centro bancario y el hub aéreo.\n\n**Una población de aluvión**\n\nEsa función atrajo a antillanos de Jamaica y Barbados —que construyeron el canal y dejaron el calipso, el inglés criollo y buena parte de la Panamá caribeña—, chinos llegados con el ferrocarril, judíos, griegos, indios y colombianos.\n\n**Los pueblos originarios**\n\nLos **guna** de la comarca de Guna Yala consiguieron **en 1925**, tras una revolución armada, un régimen de autonomía pionero en América; sus *molas* son hoy un emblema del país. También están los ngäbe-buglé, emberá y wounaan.\n\n**El Darién**\n\nLa única interrupción de la carretera Panamericana entre Alaska y Patagonia: 100 kilómetros de selva sin carretera.",
+    "imagenes": [
+      "/images/panama/pa_pa-ctx-vida-museo-de-la-naci-n-guna-1-jpg-utm-source-es-wikipe_wikimedia.jpg"
+    ],
+    "contextual": true
+  }
+]

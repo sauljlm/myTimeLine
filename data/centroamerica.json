@@ -204,54 +204,6 @@
     ]
   },
   {
-    "id": "ca-walker",
-    "region": "centroamerica",
-    "tipo": "evento",
-    "titulo": "William Walker y los filibusteros",
-    "fecha_inicio": 1855,
-    "fecha_fin": 1857,
-    "descripcion_corta": "Un abogado y periodista de Tennessee llamado **William Walker** desembarcó en Nicaragua **en 1855** con menos de sesenta hombres, aprovechando la guerra civil entre liberales y conservadores. En un año se había proclamado presidente, reinstauró la esclavitud, declaró el inglés lengua oficial y fue reconocido por Estados Unidos. Su proyecto era anexionar Centroamérica como estados esclavistas. La reacción fue una alianza de todos los países de la región: Costa Rica declaró la guerra y venció en Santa Rosa y en la Segunda Batalla de Rivas, donde según la tradición el soldado Juan Santamaría murió al incendiar el mesón enemigo. Walker acabó fusilado en Honduras **en 1860**.",
-    "imagenes": [
-      "/images/centroamerica/ca3_walker-williamwalker-jpg_wikimedia.jpg"
-    ]
-  },
-  {
-    "id": "ca-cafe",
-    "region": "centroamerica",
-    "tipo": "evento",
-    "titulo": "El café y las reformas liberales",
-    "fecha_inicio": 1870,
-    "fecha_fin": 1900,
-    "descripcion_corta": "Hundido el añil, Centroamérica encontró en el café su nuevo producto, y con él llegó una transformación social profunda. Los gobiernos liberales de finales del siglo XIX privatizaron las tierras comunales indígenas y ejidales para dedicarlas al grano, crearon leyes contra la 'vagancia' que obligaban a trabajar en las fincas y financiaron ferrocarriles hacia los puertos. El resultado fue una oligarquía cafetalera muy concentrada, un campesinado sin tierra y economías dependientes de un solo producto y de su precio internacional. En Costa Rica, donde la propiedad quedó más repartida entre pequeños productores, el modelo derivó en una sociedad menos desigual que en sus vecinos.",
-    "imagenes": [
-      "/images/centroamerica/ca3_cafe_ca-diagram-of-coffea-arabica-jpg_wikimedia.jpg"
-    ]
-  },
-  {
-    "id": "ca-canal",
-    "region": "centroamerica",
-    "tipo": "evento",
-    "titulo": "El canal de Panamá",
-    "fecha_inicio": 1880,
-    "fecha_fin": 1914,
-    "descripcion_corta": "Ferdinand de Lesseps, que había hecho Suez, empezó **en 1880** un canal a nivel del mar en **Panamá** y fracasó estrepitosamente: la malaria y la fiebre amarilla mataron a más de veinte mil trabajadores y la empresa quebró en el mayor escándalo financiero de la Francia de su tiempo. Estados Unidos retomó el proyecto, pero antes necesitaba un país dispuesto: cuando Colombia rechazó el tratado, apoyó la separación de Panamá **en 1903** y firmó con la nueva república en condiciones extraordinariamente favorables. La obra se completó en 1914 gracias a un cambio de diseño —esclusas en vez de nivel del mar— y al control de los mosquitos por el doctor Gorgas.",
-    "imagenes": [
-      "/images/centroamerica/ca3_canal-vessels-locking-into-the-panama-canal-jpg_wikimedia.jpg"
-    ]
-  },
-  {
-    "id": "ca-united-fruit",
-    "region": "centroamerica",
-    "tipo": "evento",
-    "titulo": "Las bananeras y las repúblicas del banano",
-    "fecha_inicio": 1899,
-    "fecha_fin": null,
-    "descripcion_corta": "La United Fruit Company, fundada **en 1899**, llegó a controlar plantaciones, ferrocarriles, puertos, telégrafos y flotas enteras en Honduras, Guatemala y Costa Rica, con concesiones de tierras y exenciones fiscales que ningún gobierno se atrevía a discutir. El escritor O. Henry, refugiado en Honduras, acuñó la expresión 'república bananera' para describir países cuya política dependía de una empresa extranjera. La compañía derribó y sostuvo gobiernos —el caso más conocido es el golpe de 1954 en Guatemala— y sus huelgas fueron reprimidas a tiros. También trajo hospitales, escuelas y trabajo asalariado a zonas selváticas antes despobladas: su huella es tan profunda como ambivalente.",
-    "imagenes": [
-      "/images/centroamerica/ca3_unitedfruit-musa-paradisiaca-blanco1-88-png_wikimedia.png"
-    ]
-  },
-  {
     "id": "ca-ctx-vida-maya",
     "region": "centroamerica",
     "tipo": "evento",
@@ -299,21 +251,333 @@
     "fecha_fin": null,
     "descripcion_corta": "Centroamérica fue una **periferia pobre** del imperio: sin grandes minas de plata, quedó al margen de las rutas principales.\n\n**Los pueblos de indios**\n\nLas autoridades reagruparon a la población dispersa en **reducciones**: pueblos con traza española alrededor de una iglesia, más fáciles de evangelizar y de cobrar. La caída demográfica fue brutal: entre la guerra y las epidemias, **la población indígena se redujo en más del 80 %** durante el primer siglo.\n\n**Las cofradías**\n\nHermandades religiosas que financiaban la fiesta del santo patrono. Se convirtieron en el refugio donde las comunidades **conservaron su lengua, su calendario y su organización** bajo apariencia católica; de ahí vienen las fiestas patronales de hoy.\n\n**Terremotos**\n\nAntigua Guatemala, capital y una de las ciudades más hermosas de América, quedó arruinada por los terremotos de **1717 y 1773**, y la capital tuvo que mudarse.\n\n**Costa y montaña**\n\nEn el Caribe, fuera del control español, se mezclaron miskitos, esclavos fugados y piratas ingleses.",
     "imagenes": [
-      "/images/centroamerica/ctx_ca-ctx-vida-colonia-antigua-arco-jpg-utm-source-es-wikipedia-org-utm-c_wikimedia.jpg"
+      "/images/centroamerica/ca4_ca-ctx-vida-colonia-la-merced-antigua-guatemala-2009d-jpg-utm-source-e_wikimedia.jpg"
     ],
     "contextual": true
   },
   {
-    "id": "ca-ctx-economia-cafe-banano",
+    "id": "ca-primeros-pueblos",
     "region": "centroamerica",
     "tipo": "evento",
-    "titulo": "Modelo económico: del añil al banano",
-    "fecha_inicio": 1885,
+    "titulo": "Las primeras aldeas del istmo",
+    "fecha_inicio": -590,
     "fecha_fin": null,
-    "descripcion_corta": "En cuatro siglos, el istmo cambió de producto tres veces, pero nunca de modelo: **un solo cultivo de exportación** que decide el destino del país.\n\n**Añil y cochinilla**\n\nEl tinte azul del añil salvadoreño y el rojo de la cochinilla —insectos criados sobre nopales— vestían a Europa. Los **tintes químicos alemanes**, hacia 1870, los arruinaron en pocos años.\n\n**El café**\n\nLas reformas liberales entregaron a los cafetaleros las tierras comunales de los pueblos indígenas y de la Iglesia, y aprobaron **leyes contra la vagancia** que obligaban a los campesinos sin tierra a trabajar en las fincas. Nació la oligarquía cafetalera.\n\n**El banano**\n\n**Desde 1899**, la United Fruit Company recibió concesiones enormes a cambio de construir ferrocarriles. Llegó a controlar la tierra, el tren, los puertos, el telégrafo y la flota, y a decidir quién gobernaba: de ahí la expresión **república bananera**.\n\n**El canal**\n\nPanamá se separó de Colombia en 1903 con apoyo estadounidense, y la Zona del Canal quedó bajo control de Estados Unidos hasta 1999.",
+    "descripcion_corta": "**Hacia el 1000 a. C.**, la agricultura del maíz, el frijol y la yuca había convertido a los pueblos del istmo en aldeanos sedentarios con cerámica propia. En la costa del Pacífico de Guatemala y El Salvador aparecen los primeros montículos y plataformas de tierra.\n\nEl istmo funcionó siempre como un **puente y un filtro**: por él pasaron las plantas, las técnicas y las ideas entre Mesoamérica al norte y los Andes al sur, y allí se encontraron dos mundos culturales distintos.\n\nDe esa época son los primeros indicios del cultivo del **cacao** en la costa, que siglos después sería moneda, bebida ritual y uno de los productos más valiosos de América.",
     "imagenes": [
-      "/images/centroamerica/ctx_ca-ctx-economia-cafe-banano-las-merceditas-18-jpg-utm-source-en-wikipedia-org-_wikimedia.jpg"
+      "/images/centroamerica/fix3_ca-primeros-pueblos-estructura-12-museo-al-aire-libre-fachada-oeste-ta_wikimedia.png"
+    ]
+  },
+  {
+    "id": "ca-izapa",
+    "region": "centroamerica",
+    "tipo": "evento",
+    "titulo": "Izapa, el puente entre olmecas y mayas",
+    "fecha_inicio": -400,
+    "fecha_fin": null,
+    "descripcion_corta": "**Izapa**, en la costa del Pacífico cerca de la frontera actual entre México y Guatemala, es el eslabón que explica cómo se pasó del mundo olmeca al maya. Tiene **más de 250 monumentos** y estelas con un estilo narrativo lleno de escenas míticas.\n\nEn ellas aparecen ya motivos que reconoceremos siglos después en el *Popol Vuh*: el árbol cósmico, el pájaro celeste, los héroes gemelos derribando a un ser monstruoso.\n\nEn esta región del sur también se registran las **fechas de Cuenta Larga más antiguas** que se conocen, anteriores a las de las grandes ciudades mayas del norte. La escritura y el calendario que asociamos a los mayas se cocieron aquí.",
+    "imagenes": [
+      "/images/centroamerica/ca4_ca-izapa-vista-de-las-pir-mides-de-izapa-jpg-utm-source-es-_wikimedia.jpg"
+    ]
+  },
+  {
+    "id": "ca-ilopango",
+    "region": "centroamerica",
+    "tipo": "evento",
+    "titulo": "La erupción del Ilopango",
+    "fecha_inicio": 429,
+    "fecha_fin": null,
+    "descripcion_corta": "**Hacia el año 431**, el volcán **Ilopango**, en el actual El Salvador, protagonizó una de las mayores erupciones de los últimos dos mil años: expulsó unos **55 kilómetros cúbicos** de material y cubrió de ceniza buena parte de Centroamérica.\n\nLa región quedó inhabitable durante décadas: los suelos sepultados bajo metros de tefra, los ríos represados y la población superviviente obligada a emigrar hacia el norte y el este.\n\nHay quien relaciona esa erupción con el enfriamiento global registrado en los anillos de los árboles y en los hielos de Groenlandia, y con las crisis simultáneas en otras partes del mundo. Es el recordatorio de que el istmo se asienta sobre uno de los arcos volcánicos más activos del planeta.",
+    "imagenes": [
+      "/images/centroamerica/ca4_ca-ilopango-playa-8394641-jpg-utm-source-es-wikipedia-org-utm-_wikimedia.jpg"
+    ]
+  },
+  {
+    "id": "ca-joya-ceren",
+    "region": "centroamerica",
+    "tipo": "evento",
+    "titulo": "Joya de Cerén, la Pompeya de América",
+    "fecha_inicio": 600,
+    "fecha_fin": null,
+    "descripcion_corta": "**Hacia el año 600**, la erupción del volcán Loma Caldera enterró bajo cinco metros de ceniza una aldea agrícola en El Salvador. Como la gente alcanzó a huir, **no se han encontrado cuerpos**, pero sí todo lo demás.\n\nLa ceniza conservó las casas de bahareque, los graneros con su maíz y su chile, las esteras, las vasijas con comida a medio terminar, los campos de maíz con los surcos intactos, un temazcal y hasta una **planta de yuca sembrada**, algo que jamás se conserva en el registro arqueológico.\n\nEs el único sitio que muestra cómo vivía la **gente común maya**, no los reyes de las estelas: qué comían, cómo dormían, cuánto guardaban y qué dejaron encima de la mesa la tarde en que salieron corriendo.",
+    "imagenes": [
+      "/images/centroamerica/ca4_ca-joya-ceren-es-joya-ceren-05-2012-estructura-9-area-2-tamazcal_wikimedia.jpg"
+    ]
+  },
+  {
+    "id": "ca-quirigua",
+    "region": "centroamerica",
+    "tipo": "evento",
+    "titulo": "Quiriguá derrota a Copán",
+    "fecha_inicio": 738,
+    "fecha_fin": null,
+    "descripcion_corta": "**El 3 de mayo de 738**, el rey **K'ak' Tiliw Chan Yopaat** de **Quiriguá** capturó y decapitó a **Uaxaclajuun Ub'aah K'awiil**, el gobernante de Copán, la ciudad de la que hasta entonces dependía.\n\nFue un vuelco político enorme para la región, y Quiriguá lo celebró como correspondía: levantó las **estelas más altas del mundo maya**, monolitos de arenisca de hasta **10,6 metros** y 65 toneladas cubiertos de texto y de retratos del vencedor.\n\nCopán se recuperó y construyó su **Escalinata Jeroglífica**, con 2 200 glifos, la inscripción maya más larga que existe: una historia oficial de la dinastía escrita en 63 escalones para reafirmar su legitimidad tras la humillación.",
+    "imagenes": [
+      "/images/centroamerica/ca4_ca-quirigua-flickr-archer10-dennis-guatemala-0576-jpg-utm-sour_wikimedia.jpg"
+    ]
+  },
+  {
+    "id": "ca-pipiles",
+    "region": "centroamerica",
+    "tipo": "evento",
+    "titulo": "Los pipiles y las migraciones nahuas",
+    "fecha_inicio": 950,
+    "fecha_fin": null,
+    "descripcion_corta": "Tras el colapso de las ciudades mayas del sur, llegaron al istmo grupos de habla **náhuat** procedentes del centro de México: los **pipiles**, que se establecieron en El Salvador y en partes de Guatemala, Honduras y Nicaragua.\n\nSu presencia explica que en pleno territorio maya haya topónimos nahuas y que los nicaraos del Pacífico nicaragüense hablaran una lengua emparentada con la de los mexicas, a **1 500 kilómetros** de distancia.\n\nEse mosaico —mayas en el altiplano y Yucatán, pipiles y nicaraos nahuas, lencas y chortís, y al sur y este los pueblos de tradición sudamericana como los kunas y los bribris— hizo del istmo la región lingüísticamente más diversa de América Central.",
+    "imagenes": [
+      "/images/centroamerica/ca4_ca-pipiles-familia-de-indigenas-izalcos-en-sonsonate-jpg-utm-_wikimedia.jpg"
+    ]
+  },
+  {
+    "id": "ca-altiplano",
+    "region": "centroamerica",
+    "tipo": "evento",
+    "titulo": "Los reinos del altiplano guatemalteco",
+    "fecha_inicio": 1250,
+    "fecha_fin": null,
+    "descripcion_corta": "En los siglos anteriores a la conquista, el altiplano de Guatemala estaba dividido en reinos rivales fortificados en lo alto de mesetas: los **k'iche'** en **Q'umarkaj** (Utatlán), los **kaqchikeles** en **Iximché**, los tz'utujiles junto al lago de Atitlán y los mames al oeste.\n\nEran Estados guerreros con linajes gobernantes, tributos y alianzas cambiantes; los k'iche' llegaron a dominar a los demás bajo el rey **K'iq'ab** antes de fragmentarse.\n\nDe esa corte k'iche' salió el ***Popol Vuh***, transcrito al alfabeto latino en el siglo XVI y copiado después por fray Francisco Ximénez: el libro más importante de la literatura indígena americana, con el relato de la creación del mundo y de los héroes gemelos.",
+    "imagenes": [
+      "/images/centroamerica/ca4_ca-altiplano-k-umarcaaj-former-k-iche-capital-outside-santa-cru_wikimedia.jpg"
+    ]
+  },
+  {
+    "id": "ca-colon-guanaja",
+    "region": "centroamerica",
+    "tipo": "evento",
+    "titulo": "Colón en Honduras",
+    "fecha_inicio": 1502,
+    "fecha_fin": null,
+    "descripcion_corta": "**En julio de 1502**, durante su cuarto viaje, Colón llegó a la isla de **Guanaja**, frente a Honduras, y se topó con algo que no había visto antes: una **canoa de comercio** enorme, de dos metros y medio de ancho, con toldo, veinticinco remeros y cargada de mantas de algodón, hachas de cobre, cerámica y **granos de cacao**.\n\nSus tripulantes eran mercaderes mayas. Colón tomó algunas mercancías, dejó seguir la canoa y navegó hacia el sur, sin llegar a comprender que acababa de rozar el borde de una civilización.\n\nBautizó como **Honduras** —«profundidades»— la costa, y como **Cabo Gracias a Dios** el punto donde el mal tiempo por fin cedió. La conquista real del istmo tardaría todavía veinte años.",
+    "imagenes": [
+      "/images/centroamerica/ca4_ca-colon-guanaja-guanaja-jpg-utm-source-es-wikipedia-org-utm-campai_wikimedia.jpg"
+    ]
+  },
+  {
+    "id": "ca-panama-vieja",
+    "region": "centroamerica",
+    "tipo": "evento",
+    "titulo": "Panamá y la puerta del Pacífico",
+    "fecha_inicio": 1519,
+    "fecha_fin": null,
+    "descripcion_corta": "**En 1513**, **Vasco Núñez de Balboa** cruzó el istmo y avistó el «mar del Sur»: el Pacífico. Seis años después, **Pedrarias Dávila** —el mismo que lo mandó decapitar— fundó **Panamá la Vieja**, la primera ciudad europea en la costa pacífica de América.\n\nDe allí salieron las expediciones que conquistaron Nicaragua, Perú y Chile, y por allí pasó después toda la **plata del Perú** camino de Portobelo y de España. El istmo se convirtió en el cuello de botella del imperio.\n\nEn **1671**, el pirata **Henry Morgan** la saqueó y la ciudad ardió; se refundó unos kilómetros al oeste, donde está hoy. Las ruinas de Panamá la Vieja siguen en pie dentro de la ciudad moderna.",
+    "imagenes": [
+      "/images/centroamerica/ca4_ca-panama-vieja-catedral-panam-viejo-jpg-utm-source-es-wikipedia-o_wikimedia.jpg"
+    ]
+  },
+  {
+    "id": "ca-alvarado",
+    "region": "centroamerica",
+    "tipo": "evento",
+    "titulo": "Pedro de Alvarado y la conquista de Guatemala",
+    "fecha_inicio": 1525,
+    "fecha_fin": null,
+    "descripcion_corta": "**En 1524**, **Pedro de Alvarado**, lugarteniente de Cortés, entró en el altiplano guatemalteco con unos cientos de españoles y **miles de aliados tlaxcaltecas y mexicas**. Derrotó a los k'iche' en Quetzaltenango, donde según la tradición mató en combate al capitán **Tecún Umán**, hoy héroe nacional de Guatemala.\n\nQuemó Q'umarkaj con sus señores dentro tras invitarlos a negociar, se alió con los kaqchikeles y después se volvió contra ellos. Su crueldad fue denunciada incluso por otros españoles.\n\nLa conquista del istmo no fue un acto único: Honduras, Nicaragua y sobre todo las tierras bajas —la **Verapaz**, Talamanca, el Petén— resistieron durante décadas o siglos.",
+    "imagenes": [
+      "/images/centroamerica/ca4_ca-alvarado-tecun-uman-jpg-utm-source-es-wikipedia-org-utm-cam_wikimedia.jpg"
+    ]
+  },
+  {
+    "id": "ca-lempira",
+    "region": "centroamerica",
+    "tipo": "evento",
+    "titulo": "Lempira y la resistencia lenca",
+    "fecha_inicio": 1537,
+    "fecha_fin": null,
+    "descripcion_corta": "**En 1537**, el cacique **lenca** conocido como **Lempira** —«señor de la sierra»— unificó a más de doscientos pueblos del occidente de Honduras y resistió durante meses en el peñón de Cerquín.\n\nSegún la crónica española, fue asesinado a traición durante una parley; según la tradición oral lenca, murió combatiendo. Su resistencia obligó a los conquistadores a emplear años en someter la región.\n\nEs el héroe nacional de Honduras y da nombre a su **moneda**. Su caso resume lo que pasó en todo el istmo: la conquista se presentó como rápida, pero hubo resistencias armadas —los lencas, los chontales, los talamanqueños, los itzáes— que duraron generaciones.",
+    "imagenes": [
+      "/images/centroamerica/ca4_ca-lempira-lenca-lang-png-utm-source-es-wikipedia-org-utm-cam_wikimedia.png"
+    ]
+  },
+  {
+    "id": "ca-leyes-nuevas",
+    "region": "centroamerica",
+    "tipo": "evento",
+    "titulo": "Las Leyes Nuevas y Las Casas",
+    "fecha_inicio": 1544,
+    "fecha_fin": null,
+    "descripcion_corta": "**Fray Bartolomé de las Casas**, encomendero convertido en defensor de los indígenas, consiguió que Carlos V promulgara en 1542 las **Leyes Nuevas**: prohibición de esclavizar indios, supresión gradual de las encomiendas y protección de los pueblos.\n\nLa reacción colona fue tan violenta que en Perú provocó una rebelión y en el istmo un boicot generalizado. Las Casas fue nombrado **obispo de Chiapas en 1544** y llegó a negar la absolución a quienes tuvieran indios en encomienda; tuvo que salir huyendo.\n\nAntes había ensayado en la **Verapaz** una conquista pacífica, evangelizando sin soldados. Su *Brevísima relación de la destrucción de las Indias* denunció las matanzas, alimentó la leyenda negra... y sigue siendo la fuente más citada sobre lo que ocurrió.",
+    "imagenes": [
+      "/images/centroamerica/ca4_ca-leyes-nuevas-fray-bartolom-de-las-casas-jpg-utm-source-es-wikip_wikimedia.jpg"
+    ]
+  },
+  {
+    "id": "ca-audiencia",
+    "region": "centroamerica",
+    "tipo": "evento",
+    "titulo": "La Audiencia de Guatemala",
+    "fecha_inicio": 1570,
+    "fecha_fin": null,
+    "descripcion_corta": "**En 1570** quedó definitivamente organizada la **Real Audiencia de Guatemala**, con jurisdicción desde Chiapas hasta Costa Rica. Era a la vez tribunal supremo y gobierno de toda Centroamérica, dependiente del virreinato de Nueva España pero con amplia autonomía.\n\nSu capital, **Santiago de los Caballeros** —hoy Antigua—, concentraba a la élite, la universidad de San Carlos (1676), las órdenes religiosas y la imprenta. El resto del istmo eran provincias pobres y lejanas.\n\nEsa estructura explica la Centroamérica actual: cuando llegó la independencia, las cinco provincias —Guatemala, El Salvador, Honduras, Nicaragua y Costa Rica— se separaron con las mismas fronteras administrativas que había trazado la Audiencia, y Chiapas se quedó con México.",
+    "imagenes": [
+      "/images/centroamerica/ca4_ca-audiencia-palace-of-the-captains-general-3269654048-jpg-utm-_wikimedia.jpg"
+    ]
+  },
+  {
+    "id": "ca-belice-mosquitia",
+    "region": "centroamerica",
+    "tipo": "evento",
+    "titulo": "Los ingleses en el Caribe",
+    "fecha_inicio": 1633,
+    "fecha_fin": null,
+    "descripcion_corta": "El Caribe centroamericano nunca estuvo bajo control español. **Desde 1633**, cortadores de palo de tinte ingleses se instalaron en la desembocadura del río Belice, y de ahí salió la actual **Belice**.\n\nMás al sur, en la **Mosquitia**, los ingleses se aliaron con los **miskitos**, a los que armaron y cuyo jefe coronaron como «rey de la Mosquitia» en Jamaica. Con ese apoyo, los miskitos dominaron la costa desde Honduras hasta Costa Rica y atacaban regularmente los pueblos del interior.\n\nEsa costa caribeña, de habla inglesa o criolla, protestante y con población afrodescendiente y **garífuna** —deportados desde San Vicente en 1797—, sigue siendo hoy culturalmente muy distinta del resto del istmo.",
+    "imagenes": [
+      "/images/centroamerica/ca4_ca-belice-mosquitia-destacada-p-gina-web-8-jpg-utm-source-es-wikipedia_wikimedia.jpg"
+    ]
+  },
+  {
+    "id": "ca-terremoto-1773",
+    "region": "centroamerica",
+    "tipo": "evento",
+    "titulo": "El terremoto que mudó la capital",
+    "fecha_inicio": 1773,
+    "fecha_fin": null,
+    "descripcion_corta": "**El 29 de julio de 1773**, el terremoto de Santa Marta destruyó **Santiago de los Caballeros**, la tercera capital del reino, con sus conventos, su universidad y sus palacios barrocos.\n\nNo era el primero: la ciudad ya había sido arrasada en 1717 y, antes, la primera capital había desaparecido en 1541 bajo una avalancha de lodo del volcán de Agua. El istmo se asienta sobre la falla entre tres placas tectónicas.\n\nLa Corona ordenó trasladar la capital al valle de la Ermita, donde está hoy **Ciudad de Guatemala**. Muchos vecinos se negaron a irse; los que se quedaron dejaron en pie la ciudad que hoy llamamos **Antigua**, un conjunto colonial detenido en el tiempo y Patrimonio de la Humanidad.",
+    "imagenes": [
+      "/images/centroamerica/ca4_ca-terremoto-1773-antigua1850-jpg-utm-source-es-wikipedia-org-utm-ca_wikimedia.jpg"
+    ]
+  },
+  {
+    "id": "ca-primer-grito",
+    "region": "centroamerica",
+    "tipo": "evento",
+    "titulo": "El primer grito de independencia",
+    "fecha_inicio": 1811,
+    "fecha_fin": null,
+    "descripcion_corta": "**El 5 de noviembre de 1811**, en **San Salvador**, el sacerdote **José Matías Delgado** hizo repicar las campanas de La Merced y encabezó el primer levantamiento independentista de Centroamérica.\n\nFue una revuelta criolla contra los peninsulares que controlaban el comercio del añil, y fracasó en pocas semanas, igual que los intentos de Nicaragua y Honduras ese mismo año y la conjura de Belén, en Guatemala, en 1813.\n\nDiez años después, la independencia llegaría **sin guerra**: la élite guatemalteca la proclamó el 15 de septiembre de 1821 en buena medida para evitar que ocurriera lo que estaba ocurriendo en México, donde las clases populares se habían levantado en armas.",
+    "imagenes": [
+      "/images/centroamerica/ca4_ca-primer-grito-painting-of-jose-matias-delgado-jpg-utm-source-es-_wikimedia.jpg"
+    ]
+  },
+  {
+    "id": "ca-anexion-mexico",
+    "region": "centroamerica",
+    "tipo": "evento",
+    "titulo": "La anexión a México",
+    "fecha_inicio": 1822,
+    "fecha_fin": null,
+    "descripcion_corta": "Apenas cuatro meses después de la independencia, **en enero de 1822**, las autoridades de Guatemala aceptaron la invitación de **Iturbide** para incorporarse al **Imperio mexicano**. La decisión se tomó consultando a los ayuntamientos, con resultados discutidos y presión militar.\n\nSan Salvador se negó y resistió por las armas hasta que el general Filísola la ocupó. Los salvadoreños llegaron a pedir en desesperación su **anexión a Estados Unidos**.\n\nCuando Iturbide cayó, en 1823, las provincias volvieron a separarse y proclamaron las **Provincias Unidas del Centro de América**. Solo **Chiapas** decidió quedarse con México, y así sigue: la frontera actual entre México y Guatemala nace de aquella votación.",
+    "imagenes": [
+      "/images/centroamerica/ca4_ca-anexion-mexico-ca-n-del-sumidero-octubre-2020-27-jpg-utm-source-e_wikimedia.jpg"
+    ]
+  },
+  {
+    "id": "ca-morazan",
+    "region": "centroamerica",
+    "tipo": "evento",
+    "titulo": "Francisco Morazán y la Federación",
+    "fecha_inicio": 1830,
+    "fecha_fin": null,
+    "descripcion_corta": "**Francisco Morazán**, hondureño, ganó la guerra civil de 1827-1829 y presidió la **República Federal de Centroamérica** de 1830 a 1839. Fue el gran intento de mantener unido al istmo.\n\nSu programa era liberal y para la época radical: libertad de prensa y de culto, matrimonio civil y divorcio, juicio por jurados, educación laica, supresión de los diezmos y expulsión del arzobispo y de varias órdenes religiosas.\n\nSe le enfrentaron la Iglesia, los conservadores y los intereses locales de cada provincia. En Guatemala, una insurrección campesina dirigida por **Rafael Carrera**, un porquero analfabeto de 23 años, acabó derribando la Federación en nombre de la religión y de los pueblos indígenas.",
+    "imagenes": [
+      "/images/centroamerica/ca4_ca-morazan-carrerayturcios-2014-06-22-09-46-jpg-utm-source-es_wikimedia.jpg"
+    ]
+  },
+  {
+    "id": "ca-fin-federacion",
+    "region": "centroamerica",
+    "tipo": "evento",
+    "titulo": "La disolución de la Federación",
+    "fecha_inicio": 1838,
+    "fecha_fin": 1842,
+    "descripcion_corta": "**En 1838**, el Congreso federal autorizó a las provincias a organizarse como quisieran, y una tras otra se declararon Estados soberanos: Nicaragua, Honduras, Costa Rica, Guatemala y finalmente El Salvador.\n\nLas causas fueron muchas: rivalidad entre Guatemala y las demás provincias, dos capitales que se disputaban el poder, quiebra de la hacienda, malos caminos, la epidemia de cólera de 1837 —que Carrera aprovechó acusando a los liberales de envenenar los pozos— y la falta de una economía común.\n\n**Morazán** intentó restaurar la unión desde Costa Rica y fue **fusilado en San José el 15 de septiembre de 1842**, en el aniversario de la independencia. Sus últimas palabras encargaron a la posteridad la idea de la unión centroamericana.",
+    "imagenes": [
+      "/images/centroamerica/ca4_ca-fin-federacion-flag-republica-federal-del-centro-america-rmg-rp-1_wikimedia.jpg"
+    ]
+  },
+  {
+    "id": "ca-ctx-social-maya",
+    "region": "centroamerica",
+    "tipo": "evento",
+    "titulo": "Estructura social maya",
+    "fecha_inicio": 500,
+    "fecha_fin": null,
+    "descripcion_corta": "**El rey divino**\n\nEn la cúspide, el ***k'uhul ajaw***, «señor sagrado»: gobernante, jefe militar y sacerdote que mediaba con los dioses derramando su propia sangre. Su poder se justificaba con la genealogía grabada en estelas y con el calendario.\n\n**Los nobles y los escribas**\n\nLinajes emparentados con la casa real ocupaban los cargos, la guerra y el comercio de lujo. Los **escribas**, formados durante años, dominaban un sistema de escritura de unos 800 signos que combinaba sílabas y palabras; muchos firmaban su obra.\n\n**Los campesinos**\n\nLa inmensa mayoría: cultivaban la milpa, entregaban parte de la cosecha y trabajaban en la construcción de templos y calzadas. Vivían fuera del centro ceremonial, en grupos de casas alrededor de un patio.\n\n**Los cautivos**\n\nLa guerra maya buscaba **prisioneros de alto rango** para humillarlos y sacrificarlos: un rey capturado podía significar el fin de una dinastía.",
+    "imagenes": [
+      "/images/centroamerica/ca4_ca-ctx-social-maya-1920px-yaxchilan-lintel-24-jpg-utm-source-commons-_wikimedia.jpg"
     ],
     "contextual": true
+  },
+  {
+    "id": "ca-san-bartolo",
+    "region": "centroamerica",
+    "tipo": "evento",
+    "titulo": "Los murales de San Bartolo",
+    "fecha_inicio": -100,
+    "fecha_fin": null,
+    "descripcion_corta": "Descubiertos en 2001 en el Petén guatemalteco, los murales de **San Bartolo** son los más antiguos del mundo maya: están fechados **hacia el 100 a. C.**, seis siglos antes que los de Bonampak.\n\nEn una cámara enterrada bajo una pirámide, un friso de doce metros narra el mito de la creación y la coronación de un rey: el dios del maíz naciendo de una montaña florida, cuatro deidades ofreciendo sacrificio en los cuatro rumbos, y el joven señor recibiendo la corona.\n\nJunto a ellos apareció un bloque con **diez glifos** que son la muestra de **escritura maya más antigua conocida**. Demostraron que los elementos que se creían tardíos —realeza divina, escritura, mitología del maíz— ya estaban formados en el Preclásico.",
+    "imagenes": [
+      "/images/centroamerica/ca5_ca-san-bartolo-sbmural-jpg-utm-source-en-wikipedia-org-utm-campai_wikimedia.jpg"
+    ]
+  },
+  {
+    "id": "ca-chalchuapa",
+    "region": "centroamerica",
+    "tipo": "evento",
+    "titulo": "Chalchuapa y el sur maya",
+    "fecha_inicio": 100,
+    "fecha_fin": null,
+    "descripcion_corta": "**Chalchuapa**, en el occidente de El Salvador, fue el gran centro del extremo sur del área maya: pirámides, juego de pelota, estelas y un comercio intenso de **obsidiana, jade y cacao** entre el altiplano guatemalteco y el Pacífico.\n\nEn su monumento El Trapiche y en Tazumal se ve la mezcla característica de esta frontera cultural: rasgos mayas, olmecas tardíos y del centro de México conviviendo en el mismo sitio.\n\nLa erupción del Ilopango, hacia el 431, la sepultó bajo la ceniza y obligó a abandonarla durante generaciones. Cuando la región se repobló, lo hizo con gente distinta y bajo otra influencia: la del altiplano mexicano.",
+    "imagenes": [
+      "/images/centroamerica/ca5_ca-chalchuapa-chalchuapa-iglesia-santiago-apostol-el-salvador-jp_wikimedia.jpg"
+    ]
+  },
+  {
+    "id": "ca-obsidiana",
+    "region": "centroamerica",
+    "tipo": "evento",
+    "titulo": "La obsidiana de El Chayal",
+    "fecha_inicio": 200,
+    "fecha_fin": null,
+    "descripcion_corta": "Sin metales para cortar, Mesoamérica usó **obsidiana**: vidrio volcánico que, bien golpeado, da un filo más agudo que el bisturí de acero. Con ella se hacían cuchillos, puntas, espejos y el temido *macuahuitl*.\n\nLas minas del altiplano guatemalteco —**El Chayal**, San Martín Jilotepeque e Ixtepeque— abastecieron a media Mesoamérica durante siglos. Como cada yacimiento tiene una firma química propia, los arqueólogos pueden **rastrear cada lasca hasta su cantera** y reconstruir así las rutas de comercio.\n\nGracias a eso sabemos que la obsidiana guatemalteca llegaba a Tikal, a la costa del golfo y hasta Teotihuacán, y que el control de esas minas fue una de las claves del poder de Kaminaljuyú.",
+    "imagenes": [
+      "/images/centroamerica/ca5_ca-obsidiana-obsidianoregon-jpg-utm-source-es-wikipedia-org-utm_wikimedia.jpg"
+    ]
+  },
+  {
+    "id": "ca-usulutan",
+    "region": "centroamerica",
+    "tipo": "evento",
+    "titulo": "La cerámica Usulután",
+    "fecha_inicio": -480,
+    "fecha_fin": null,
+    "descripcion_corta": "La **cerámica Usulután**, decorada con líneas onduladas claras sobre fondo oscuro mediante una técnica de reserva con cera, se fabricó en el oriente de El Salvador y el sur de Honduras y se exportó por todo el istmo y hasta el Petén.\n\nEs uno de los primeros productos que circularon a gran escala en la región y sirve a los arqueólogos como marcador cronológico: donde aparece, se puede fechar el nivel.\n\nHabla de un istmo ya interconectado en el **Preclásico Tardío**, con talleres especializados, rutas fijas y comunidades que producían para vender fuera, siglos antes del esplendor de las ciudades mayas.",
+    "imagenes": [
+      "/images/centroamerica/ca6_ca-usulutan-potter-at-wheel-jpg-utm-source-es-wikipedia-org-ut_wikimedia.jpg"
+    ]
+  },
+  {
+    "id": "ca-itzaes-peten",
+    "region": "centroamerica",
+    "tipo": "evento",
+    "titulo": "Los itzáes y Tayasal",
+    "fecha_inicio": 1350,
+    "fecha_fin": null,
+    "descripcion_corta": "Tras el abandono de Chichén Itzá y la caída de Mayapán, grupos **itzáes** se replegaron a las selvas del **Petén** y fundaron **Nojpetén** —Tayasal para los españoles— sobre una isla del lago Petén Itzá.\n\nAllí reconstruyeron un reino maya completo, con sus templos, su calendario y sus libros, en el corazón de una selva que ningún ejército quería cruzar. Cortés pasó por allí en 1525 camino de Honduras, fue recibido en paz y siguió su camino.\n\nSobrevivieron **173 años más** que el resto de Mesoamérica: Tayasal no cayó hasta **1697**. Fue el último Estado indígena independiente de toda el área maya.",
+    "imagenes": [
+      "/images/centroamerica/ca7_ca-itzaes-peten-petencito-zoo-lago-pet-n-itza-guatemala-panoramio-_wikimedia.jpg"
+    ]
+  },
+  {
+    "id": "ca-lencas-chortis",
+    "region": "centroamerica",
+    "tipo": "evento",
+    "titulo": "Lencas, chortís y los pueblos del istmo",
+    "fecha_inicio": 1420,
+    "fecha_fin": null,
+    "descripcion_corta": "En vísperas de la conquista, el istmo era un mosaico de pueblos: los **lencas** en Honduras y El Salvador, los **chortís** en la frontera con Guatemala, los pipiles nahuas del Pacífico, los tolupanes y pech al norte, los miskitos y ramas en el Caribe, y los chorotegas y nicaraos en Nicaragua.\n\nNinguno formó un imperio como el mexica o el inca: eran señoríos y cacicazgos que se aliaban y guerreaban entre sí, con jefaturas hereditarias, consejos de ancianos y comercio regular de sal, cacao, algodón y obsidiana.\n\nEsa fragmentación facilitó la conquista —los españoles jugaron con las rivalidades— y a la vez la hizo interminable: hubo que someter a cada pueblo por separado, uno tras otro, durante décadas.",
+    "imagenes": [
+      "/images/centroamerica/ca7_ca-lencas-chortis-mosquito-indians-jpg-utm-source-es-wikipedia-org-u_wikimedia.jpg"
+    ]
+  },
+  {
+    "id": "ca-soconusco",
+    "region": "centroamerica",
+    "tipo": "evento",
+    "titulo": "El cacao de Soconusco",
+    "fecha_inicio": 1460,
+    "fecha_fin": null,
+    "descripcion_corta": "El **Soconusco**, en la costa del Pacífico entre Chiapas y Guatemala, producía el cacao más apreciado de Mesoamérica. Su calidad era tal que el imperio mexica lo conquistó **hacia 1486**, a **1 000 kilómetros** de Tenochtitlan, solo para asegurarse el tributo.\n\nEl cacao era moneda, bebida ritual y artículo de lujo: la clase alta lo bebía batido, amargo, con chile, achiote y vainilla. Los mercaderes **pochtecas** recorrían a pie la ruta que unía el altiplano mexicano con el istmo.\n\nTras la conquista, la demanda europea disparó el negocio y el Soconusco, Izalco y Guayaquil se convirtieron en los grandes productores del imperio español. El azúcar, añadida en Europa, hizo del chocolate lo que es hoy.",
+    "imagenes": [
+      "/images/centroamerica/ca6_ca-soconusco-mountainshuixtla-jpg-utm-source-es-wikipedia-org-u_wikimedia.jpg"
+    ]
   }
 ]

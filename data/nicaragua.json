@@ -1,0 +1,257 @@
+[
+  {
+    "id": "ca-walker",
+    "region": "nicaragua",
+    "tipo": "evento",
+    "titulo": "William Walker y los filibusteros",
+    "fecha_inicio": 1855,
+    "fecha_fin": 1857,
+    "descripcion_corta": "Un abogado y periodista de Tennessee llamado **William Walker** desembarcó en Nicaragua **en 1855** con menos de sesenta hombres, aprovechando la guerra civil entre liberales y conservadores. En un año se había proclamado presidente, reinstauró la esclavitud, declaró el inglés lengua oficial y fue reconocido por Estados Unidos. Su proyecto era anexionar Centroamérica como estados esclavistas. La reacción fue una alianza de todos los países de la región: Costa Rica declaró la guerra y venció en Santa Rosa y en la Segunda Batalla de Rivas, donde según la tradición el soldado Juan Santamaría murió al incendiar el mesón enemigo. Walker acabó fusilado en Honduras **en 1860**.",
+    "imagenes": [
+      "/images/nicaragua/ca3_walker-williamwalker-jpg_wikimedia.jpg"
+    ]
+  },
+  {
+    "id": "ca-cafe",
+    "region": "nicaragua",
+    "tipo": "evento",
+    "titulo": "El café y las reformas liberales",
+    "fecha_inicio": 1870,
+    "fecha_fin": 1900,
+    "descripcion_corta": "Hundido el añil, Centroamérica encontró en el café su nuevo producto, y con él llegó una transformación social profunda. Los gobiernos liberales de finales del siglo XIX privatizaron las tierras comunales indígenas y ejidales para dedicarlas al grano, crearon leyes contra la 'vagancia' que obligaban a trabajar en las fincas y financiaron ferrocarriles hacia los puertos. El resultado fue una oligarquía cafetalera muy concentrada, un campesinado sin tierra y economías dependientes de un solo producto y de su precio internacional. En Costa Rica, donde la propiedad quedó más repartida entre pequeños productores, el modelo derivó en una sociedad menos desigual que en sus vecinos.",
+    "imagenes": [
+      "/images/nicaragua/ca3_cafe_ca-diagram-of-coffea-arabica-jpg_wikimedia.jpg"
+    ]
+  },
+  {
+    "id": "ca-ctx-economia-cafe-banano",
+    "region": "nicaragua",
+    "tipo": "evento",
+    "titulo": "Modelo económico: del añil al banano",
+    "fecha_inicio": 1885,
+    "fecha_fin": null,
+    "descripcion_corta": "En cuatro siglos, el istmo cambió de producto tres veces, pero nunca de modelo: **un solo cultivo de exportación** que decide el destino del país.\n\n**Añil y cochinilla**\n\nEl tinte azul del añil salvadoreño y el rojo de la cochinilla —insectos criados sobre nopales— vestían a Europa. Los **tintes químicos alemanes**, hacia 1870, los arruinaron en pocos años.\n\n**El café**\n\nLas reformas liberales entregaron a los cafetaleros las tierras comunales de los pueblos indígenas y de la Iglesia, y aprobaron **leyes contra la vagancia** que obligaban a los campesinos sin tierra a trabajar en las fincas. Nació la oligarquía cafetalera.\n\n**El banano**\n\n**Desde 1899**, la United Fruit Company recibió concesiones enormes a cambio de construir ferrocarriles. Llegó a controlar la tierra, el tren, los puertos, el telégrafo y la flota, y a decidir quién gobernaba: de ahí la expresión **república bananera**.\n\n**El canal**\n\nPanamá se separó de Colombia en 1903 con apoyo estadounidense, y la Zona del Canal quedó bajo control de Estados Unidos hasta 1999.",
+    "imagenes": [
+      "/images/nicaragua/ctx_ca-ctx-economia-cafe-banano-las-merceditas-18-jpg-utm-source-en-wikipedia-org-_wikimedia.jpg"
+    ],
+    "contextual": true
+  },
+  {
+    "id": "ca-walker-derrota",
+    "region": "nicaragua",
+    "tipo": "evento",
+    "titulo": "La derrota de Walker",
+    "fecha_inicio": 1857,
+    "fecha_fin": null,
+    "descripcion_corta": "El filibustero estadounidense **William Walker** se había hecho con el poder en Nicaragua, restablecido la esclavitud y declarado el inglés lengua oficial, con el proyecto de anexar Centroamérica a los estados esclavistas del sur.\n\nLa respuesta fue **la única guerra que Centroamérica ha librado unida**: la Campaña Nacional de 1856-1857, con tropas de Costa Rica, Guatemala, El Salvador, Honduras y Nicaragua. Walker capituló **el 1 de mayo de 1857** y fue evacuado por la marina estadounidense.\n\nVolvió dos veces más. En 1860 fue capturado en Honduras y **fusilado en Trujillo** a los 36 años. Su tumba sigue allí. La campaña dejó en la región una desconfianza duradera hacia la expansión estadounidense.",
+    "imagenes": [
+      "/images/nicaragua/ca4_ca-walker-derrota-the-battle-roll-an-encyclopedia-containing-descrip_wikimedia.jpg"
+    ]
+  },
+  {
+    "id": "ca-marines-nicaragua",
+    "region": "nicaragua",
+    "tipo": "evento",
+    "titulo": "Los marines en Nicaragua",
+    "fecha_inicio": 1912,
+    "fecha_fin": null,
+    "descripcion_corta": "**En 1912**, infantes de marina estadounidenses desembarcaron en Nicaragua para sostener al gobierno conservador. Se quedaron, con una breve interrupción, **hasta 1933**: veinte años de ocupación en los que Washington controló las aduanas y el banco nacional.\n\nContra esa ocupación se levantó **Augusto César Sandino**, que combatió desde las montañas de Las Segovias con un ejército campesino y se convirtió en símbolo antiimperialista en toda América Latina.\n\nAl retirarse, los marines dejaron creada la **Guardia Nacional** al mando de **Anastasio Somoza**, que en 1934 hizo asesinar a Sandino y fundó una dinastía familiar que gobernó Nicaragua **hasta 1979**. Es el ejemplo más claro de la política del garrote en el istmo.",
+    "imagenes": [
+      "/images/nicaragua/np2_ca-marines-nicaragua-u-s-marines-holding-sandino-s-flag-nicaragua-1932-_wikimedia.jpg"
+    ]
+  },
+  {
+    "id": "ca-ctx-siglo-xix",
+    "region": "nicaragua",
+    "tipo": "evento",
+    "titulo": "Cómo se vivía en el siglo XIX",
+    "fecha_inicio": 1860,
+    "fecha_fin": null,
+    "descripcion_corta": "**El campo manda**\n\nNueve de cada diez centroamericanos vivían en el campo. Las capitales eran pueblos grandes: Guatemala rondaba los 40 000 habitantes y las demás, muchos menos.\n\n**La finca**\n\nCon el café, la vida rural se reorganizó alrededor de la finca: casa patronal, beneficio, tienda y colonos endeudados. Las **leyes contra la vagancia** obligaban a los campesinos sin tierra propia a demostrar que trabajaban para alguien, con libreta y todo.\n\n**Los pueblos indígenas**\n\nEn Guatemala eran la mayoría de la población y conservaron su lengua, su traje y sus cofradías, pero perdieron las tierras comunales y quedaron sujetos al **mandamiento**, el reclutamiento forzoso para la cosecha.\n\n**La vida diaria**\n\nMaíz, frijol, tortilla y café; casas de adobe o bahareque con techo de teja; fiesta patronal con marimba, cohetes y procesión. La marimba, de origen africano, se convirtió en el instrumento nacional del istmo.",
+    "imagenes": [
+      "/images/nicaragua/ca4_ca-ctx-siglo-xix-marimba-antonko-amc12-jpg-utm-source-es-wikipedia-_wikimedia.jpg"
+    ],
+    "contextual": true
+  },
+  {
+    "id": "ni-independencia",
+    "region": "nicaragua",
+    "tipo": "evento",
+    "titulo": "Nicaragua independiente",
+    "fecha_inicio": 1821,
+    "fecha_fin": null,
+    "descripcion_corta": "Nicaragua se independizó **el 15 de septiembre de 1821** dentro de la Capitanía General de Guatemala, pasó por el imperio de Iturbide y quedó después como Estado de la República Federal de Centroamérica.\n\n**En 1838** se separó definitivamente y nació como república independiente. Heredaba una división que marcaría todo el siglo: **León**, ciudad universitaria y liberal, contra **Granada**, comercial y conservadora, a orillas del Gran Lago.\n\nEsa rivalidad provocó guerras civiles casi continuas y acabó llevando al país a la mayor catástrofe de su historia decimonónica: la llegada de los filibusteros.",
+    "imagenes": [
+      "/images/nicaragua/ni_ni-independencia-557px-centralamerica1860map-a-jpg-utm-source-es-wi_wikimedia.jpg"
+    ]
+  },
+  {
+    "id": "ni-mosquitia",
+    "region": "nicaragua",
+    "tipo": "evento",
+    "titulo": "La Mosquitia y los ingleses",
+    "fecha_inicio": 1848,
+    "fecha_fin": null,
+    "descripcion_corta": "La costa caribeña nunca fue española. Los británicos, aliados de los **miskitos** desde el siglo XVII, mantuvieron allí un protectorado con su propio «rey de la Mosquitia», coronado en Jamaica.\n\n**En 1848** ocuparon **San Juan del Norte** y lo rebautizaron Greytown, en plena carrera por la ruta interoceánica. El pulso con Estados Unidos se resolvió en el **tratado Clayton-Bulwer** de 1850, por el que ambas potencias se comprometían a no controlar en solitario un futuro canal, sin consultar a Nicaragua.\n\nLa Mosquitia no se incorporó al país hasta **1894**, con Zelaya. La costa caribeña —criolla, miskita, garífuna y de habla inglesa— sigue siendo hoy la región más distinta y más olvidada de Nicaragua.",
+    "imagenes": [
+      "/images/nicaragua/np2_ni-mosquitia-2015bluefieldsdsc-0195-jpg-utm-source-es-wikipedia_wikimedia.jpg"
+    ]
+  },
+  {
+    "id": "ni-transito",
+    "region": "nicaragua",
+    "tipo": "evento",
+    "titulo": "La ruta del tránsito y Vanderbilt",
+    "fecha_inicio": 1849,
+    "fecha_fin": null,
+    "descripcion_corta": "Con la fiebre del oro de California, ir de Nueva York a San Francisco por tierra era una odisea. **Cornelius Vanderbilt** montó **en 1849** una ruta que cruzaba Nicaragua: barco de vapor por el río San Juan, travesía del **Gran Lago** y apenas veinte kilómetros en diligencia hasta el Pacífico.\n\nEra más rápida y más barata que la de Panamá, y llegó a transportar **2 000 pasajeros al mes**. Nicaragua cobraba una parte de cada billete.\n\nEse negocio fue precisamente lo que atrajo a los filibusteros: cuando **William Walker** tomó el poder en 1855, se apoderó de la compañía del tránsito, y Vanderbilt —furioso— financió a los ejércitos centroamericanos que acabaron con él.",
+    "imagenes": [
+      "/images/nicaragua/ni_ni-transito-cornelius-vanderbilt-1877-jpg-utm-source-es-wikipe_wikimedia.jpg"
+    ]
+  },
+  {
+    "id": "ni-matagalpa",
+    "region": "nicaragua",
+    "tipo": "evento",
+    "titulo": "La guerra de las Comunidades Indígenas",
+    "fecha_inicio": 1881,
+    "fecha_fin": null,
+    "descripcion_corta": "**En 1881**, los pueblos indígenas de **Matagalpa** se levantaron contra el gobierno conservador: los obligaban a trabajos forzados en los caminos y el telégrafo, les cobraban impuestos nuevos y les quitaban tierras comunales para los cafetales.\n\nMiles de indígenas sitiaron la ciudad de Matagalpa. La represión, con artillería y con el apoyo de los cafetaleros alemanes de la zona, dejó **más de mil muertos**.\n\nFue la última gran resistencia indígena armada del país y el precio de la expansión del café. El mismo patrón —tierras comunales privatizadas, trabajo forzado y represión— se repitió en toda Centroamérica en las mismas décadas.",
+    "imagenes": [
+      "/images/nicaragua/ni_ni-matagalpa-desde-mirador-el-calvario-jpg-utm-source-es-wikipe_wikimedia.jpg"
+    ]
+  },
+  {
+    "id": "ni-zelaya",
+    "region": "nicaragua",
+    "tipo": "evento",
+    "titulo": "José Santos Zelaya y la revolución liberal",
+    "fecha_inicio": 1893,
+    "fecha_fin": null,
+    "descripcion_corta": "**En 1893**, **José Santos Zelaya** llegó al poder tras treinta años de gobiernos conservadores y modernizó el país a marchas forzadas: ferrocarril, telégrafo, alumbrado eléctrico, educación laica y gratuita, matrimonio civil, separación de la Iglesia y el Estado y un código nuevo.\n\n**En 1894 incorporó la Mosquitia**, poniendo fin al protectorado británico y completando el mapa de Nicaragua.\n\nSu caída llegó por el canal: negoció con Alemania y Japón la construcción de uno propio después de que Estados Unidos eligiera Panamá. Washington rompió relaciones, apoyó una revuelta conservadora y **en 1909** Zelaya tuvo que renunciar. Con él terminó la última política exterior verdaderamente independiente del país hasta muy tarde.",
+    "imagenes": [
+      "/images/nicaragua/ni_ni-zelaya-jose-santos-zelaya-cph-3a03378-jpg-utm-source-es-w_wikimedia.jpg"
+    ]
+  },
+  {
+    "id": "ni-chamorro-bryan",
+    "region": "nicaragua",
+    "tipo": "evento",
+    "titulo": "El tratado Chamorro-Bryan",
+    "fecha_inicio": 1916,
+    "fecha_fin": null,
+    "descripcion_corta": "**En 1914**, con los marines ya en el país, Nicaragua firmó con Estados Unidos el **tratado Chamorro-Bryan**: a cambio de tres millones de dólares cedía **a perpetuidad** los derechos exclusivos para construir un canal por su territorio, más una base naval en el golfo de Fonseca y las islas del Maíz por 99 años.\n\nEl objetivo estadounidense no era construirlo, sino **impedir que nadie más lo hiciera** y proteger el de Panamá.\n\nCosta Rica y El Salvador demandaron a Nicaragua ante la Corte de Justicia Centroamericana, que les dio la razón; Nicaragua y Estados Unidos ignoraron la sentencia y la Corte —el primer tribunal internacional permanente del mundo— se disolvió. El tratado no se anuló hasta **1970**.",
+    "imagenes": [
+      "/images/nicaragua/ni_ni-chamorro-bryan-tacho-hope-jpg-utm-source-es-wikipedia-org-utm-cam_wikimedia.jpg"
+    ]
+  },
+  {
+    "id": "ni-sandino",
+    "region": "nicaragua",
+    "tipo": "evento",
+    "titulo": "Sandino y la guerra de las Segovias",
+    "fecha_inicio": 1927,
+    "fecha_fin": 1933,
+    "descripcion_corta": "Cuando los jefes liberales pactaron con Estados Unidos en 1927, un solo comandante se negó a entregar las armas: **Augusto C. Sandino**, minero y mecánico formado en las petroleras mexicanas.\n\nCon un **Ejército Defensor de la Soberanía Nacional** de campesinos, sombreros de ala ancha y machetes, combatió durante seis años en las montañas de Las Segovias contra los marines y la Guardia Nacional. Inventó tácticas de guerrilla que después se estudiarían en medio mundo, y su causa fue seguida en toda América Latina.\n\nLa aviación estadounidense bombardeó pueblos como **Ocotal en 1927**, uno de los primeros bombardeos aéreos sobre población civil de la historia. Los marines se retiraron **en 1933** sin haberlo derrotado.",
+    "imagenes": [
+      "/images/nicaragua/ni_ni-sandino-augusto-c-sar-sandino-jpg-utm-source-es-wikipedia-_wikimedia.jpg"
+    ]
+  },
+  {
+    "id": "ni-asesinato-sandino",
+    "region": "nicaragua",
+    "tipo": "evento",
+    "titulo": "El asesinato de Sandino",
+    "fecha_inicio": 1934,
+    "fecha_fin": null,
+    "descripcion_corta": "Firmada la paz y retirados los marines, Sandino acudió **el 21 de febrero de 1934** a cenar con el presidente Sacasa en Managua. Al salir del palacio, la Guardia Nacional lo detuvo y lo fusiló esa misma noche junto a dos de sus generales.\n\nLa orden la dio **Anastasio Somoza García**, jefe de la Guardia, el cuerpo que los propios estadounidenses habían creado y entrenado antes de marcharse. Los restos de Sandino nunca aparecieron.\n\nDos años después, Somoza derrocó al presidente y se hizo con el poder. La frase que se le atribuye a Roosevelt sobre él —«será un hijo de puta, pero es nuestro hijo de puta»— resume la relación de Washington con la dinastía que empezaba.",
+    "imagenes": [
+      "/images/nicaragua/ni_ni-asesinato-sandino-anastasio-somoza-garc-a-jpg-utm-source-es-wikipedi_wikimedia.jpg"
+    ]
+  },
+  {
+    "id": "ni-somoza",
+    "region": "nicaragua",
+    "tipo": "evento",
+    "titulo": "La dinastía Somoza",
+    "fecha_inicio": 1936,
+    "fecha_fin": 1979,
+    "descripcion_corta": "**Desde 1936**, la familia **Somoza** gobernó Nicaragua **cuarenta y tres años**: primero Anastasio Somoza García, después sus hijos Luis y Anastasio Somoza Debayle, alternándose con presidentes de paja cuando convenía guardar las formas.\n\nEl país funcionaba como una finca familiar: llegaron a poseer el 20 % de la tierra cultivable, la línea aérea, la naviera, la cementera, el matadero, los medios y hasta el negocio de la sangre. La **Guardia Nacional** era a la vez ejército, policía y guardia personal.\n\nSomoza García fue **asesinado en 1956** por el poeta **Rigoberto López Pérez**, que le disparó en un baile en León sabiendo que no saldría vivo. Le sucedieron sus hijos, y la represión se endureció.",
+    "imagenes": [
+      "/images/nicaragua/ni_ni-somoza-1975-press-photo-nicaragua-president-anastasio-som_wikimedia.png"
+    ]
+  },
+  {
+    "id": "ni-fsln",
+    "region": "nicaragua",
+    "tipo": "evento",
+    "titulo": "La fundación del FSLN",
+    "fecha_inicio": 1961,
+    "fecha_fin": null,
+    "descripcion_corta": "**En 1961**, en Honduras, un grupo de jóvenes encabezado por **Carlos Fonseca**, Silvio Mayorga y Tomás Borge fundó el **Frente Sandinista de Liberación Nacional**, tomando el nombre y la bandera rojinegra del guerrillero asesinado en 1934.\n\nSus primeros años fueron un desastre militar: columnas guerrilleras aniquiladas en las montañas, dirigentes muertos o presos. Fonseca cayó en combate en 1976, tres años antes del triunfo.\n\nLo que cambió las cosas no fue la guerrilla sino el desprestigio total del régimen y la incorporación de sectores medios, empresarios y de la Iglesia, hartos de la corrupción de los Somoza.",
+    "imagenes": [
+      "/images/nicaragua/ni_ni-fsln-carlos-fonseca-amador-1970-jpg-utm-source-es-wikip_wikimedia.jpg"
+    ]
+  },
+  {
+    "id": "ni-terremoto-1972",
+    "region": "nicaragua",
+    "tipo": "evento",
+    "titulo": "El terremoto de Managua",
+    "fecha_inicio": 1972,
+    "fecha_fin": null,
+    "descripcion_corta": "**La medianoche del 23 de diciembre de 1972**, un terremoto de magnitud 6,2 destruyó el centro de **Managua**: entre **6 000 y 10 000 muertos**, 20 000 heridos y tres cuartas partes de la ciudad inhabitable.\n\nLo que ocurrió después fue decisivo. Llegó ayuda internacional masiva y **el régimen la desvió**: Somoza y sus allegados especularon con terrenos, vendieron a sobreprecio materiales donados y se quedaron con parte del dinero. Hasta la sangre donada acabó en su empresa exportadora.\n\nEl saqueo indignó incluso a la burguesía que lo había sostenido. Managua nunca reconstruyó su centro —hoy sigue siendo una ciudad sin centro— y el terremoto se considera el principio del fin de la dinastía.",
+    "imagenes": [
+      "/images/nicaragua/ni_ni-terremoto-1972-terremoto-managua-1972-usgs-jpg-utm-source-es-wiki_wikimedia.jpg"
+    ]
+  },
+  {
+    "id": "ni-revolucion",
+    "region": "nicaragua",
+    "tipo": "evento",
+    "titulo": "La revolución sandinista",
+    "fecha_inicio": 1979,
+    "fecha_fin": null,
+    "descripcion_corta": "El asesinato del periodista **Pedro Joaquín Chamorro** en enero de 1978 desató la insurrección. Siguieron huelgas generales, tomas de ciudades, el asalto sandinista al Palacio Nacional en agosto de 1978 y una guerra que dejó **unos 50 000 muertos**.\n\nEl mundo vio en televisión cómo la Guardia Nacional bombardeaba sus propias ciudades y cómo un francotirador asesinaba ante las cámaras al periodista estadounidense Bill Stewart.\n\n**El 17 de julio de 1979**, Somoza huyó a Miami; dos días después, las columnas sandinistas entraron en Managua entre multitudes. El nuevo gobierno nacionalizó los bienes de la familia, abolió la pena de muerte y lanzó **en 1980 una cruzada de alfabetización** que bajó el analfabetismo del 50 % al 13 % en cinco meses.",
+    "imagenes": [
+      "/images/nicaragua/ni2_ni-revolucion-le-n-victoria-1979-27014838724-jpg-utm-source-comm_wikimedia.jpg"
+    ]
+  },
+  {
+    "id": "ni-contra",
+    "region": "nicaragua",
+    "tipo": "evento",
+    "titulo": "La Contra y la guerra de los ochenta",
+    "fecha_inicio": 1981,
+    "fecha_fin": 1990,
+    "descripcion_corta": "**Desde 1981**, la administración Reagan financió, armó y entrenó a la **Contra**, formada por antiguos guardias somocistas, campesinos descontentos con las colectivizaciones y grupos indígenas de la costa caribeña.\n\nFueron ocho años de guerra con **unos 30 000 muertos**, minado de puertos, servicio militar obligatorio, bloqueo económico e hiperinflación. La Corte Internacional de Justicia **condenó a Estados Unidos en 1986** por el minado y por el uso de la fuerza; Washington no acató la sentencia.\n\nAl salir a la luz que la Casa Blanca financiaba a la Contra con la venta secreta de armas a Irán —el escándalo **Irán-Contra**—, el apoyo se hizo insostenible.",
+    "imagenes": [
+      "/images/nicaragua/ni_ni-contra-bandera-resistencia-nicarag-ense-jpg-utm-source-es_wikimedia.jpg"
+    ]
+  },
+  {
+    "id": "ni-chamorro-1990",
+    "region": "nicaragua",
+    "tipo": "evento",
+    "titulo": "Violeta Chamorro y el fin de la guerra",
+    "fecha_inicio": 1990,
+    "fecha_fin": null,
+    "descripcion_corta": "**El 25 de febrero de 1990**, contra todos los pronósticos —incluidos los del propio Frente—, **Violeta Barrios de Chamorro**, viuda del periodista asesinado en 1978, ganó las elecciones al frente de una coalición de catorce partidos.\n\n**Daniel Ortega** aceptó el resultado y entregó el poder: fue la primera vez en la historia de Nicaragua que un gobierno cedía el mando a la oposición por la vía del voto. La guerra terminó, la Contra se desmovilizó y el servicio militar se abolió.\n\nEl coste había sido enorme: dos guerras en una década, la economía destrozada y una emigración que continúa. Chamorro fue además la **primera mujer elegida presidenta en América**.",
+    "imagenes": [
+      "/images/nicaragua/ni_ni-chamorro-1990-violeta-chamorro-1991-jpg-utm-source-es-wikipedia-_wikimedia.jpg"
+    ]
+  },
+  {
+    "id": "ni-ctx-economia",
+    "region": "nicaragua",
+    "tipo": "evento",
+    "titulo": "Modelo económico de Nicaragua",
+    "fecha_inicio": 1970,
+    "fecha_fin": null,
+    "descripcion_corta": "**Del café al algodón**\n\nEl café organizó el país desde 1870; en los años cincuenta se le sumó el **algodón** en la llanura del Pacífico, que desplazó a miles de campesinos de sus tierras hacia las ciudades y la frontera agrícola. Después vinieron el azúcar, la carne y el banano.\n\n**Una economía de enclave**\n\nLos precios los fijaba el mercado internacional y la tierra estaba concentradísima: hacia 1978, el 2 % de los propietarios tenía casi la mitad de la superficie cultivable, y buena parte pertenecía a una sola familia.\n\n**El lago y el canal que nunca fue**\n\nEl Gran Lago de Nicaragua hizo del país el candidato natural para un canal interoceánico durante dos siglos. Esa promesa marcó su política exterior más que ningún otro factor... y nunca se materializó.\n\n**Hoy**\n\nAgroexportación, maquila, turismo y **remesas** de la enorme diáspora en Costa Rica y Estados Unidos.",
+    "imagenes": [
+      "/images/nicaragua/ni_ni-ctx-economia-lake-nicaragua-jpg-utm-source-es-wikipedia-org-utm_wikimedia.jpg"
+    ],
+    "contextual": true
+  }
+]

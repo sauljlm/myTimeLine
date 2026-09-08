@@ -1,0 +1,171 @@
+[
+  {
+    "id": "sa-triple-alianza",
+    "region": "argentina",
+    "tipo": "evento",
+    "titulo": "La Guerra de la Triple Alianza",
+    "fecha_inicio": 1864,
+    "fecha_fin": 1870,
+    "descripcion_corta": "Brasil, Argentina y Uruguay se aliaron contra Paraguay en la guerra más destructiva de la historia de Suramérica. Paraguay, gobernado por Francisco Solano López, era un país aislado pero con industria propia y ejército numeroso; entró en el conflicto por la disputa sobre Uruguay y la navegación de los ríos. Resistió seis años, incluso cuando ya estaba invadido: en las últimas batallas combatían ancianos y niños con barbas pintadas. Las estimaciones más citadas hablan de que perdió más de la mitad de su población y una proporción altísima de sus varones adultos. Solano López murió **en 1870** diciendo que moría con su patria; el país quedó ocupado, desmembrado y endeudado durante generaciones.",
+    "imagenes": [
+      "/images/argentina/sa3_triplealianza-escenas-de-la-guerra-de-la-triple-alianza-png_wikimedia.png"
+    ]
+  },
+  {
+    "id": "ar-mayo",
+    "region": "argentina",
+    "tipo": "evento",
+    "titulo": "La Revolución de Mayo",
+    "fecha_inicio": 1810,
+    "fecha_fin": null,
+    "descripcion_corta": "**El 25 de mayo de 1810**, tras enterarse de que Napoleón había ocupado España y disuelto la Junta Central, un cabildo abierto en Buenos Aires destituyó al virrey y formó la **Primera Junta**.\n\nLa gobernaba oficialmente el nombre de Fernando VII, pero nadie se engañaba. Detrás estaban los criollos que habían rechazado por su cuenta **dos invasiones inglesas** en 1806 y 1807, sin ayuda de España: aquella experiencia les había demostrado que podían defenderse solos.\n\nLa independencia formal llegaría seis años después, y el proceso fue largo: guerras contra los realistas del Alto Perú, la escuadra de **Guillermo Brown** en el río, y la campaña de San Martín cruzando los Andes.",
+    "imagenes": [
+      "/images/argentina/ar_ar-mayo-25-de-mayo-por-f-fortuny-jpg-utm-source-es-wikiped_wikimedia.jpg"
+    ]
+  },
+  {
+    "id": "ar-independencia",
+    "region": "argentina",
+    "tipo": "evento",
+    "titulo": "La independencia en Tucumán",
+    "fecha_inicio": 1816,
+    "fecha_fin": null,
+    "descripcion_corta": "**El 9 de julio de 1816**, un congreso reunido en **San Miguel de Tucumán** —lejos de Buenos Aires, para que las provincias del interior se sintieran representadas— declaró la independencia de las **Provincias Unidas en Sudamérica**.\n\nEl acta se firmó en español y en **quechua y aimara**, para que la entendieran los pueblos del norte, entonces todavía en guerra contra los realistas.\n\nSe debatió incluso coronar a un descendiente inca con capital en Cuzco, propuesta de Belgrano que no prosperó. Lo que sí quedó pendiente fue la forma de gobierno: la pelea entre **unitarios y federales** ensangrentaría el país durante cuarenta años.",
+    "imagenes": [
+      "/images/argentina/ar_ar-independencia-acta-independencia-argentina-quechua-jpg-utm-sourc_wikimedia.jpg"
+    ]
+  },
+  {
+    "id": "ar-rosas",
+    "region": "argentina",
+    "tipo": "evento",
+    "titulo": "Juan Manuel de Rosas",
+    "fecha_inicio": 1829,
+    "fecha_fin": null,
+    "descripcion_corta": "**Juan Manuel de Rosas**, estanciero y caudillo federal, gobernó Buenos Aires **de 1829 a 1852** con **la suma del poder público**: control absoluto, retrato obligatorio en las iglesias, cinta punzó en la solapa y la **Mazorca**, su policía política, persiguiendo a los unitarios.\n\nResistió los bloqueos navales de Francia y de Gran Bretaña —el combate de la **Vuelta de Obligado**, en 1845, se conmemora hoy como Día de la Soberanía— y mantuvo unido un país que se caía a pedazos.\n\nSus enemigos, exiliados en Montevideo y Chile, escribieron contra él las obras fundacionales de la literatura argentina: *El matadero* de Echeverría y el *Facundo* de **Sarmiento**, con su fórmula «civilización o barbarie». Cayó en **Caseros, en 1852**, y murió exiliado en Inglaterra.",
+    "imagenes": [
+      "/images/argentina/ar_ar-rosas-juan-manuel-de-rosas-jpg-utm-source-es-wikipedia-o_wikimedia.jpg"
+    ]
+  },
+  {
+    "id": "ar-constitucion-1853",
+    "region": "argentina",
+    "tipo": "evento",
+    "titulo": "La Constitución de 1853",
+    "fecha_inicio": 1853,
+    "fecha_fin": null,
+    "descripcion_corta": "Tras la caída de Rosas, un congreso en Santa Fe sancionó **en 1853** la **Constitución** que —con reformas— sigue vigente. Se inspiró en la estadounidense y en las *Bases* de **Juan Bautista Alberdi**, cuyo lema resumía el proyecto: **«gobernar es poblar»**.\n\nEstableció el federalismo, la libertad de cultos, la abolición definitiva de la esclavitud y, en su artículo 25, el compromiso de **fomentar la inmigración europea**.\n\nBuenos Aires se mantuvo separada del resto del país hasta 1861 y no se federalizó como capital hasta **1880**. A partir de ahí, con el orden asegurado, Argentina se lanzó a construir el Estado moderno: ejército nacional, escuela pública laica y gratuita con la **ley 1420 de 1884**, registro civil y ferrocarril.",
+    "imagenes": [
+      "/images/argentina/ar_ar-constitucion-1853-museo-del-bicentenario-constituci-n-de-la-confeder_wikimedia.jpg"
+    ]
+  },
+  {
+    "id": "ar-desierto",
+    "region": "argentina",
+    "tipo": "evento",
+    "titulo": "La Conquista del Desierto",
+    "fecha_inicio": 1879,
+    "fecha_fin": 1885,
+    "descripcion_corta": "**Entre 1878 y 1885**, el general **Julio A. Roca** dirigió una campaña militar contra los pueblos indígenas de la Pampa y la Patagonia, con fusiles Remington de repetición, telégrafo y ferrocarril.\n\nLos **mapuches, ranqueles y tehuelches** fueron derrotados: se calcula que **más de mil murieron en combate**, unos 15 000 fueron sometidos, y muchos deportados, repartidos como sirvientes o encerrados en la isla Martín García. Sus familias fueron separadas.\n\nEl Estado incorporó así **medio millón de kilómetros cuadrados** que se repartieron entre unos pocos centenares de propietarios: ahí nace la estructura latifundista de la Pampa. Durante un siglo se enseñó como epopeya nacional; hoy es objeto de debate y de reclamos indígenas.",
+    "imagenes": [
+      "/images/argentina/ar_ar-desierto-mapa-de-la-patagonia-y-las-pampas-en-1878-recorte-_wikimedia.png"
+    ]
+  },
+  {
+    "id": "ar-inmigracion",
+    "region": "argentina",
+    "tipo": "evento",
+    "titulo": "La gran inmigración",
+    "fecha_inicio": 1895,
+    "fecha_fin": null,
+    "descripcion_corta": "Entre 1870 y 1930 llegaron a Argentina **unos seis millones de inmigrantes**, sobre todo **italianos y españoles**, y también sirio-libaneses, judíos de Europa oriental, polacos y galeses.\n\nEl impacto fue brutal en proporción: en el censo de **1914, el 30 % de la población era extranjera**, y en Buenos Aires casi la mitad. Ninguna otra gran nación recibió tanta inmigración en relación con su tamaño, ni siquiera Estados Unidos.\n\nDe ahí salió casi todo lo que se considera argentino: el **lunfardo** con sus palabras italianas, el tango de los arrabales, las pizzerías, el fútbol traído por los ingleses, los conventillos y los sindicatos anarquistas y socialistas. Y una frase repetida: los mexicanos descienden de los aztecas, los peruanos de los incas y **los argentinos, de los barcos**.",
+    "imagenes": [
+      "/images/argentina/ar_ar-inmigracion-cafferata-la-esclavitud-jpg-utm-source-es-wikipedi_wikimedia.jpg"
+    ]
+  },
+  {
+    "id": "ar-saenz-pena",
+    "region": "argentina",
+    "tipo": "evento",
+    "titulo": "El voto secreto y Yrigoyen",
+    "fecha_inicio": 1912,
+    "fecha_fin": null,
+    "descripcion_corta": "La **ley Sáenz Peña de 1912** estableció el voto **universal masculino, secreto y obligatorio**, con padrón basado en el registro militar para evitar el fraude que había sostenido durante décadas al régimen conservador.\n\nEl resultado no se hizo esperar: **en 1916**, **Hipólito Yrigoyen**, de la Unión Cívica Radical, ganó las primeras elecciones limpias de la historia argentina. Era el primer presidente de origen no oligárquico, votado por la clase media hija de inmigrantes.\n\nSu gobierno impulsó la **reforma universitaria de 1918**, nacida en Córdoba y extendida a toda América Latina: autonomía, cogobierno estudiantil y concursos para las cátedras. También reprimió duramente la **Semana Trágica de 1919** y las huelgas de la Patagonia.",
+    "imagenes": [
+      "/images/argentina/ar_ar-saenz-pena-don-hip-lito-yrigoyen-jpg-utm-source-es-wikipedia-_wikimedia.jpg"
+    ]
+  },
+  {
+    "id": "ar-1930",
+    "region": "argentina",
+    "tipo": "evento",
+    "titulo": "El primer golpe y la década infame",
+    "fecha_inicio": 1930,
+    "fecha_fin": null,
+    "descripcion_corta": "**El 6 de septiembre de 1930**, el general **Uriburu** derrocó a Yrigoyen: fue el **primer golpe militar** de la Argentina moderna, en plena crisis mundial. Le seguirían otros cinco en el siglo XX —1943, 1955, 1962, 1966 y 1976.\n\nLo que vino se conoce como la **década infame**: gobiernos conservadores sostenidos en el **fraude patriótico**, así llamado sin ironía por sus propios responsables, y el pacto Roca-Runciman con Gran Bretaña, que aseguraba la cuota de carne a cambio de enormes concesiones.\n\nA la vez, la sustitución de importaciones industrializó el conurbano y atrajo migración interna del campo a Buenos Aires: los **cabecitas negras**, la base social que unos años después llevaría a Perón al poder.",
+    "imagenes": [
+      "/images/argentina/ar_ar-1930-presidenttesdeladecadainfame-png-utm-source-es-wik_wikimedia.png"
+    ]
+  },
+  {
+    "id": "ar-peron",
+    "region": "argentina",
+    "tipo": "evento",
+    "titulo": "El 17 de octubre y Perón",
+    "fecha_inicio": 1945,
+    "fecha_fin": null,
+    "descripcion_corta": "El coronel **Juan Domingo Perón**, desde la Secretaría de Trabajo, había conseguido para los obreros vacaciones pagas, aguinaldo, jubilaciones y convenios colectivos. Sus rivales militares lo detuvieron **en octubre de 1945**.\n\n**El 17 de octubre**, cientos de miles de trabajadores marcharon desde el sur del conurbano hasta la Plaza de Mayo, con los pies en la fuente, y exigieron su libertad. Salió al balcón esa noche y fue elegido presidente cuatro meses después.\n\nEs la fecha fundacional del **peronismo**, el movimiento que domina la política argentina desde entonces. **Eva Perón** impulsó el **voto femenino en 1947** y una fundación de ayuda social de escala enorme; murió de cáncer en 1952, a los 33 años, y su velatorio paralizó el país.",
+    "imagenes": [
+      "/images/argentina/ar_ar-peron-juan-per-n-cropped-jpg-utm-source-es-wikipedia-org_wikimedia.jpg"
+    ]
+  },
+  {
+    "id": "ar-1955",
+    "region": "argentina",
+    "tipo": "evento",
+    "titulo": "La Revolución Libertadora",
+    "fecha_inicio": 1955,
+    "fecha_fin": null,
+    "descripcion_corta": "**En junio de 1955**, aviones de la Marina **bombardearon la Plaza de Mayo** llena de civiles para matar a Perón: unos **300 muertos**. En septiembre, un golpe lo derrocó y se exilió; acabaría en Madrid.\n\nEl gobierno militar prohibió el peronismo: era delito nombrar a Perón o a Evita, se disolvió el partido y se intervinieron los sindicatos. **El cuerpo embalsamado de Eva Perón fue secuestrado y enterrado con nombre falso en Milán durante catorce años**.\n\nProscribir a un movimiento que representaba a la mitad del país no lo hizo desaparecer: lo empujó a la resistencia, a los sindicatos y después a la guerrilla. Perón volvió **en 1973**, ganó las elecciones con el 62 % y murió al año siguiente.",
+    "imagenes": [
+      "/images/argentina/ar_ar-1955-bombardeo-a-la-plaza-de-mayo-1955-recopilaci-n-png_wikimedia.png"
+    ]
+  },
+  {
+    "id": "ar-dictadura",
+    "region": "argentina",
+    "tipo": "evento",
+    "titulo": "La dictadura y los desaparecidos",
+    "fecha_inicio": 1976,
+    "fecha_fin": 1983,
+    "descripcion_corta": "**El 24 de marzo de 1976**, una junta militar encabezada por **Videla** derrocó a Isabel Perón e instauró el autodenominado *Proceso de Reorganización Nacional*.\n\nFue **terrorismo de Estado**: secuestros clandestinos, **más de 600 centros de detención** como la ESMA, tortura sistemática, **vuelos de la muerte** en los que se arrojaba vivos al mar a los prisioneros drogados, y el robo de bebés nacidos en cautiverio y entregados a otras familias. Los organismos de derechos humanos cifran en **30 000 los desaparecidos**.\n\nContra ese silencio surgieron las **Madres de Plaza de Mayo**, que desde 1977 dieron vueltas cada jueves a la pirámide con pañuelos blancos en la cabeza, cuando cualquier reunión de tres personas estaba prohibida. Las **Abuelas** han recuperado ya la identidad de más de 130 nietos.",
+    "imagenes": [
+      "/images/argentina/ar_ar-dictadura-junta-militar-argentina-1976-png-utm-source-es-wik_wikimedia.png"
+    ]
+  },
+  {
+    "id": "ar-malvinas",
+    "region": "argentina",
+    "tipo": "evento",
+    "titulo": "Malvinas",
+    "fecha_inicio": 1982,
+    "fecha_fin": null,
+    "descripcion_corta": "**El 2 de abril de 1982**, con la economía hundida y protestas en la calle, la dictadura ocupó las **islas Malvinas**, en disputa con el Reino Unido desde 1833. La plaza que días antes reprimía se llenó de gente celebrando.\n\nMargaret Thatcher envió una flota a **13 000 kilómetros**. La guerra duró **74 días**: murieron **649 argentinos** —323 de ellos en el hundimiento del crucero *General Belgrano*— y 255 británicos. Muchos de los soldados argentinos eran conscriptos de dieciocho años mal equipados para el frío.\n\nLa derrota acabó con la dictadura. **En 1983** ganó **Raúl Alfonsín** y al año siguiente se celebró el **Juicio a las Juntas**: por primera vez en América Latina, un gobierno civil sentó en el banquillo a los militares que lo habían precedido y los condenó.",
+    "imagenes": [
+      "/images/argentina/ar_ar-malvinas-mural-of-malvinas-war-png-utm-source-es-wikipedia-_wikimedia.png"
+    ]
+  },
+  {
+    "id": "ar-ctx-tango",
+    "region": "argentina",
+    "tipo": "evento",
+    "titulo": "El tango, el asado y la identidad",
+    "fecha_inicio": 1900,
+    "fecha_fin": null,
+    "descripcion_corta": "**El tango**\n\nNació a finales del siglo XIX en los arrabales y conventillos del puerto, de la mezcla de la habanera cubana, la milonga criolla, la payada y la música de los inmigrantes italianos, españoles y de los descendientes de africanos. Al principio fue música de burdel y mala fama; triunfó en **París hacia 1913** y solo entonces la clase alta de Buenos Aires lo aceptó. **Gardel** lo llevó al cine y a la radio; **Piazzolla**, a la sala de conciertos.\n\n**La mesa**\n\nEl **asado** dominical, el **mate** que se comparte de mano en mano con la misma bombilla, la milanesa, el dulce de leche y las pastas de los domingos italianos.\n\n**La cancha**\n\nEl fútbol llegó con los ingleses del ferrocarril en el siglo XIX y se volvió identidad de barrio y de clase.\n\n**Las palabras**\n\nEl *voseo*, el **lunfardo** del tango y el *che*: un idioma propio dentro del español.",
+    "imagenes": [
+      "/images/argentina/ar_ar-ctx-tango-tango-au01-jpg-utm-source-es-wikipedia-org-utm-cam_wikimedia.jpg"
+    ],
+    "contextual": true
+  }
+]

@@ -6,7 +6,7 @@
       "orden_vertical": -1,
       "color": "var(--color-china)",
       "fecha_inicio": -2070,
-      "fecha_fin": 220,
+      "fecha_fin": 1900,
       "subperiodos": [
         {
           "nombre": "Dinastía Xia",
@@ -32,6 +32,36 @@
           "nombre": "Dinastía Han",
           "fecha_inicio": -206,
           "fecha_fin": 220
+        },
+        {
+          "nombre": "División y Tres Reinos",
+          "fecha_inicio": 220,
+          "fecha_fin": 581
+        },
+        {
+          "nombre": "Sui y Tang",
+          "fecha_inicio": 581,
+          "fecha_fin": 907
+        },
+        {
+          "nombre": "Song",
+          "fecha_inicio": 960,
+          "fecha_fin": 1279
+        },
+        {
+          "nombre": "Yuan (mongoles)",
+          "fecha_inicio": 1271,
+          "fecha_fin": 1368
+        },
+        {
+          "nombre": "Ming",
+          "fecha_inicio": 1368,
+          "fecha_fin": 1644
+        },
+        {
+          "nombre": "Qing",
+          "fecha_inicio": 1644,
+          "fecha_fin": 1900
         }
       ]
     },
@@ -359,7 +389,7 @@
       "orden_vertical": 9,
       "color": "var(--color-centroamerica)",
       "fecha_inicio": -600,
-      "fecha_fin": 1900,
+      "fecha_fin": 1838,
       "subperiodos": [
         {
           "nombre": "Preclásico maya",
@@ -389,7 +419,7 @@
       "orden_vertical": 10,
       "color": "var(--color-suramerica)",
       "fecha_inicio": -3500,
-      "fecha_fin": 1900,
+      "fecha_fin": 1826,
       "subperiodos": [
         {
           "nombre": "Civilizaciones tempranas",
@@ -419,7 +449,7 @@
       "orden_vertical": -2,
       "color": "var(--color-japon)",
       "fecha_inicio": -14500,
-      "fecha_fin": 1912,
+      "fecha_fin": 1945,
       "subperiodos": [
         {
           "nombre": "Jōmon",
@@ -427,14 +457,9 @@
           "fecha_fin": -300
         },
         {
-          "nombre": "Yayoi",
+          "nombre": "Yayoi y Kofun",
           "fecha_inicio": -300,
-          "fecha_fin": 300
-        },
-        {
-          "nombre": "Kofun y Yamato",
-          "fecha_inicio": 300,
-          "fecha_fin": 710
+          "fecha_fin": 538
         },
         {
           "nombre": "Nara y Heian",
@@ -442,19 +467,19 @@
           "fecha_fin": 1185
         },
         {
-          "nombre": "Shogunatos",
+          "nombre": "Época de los samuráis",
           "fecha_inicio": 1185,
           "fecha_fin": 1603
         },
         {
-          "nombre": "Edo",
+          "nombre": "Edo (Tokugawa)",
           "fecha_inicio": 1603,
           "fecha_fin": 1868
         },
         {
-          "nombre": "Meiji",
+          "nombre": "Meiji y el imperio",
           "fecha_inicio": 1868,
-          "fecha_fin": 1912
+          "fecha_fin": 1945
         }
       ]
     },
@@ -464,20 +489,20 @@
       "orden_vertical": 8.5,
       "color": "var(--color-mexico)",
       "fecha_inicio": -1600,
-      "fecha_fin": 1900,
+      "fecha_fin": 1920,
       "subperiodos": [
         {
-          "nombre": "Preclásico (olmecas)",
+          "nombre": "Olmecas y Preclásico",
           "fecha_inicio": -1600,
           "fecha_fin": -200
         },
         {
-          "nombre": "Clásico (Teotihuacán, mayas)",
+          "nombre": "Clásico: Teotihuacán y los mayas",
           "fecha_inicio": -200,
           "fecha_fin": 900
         },
         {
-          "nombre": "Posclásico (toltecas, aztecas)",
+          "nombre": "Posclásico: toltecas y mexicas",
           "fecha_inicio": 900,
           "fecha_fin": 1521
         },
@@ -489,7 +514,12 @@
         {
           "nombre": "México independiente",
           "fecha_inicio": 1821,
-          "fecha_fin": 1900
+          "fecha_fin": 1910
+        },
+        {
+          "nombre": "Revolución mexicana",
+          "fecha_inicio": 1910,
+          "fecha_fin": 1920
         }
       ]
     },
@@ -520,6 +550,261 @@
           "nombre": "Siglo XIX e industria",
           "fecha_inicio": 1815,
           "fecha_fin": 1900
+        }
+      ]
+    },
+    {
+      "id": "india",
+      "nombre": "India",
+      "orden_vertical": -3,
+      "color": "var(--color-india)",
+      "fecha_inicio": -7000,
+      "fecha_fin": 1947,
+      "subperiodos": [
+        {
+          "nombre": "Civilización del Indo",
+          "fecha_inicio": -2600,
+          "fecha_fin": -1900
+        },
+        {
+          "nombre": "Período védico",
+          "fecha_inicio": -1500,
+          "fecha_fin": -500
+        },
+        {
+          "nombre": "Mauryas y clásico",
+          "fecha_inicio": -321,
+          "fecha_fin": 550
+        },
+        {
+          "nombre": "Sultanatos y reinos",
+          "fecha_inicio": 1206,
+          "fecha_fin": 1526
+        },
+        {
+          "nombre": "Imperio mogol",
+          "fecha_inicio": 1526,
+          "fecha_fin": 1757
+        },
+        {
+          "nombre": "Raj británico",
+          "fecha_inicio": 1757,
+          "fecha_fin": 1947
+        }
+      ]
+    },
+    {
+      "id": "islam",
+      "nombre": "Mundo islámico",
+      "orden_vertical": -4,
+      "color": "var(--color-islam)",
+      "fecha_inicio": 570,
+      "fecha_fin": 1924,
+      "subperiodos": [
+        {
+          "nombre": "Mahoma y los califas ortodoxos",
+          "fecha_inicio": 570,
+          "fecha_fin": 661
+        },
+        {
+          "nombre": "Califato omeya",
+          "fecha_inicio": 661,
+          "fecha_fin": 750
+        },
+        {
+          "nombre": "Califato abasí y edad de oro",
+          "fecha_inicio": 750,
+          "fecha_fin": 1258
+        },
+        {
+          "nombre": "Mamelucos, mongoles y sultanatos",
+          "fecha_inicio": 1258,
+          "fecha_fin": 1517
+        },
+        {
+          "nombre": "Otomanos y safávidas",
+          "fecha_inicio": 1517,
+          "fecha_fin": 1924
+        }
+      ]
+    },
+    {
+      "id": "nicaragua",
+      "nombre": "Nicaragua",
+      "orden_vertical": 9.2,
+      "color": "var(--color-nicaragua)",
+      "fecha_inicio": 1821,
+      "fecha_fin": 2000,
+      "subperiodos": [
+        {
+          "nombre": "Independencia y guerra civil",
+          "fecha_inicio": 1821,
+          "fecha_fin": 1893
+        },
+        {
+          "nombre": "Zelaya y la ocupación",
+          "fecha_inicio": 1893,
+          "fecha_fin": 1936
+        },
+        {
+          "nombre": "Dinastía Somoza",
+          "fecha_inicio": 1936,
+          "fecha_fin": 1979
+        },
+        {
+          "nombre": "Revolución sandinista",
+          "fecha_inicio": 1979,
+          "fecha_fin": 2000
+        }
+      ]
+    },
+    {
+      "id": "panama",
+      "nombre": "Panamá",
+      "orden_vertical": 9.4,
+      "color": "var(--color-panama)",
+      "fecha_inicio": 1821,
+      "fecha_fin": 2000,
+      "subperiodos": [
+        {
+          "nombre": "Unión con Colombia",
+          "fecha_inicio": 1821,
+          "fecha_fin": 1903
+        },
+        {
+          "nombre": "República y Zona del Canal",
+          "fecha_inicio": 1903,
+          "fecha_fin": 1968
+        },
+        {
+          "nombre": "Torrijos, Noriega y el canal",
+          "fecha_inicio": 1968,
+          "fecha_fin": 2000
+        }
+      ]
+    },
+    {
+      "id": "cuba",
+      "nombre": "Cuba",
+      "orden_vertical": 9.6,
+      "color": "var(--color-cuba)",
+      "fecha_inicio": -4000,
+      "fecha_fin": 2000,
+      "subperiodos": [
+        {
+          "nombre": "Taínos y conquista",
+          "fecha_inicio": -4000,
+          "fecha_fin": 1600
+        },
+        {
+          "nombre": "Azúcar y esclavitud",
+          "fecha_inicio": 1600,
+          "fecha_fin": 1868
+        },
+        {
+          "nombre": "Guerras de independencia",
+          "fecha_inicio": 1868,
+          "fecha_fin": 1902
+        },
+        {
+          "nombre": "República y Batista",
+          "fecha_inicio": 1902,
+          "fecha_fin": 1959
+        },
+        {
+          "nombre": "Revolución y régimen de Castro",
+          "fecha_inicio": 1959,
+          "fecha_fin": 2000
+        }
+      ]
+    },
+    {
+      "id": "colombia",
+      "nombre": "Colombia",
+      "orden_vertical": 10.2,
+      "color": "var(--color-colombia)",
+      "fecha_inicio": 1810,
+      "fecha_fin": 2000,
+      "subperiodos": [
+        {
+          "nombre": "Gran Colombia",
+          "fecha_inicio": 1810,
+          "fecha_fin": 1831
+        },
+        {
+          "nombre": "Guerras civiles del siglo XIX",
+          "fecha_inicio": 1831,
+          "fecha_fin": 1903
+        },
+        {
+          "nombre": "La Violencia y el Frente Nacional",
+          "fecha_inicio": 1903,
+          "fecha_fin": 1974
+        },
+        {
+          "nombre": "Guerrillas y narcotráfico",
+          "fecha_inicio": 1974,
+          "fecha_fin": 2000
+        }
+      ]
+    },
+    {
+      "id": "argentina",
+      "nombre": "Argentina",
+      "orden_vertical": 10.4,
+      "color": "var(--color-argentina)",
+      "fecha_inicio": 1810,
+      "fecha_fin": 2000,
+      "subperiodos": [
+        {
+          "nombre": "Independencia y guerras civiles",
+          "fecha_inicio": 1810,
+          "fecha_fin": 1862
+        },
+        {
+          "nombre": "La Argentina agroexportadora",
+          "fecha_inicio": 1862,
+          "fecha_fin": 1930
+        },
+        {
+          "nombre": "Peronismo y golpes",
+          "fecha_inicio": 1930,
+          "fecha_fin": 1976
+        },
+        {
+          "nombre": "Dictadura y democracia",
+          "fecha_inicio": 1976,
+          "fecha_fin": 2000
+        }
+      ]
+    },
+    {
+      "id": "brasil",
+      "nombre": "Brasil",
+      "orden_vertical": 10.6,
+      "color": "var(--color-brasil)",
+      "fecha_inicio": 1822,
+      "fecha_fin": 2000,
+      "subperiodos": [
+        {
+          "nombre": "Imperio del Brasil",
+          "fecha_inicio": 1822,
+          "fecha_fin": 1889
+        },
+        {
+          "nombre": "República Vieja",
+          "fecha_inicio": 1889,
+          "fecha_fin": 1930
+        },
+        {
+          "nombre": "Era Vargas",
+          "fecha_inicio": 1930,
+          "fecha_fin": 1964
+        },
+        {
+          "nombre": "Dictadura militar y democracia",
+          "fecha_inicio": 1964,
+          "fecha_fin": 2000
         }
       ]
     }

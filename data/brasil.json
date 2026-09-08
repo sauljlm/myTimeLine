@@ -1,0 +1,26 @@
+[
+  {
+    "id": "sa-caucho",
+    "region": "brasil",
+    "tipo": "evento",
+    "titulo": "La fiebre del caucho",
+    "fecha_inicio": 1880,
+    "fecha_fin": 1912,
+    "descripcion_corta": "La vulcanización y después el neumático dispararon la demanda mundial de caucho, y la Amazonía tenía el monopolio del árbol que lo daba. Manaos, en plena selva, se llenó de palacetes, tranvías eléctricos y un teatro de ópera con mármol de Carrara y cristal de Murano al que llegaban compañías europeas. Ese lujo se sostenía sobre un sistema atroz: miles de indígenas y de migrantes del nordeste brasileño trabajaban endeudados de por vida, y en el Putumayo la Casa Arana practicó torturas y matanzas que un cónsul británico documentó en un informe demoledor. La burbuja se hundió cuando semillas sacadas de contrabando hicieron prosperar las plantaciones británicas en Asia.",
+    "imagenes": [
+      "/images/brasil/sa3_caucho-teatro-amazonas-03-jpg_wikimedia.jpg"
+    ]
+  },
+  {
+    "id": "sa-abolicion-brasil",
+    "region": "brasil",
+    "tipo": "evento",
+    "titulo": "La abolición de la esclavitud en Brasil",
+    "fecha_inicio": 1888,
+    "fecha_fin": null,
+    "descripcion_corta": "**Brasil** recibió cerca de cinco millones de africanos esclavizados, más que ningún otro país, y fue el último de América en abolir la esclavitud. Lo hizo por etapas: fin de la trata **en 1850**, ley de vientre libre **en 1871**, libertad de los mayores de sesenta años en 1885 y, finalmente, la Ley Áurea del 13 de mayo de 1888, firmada por la princesa Isabel en ausencia de su padre. Fueron dos artículos sin ninguna medida de reparación, reparto de tierras ni integración: 700 000 personas quedaron libres y sin nada. Los grandes propietarios, resentidos, retiraron su apoyo a la monarquía, que cayó en un golpe militar apenas dieciocho meses después.",
+    "imagenes": [
+      "/images/brasil/sa3_abolicion_br-isabel-2c-princesa-do-brasil-2c-1846-1921-28c_wikimedia.jpg"
+    ]
+  }
+]

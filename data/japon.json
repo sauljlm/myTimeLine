@@ -395,7 +395,7 @@
     "fecha_fin": null,
     "descripcion_corta": "**La ceremonia del té**\n\nMás que beber té: una coreografía de gestos exactos en una sala pequeña, con una flor y una caligrafía. Su ideal es el **wabi-sabi**, la belleza de lo imperfecto, lo usado y lo pasajero. Un cuenco roto se repara con oro (*kintsugi*) para que la grieta se vea.\n\n**El saludo**\n\nLa reverencia sustituye al contacto físico, y su profundidad depende del rango. En el idioma hay niveles distintos de cortesía según con quién se hable.\n\n**Dentro y fuera**\n\nDos ideas gobiernan el trato social: el **honne** —lo que uno piensa de verdad— y el **tatemae** —lo que corresponde decir en público—. Evitar el conflicto abierto es una forma de respeto, no de hipocresía.\n\n**El calendario**\n\nEl **hanami**, contemplar los cerezos precisamente porque duran una semana; el **obon** de agosto, cuando los muertos vuelven a casa y se les guía con farolillos; los festivales de barrio con sus carrozas.\n\n**Las artes**\n\nEl nō y luego el kabuki, el haiku de **17 sílabas**, los grabados ukiyo-e, los jardines de piedra y el ikebana.",
     "imagenes": [
-      "/images/japon/ctx_jp-ctx-costumbres-tea-ceremony-performing-2-jpg-utm-source-es-wikipe_wikimedia.jpg"
+      "/images/japon/fix4_jp-ctx-costumbres-castle-himeji-sakura02-jpg-utm-source-en-wikipedia_wikimedia.jpg"
     ],
     "contextual": true
   },
@@ -411,5 +411,451 @@
       "/images/japon/ctx_jp-ctx-social-satsuma-samurai-during-boshin-war-period-jpg-utm-s_wikimedia.jpg"
     ],
     "contextual": true
+  },
+  {
+    "id": "jp-sello-na",
+    "region": "japon",
+    "tipo": "evento",
+    "titulo": "El sello de oro de Na",
+    "fecha_inicio": 57,
+    "fecha_fin": null,
+    "descripcion_corta": "**En el año 57**, según los anales chinos, el emperador Han entregó un **sello de oro** al rey de Na, un pequeño reino del norte de Kyushu que había enviado tributo. Es la primera mención escrita de Japón en la historia.\n\nEl sello apareció de verdad **en 1784**, cuando un campesino lo desenterró en la isla de Shikanoshima: **2,3 centímetros**, oro macizo, con la inscripción «rey de Na del país de Wa, vasallo de Han».\n\nLos chinos llamaban **Wa** a Japón, con un carácter que significa «enano» o «sumiso». Los japoneses lo cambiaron en el siglo VIII por *Nihon*, «origen del sol», el nombre que usan hoy y que llegó a Occidente a través del chino como *Zipangu* y luego *Japón*.",
+    "imagenes": [
+      "/images/japon/jp2_jp-sello-na-king-of-na-gold-seal-jpg-utm-source-en-wikipedia-o_wikimedia.jpg"
+    ]
+  },
+  {
+    "id": "jp-taika",
+    "region": "japon",
+    "tipo": "evento",
+    "titulo": "La reforma Taika",
+    "fecha_inicio": 645,
+    "fecha_fin": null,
+    "descripcion_corta": "**En 645**, un golpe de palacio acabó con el clan Soga —asesinado su jefe delante de la emperatriz— y abrió el camino a la **reforma Taika**, que rehízo Japón a imagen de la China Tang.\n\nSe declaró que toda la tierra pertenecía al emperador, se repartieron parcelas a los campesinos a cambio de impuestos y trabajo, se crearon provincias con gobernadores, un código legal, un censo y una capital permanente.\n\nDe ahí sale el **Estado ritsuryō** y la figura del *tennō*, el emperador celestial, cuya dinastía —según la tradición— es la monarquía hereditaria más antigua del mundo aún en el trono. El poder real cambiaría muchas veces de manos; la legitimidad, nunca.",
+    "imagenes": [
+      "/images/japon/jp2_jp-taika-shotoku-taishi-lecturing-shomankyo-horyuji-jpg-utm_wikimedia.jpg"
+    ]
+  },
+  {
+    "id": "jp-kojiki",
+    "region": "japon",
+    "tipo": "evento",
+    "titulo": "El Kojiki y los mitos fundacionales",
+    "fecha_inicio": 712,
+    "fecha_fin": null,
+    "descripcion_corta": "**En 712** se compiló el ***Kojiki***, el libro más antiguo de Japón, seguido en 720 por el *Nihon Shoki*. Recogen los mitos que explicaban de dónde venía el país y por qué debía gobernarlo la casa imperial.\n\nCuentan que los dioses **Izanagi e Izanami** crearon las islas removiendo el océano con una lanza, y que de Izanagi nació la diosa del sol **Amaterasu**, de quien desciende el emperador. Los tres tesoros imperiales —espejo, espada y joya— vienen de esos relatos y siguen usándose en la entronización.\n\nSon a la vez mitología y propaganda política: se escribieron precisamente cuando el Estado necesitaba justificar quién mandaba y por qué.",
+    "imagenes": [
+      "/images/japon/jp2_jp-kojiki-shinpukuji-bon-kojiki-png-utm-source-es-wikipedia-_wikimedia.png"
+    ]
+  },
+  {
+    "id": "jp-fujiwara",
+    "region": "japon",
+    "tipo": "evento",
+    "titulo": "Los Fujiwara y el poder tras el trono",
+    "fecha_inicio": 866,
+    "fecha_fin": null,
+    "descripcion_corta": "El clan **Fujiwara** perfeccionó una fórmula que definiría la política japonesa durante mil años: **no ocupar el trono, sino controlar a quien lo ocupa**.\n\nCasaban a sus hijas con los emperadores, gobernaban como *sesshō* (regentes) del nieto niño y lo obligaban a abdicar joven para repetir la jugada. **Fujiwara no Michinaga**, en su apogeo hacia el año 1000, fue abuelo de tres emperadores y escribió un poema comparándose con la luna llena, sin nada que le faltara.\n\nEsa costumbre de un poder formal vacío y un poder real en la sombra se repetiría con los shogunes, con los regentes Hōjō y con los emperadores retirados. En Japón, el que manda casi nunca es el que aparece en el organigrama.",
+    "imagenes": [
+      "/images/japon/jp2_jp-fujiwara-fujiwara-michinaga-jpg-utm-source-es-wikipedia-org_wikimedia.jpg"
+    ]
+  },
+  {
+    "id": "jp-fin-embajadas",
+    "region": "japon",
+    "tipo": "evento",
+    "titulo": "El fin de las embajadas a China",
+    "fecha_inicio": 894,
+    "fecha_fin": null,
+    "descripcion_corta": "Durante dos siglos y medio, Japón envió embajadas oficiales a la corte Tang: monjes, estudiantes y funcionarios que volvían con libros, budismo, urbanismo y burocracia. Los viajes eran peligrosísimos: se perdían barcos enteros.\n\n**En 894**, el erudito **Sugawara no Michizane** recomendó suspenderlas, argumentando que China estaba en decadencia y ya no había nada que aprender que valiera el riesgo.\n\nEmpezó entonces el gran período de **japonización**: se desarrolló la escritura silábica *kana* —que permitió escribir en japonés y no en chino—, y con ella la literatura de la corte de Heian, en buena parte escrita por mujeres. Michizane murió desterrado y, temiendo su espíritu vengativo, lo divinizaron como dios de los estudios.",
+    "imagenes": [
+      "/images/japon/jp2_jp-fin-embajadas-png-utm-source-es-wikipedia-org-utm-campaign-api-u_wikimedia.png"
+    ]
+  },
+  {
+    "id": "jp-masakado",
+    "region": "japon",
+    "tipo": "evento",
+    "titulo": "Los primeros samuráis",
+    "fecha_inicio": 935,
+    "fecha_fin": null,
+    "descripcion_corta": "**En 935**, **Taira no Masakado** se levantó en el este contra la corte, derrotó a los gobernadores y llegó a proclamarse «nuevo emperador». Lo mataron en 940 y su cabeza fue expuesta en Kioto; la leyenda dice que voló de vuelta al este, donde su tumba, en pleno distrito financiero de Tokio, se sigue respetando.\n\nSu rebelión reveló algo decisivo: la corte de Heian **ya no tenía ejército propio** y dependía de los guerreros provinciales para todo.\n\nEsos guerreros —los **bushi** o samuráis, de un verbo que significa «servir»— eran terratenientes rurales a caballo, expertos con el arco, que protegían sus fincas y las de los nobles ausentes. De ahí saldrían los clanes Taira y Minamoto, y con ellos el gobierno militar que duraría setecientos años.",
+    "imagenes": [
+      "/images/japon/jp2_jp-masakado-taira-no-masakado-01-jpg-utm-source-es-wikipedia-o_wikimedia.jpg"
+    ]
+  },
+  {
+    "id": "jp-sei-shonagon",
+    "region": "japon",
+    "tipo": "evento",
+    "titulo": "Sei Shōnagon y la corte de Heian",
+    "fecha_inicio": 1002,
+    "fecha_fin": null,
+    "descripcion_corta": "**El libro de la almohada**, escrito hacia el año 1000 por **Sei Shōnagon**, dama de la corte, es una colección de listas, escenas y opiniones: «cosas que hacen latir el corazón», «cosas elegantes», «cosas irritantes».\n\nJunto con el *Genji monogatari* de Murasaki Shikibu, define la cultura de Heian: una corte pequeña y obsesionada con el buen gusto, donde el rango de una persona se medía por su caligrafía, por el poema que improvisaba y por la combinación de colores de las doce capas de su kimono.\n\nQue las dos obras maestras de esa época las escribieran mujeres no es casual: los hombres escribían en chino, la lengua culta y oficial, y ellas en japonés con el nuevo silabario. Escribir en su propia lengua las hizo legibles mil años después.",
+    "imagenes": [
+      "/images/japon/jp2_jp-sei-shonagon-sei-shonagon2-jpg-utm-source-es-wikipedia-org-utm-_wikimedia.jpg"
+    ]
+  },
+  {
+    "id": "jp-hogen",
+    "region": "japon",
+    "tipo": "evento",
+    "titulo": "El ascenso de los guerreros",
+    "fecha_inicio": 1156,
+    "fecha_fin": null,
+    "descripcion_corta": "**En 1156**, una disputa sucesoria en la corte se resolvió por primera vez **con las armas dentro de Kioto**: la rebelión Hōgen enfrentó a padres contra hijos y a hermanos entre sí, y los nobles tuvieron que llamar a los clanes guerreros para que decidieran.\n\nGanó **Taira no Kiyomori**, que en veinte años se convirtió en el hombre más poderoso del país, casó a su hija con el emperador y puso en el trono a su nieto de dos años.\n\nLos aristócratas de Heian habían despreciado a los guerreros como brutos de provincias. A partir de aquí, quien tenía las armas tenía el poder, y la corte quedó reducida a una fuente de legitimidad y de prestigio ceremonial.",
+    "imagenes": [
+      "/images/japon/jp2_jp-hogen-h-gen-rebellion-jpg-utm-source-es-wikipedia-org-ut_wikimedia.jpg"
+    ]
+  },
+  {
+    "id": "jp-zen",
+    "region": "japon",
+    "tipo": "evento",
+    "titulo": "El zen llega a Japón",
+    "fecha_inicio": 1191,
+    "fecha_fin": null,
+    "descripcion_corta": "**En 1191**, el monje **Eisai** volvió de China y fundó la escuela **Rinzai**; poco después **Dōgen** trajo la escuela **Sōtō**. Era el *chan* chino, que en japonés se pronunció **zen**.\n\nSu propuesta era radicalmente simple: nada de estudiar sutras interminables ni de rituales caros, sino **sentarse a meditar** y despertar aquí y ahora, con la ayuda de un maestro y, en el Rinzai, de los *koan*, esas preguntas imposibles que rompen el razonamiento.\n\nEncajó perfectamente con los samuráis, que necesitaban disciplina y desapego ante la muerte. Y de él salieron la **ceremonia del té**, los jardines secos de piedra, la caligrafía, el arreglo floral y buena parte de la estética japonesa. Eisai trajo además las semillas de té con las que empezó su cultivo en el país.",
+    "imagenes": [
+      "/images/japon/jp3_jp-zen-madera-ango2018-jpg-utm-source-es-wikipedia-org-ut_wikimedia.jpg"
+    ]
+  },
+  {
+    "id": "jp-joei",
+    "region": "japon",
+    "tipo": "evento",
+    "titulo": "El código de los samuráis",
+    "fecha_inicio": 1232,
+    "fecha_fin": null,
+    "descripcion_corta": "**En 1232**, el regente Hōjō Yasutoki promulgó el ***Goseibai Shikimoku***, o código Jōei: 51 artículos escritos en japonés sencillo para que los guerreros pudieran leerlo, sin la retórica china de las leyes de la corte.\n\nRegulaba lo que de verdad importaba a un samurái: la herencia de las tierras, los pleitos entre vasallos, los derechos de las **mujeres a heredar y administrar feudos** —algo que después se perdería— y las obligaciones mutuas entre señor y vasallo.\n\nFue el primer código legal escrito por y para la clase guerrera, y estuvo vigente **más de seiscientos años**. Es también la prueba de que el shogunato no era solo fuerza bruta: gobernaba con tribunales y precedentes.",
+    "imagenes": [
+      "/images/japon/jp3_jp-joei-230128-kamakura-daibutsu-japan04s3-jpg-utm-source-_wikimedia.jpg"
+    ]
+  },
+  {
+    "id": "jp-kinkakuji",
+    "region": "japon",
+    "tipo": "evento",
+    "titulo": "El Pabellón Dorado",
+    "fecha_inicio": 1397,
+    "fecha_fin": null,
+    "descripcion_corta": "**En 1397**, el shogun **Ashikaga Yoshimitsu** convirtió una villa de las afueras de Kioto en su retiro y la recubrió de **pan de oro**: el **Kinkaku-ji**.\n\nSu época, la **cultura Kitayama**, mezcló el refinamiento de la corte, la austeridad zen y el gusto por lo chino. Yoshimitsu financió al actor **Zeami**, que convirtió el teatro **nō** en un arte con teoría propia, y reanudó el comercio con la China Ming aceptando llamarse «rey de Japón», lo que escandalizó a la corte.\n\nEl pabellón que se visita hoy es una **reconstrucción de 1955**: un joven monje lo incendió en 1950, un episodio que Yukio Mishima convirtió en novela.",
+    "imagenes": [
+      "/images/japon/jp2_jp-kinkakuji-kinkaku3402cbcropped-jpg-utm-source-es-wikipedia-o_wikimedia.jpg"
+    ]
+  },
+  {
+    "id": "jp-honnoji",
+    "region": "japon",
+    "tipo": "evento",
+    "titulo": "La traición de Honnō-ji",
+    "fecha_inicio": 1582,
+    "fecha_fin": null,
+    "descripcion_corta": "**El 21 de junio de 1582**, cuando **Oda Nobunaga** tenía ya bajo control un tercio de Japón, su propio general **Akechi Mitsuhide** rodeó con 13 000 hombres el templo de Honnō-ji, en Kioto, donde Nobunaga dormía con apenas unas decenas de guardias.\n\nNobunaga se suicidó mientras el templo ardía. Su cuerpo nunca apareció, y los motivos de la traición siguen siendo el mayor misterio de la historia japonesa.\n\n**Hideyoshi**, que asediaba un castillo a 200 kilómetros, pactó la paz en horas, marchó de vuelta en **diez días** y aplastó a Mitsuhide en Yamazaki. Mitsuhide gobernó trece días —de ahí la expresión japonesa «el shogun de los trece días»— y Hideyoshi heredó el proyecto de unificar el país.",
+    "imagenes": [
+      "/images/japon/jp2_jp-honnoji-honnoj-jpg-utm-source-es-wikipedia-org-utm-campaig_wikimedia.jpg"
+    ]
+  },
+  {
+    "id": "jp-caza-espadas",
+    "region": "japon",
+    "tipo": "evento",
+    "titulo": "La caza de espadas",
+    "fecha_inicio": 1588,
+    "fecha_fin": null,
+    "descripcion_corta": "**En 1588**, **Toyotomi Hideyoshi** ordenó confiscar todas las armas de campesinos, monjes y ciudadanos. El pretexto fue piadoso: fundirlas para hacer los remaches de un **gran Buda**.\n\nEl objetivo real era otro. Hideyoshi, hijo de campesinos que había llegado a gobernar Japón, cerró la escalera por la que él mismo había subido: separó por ley a **guerreros y campesinos**, prohibió cambiar de oficio y congeló la sociedad en clases hereditarias.\n\nCon la caza de espadas y el censo de tierras, Japón entró en dos siglos y medio de paz interna sin población armada. Es una de las razones por las que el país pudo cerrarse al mundo y mantenerse estable tanto tiempo.",
+    "imagenes": [
+      "/images/japon/jp3_jp-caza-espadas-wla-haa-sword-by-kenji-nobuhide-kurihara-mod-jpg-u_wikimedia.jpg"
+    ]
+  },
+  {
+    "id": "jp-corea-invasion",
+    "region": "japon",
+    "tipo": "evento",
+    "titulo": "Las invasiones de Corea",
+    "fecha_inicio": 1592,
+    "fecha_fin": 1598,
+    "descripcion_corta": "**En 1592**, Hideyoshi lanzó **160 000 hombres** sobre Corea con la intención declarada de conquistar después China y trasladar allí al emperador japonés. Fue la mayor operación militar del mundo en aquel siglo.\n\nEn tierra avanzaron rápido gracias a los arcabuces; en el mar, el almirante coreano **Yi Sun-sin** destrozó sus flotas de suministro con los barcos tortuga acorazados. La guerra se estancó, murieron cientos de miles de coreanos y terminó al morir Hideyoshi, en 1598.\n\nJapón se llevó una consecuencia inesperada: **alfareros coreanos secuestrados** fundaron las grandes tradiciones cerámicas de Kyushu, como Arita y Satsuma, que un siglo después venderían porcelana a toda Europa.",
+    "imagenes": [
+      "/images/japon/jp3_jp-corea-invasion-korean-turtle-ship-jpg-utm-source-commons-wikimedi_wikimedia.jpg"
+    ]
+  },
+  {
+    "id": "jp-osaka-1615",
+    "region": "japon",
+    "tipo": "evento",
+    "titulo": "El sitio de Osaka y las leyes del shogun",
+    "fecha_inicio": 1615,
+    "fecha_fin": null,
+    "descripcion_corta": "**En 1615**, Tokugawa Ieyasu acabó con el último foco de resistencia: el castillo de **Osaka**, donde se refugiaba el heredero de Hideyoshi con decenas de miles de rōnin. El castillo cayó y el linaje Toyotomi se extinguió.\n\nEse mismo año se promulgaron las **buke shohatto**, las leyes que gobernarían a los guerreros durante 250 años: un solo castillo por dominio, prohibición de reparar fortalezas sin permiso, control de los matrimonios entre casas y obligación de dedicarse por igual a las armas y a las letras.\n\nSe añadió el ***sankin-kōtai***: cada daimyō debía pasar años alternos en Edo y dejar allí a su familia como rehén. Los viajes arruinaban a los señores y llenaban de vida los caminos, las posadas y la capital.",
+    "imagenes": [
+      "/images/japon/jp2_jp-osaka-1615-caron1663-jpg-utm-source-es-wikipedia-org-utm-camp_wikimedia.jpg"
+    ]
+  },
+  {
+    "id": "jp-shimabara",
+    "region": "japon",
+    "tipo": "evento",
+    "titulo": "La rebelión de Shimabara",
+    "fecha_inicio": 1637,
+    "fecha_fin": null,
+    "descripcion_corta": "**En 1637**, campesinos arruinados por los impuestos y cristianos perseguidos se levantaron en la península de **Shimabara** al mando de un joven de dieciséis años, **Amakusa Shirō**, al que consideraban enviado del cielo.\n\nUnos **37 000 rebeldes** se hicieron fuertes en el castillo de Hara y resistieron tres meses. El shogunato movilizó 125 000 hombres y pidió a un barco holandés que bombardeara la posición desde el mar. Casi todos los sublevados fueron ejecutados.\n\nLa rebelión selló la política de aislamiento: se expulsó a los portugueses, se prohibió el cristianismo bajo pena de muerte y se obligó a la población a pisar imágenes sagradas, el *fumi-e*, para probar que no era cristiana. Los **kakure kirishitan**, cristianos ocultos, mantuvieron su fe en secreto **durante 250 años**.",
+    "imagenes": [
+      "/images/japon/jp2_jp-shimabara-shimabara-battle-map-c17th-century-png-utm-source-_wikimedia.png"
+    ]
+  },
+  {
+    "id": "jp-meireki",
+    "region": "japon",
+    "tipo": "evento",
+    "titulo": "El gran incendio de Meireki",
+    "fecha_inicio": 1657,
+    "fecha_fin": null,
+    "descripcion_corta": "**En marzo de 1657**, un incendio arrasó **entre el 60 y el 70 % de Edo** durante tres días y mató a unas **100 000 personas**. La ciudad era de madera y papel, con calles estrechas y viento seco de invierno.\n\nEl shogunato reconstruyó con criterios nuevos: calles más anchas, cortafuegos, canales, tejados de teja y traslado de templos y barrios enteros a las afueras. Se organizaron cuerpos de bomberos de barrio, los *hikeshi*, cuyos miembros eran auténticas celebridades populares.\n\nLos incendios eran tan frecuentes que se los llamaba **«las flores de Edo»**. Esa fragilidad explica una parte de la cultura japonesa: se construye para reconstruir, y la belleza está en lo que dura poco.",
+    "imagenes": [
+      "/images/japon/jp2_jp-meireki-montanus-meireki-fire-edo-jpg-utm-source-es-wikipe_wikimedia.jpg"
+    ]
+  },
+  {
+    "id": "jp-genroku",
+    "region": "japon",
+    "tipo": "evento",
+    "titulo": "La era Genroku y la cultura urbana",
+    "fecha_inicio": 1688,
+    "fecha_fin": null,
+    "descripcion_corta": "Con un siglo de paz, los comerciantes de Edo, Osaka y Kioto —la clase más baja en teoría— se hicieron ricos y crearon una cultura propia, el ***ukiyo***, el «mundo flotante» del placer y lo efímero.\n\nEs la era **Genroku**: el teatro **kabuki** y el de marionetas *bunraku* con las obras de **Chikamatsu**; las novelas de **Ihara Saikaku** sobre mercaderes y cortesanas; los **haikus** de **Bashō**, que en 1689 recorrió a pie el norte del país y escribió *Sendas de Oku*; y los primeros grabados **ukiyo-e**.\n\nEl shogunato promulgaba leyes suntuarias para frenar el lujo de los plebeyos, y ellos las esquivaban con kimonos de forro caro y exterior sobrio. La cultura japonesa que más se ha exportado nació en esos barrios.",
+    "imagenes": [
+      "/images/japon/jp2_jp-genroku-basho-by-hokusai-jpg-utm-source-es-wikipedia-org-u_wikimedia.jpg"
+    ]
+  },
+  {
+    "id": "jp-47-ronin",
+    "region": "japon",
+    "tipo": "evento",
+    "titulo": "Los 47 rōnin",
+    "fecha_inicio": 1702,
+    "fecha_fin": null,
+    "descripcion_corta": "**En 1701**, el señor de Akō desenvainó su espada dentro del castillo de Edo tras ser humillado por un maestro de ceremonias y fue obligado a suicidarse; su dominio quedó disuelto y sus samuráis, sin señor: **rōnin**.\n\nCuarenta y siete de ellos esperaron **casi dos años**, fingiendo vidas disolutas para no levantar sospechas, y **el 14 de diciembre de 1702** asaltaron la mansión del ofensor y le cortaron la cabeza. Después se entregaron.\n\nEl shogunato quedó atrapado en su propio código: habían cumplido con la lealtad al señor y roto la ley. La solución fue permitirles el **seppuku** en lugar de ejecutarlos como criminales. Están enterrados juntos en el templo Sengaku-ji, y su historia es la más contada del teatro, la literatura y el cine japoneses.",
+    "imagenes": [
+      "/images/japon/jp2_jp-47-ronin-akashi-gidayu-writing-his-death-poem-before-commit_wikimedia.jpg"
+    ]
+  },
+  {
+    "id": "jp-fuji-1707",
+    "region": "japon",
+    "tipo": "evento",
+    "titulo": "La erupción del Fuji",
+    "fecha_inicio": 1707,
+    "fecha_fin": null,
+    "descripcion_corta": "**El 16 de diciembre de 1707**, cuarenta y nueve días después de un terremoto enorme, el **monte Fuji** entró en erupción. Durante dos semanas cubrió de ceniza toda la región de Kanto: en Edo, a 100 kilómetros, cayeron varios centímetros y hubo que encender las lámparas a mediodía.\n\nLos campos quedaron arruinados durante años y siguió una hambruna. Es la **última erupción del Fuji**: lleva más de tres siglos en silencio, vigilado por ser el volcán más monitorizado del país.\n\nJapón se asienta sobre el choque de cuatro placas tectónicas: sufre **el 20 % de los terremotos fuertes del planeta**. Esa convivencia con la catástrofe explica la arquitectura ligera, el fatalismo elegante de su literatura y la obsesión moderna por la prevención.",
+    "imagenes": [
+      "/images/japon/jp2_jp-fuji-1707-chuurei-tou-fujiyoshida-17025277650-c59733d6ba-o-j_wikimedia.jpg"
+    ]
+  },
+  {
+    "id": "jp-yakuza",
+    "region": "japon",
+    "tipo": "evento",
+    "titulo": "El origen de la yakuza",
+    "fecha_inicio": 1730,
+    "fecha_fin": null,
+    "descripcion_corta": "En el Japón de Edo, con la sociedad congelada por ley y miles de rōnin sin amo, aparecieron dos grupos al margen: los **tekiya**, buhoneros que controlaban los puestos de las ferias, y los **bakuto**, jugadores profesionales que organizaban partidas ilegales en los caminos.\n\nDe los bakuto viene el nombre: **ya-ku-za** es 8-9-3, la peor mano del *oicho-kabu*, una jugada que **no vale nada**. Se lo pusieron ellos mismos, como quien presume de ser un descarte de la sociedad.\n\nDe ahí salieron sus costumbres: la familia ficticia con un jefe-padre (*oyabun*) y sus hijos (*kobun*), el **yubitsume** —cortarse la falange del meñique para pedir perdón, que debilita el agarre de la espada— y sobre todo el **tatuaje**, la marca visible de quien ya no pertenece al mundo respetable.",
+    "imagenes": [
+      "/images/japon/jp2_jp-yakuza-kabukicho-shinjuku-tokyo-20120204-jpg-utm-source-e_wikimedia.jpg"
+    ]
+  },
+  {
+    "id": "jp-irezumi",
+    "region": "japon",
+    "tipo": "evento",
+    "titulo": "El irezumi y los tatuajes de cuerpo entero",
+    "fecha_inicio": 1827,
+    "fecha_fin": null,
+    "descripcion_corta": "El tatuaje japonés tenía dos raíces opuestas: era **castigo** —a ladrones y criminales se les tatuaban anillos en el brazo o caracteres en la frente, una marca imborrable— y era también adorno de bomberos, carpinteros, palanquineros y prostitutas.\n\nLo que lo convirtió en arte fue un libro. **En 1827**, el grabador **Kuniyoshi** ilustró el *Suikoden*, una novela china de bandidos heroicos, con guerreros cubiertos de dragones, tigres y flores. Se puso de moda al instante llevar en la piel lo que se veía en los grabados.\n\nNació así el **irezumi**: el traje completo, del cuello a las rodillas, dejando una franja sin tatuar en el pecho para poder ocultarlo bajo la ropa. Se hace a mano con agujas de bambú, la técnica **tebori**, en sesiones que suman cientos de horas a lo largo de años.\n\nEl gobierno **Meiji lo prohibió en 1872** por parecer bárbaro ante los occidentales —aunque siguió tatuando a extranjeros ilustres, incluido el futuro Jorge V del Reino Unido—. La prohibición duró hasta 1948 y empujó definitivamente el irezumi a la clandestinidad y a la yakuza. Por eso hoy en Japón muchos baños públicos siguen prohibiendo la entrada a personas tatuadas.",
+    "imagenes": [
+      "/images/japon/jp2_jp-irezumi-mujer-tatuada-estilo-horimono-jpg-utm-source-es-wi_wikimedia.jpg"
+    ]
+  },
+  {
+    "id": "jp-rangaku",
+    "region": "japon",
+    "tipo": "evento",
+    "titulo": "El rangaku: los estudios holandeses",
+    "fecha_inicio": 1774,
+    "fecha_fin": null,
+    "descripcion_corta": "Durante el país cerrado, la única ventana a Occidente fue **Dejima**, la isla artificial de Nagasaki donde comerciaban los holandeses. Por ahí entraron libros, y con ellos una disciplina: el ***rangaku***, «estudios holandeses».\n\n**En 1774**, tras asistir a la disección de una ajusticiada y comprobar que los dibujos europeos acertaban donde fallaban los chinos, un grupo de médicos publicó el ***Kaitai Shinsho***, primera traducción de un tratado de anatomía occidental. Tardaron tres años y medio, empezando casi sin diccionario.\n\nLos *rangakusha* estudiaron después física, química, astronomía, cartografía y artillería. Cuando llegó Perry, Japón **ya sabía en qué consistía la ventaja occidental**: por eso pudo reaccionar en una generación mientras China tardó un siglo.",
+    "imagenes": [
+      "/images/japon/jp2_jp-rangaku-first-japanese-treatise-on-western-anatomy-jpg-utm_wikimedia.jpg"
+    ]
+  },
+  {
+    "id": "jp-tenmei",
+    "region": "japon",
+    "tipo": "evento",
+    "titulo": "La hambruna de Tenmei",
+    "fecha_inicio": 1783,
+    "fecha_fin": null,
+    "descripcion_corta": "**En 1783** entró en erupción el volcán **Asama** y, ese mismo año, el islandés Laki lanzó a la atmósfera una nube que enfrió el hemisferio norte. Los veranos se volvieron fríos y las cosechas de arroz fallaron durante años.\n\nLa **hambruna de Tenmei** mató a cientos de miles de personas, sobre todo en el norte; hay crónicas de aldeas enteras desaparecidas y de canibalismo. Estallaron cientos de motines urbanos, los *uchikowashi*, contra los comerciantes de arroz acusados de acaparar.\n\nEl shogunato quedó tocado. Las hambrunas de Tenmei y después de Tenpō (1833-1837), la rebelión de Ōshio en Osaka y la presión de los barcos extranjeros minaron su autoridad décadas antes de que apareciera Perry.",
+    "imagenes": [
+      "/images/japon/jp2_jp-tenmei-great-tenmei-famine-map-artwork-png-utm-source-es-_wikimedia.png"
+    ]
+  },
+  {
+    "id": "jp-hokusai",
+    "region": "japon",
+    "tipo": "evento",
+    "titulo": "Hokusai y la gran ola",
+    "fecha_inicio": 1831,
+    "fecha_fin": null,
+    "descripcion_corta": "**Hacia 1831**, con setenta años, **Katsushika Hokusai** publicó las *Treinta y seis vistas del monte Fuji*, entre ellas **La gran ola de Kanagawa**, probablemente la imagen japonesa más reproducida del mundo.\n\nLos grabados **ukiyo-e** eran arte barato y popular: se imprimían por miles y costaban lo que un cuenco de fideos. Se usaban incluso como papel de embalar, y así llegaron a Europa envolviendo porcelana.\n\nEl efecto allí fue enorme: **Monet, Degas, Van Gogh** —que copió a Hiroshige— y Toulouse-Lautrec quedaron fascinados por sus composiciones descentradas, sus colores planos y sus perspectivas imposibles. El *japonismo* cambió la pintura occidental justo cuando nacía el impresionismo.",
+    "imagenes": [
+      "/images/japon/jp2_jp-hokusai-hokusai-portrait-jpg-utm-source-es-wikipedia-org-u_wikimedia.jpg"
+    ]
+  },
+  {
+    "id": "jp-abolicion-han",
+    "region": "japon",
+    "tipo": "evento",
+    "titulo": "El fin de los samuráis",
+    "fecha_inicio": 1871,
+    "fecha_fin": null,
+    "descripcion_corta": "La restauración Meiji desmontó en pocos años el mundo que la había hecho posible. **En 1871** se abolieron los dominios feudales y se sustituyeron por prefecturas; los daimyō perdieron sus tierras a cambio de bonos del Estado.\n\n**En 1873** se implantó el **servicio militar obligatorio**: cualquier campesino con un fusil valía lo mismo que un guerrero entrenado desde niño. Después llegaron la supresión de los estipendios de arroz y, **en 1876**, la prohibición de llevar espada en público.\n\nLa clase samurái —unas dos millones de personas— desapareció como tal en una década. Muchos se arruinaron; otros se reconvirtieron en oficiales, policías, funcionarios y empresarios, y llevaron su ética de disciplina y lealtad al Estado y a la empresa modernos.",
+    "imagenes": [
+      "/images/japon/jp3_jp-abolicion-han-saigo-takamori-portrait-by-ishikawa-shizumasa-jpg-_wikimedia.jpg"
+    ]
+  },
+  {
+    "id": "jp-constitucion-meiji",
+    "region": "japon",
+    "tipo": "evento",
+    "titulo": "La Constitución Meiji",
+    "fecha_inicio": 1889,
+    "fecha_fin": null,
+    "descripcion_corta": "**En 1889**, Japón se dio una **constitución** —la primera de Asia— redactada tras estudiar los modelos europeos y quedarse con el prusiano, que dejaba mucho poder al monarca.\n\nCreó una **Dieta** con dos cámaras, garantizó derechos «dentro de los límites de la ley» y estableció que el emperador era **sagrado e inviolable**, jefe del ejército y fuente de toda soberanía. El voto se limitó al principio a los mayores contribuyentes: apenas el 1 % de la población.\n\nSu punto débil resultaría fatal: el ejército y la marina respondían **directamente ante el emperador**, no ante el gobierno, y podían derribar gabinetes negándose a nombrar ministro. Por esa grieta se colaría el militarismo de los años treinta.",
+    "imagenes": [
+      "/images/japon/jp2_jp-constitucion-meiji-kenpohapu-chikanobu-jpg-utm-source-es-wikipedia-or_wikimedia.jpg"
+    ]
+  },
+  {
+    "id": "jp-guerra-rusia",
+    "region": "japon",
+    "tipo": "evento",
+    "titulo": "La guerra ruso-japonesa",
+    "fecha_inicio": 1904,
+    "fecha_fin": 1905,
+    "descripcion_corta": "**Entre 1904 y 1905**, Japón se enfrentó al Imperio ruso por el control de Manchuria y Corea. Atacó Port Arthur sin declaración previa, ganó el largo asedio y, **en Tsushima**, la flota del almirante **Tōgō** aniquiló a la escuadra rusa que había navegado **18 000 millas** desde el Báltico: hundió 21 barcos y perdió tres torpederos.\n\nEra la primera vez en la era moderna que un país asiático derrotaba a una potencia europea, y el eco fue mundial: se celebró en la India, en Turquía, en Egipto y en Vietnam como prueba de que el dominio occidental no era invencible.\n\nEn Rusia, la derrota provocó la revolución de 1905. En Japón, la paz mediada por Roosevelt pareció insuficiente y hubo motines: la opinión pública ya pedía más imperio.",
+    "imagenes": [
+      "/images/japon/jp2_jp-guerra-rusia-russojapanesewarimage-jpg-utm-source-es-wikipedia-_wikimedia.jpg"
+    ]
+  },
+  {
+    "id": "jp-corea-1910",
+    "region": "japon",
+    "tipo": "evento",
+    "titulo": "La anexión de Corea",
+    "fecha_inicio": 1910,
+    "fecha_fin": 1945,
+    "descripcion_corta": "**En 1910**, tras cinco años de protectorado, Japón **anexionó Corea**. Empezaba una ocupación de treinta y cinco años.\n\nSe construyeron ferrocarriles, fábricas y escuelas, y a la vez se prohibió enseñar la historia coreana, se impuso el japonés, se obligó a adoptar apellidos japoneses y se reprimió con dureza el movimiento independentista del **1 de marzo de 1919**, con miles de muertos.\n\nEs la herida abierta de las relaciones entre los dos países: el trabajo forzado en minas y fábricas y las **«mujeres de consuelo»** obligadas a la prostitución en los burdeles del ejército siguen siendo motivo de disputa diplomática un siglo después.",
+    "imagenes": [
+      "/images/japon/jp2_jp-corea-1910-general-power-of-attorney-to-lee-wan-yong-signed-a_wikimedia.jpg"
+    ]
+  },
+  {
+    "id": "jp-taisho",
+    "region": "japon",
+    "tipo": "evento",
+    "titulo": "La democracia Taishō",
+    "fecha_inicio": 1918,
+    "fecha_fin": null,
+    "descripcion_corta": "Los años del emperador Taishō (1912-1926) fueron los más liberales del Japón anterior a la guerra: partidos políticos con peso real, gobiernos de gabinete, prensa vivaz, café, cine, jazz, y las *moga* —**modern girls**— con el pelo corto a la occidental.\n\n**En 1918** estallaron los **motines del arroz**, con más de un millón de personas protestando por los precios en todo el país; ese mismo año llegó el primer primer ministro que no procedía de la vieja oligarquía. **En 1925** se aprobó el sufragio universal masculino... acompañado, el mismo día, de la **Ley de Preservación de la Paz**, que ilegalizaba las ideas «peligrosas».\n\nEl **terremoto de Kantō de 1923** —140 000 muertos— y la crisis de 1929 acabaron con ese equilibrio y abrieron paso a los militares.",
+    "imagenes": [
+      "/images/japon/jp2_jp-taisho-emperor-taisho-of-japan-jpg-utm-source-es-wikipedi_wikimedia.jpg"
+    ]
+  },
+  {
+    "id": "jp-manchuria",
+    "region": "japon",
+    "tipo": "evento",
+    "titulo": "Manchuria y el camino a la guerra",
+    "fecha_inicio": 1931,
+    "fecha_fin": null,
+    "descripcion_corta": "**En septiembre de 1931**, oficiales del ejército japonés de Kwantung volaron un tramo de ferrocarril en Mukden, culparon a los chinos y ocuparon toda **Manchuria** por su cuenta, sin autorización del gobierno de Tokio, que acabó aceptando los hechos consumados.\n\nSe creó el Estado títere de **Manchukuo** con el último emperador chino, Puyi, como figura decorativa. Cuando la Sociedad de Naciones lo condenó, Japón **se retiró del organismo**.\n\nEn los años siguientes, el ejército impuso su voluntad a base de asesinatos políticos: varios primeros ministros murieron a tiros y en 1936 hubo un intento de golpe. En **1937** empezó la guerra abierta con China, con episodios atroces como la **matanza de Nankín**.",
+    "imagenes": [
+      "/images/japon/jp2_jp-manchuria-193109-mukden-incident-railway-sabotage-jpg-utm-so_wikimedia.jpg"
+    ]
+  },
+  {
+    "id": "jp-1945",
+    "region": "japon",
+    "tipo": "evento",
+    "titulo": "Hiroshima y el fin del imperio",
+    "fecha_inicio": 1945,
+    "fecha_fin": null,
+    "descripcion_corta": "**El 7 de diciembre de 1941**, Japón atacó **Pearl Harbor** y en seis meses dominaba desde Birmania hasta las Salomón. A partir de Midway, Estados Unidos fue recuperando isla por isla, con combates atroces en Iwo Jima y Okinawa y bombardeos incendiarios que arrasaron las ciudades japonesas —el de Tokio del 9 de marzo de 1945 mató a unas 100 000 personas en una noche.\n\n**El 6 y el 9 de agosto de 1945**, las bombas atómicas destruyeron **Hiroshima y Nagasaki**; entre 150 000 y 250 000 muertos contando los efectos de la radiación. La URSS entró en guerra y **el 15 de agosto** el emperador **Hirohito** anunció por radio la rendición: era la primera vez que su pueblo oía su voz.\n\nJapón perdió su imperio y unos tres millones de personas. La ocupación estadounidense trajo una constitución nueva, la renuncia a la guerra de su **artículo 9** y la reconstrucción que en dos décadas lo convertiría en la segunda economía del mundo.",
+    "imagenes": [
+      "/images/japon/jp2_jp-1945-atomic-bombing-of-japan-jpg-utm-source-es-wikipedi_wikimedia.jpg"
+    ]
+  },
+  {
+    "id": "jp-ctx-samurai",
+    "region": "japon",
+    "tipo": "evento",
+    "titulo": "El samurái: armas, código y muerte",
+    "fecha_inicio": 1300,
+    "fecha_fin": null,
+    "descripcion_corta": "**Las armas**\n\nDurante siglos el samurái fue ante todo un **arquero a caballo** —*kyūba no michi*, «la vía del arco y el caballo»—. La **katana** se hizo central más tarde, con la paz de Edo, cuando llegó a considerarse el alma del guerrero. Se forja plegando el acero decenas de veces y templando el filo y el lomo a distinta velocidad, lo que produce la línea ondulada del *hamon*.\n\n**La armadura**\n\nDe placas laminadas atadas con cordones de seda: ligera, flexible y pensada para tirar con arco a caballo, muy distinta de la coraza europea.\n\n**El código**\n\nEl **bushidō** se escribió tarde, en el Japón pacífico de Edo, cuando ya no había guerras: lealtad al señor por encima de la familia y de la propia vida, honor, austeridad y desprecio del miedo.\n\n**El seppuku**\n\nEl suicidio ritual abriéndose el vientre, con un ayudante que remataba con la espada. Servía para evitar la deshumillación de la captura, para protestar contra un señor o como pena capital honorable.",
+    "imagenes": [
+      "/images/japon/jp2_jp-ctx-samurai-samurai-jpg-utm-source-es-wikipedia-org-utm-campai_wikimedia.jpg"
+    ],
+    "contextual": true
+  },
+  {
+    "id": "jp-ctx-mujeres",
+    "region": "japon",
+    "tipo": "evento",
+    "titulo": "Las mujeres en Japón",
+    "fecha_inicio": 1500,
+    "fecha_fin": null,
+    "descripcion_corta": "**Antes**\n\nEn la Antigüedad, Japón tuvo **emperatrices reinantes** —al menos ocho—, las mujeres heredaban tierras y en Heian escribieron las obras maestras de su literatura. El código Jōei de 1232 les reconocía el derecho a heredar feudos.\n\n**El giro**\n\nCon el ascenso de la clase guerrera y el confucianismo, ese espacio se cerró: la herencia pasó al hijo mayor, la esposa quedó bajo la autoridad del marido y en Edo se difundió el manual *Onna daigaku*, que resumía su deber en obedecer al padre, al marido y al hijo.\n\n**Las onna-musha**\n\nHubo mujeres guerreras: **Tomoe Gozen** en la guerra Genpei y las esposas de samurái entrenadas con la **naginata** para defender la casa. En 1868, la unidad femenina de Aizu combatió con las armas en la mano.\n\n**Y las geishas**\n\nSurgidas en el siglo XVIII como artistas —música, danza, conversación—, no como prostitutas: una confusión que se extendió con la ocupación estadounidense.",
+    "imagenes": [
+      "/images/japon/jp2_jp-ctx-mujeres-tomoe-gozen-jpg-utm-source-es-wikipedia-org-utm-ca_wikimedia.jpg"
+    ],
+    "contextual": true
+  },
+  {
+    "id": "jp-sannai",
+    "region": "japon",
+    "tipo": "evento",
+    "titulo": "Sannai-Maruyama, la gran aldea Jōmon",
+    "fecha_inicio": -3900,
+    "fecha_fin": null,
+    "descripcion_corta": "Descubierto en 1992 al preparar el terreno para un estadio de béisbol, **Sannai-Maruyama**, en el norte de Honshu, fue una aldea habitada durante **1 700 años**, entre el 3900 y el 2200 a. C.\n\nLo asombroso es que sus habitantes eran **cazadores-recolectores**: no cultivaban cereales y, aun así, vivían en un poblado permanente de hasta 500 personas, con casas semienterradas, almacenes elevados, un cementerio ordenado a lo largo de un camino y una torre de seis postes de castaño de un metro de diámetro.\n\nSe sostenían con el mar, la caza y la gestión de bosques de castaños y nogales, prácticamente cultivados. Contradice la idea de que la vida sedentaria exige agricultura, y por eso el Jōmon es un caso único en la prehistoria mundial.",
+    "imagenes": [
+      "/images/japon/jp5_jp-sannai-140913-sannai-maruyama-site-aomori-japan01bs6bs6-j_wikimedia.jpg"
+    ]
+  },
+  {
+    "id": "jp-jomon-arte",
+    "region": "japon",
+    "tipo": "evento",
+    "titulo": "Las vasijas llameantes y los círculos de piedra",
+    "fecha_inicio": -2000,
+    "fecha_fin": null,
+    "descripcion_corta": "La cerámica **Jōmon** es la más antigua del mundo —hay piezas de **hace 16 000 años**— y su nombre significa «marca de cuerda», por la decoración que se hacía imprimiendo cordeles trenzados sobre el barro húmedo.\n\nEn su fase media aparecen las **vasijas llameantes** (*kaen doki*), con bordes que se retuercen como fuego: objetos que no parecen pensados solo para cocinar, sino para el rito y el prestigio.\n\nDe la misma época son los **círculos de piedra** del norte, como Ōyu, con alineaciones astronómicas, y los **dogū**, figuras humanas de barro casi siempre femeninas y deliberadamente rotas, quizá para transferir a ellas una enfermedad. Diez mil años de cultura sin agricultura, sin metal y sin guerra visible en el registro arqueológico.",
+    "imagenes": [
+      "/images/japon/jp4_jp-jomon-arte-middle-jomon-period-rope-pottery-5000-4000bc-jpg-u_wikimedia.jpg"
+    ]
+  },
+  {
+    "id": "jp-arroz",
+    "region": "japon",
+    "tipo": "evento",
+    "titulo": "La llegada del arroz",
+    "fecha_inicio": -700,
+    "fecha_fin": null,
+    "descripcion_corta": "**Hacia el 900-700 a. C.**, del sur de Corea y del continente llegó a Kyushu el **cultivo del arroz en campos inundados**, junto con la metalurgia del bronce y el hierro, el telar y una población nueva que se mezcló con los Jōmon.\n\nEl cambio fue total. El arroz se puede **almacenar**, y donde hay excedente hay propiedad, desigualdad, jefes y guerra: en los yacimientos Yayoi aparecen por primera vez poblados con foso y empalizada, y esqueletos con puntas de flecha clavadas.\n\nDe ahí en adelante, el arroz organizó Japón entero: la medida de la riqueza (*koku*), el calendario de fiestas, la estructura de la aldea y hasta la palabra que designa la comida. Los ainu del norte, en cambio, mantuvieron el modo de vida cazador-recolector hasta la época moderna.",
+    "imagenes": [
+      "/images/japon/jp5_jp-arroz-rice-field-jpg-utm-source-es-wikipedia-org-utm-cam_wikimedia.jpg"
+    ]
   }
 ]

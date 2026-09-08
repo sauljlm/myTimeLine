@@ -480,54 +480,6 @@
     ]
   },
   {
-    "id": "sa-triple-alianza",
-    "region": "suramerica",
-    "tipo": "evento",
-    "titulo": "La Guerra de la Triple Alianza",
-    "fecha_inicio": 1864,
-    "fecha_fin": 1870,
-    "descripcion_corta": "Brasil, Argentina y Uruguay se aliaron contra Paraguay en la guerra más destructiva de la historia de Suramérica. Paraguay, gobernado por Francisco Solano López, era un país aislado pero con industria propia y ejército numeroso; entró en el conflicto por la disputa sobre Uruguay y la navegación de los ríos. Resistió seis años, incluso cuando ya estaba invadido: en las últimas batallas combatían ancianos y niños con barbas pintadas. Las estimaciones más citadas hablan de que perdió más de la mitad de su población y una proporción altísima de sus varones adultos. Solano López murió **en 1870** diciendo que moría con su patria; el país quedó ocupado, desmembrado y endeudado durante generaciones.",
-    "imagenes": [
-      "/images/suramerica/sa3_triplealianza-escenas-de-la-guerra-de-la-triple-alianza-png_wikimedia.png"
-    ]
-  },
-  {
-    "id": "sa-guerra-pacifico",
-    "region": "suramerica",
-    "tipo": "evento",
-    "titulo": "La Guerra del Pacífico",
-    "fecha_inicio": 1879,
-    "fecha_fin": 1884,
-    "descripcion_corta": "El desierto de Atacama, tenido por inútil, resultó contener el mayor depósito de salitre del mundo, el fertilizante y explosivo más valioso de la época. Un impuesto boliviano a una empresa chilena desencadenó la guerra **en 1879**, con Perú arrastrado por un tratado secreto de alianza. Chile, con mejor marina, ganó el control del mar tras el combate de Angamos —donde murió Miguel Grau, cuya caballerosidad respetaron incluso sus enemigos— y ocupó Lima. El tratado final dejó a Bolivia sin salida al mar, una pérdida que sigue siendo asunto de Estado más de un siglo después, y a Perú sin sus provincias salitreras.",
-    "imagenes": [
-      "/images/suramerica/sa3_guerrapacifico-war-of-the-pacific-loc-map-png_wikimedia.png"
-    ]
-  },
-  {
-    "id": "sa-caucho",
-    "region": "suramerica",
-    "tipo": "evento",
-    "titulo": "La fiebre del caucho",
-    "fecha_inicio": 1880,
-    "fecha_fin": 1912,
-    "descripcion_corta": "La vulcanización y después el neumático dispararon la demanda mundial de caucho, y la Amazonía tenía el monopolio del árbol que lo daba. Manaos, en plena selva, se llenó de palacetes, tranvías eléctricos y un teatro de ópera con mármol de Carrara y cristal de Murano al que llegaban compañías europeas. Ese lujo se sostenía sobre un sistema atroz: miles de indígenas y de migrantes del nordeste brasileño trabajaban endeudados de por vida, y en el Putumayo la Casa Arana practicó torturas y matanzas que un cónsul británico documentó en un informe demoledor. La burbuja se hundió cuando semillas sacadas de contrabando hicieron prosperar las plantaciones británicas en Asia.",
-    "imagenes": [
-      "/images/suramerica/sa3_caucho-teatro-amazonas-03-jpg_wikimedia.jpg"
-    ]
-  },
-  {
-    "id": "sa-abolicion-brasil",
-    "region": "suramerica",
-    "tipo": "evento",
-    "titulo": "La abolición de la esclavitud en Brasil",
-    "fecha_inicio": 1888,
-    "fecha_fin": null,
-    "descripcion_corta": "**Brasil** recibió cerca de cinco millones de africanos esclavizados, más que ningún otro país, y fue el último de América en abolir la esclavitud. Lo hizo por etapas: fin de la trata **en 1850**, ley de vientre libre **en 1871**, libertad de los mayores de sesenta años en 1885 y, finalmente, la Ley Áurea del 13 de mayo de 1888, firmada por la princesa Isabel en ausencia de su padre. Fueron dos artículos sin ninguna medida de reparación, reparto de tierras ni integración: 700 000 personas quedaron libres y sin nada. Los grandes propietarios, resentidos, retiraron su apoyo a la monarquía, que cayó en un golpe militar apenas dieciocho meses después.",
-    "imagenes": [
-      "/images/suramerica/sa3_abolicion_br-isabel-2c-princesa-do-brasil-2c-1846-1921-28c_wikimedia.jpg"
-    ]
-  },
-  {
     "id": "sa-ctx-vida-amazonia",
     "region": "suramerica",
     "tipo": "evento",
@@ -536,7 +488,7 @@
     "fecha_fin": null,
     "descripcion_corta": "Durante mucho tiempo se creyó que la selva estaba casi vacía. Hoy sabemos que hubo **millones de personas** y sociedades complejas.\n\n**La maloca**\n\nUna gran casa comunal de madera y palma donde vivían varias familias del mismo clan, con hamacas colgadas por grupos y un espacio central para las ceremonias.\n\n**La yuca amarga**\n\nEl alimento básico es venenoso en crudo: hay que rallarlo, exprimirlo en un **tipití** —una prensa tejida en forma de tubo— para sacarle el ácido cianhídrico y luego tostarlo como casabe. Es una tecnología alimentaria de miles de años.\n\n**La terra preta**\n\nSuelos negros artificiales, creados durante siglos con carbón, restos de cerámica y desechos orgánicos, que convirtieron la tierra pobre de la selva en **tierra fértil que sigue siendo productiva hoy**.\n\n**Una selva cultivada**\n\nLos claros, los caminos y las concentraciones de palmeras, castaños y cacao no son casualidad: buena parte de la Amazonía es un **huerto viejo de miles de años**.",
     "imagenes": [
-      "/images/suramerica/ctx_sa-ctx-vida-amazonia-terra-preta-hc1-jpg-utm-source-en-wikipedia-org-ut_wikimedia.jpg"
+      "/images/suramerica/fix4_sa-ctx-vida-amazonia-maloca-ind-gena-cubay-panoramio-jpg-utm-source-en-_wikimedia.jpg"
     ],
     "contextual": true
   },
@@ -575,7 +527,7 @@
     "fecha_fin": null,
     "descripcion_corta": "El Tahuantinsuyo es el gran caso de un imperio que funcionó **sin dinero, sin mercados y sin comerciantes**.\n\n**Reciprocidad y redistribución**\n\nLa gente no pagaba impuestos en bienes, sino en **trabajo**: la *mita*, turnos obligatorios para construir caminos, cultivar las tierras del Estado o servir en el ejército. A cambio, el Estado alimentaba, vestía y daba fiesta con chicha a quien trabajaba, y socorría a las comunidades en años malos.\n\n**Los tambos y las colcas**\n\nA lo largo del Qhapaq Ñan, **miles de almacenes** guardaban maíz, chuño, lana y armas. Los españoles los encontraron llenos y quedaron asombrados: había reservas para años.\n\n**El quipu**\n\nCuerdas con nudos donde se registraban censos, cosechas y almacenes en un sistema decimal. Los *quipucamayocs* llevaban la contabilidad de todo el imperio **sin escritura alfabética**.\n\n**Sin propiedad privada**\n\nLa tierra se dividía en tres partes: la del Sol para el culto, la del Inca para el Estado y la del ayllu para la comunidad.",
     "imagenes": [
-      "/images/suramerica/ctx_sa-ctx-economia-inca-quipu-mkl-bd-13-1890-128905524-jpg-utm-source-es-w_wikimedia.jpg"
+      "/images/suramerica/fix4_sa-ctx-economia-inca-machu-picchu-panorama-2025-cropped-jpg-utm-source-_wikimedia.jpg"
     ],
     "contextual": true
   },
@@ -614,7 +566,7 @@
     "fecha_fin": null,
     "descripcion_corta": "Suramérica se organizó para **sacar riqueza y enviarla a Europa**, con dos motores: la plata y el azúcar.\n\n**La plata de Potosí**\n\nEl Cerro Rico produjo cerca de **40 000 toneladas de plata**. La expresión «vale un potosí» viene de ahí. Esa plata financió las guerras de los Habsburgo, alimentó la inflación europea y terminó en China a cambio de seda y porcelana.\n\n**El azúcar de Brasil**\n\nLos *engenhos* del nordeste hicieron de Brasil el primer productor mundial. Fue el destino de **casi la mitad de todos los africanos esclavizados** llevados a América: unos 5 millones, diez veces más que a Norteamérica.\n\n**El monopolio y la flota**\n\nSolo Sevilla, y luego Cádiz, podían comerciar con las colonias, y solo mediante convoyes anuales. El resultado fue precio alto, escasez y **contrabando por el Río de la Plata**.\n\n**Lo que quedó**\n\nUna economía de exportación de materias primas, tierra concentrada en pocas manos y ciudades vueltas hacia el puerto, no hacia el interior.",
     "imagenes": [
-      "/images/suramerica/ctx_sa-ctx-economia-colonial-cerro-ricco-jpg-utm-source-es-wikipedia-org-utm-ca_wikimedia.jpg"
+      "/images/suramerica/fix4_sa-ctx-economia-colonial-ingenio-santa-teresa-ag-ica-1857-jpg-utm-source-es_wikimedia.jpg"
     ],
     "contextual": true
   }

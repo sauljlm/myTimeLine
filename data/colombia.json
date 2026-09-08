@@ -1,0 +1,155 @@
+[
+  {
+    "id": "co-20-julio",
+    "region": "colombia",
+    "tipo": "evento",
+    "titulo": "El 20 de julio y el florero de Llorente",
+    "fecha_inicio": 1810,
+    "fecha_fin": null,
+    "descripcion_corta": "**El 20 de julio de 1810**, los criollos de Bogotá provocaron deliberadamente un altercado: fueron a pedir prestado un florero al comerciante español **José González Llorente** sabiendo que se negaría, y usaron el desaire para amotinar a la plaza.\n\nEse mismo día se formó una **Junta Suprema** que gobernaría en nombre de Fernando VII. Es la fecha nacional de Colombia.\n\nLo que siguió fue caótico: la **Patria Boba**, años de guerra entre centralistas y federalistas que dejaron a Nueva Granada indefensa ante la reconquista española de **Pablo Morillo en 1816**, con su Régimen del Terror y cientos de fusilados, entre ellos la heroína **Policarpa Salavarrieta**.",
+    "imagenes": [
+      "/images/colombia/co_co-20-julio-policarpa-salabarrieta-jpg-utm-source-es-wikipedia_wikimedia.jpg"
+    ]
+  },
+  {
+    "id": "co-boyaca",
+    "region": "colombia",
+    "tipo": "evento",
+    "titulo": "Boyacá y la Gran Colombia",
+    "fecha_inicio": 1819,
+    "fecha_fin": null,
+    "descripcion_corta": "**Bolívar** hizo lo que nadie esperaba: cruzar los Llanos inundados y el **páramo de Pisba** a 4 000 metros con un ejército descalzo, perdiendo hombres y caballos por el frío, para aparecer por la espalda del enemigo.\n\n**El 7 de agosto de 1819**, en el **puente de Boyacá**, derrotó al ejército realista en dos horas. Tres días después entraba en Bogotá, abandonada por el virrey.\n\nEn diciembre proclamó la **Gran Colombia**, que reunía la actual Colombia, Venezuela, Ecuador y Panamá. Fue el proyecto más ambicioso de la independencia americana... y duró once años: las distancias, las rivalidades regionales y el choque entre el centralismo de Bolívar y el federalismo de Santander la disolvieron **en 1830**, el año en que Bolívar murió en Santa Marta.",
+    "imagenes": [
+      "/images/colombia/co_co-boyaca-batalla-de-boyaca-de-martin-tovar-y-tovar-jpg-utm-_wikimedia.jpg"
+    ]
+  },
+  {
+    "id": "co-partidos",
+    "region": "colombia",
+    "tipo": "evento",
+    "titulo": "Liberales y conservadores",
+    "fecha_inicio": 1849,
+    "fecha_fin": null,
+    "descripcion_corta": "**En 1848 y 1849** se fundaron formalmente los dos partidos que dominarían Colombia durante siglo y medio: el **Liberal** y el **Conservador**. Son de los partidos políticos más antiguos del mundo aún existentes.\n\nSus diferencias eran reales —federalismo o centralismo, papel de la Iglesia, librecambio o proteccionismo—, pero pronto se volvieron identidades heredadas: se nacía liberal o conservador como se nacía en un pueblo o en una familia.\n\nEsa filiación desató **ocho guerras civiles nacionales** y decenas de regionales en el siglo XIX, y culminaría en la Guerra de los Mil Días y, medio siglo después, en **La Violencia**. Colombia cambió de constitución **once veces** entre 1811 y 1886.",
+    "imagenes": [
+      "/images/colombia/co_co-partidos-partido-liberal-colombiano-registradur-a-png-utm-s_wikimedia.png"
+    ]
+  },
+  {
+    "id": "co-1886",
+    "region": "colombia",
+    "tipo": "evento",
+    "titulo": "La Regeneración y la Constitución de 1886",
+    "fecha_inicio": 1886,
+    "fecha_fin": null,
+    "descripcion_corta": "Tras el experimento federal de la Constitución de Rionegro (1863) —que dio a los estados hasta ejército propio y permitió una guerra civil casi permanente—, **Rafael Núñez** encabezó la **Regeneración** con un lema: «regeneración administrativa o catástrofe».\n\nLa **Constitución de 1886** centralizó el país, alargó el mandato presidencial, restauró el poder de la Iglesia con el Concordato y le entregó la educación, y cambió el nombre del país a **República de Colombia**.\n\nDuró **105 años**, hasta 1991: es una de las constituciones más longevas de América Latina. El himno nacional, con letra del propio Núñez, es también de esa época.",
+    "imagenes": [
+      "/images/colombia/co_co-1886-constituci-n-pol-tica-de-colombia-de-1886-jpg-utm-_wikimedia.jpg"
+    ]
+  },
+  {
+    "id": "co-panama-perdida",
+    "region": "colombia",
+    "tipo": "evento",
+    "titulo": "La pérdida de Panamá",
+    "fecha_inicio": 1903,
+    "fecha_fin": null,
+    "descripcion_corta": "Tras la **Guerra de los Mil Días** (1899-1902), que dejó unos 100 000 muertos y el país arruinado, el Senado colombiano rechazó el tratado Herrán-Hay, que cedía a Estados Unidos el control de la futura zona del canal.\n\nLa respuesta fue inmediata: **el 3 de noviembre de 1903**, Panamá se declaró independiente con buques de guerra estadounidenses impidiendo el desembarco de tropas colombianas. Washington reconoció al nuevo país en cuestión de horas.\n\nColombia perdió su provincia más estratégica. En 1921 aceptó los hechos a cambio de 25 millones de dólares. Theodore Roosevelt lo resumió sin rodeos años después: «tomé la Zona del Canal».",
+    "imagenes": [
+      "/images/colombia/co_co-panama-perdida-acta-de-independencia-de-panam-1903-jpg-utm-source_wikimedia.jpg"
+    ]
+  },
+  {
+    "id": "co-bananeras",
+    "region": "colombia",
+    "tipo": "evento",
+    "titulo": "La masacre de las bananeras",
+    "fecha_inicio": 1928,
+    "fecha_fin": null,
+    "descripcion_corta": "**En noviembre de 1928**, 25 000 trabajadores de la **United Fruit Company** en la zona bananera de Magdalena se declararon en huelga: pedían contrato escrito, descanso dominical, atención médica y que se les pagara en dinero y no en vales del comisariato.\n\nEl gobierno declaró el estado de sitio y, **la noche del 5 al 6 de diciembre**, el ejército disparó contra la multitud reunida en la plaza de **Ciénaga**. Las cifras oficiales hablaron de nueve muertos; los testigos y el joven congresista **Jorge Eliécer Gaitán**, que investigó el caso, de cientos o miles.\n\n**Gabriel García Márquez** la recreó en *Cien años de soledad* con los tres mil muertos cargados en un tren de doscientos vagones, y el pueblo que al día siguiente jura que allí no pasó nada.",
+    "imagenes": [
+      "/images/colombia/co_co-bananeras-banana-massacre-photo-png-utm-source-es-wikipedia-_wikimedia.png"
+    ]
+  },
+  {
+    "id": "co-bogotazo",
+    "region": "colombia",
+    "tipo": "evento",
+    "titulo": "El Bogotazo y La Violencia",
+    "fecha_inicio": 1948,
+    "fecha_fin": 1958,
+    "descripcion_corta": "**El 9 de abril de 1948**, a la una de la tarde, **Jorge Eliécer Gaitán** —caudillo liberal y favorito para la presidencia— fue asesinado a tiros en el centro de Bogotá. La ciudad estalló: incendios, saqueos y **unos 3 000 muertos** en un día. Un estudiante cubano de veintiún años llamado Fidel Castro andaba por allí, en un congreso juvenil.\n\nEl **Bogotazo** encendió **La Violencia**: diez años de guerra entre liberales y conservadores, sobre todo rural, con **unos 200 000 muertos**, desplazamientos masivos y una crueldad extrema en las masacres.\n\nDe esa guerra salieron las autodefensas campesinas comunistas que, años después, se convertirían en las FARC.",
+    "imagenes": [
+      "/images/colombia/co_co-bogotazo-parte-de-nuestra-historia-en-122-a-os-10691675115-_wikimedia.png"
+    ]
+  },
+  {
+    "id": "co-frente-nacional",
+    "region": "colombia",
+    "tipo": "evento",
+    "titulo": "El Frente Nacional",
+    "fecha_inicio": 1958,
+    "fecha_fin": null,
+    "descripcion_corta": "Para acabar con la guerra entre partidos y con la dictadura del general **Rojas Pinilla**, liberales y conservadores pactaron **en 1958** repartirse el poder: se alternarían la presidencia cada cuatro años y dividirían al 50 % todos los cargos públicos, durante **dieciséis años**.\n\nFuncionó para frenar La Violencia partidista, y a la vez cerró el sistema: cualquier fuerza distinta quedaba fuera de la política legal.\n\nEsa exclusión y el fraude denunciado en las elecciones de **1970** empujaron a varios grupos a las armas: el **M-19** nació precisamente de aquel fraude. Colombia entró así en un conflicto que ya no sería entre partidos, sino entre el Estado y las guerrillas.",
+    "imagenes": []
+  },
+  {
+    "id": "co-farc",
+    "region": "colombia",
+    "tipo": "evento",
+    "titulo": "El nacimiento de las guerrillas",
+    "fecha_inicio": 1964,
+    "fecha_fin": null,
+    "descripcion_corta": "**En mayo de 1964**, el ejército atacó con miles de soldados **Marquetalia**, una comunidad campesina de autodefensa comunista de apenas medio centenar de hombres. Los supervivientes, con **Manuel Marulanda** al frente, se internaron en la montaña y **en 1966** fundaron las **FARC**.\n\nEse mismo año había nacido el **ELN**, de inspiración guevarista y con curas de la teología de la liberación —**Camilo Torres** murió combatiendo con ellos en 1966—, y poco después el **EPL** maoísta.\n\nEl conflicto colombiano duraría más de medio siglo: **unos 260 000 muertos**, más de 80 000 desaparecidos y **8 millones de desplazados**, la mayoría civiles y en el campo.",
+    "imagenes": []
+  },
+  {
+    "id": "co-carteles",
+    "region": "colombia",
+    "tipo": "evento",
+    "titulo": "Los carteles de la droga",
+    "fecha_inicio": 1984,
+    "fecha_fin": 1993,
+    "descripcion_corta": "En los años setenta, la marihuana de la Costa dio paso a algo mucho más rentable: la **cocaína**. El **cartel de Medellín** de **Pablo Escobar** y el de Cali de los hermanos Rodríguez Orejuela llegaron a controlar la mayor parte del mercado estadounidense.\n\nCuando el gobierno aceptó la **extradición**, Escobar declaró la guerra: **en 1984** asesinó al ministro de Justicia **Rodrigo Lara Bonilla**; después vinieron el asesinato del director de *El Espectador*, el del candidato presidencial **Luis Carlos Galán en 1989**, la bomba del avión de Avianca con 107 muertos y la del DAS con 63.\n\nEscobar se entregó a una cárcel construida por él mismo, se fugó y fue **abatido en Medellín el 2 de diciembre de 1993**.",
+    "imagenes": [
+      "/images/colombia/co_co-carteles-pablo-escobar-mug-jpg-utm-source-es-wikipedia-org-_wikimedia.jpg"
+    ]
+  },
+  {
+    "id": "co-palacio-justicia",
+    "region": "colombia",
+    "tipo": "evento",
+    "titulo": "El Palacio de Justicia y Armero",
+    "fecha_inicio": 1985,
+    "fecha_fin": null,
+    "descripcion_corta": "**El 6 de noviembre de 1985**, un comando del **M-19** tomó el **Palacio de Justicia** de Bogotá con cientos de rehenes, entre ellos los magistrados de la Corte Suprema. El ejército respondió entrando con tanques; el edificio ardió con el archivo dentro. Murieron **casi cien personas**, once magistrados incluidos, y once desaparecidos salieron vivos del edificio y nunca volvieron a aparecer.\n\n**Una semana después**, el volcán **Nevado del Ruiz** entró en erupción y una avalancha de lodo sepultó el pueblo de **Armero**: **más de 20 000 muertos**. La imagen de Omayra Sánchez, una niña de trece años atrapada durante tres días ante las cámaras, dio la vuelta al mundo.\n\nDos catástrofes en dos semanas: 1985 es el año más negro de la Colombia contemporánea.",
+    "imagenes": [
+      "/images/colombia/co_co-palacio-justicia-polic-a-de-anta-o-5580817176-jpg-utm-source-es-wik_wikimedia.jpg"
+    ]
+  },
+  {
+    "id": "co-constitucion-1991",
+    "region": "colombia",
+    "tipo": "evento",
+    "titulo": "La Constitución de 1991",
+    "fecha_inicio": 1991,
+    "fecha_fin": null,
+    "descripcion_corta": "Tras el asesinato de tres candidatos presidenciales, un movimiento estudiantil impulsó la **«séptima papeleta»**: una papeleta extra en las elecciones de 1990 pidiendo una asamblea constituyente. La gente la votó por millones.\n\nLa **Constitución de 1991**, escrita por una asamblea donde se sentaron desde exguerrilleros del M-19 hasta indígenas y evangélicos, reemplazó a la de 1886. Declaró el Estado social de derecho, reconoció a Colombia como país **pluriétnico y multicultural**, creó la **acción de tutela** para que cualquiera pueda reclamar sus derechos ante un juez, la Corte Constitucional y la Defensoría del Pueblo, y prohibió la extradición —cláusula que se derogaría en 1997.\n\nEs, con diferencia, el avance institucional más importante del país en el siglo XX.",
+    "imagenes": [
+      "/images/colombia/co_co-constitucion-1991-20260513-consejo-ministros-andrea-puentes00011-1-j_wikimedia.jpg"
+    ]
+  },
+  {
+    "id": "co-ctx-cafe",
+    "region": "colombia",
+    "tipo": "evento",
+    "titulo": "El café y la economía colombiana",
+    "fecha_inicio": 1900,
+    "fecha_fin": null,
+    "descripcion_corta": "**El grano que hizo el país**\n\nDesde finales del siglo XIX, el café organizó Colombia. A diferencia de Centroamérica, se cultivó sobre todo en **fincas pequeñas y familiares** de la zona de Antioquia, Caldas, Quindío y Risaralda —el Eje Cafetero—, lo que produjo una clase media rural amplia.\n\n**Juan Valdez y la Federación**\n\nLa **Federación Nacional de Cafeteros**, creada en 1927, fijaba precios internos, financiaba caminos, escuelas y hospitales, e inventó **en 1959** a *Juan Valdez*, una de las campañas de marca país más eficaces de la historia.\n\n**Antes y después**\n\nAntes del café hubo tabaco, quina y oro; después vinieron el petróleo, el carbón, las flores —Colombia es el segundo exportador mundial—, el banano y, en la economía ilegal, la coca.\n\n**Una geografía difícil**\n\nTres cordilleras separan el país en regiones aisladas: eso explica su diversidad cultural, su federalismo eterno y la debilidad histórica del Estado en las periferias.",
+    "imagenes": [
+      "/images/colombia/co_co-ctx-cafe-roasted-coffee-beans-jpg-utm-source-es-wikipedia-o_wikimedia.jpg"
+    ],
+    "contextual": true
+  }
+]
